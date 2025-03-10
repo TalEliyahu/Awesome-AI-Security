@@ -1,2 +1,23 @@
-# Awesome-AI-Security
-Bookmarks
+# Awesome AI Security 🛡️  
+
+A curated repository of resources, research, tools, and discussions on AI security, with a focus on Large Language Models (LLMs), adversarial AI, and emerging threats. This repository consolidates insights from the **AI Security LinkedIn Group**, industry reports, academic research, and practical applications.  
+
+## 📌 Table of Contents  
+
+- [🛠 Tools & Frameworks](#-tools--frameworks)  
+- [📅 Conferences](#-conferences)  
+- [📖 AI Security Resources](#-ai-security-resources)  
+- [🔗 GitHub Repositories](#-github-repositories)  
+
+## 📖 AI Security Resources  
+
+- **[NIST AI Risk Management Framework (AI RMF)](https://www.nist.gov/ai-risk)**  
+- **[MITRE ATLAS](http://atlas.mitre.org)**  
+- **[LLM Security](http://llmsecurity.net)**  
+- **[OWASP AI Security](http://owaspai.org)**  
+- **[Vinija AI Model Security](http://vinija.ai/models/LLM/)**  
+
+## 🔗 GitHub Repositories  
+
+- **[AI Security & Adversarial ML Reading List](https://github.com/AI-secure/awesome-adversarial-machine-learning)**  
+- **[ARC PI Taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy)**  
