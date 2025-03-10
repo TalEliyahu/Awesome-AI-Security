@@ -22,8 +22,6 @@ A curated repository of resources, research, tools, and discussions on AI securi
 - **[MITRE ATLAS](http://atlas.mitre.org)**  
 - **[OWASP AI Exchange](https://owaspai.org/docs/ai_security_overview/)**  
 - **[OWASP Top 10 for LLM and Generative AI Resources Library](https://owasp.org/www-project-top-10-for-large-language-model-applications/)**  
-- **[Secure AI System Development Guide](https://owaspai.org/docs/secure_ai_development/)**  
-- **[ISO/IEC 42001 AI Management System](https://www.iso.org/standard/81231.html)**  
 
 ---
 
