@@ -11,6 +11,7 @@ A curated repository of resources, research, tools, and discussions on AI securi
 - [Taxonomy](#taxonomy)  
 - [Benchmarks](#benchmarks)  
 - [Datasets](#datasets)  
+- [AI Risk & Incident Databases](#ai-risk--incident-databases)  
 - [Additional AI Security Resources](#additional-ai-security-resources)  
 - [GitHub Repositories](#github-repositories)  
 - [Newsletter](#newsletter)  
@@ -53,10 +54,17 @@ A curated repository of resources, research, tools, and discussions on AI securi
 
 ---
 
+## AI Risk & Incident Databases  
+
+- **[MIT AI Risk Database](https://airisk.mit.edu/)** – A structured repository documenting AI-related risks, incidents, and mitigation strategies to improve governance and security awareness.  
+- **[AI Incident Database](https://incidentdatabase.ai/)** – A collection of real-world AI incidents and security failures, helping researchers and practitioners understand past vulnerabilities.  
+
+---
+
 ## Additional AI Security Resources  
 
-- **[LLM Security](http://llmsecurity.net)** – Security research on Large Language Models  
-- **[Vinija AI](http://vinija.ai/models/LLM/)** – LLM models and security resources  
+- **[LLM Security](http://llmsecurity.net)** – Security research on Large Language Models.  
+- **[Vinija AI](http://vinija.ai/models/LLM/)** – LLM models and security resources.  
 
 ---
 
@@ -74,14 +82,16 @@ A curated repository of resources, research, tools, and discussions on AI securi
 
 ## Conferences & Events  
 
-- **[AI Village (DEF CON)](https://aivillage.org/events/)** 
-- **[Black Hat AI Summit](https://www.blackhat.com/asia-25/ai-summit.html)**
-  
+- **[AI Village (DEF CON)](https://aivillage.org/)** – A community-driven AI security event at DEF CON focused on adversarial AI, ML vulnerabilities, and AI-driven threats.  
+- **[Black Hat AI Summit](https://www.blackhat.com/)** – A premier AI security event featuring deep-dive technical talks, research presentations, and expert discussions on securing AI and ML systems.  
+
+📌 *(More to be added – List of key conferences, workshops, and symposiums focused on AI security.)*  
+
 ---
 
 ## Reports & Research  
 
-📌 *(To be added – A collection of AI security reports, white papers, and academic studies.)*  
+📌 *(More to be added – A collection of AI security reports, white papers, and academic studies.)*  
 
 ---
 
