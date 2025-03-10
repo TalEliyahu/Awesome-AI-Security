@@ -32,8 +32,8 @@ A curated repository of resources, research, tools, and discussions on AI securi
 
 ## AI Risk & Incident Databases  
 
-- **[MIT AI Risk Database](https://airisk.mit.edu/)** – A structured repository documenting AI-related risks, incidents, and mitigation strategies to improve governance and security awareness.  
-- **[AI Incident Database](https://incidentdatabase.ai/)** – A collection of real-world AI incidents and security failures, helping researchers and practitioners understand past vulnerabilities.  
+- **[MIT AI Risk Repository](https://airisk.mit.edu/)** – A comprehensive database of over 1,000 AI risks, categorized by cause and domain, providing researchers, policymakers, and developers with a structured understanding of AI threats and mitigation strategies.  
+- **[AI Incident Database (AIID)](https://incidentdatabase.ai/)** – A public repository cataloging real-world AI failures, risks, and harms, helping researchers, policymakers, and organizations analyze patterns and enhance AI governance.  
 
 ---
 
@@ -63,8 +63,8 @@ A curated repository of resources, research, tools, and discussions on AI securi
 
 ## Additional AI Security Resources  
 
-- **[LLM Security](http://llmsecurity.net)** – Security research on Large Language Models.  
-- **[Vinija AI](http://vinija.ai/models/LLM/)** – LLM models and security resources.  
+- **[LLM Security](http://llmsecurity.net)**  
+- **[Vinija AI](http://vinija.ai/models/LLM/)**  
 
 ---
 
@@ -76,14 +76,14 @@ A curated repository of resources, research, tools, and discussions on AI securi
 
 ## Newsletter  
 
-- **[Adversarial AI Digest](https://www.linkedin.com/newsletters/adversarial-ai-digest-7298813894498598912/)** – A curated newsletter covering AI security research, adversarial threats, governance challenges, and best practices for securing AI systems.  
+- **[Adversarial AI Digest](https://www.linkedin.com/newsletters/adversarial-ai-digest-7298813894498598912/)**  
 
 ---
 
 ## Conferences & Events  
 
-- **[AI Village (DEF CON)](https://aivillage.org/)** – A community-driven AI security event at DEF CON focused on adversarial AI, ML vulnerabilities, and AI-driven threats.  
-- **[Black Hat AI Summit](https://www.blackhat.com/)** – A premier AI security event featuring deep-dive technical talks, research presentations, and expert discussions on securing AI and ML systems.  
+- **[AI Village (DEF CON)](https://aivillage.org/)**  
+- **[Black Hat AI Summit](https://www.blackhat.com/)**  
 
 📌 *(More to be added – List of key conferences, workshops, and symposiums focused on AI security.)*  
 
