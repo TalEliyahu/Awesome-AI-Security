@@ -2,20 +2,20 @@
 
 A curated repository of resources, research, tools, and discussions on AI security. This repository consolidates insights from industry reports, academic research, and practical applications.  
 
-## 📌 Table of Contents  
+## Table of Contents  
 
-- [📜 Best Practices & Security Standards](#-best-practices--security-standards)  
-- [📖 Reports & Research](#-reports--research)  
-- [📂 Taxonomy](#-taxonomy)  
-- [📊 Benchmarks](#-benchmarks)  
-- [📁 Datasets](#-datasets)  
-- [🔗 Additional AI Security Resources](#-additional-ai-security-resources)  
-- [📂 GitHub Repositories](#-github-repositories)  
-- [📅 Conferences](#-conferences)  
+- [Best Practices & Security Standards](#best-practices--security-standards)  
+- [Reports & Research](#reports--research)  
+- [Taxonomy](#taxonomy)  
+- [Benchmarks](#benchmarks)  
+- [Datasets](#datasets)  
+- [Additional AI Security Resources](#additional-ai-security-resources)  
+- [GitHub Repositories](#github-repositories)  
+- [Conferences](#conferences)  
 
 ---
 
-## 📜 Best Practices & Security Standards  
+## Best Practices & Security Standards  
 
 - **[NIST AI Risk Management Framework (AI RMF)](https://www.nist.gov/ai-risk)**  
 - **[MITRE ATLAS](http://atlas.mitre.org)**  
@@ -26,43 +26,43 @@ A curated repository of resources, research, tools, and discussions on AI securi
 
 ---
 
-## 📖 Reports & Research  
+## Reports & Research  
 
 *(To be added – Collection of published AI security reports.)*  
 
 ---
 
-## 📂 Taxonomy  
+## Taxonomy  
 
 - **[ARC PI Taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy)** – Taxonomy of prompt injection attacks  
 
 ---
 
-## 📊 Benchmarks  
+## Benchmarks  
 
 *(To be added – List of AI security evaluation benchmarks.)*  
 
 ---
 
-## 📁 Datasets  
+## Datasets  
 
 *(To be added – Public datasets for AI security research.)*  
 
 ---
 
-## 🔗 Additional AI Security Resources  
+## Additional AI Security Resources  
 
 - **[LLM Security](http://llmsecurity.net)**  
 - **[Vinija AI](http://vinija.ai/models/LLM/)**  
 
 ---
 
-## 📂 GitHub Repositories  
+## GitHub Repositories  
 
 - **[AI Security & Adversarial ML Reading List](https://github.com/AI-secure/awesome-adversarial-machine-learning)**  
 
 ---
 
-## 📅 Conferences  
+## Conferences  
 
 *(To be added.)*  
