@@ -22,7 +22,7 @@ A curated repository of resources, research, tools, and discussions on AI securi
 
 - **[NIST AI Risk Management Framework (AI RMF)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)**  
 - **[NIST AI Risk Management Framework Playbook](https://airc.nist.gov/airmf-resources/playbook/)**  
-- **[MITRE ATLAS](http://atlas.mitre.org)** – Adversarial Threat Landscape for AI Systems  
+- **[MITRE ATLAS](http://atlas.mitre.org)**
 - **[OWASP AI Exchange](https://owaspai.org/docs/ai_security_overview/)** 
 - **[OWASP Top 10 for LLM and Generative AI](https://owasp.org/www-project-top-10-for-large-language-model-applications/)**  
 
