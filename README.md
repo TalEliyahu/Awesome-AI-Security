@@ -1,6 +1,6 @@
 # Awesome AI Security 🛡️  
 
-A curated repository of resources, research, tools, and discussions on AI security, with a focus on Large Language Models (LLMs), adversarial AI, and emerging threats. This repository consolidates insights from the **[AI Security LinkedIn Group](https://www.linkedin.com/groups/14545517/)**, industry reports, academic research, and practical applications.  
+A curated repository of resources, research, tools, and discussions on AI security. This repository consolidates insights from the **[AI Security LinkedIn Group](https://www.linkedin.com/groups/14545517/)**, industry reports, academic research, and practical applications.  
 
 ## 📌 Table of Contents  
 
