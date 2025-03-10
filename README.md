@@ -74,7 +74,10 @@ A curated repository of resources, research, tools, and discussions on AI securi
 
 ## Conferences & Events  
 
-📌 *(To be added – List of key conferences, workshops, and symposiums focused on AI security.)*  
+- **[AI Village (DEF CON)](https://aivillage.org/)** – A community-driven AI security event at DEF CON focused on adversarial AI, ML vulnerabilities, and AI-driven threats.  
+- **[Black Hat AI Summit](https://www.blackhat.com/)** – A premier AI security event featuring deep-dive technical talks, research presentations, and expert discussions on securing AI and ML systems.  
+
+📌 *(More to be added – List of key conferences, workshops, and symposiums focused on AI security.)*  
 
 ---
 
