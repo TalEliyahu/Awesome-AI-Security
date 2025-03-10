@@ -20,4 +20,4 @@ A curated repository of resources, research, tools, and discussions on AI securi
 ## 🔗 GitHub Repositories  
 
 - **[AI Security & Adversarial ML Reading List](https://github.com/AI-secure/awesome-adversarial-machine-learning)**  
-- **[ARC PI Taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy)**  
+- **[ARC PI Taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy)** - Taxonomy of prompt injection attacks
