@@ -7,7 +7,6 @@ A curated repository of resources, research, tools, and discussions on AI securi
 ## Table of Contents  
 
 - [Best Practices & Security Standards](#best-practices--security-standards)  
-- [Reports & Research](#reports--research)  
 - [Glossary](#glossary)  
 - [Taxonomy](#taxonomy)  
 - [Benchmarks](#benchmarks)  
@@ -15,6 +14,7 @@ A curated repository of resources, research, tools, and discussions on AI securi
 - [Additional AI Security Resources](#additional-ai-security-resources)  
 - [GitHub Repositories](#github-repositories)  
 - [Conferences & Events](#conferences--events)  
+- [Reports & Research](#reports--research)  
 
 ---
 
@@ -25,12 +25,6 @@ A curated repository of resources, research, tools, and discussions on AI securi
 - **[MITRE ATLAS](http://atlas.mitre.org)** – Adversarial Threat Landscape for AI Systems  
 - **[OWASP AI Exchange](https://owaspai.org/docs/ai_security_overview/)** – AI Security Overview  
 - **[OWASP Top 10 for LLM and Generative AI](https://owasp.org/www-project-top-10-for-large-language-model-applications/)**  
-
----
-
-## Reports & Research  
-
-📌 *(To be added – A collection of AI security reports, white papers, and academic studies.)*  
 
 ---
 
@@ -74,6 +68,12 @@ A curated repository of resources, research, tools, and discussions on AI securi
 ## Conferences & Events  
 
 📌 *(To be added – List of key conferences, workshops, and symposiums focused on AI security.)*  
+
+---
+
+## Reports & Research  
+
+📌 *(To be added – A collection of AI security reports, white papers, and academic studies.)*  
 
 ---
 
