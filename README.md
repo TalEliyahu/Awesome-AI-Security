@@ -1,23 +1,68 @@
 # Awesome AI Security 🛡️  
 
-A curated repository of resources, research, tools, and discussions on AI security. This repository consolidates insights from the **[AI Security LinkedIn Group](https://www.linkedin.com/groups/14545517/)**, industry reports, academic research, and practical applications.  
+A curated repository of resources, research, tools, and discussions on AI security. This repository consolidates insights from industry reports, academic research, and practical applications.  
 
 ## 📌 Table of Contents  
 
-- [🛠 Tools & Frameworks](#-tools--frameworks)  
+- [📜 Best Practices & Security Standards](#-best-practices--security-standards)  
+- [📖 Reports & Research](#-reports--research)  
+- [📂 Taxonomy](#-taxonomy)  
+- [📊 Benchmarks](#-benchmarks)  
+- [📁 Datasets](#-datasets)  
+- [🔗 Additional AI Security Resources](#-additional-ai-security-resources)  
+- [📂 GitHub Repositories](#-github-repositories)  
 - [📅 Conferences](#-conferences)  
-- [📖 AI Security Resources](#-ai-security-resources)  
-- [🔗 GitHub Repositories](#-github-repositories)  
 
-## 📖 AI Security Resources  
+---
+
+## 📜 Best Practices & Security Standards  
 
 - **[NIST AI Risk Management Framework (AI RMF)](https://www.nist.gov/ai-risk)**  
 - **[MITRE ATLAS](http://atlas.mitre.org)**  
+- **[OWASP AI Security Overview](https://owaspai.org/docs/ai_security_overview/)**  
+- **[OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)**  
+- **[Secure AI System Development Guide](https://owaspai.org/docs/secure_ai_development/)**  
+- **[ISO/IEC 42001 AI Management System](https://www.iso.org/standard/81231.html)**  
+
+---
+
+## 📖 Reports & Research  
+
+*(To be added – Collection of published AI security reports.)*  
+
+---
+
+## 📂 Taxonomy  
+
+- **[ARC PI Taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy)** – Taxonomy of prompt injection attacks  
+
+---
+
+## 📊 Benchmarks  
+
+*(To be added – List of AI security evaluation benchmarks.)*  
+
+---
+
+## 📁 Datasets  
+
+*(To be added – Public datasets for AI security research.)*  
+
+---
+
+## 🔗 Additional AI Security Resources  
+
 - **[LLM Security](http://llmsecurity.net)**  
-- **[OWASP AI Security]([http://owaspai.org](https://owaspai.org/docs/ai_security_overview/)**  
 - **[Vinija AI](http://vinija.ai/models/LLM/)**  
 
-## 🔗 GitHub Repositories  
+---
+
+## 📂 GitHub Repositories  
 
 - **[AI Security & Adversarial ML Reading List](https://github.com/AI-secure/awesome-adversarial-machine-learning)**  
-- **[ARC PI Taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy)** - Taxonomy of prompt injection attacks
+
+---
+
+## 📅 Conferences  
+
+*(To be added.)*  
