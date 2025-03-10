@@ -77,7 +77,6 @@ A curated repository of resources, research, tools, and discussions on AI securi
 
 ## GitHub Repositories  
 
-- **[AI Security & Adversarial ML Reading List](https://github.com/AI-secure/awesome-adversarial-machine-learning)**  
 
 ---
 
