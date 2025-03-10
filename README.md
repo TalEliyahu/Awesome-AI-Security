@@ -2,61 +2,66 @@
 
 A curated repository of resources, research, tools, and discussions on AI security. This repository consolidates insights from industry reports, academic research, and practical applications.  
 
+---
+
 ## Table of Contents  
 
 - [Best Practices & Security Standards](#best-practices--security-standards)  
 - [Reports & Research](#reports--research)  
+- [Glossary](#glossary)  
 - [Taxonomy](#taxonomy)  
 - [Benchmarks](#benchmarks)  
 - [Datasets](#datasets)  
 - [Additional AI Security Resources](#additional-ai-security-resources)  
 - [GitHub Repositories](#github-repositories)  
-- [Conferences](#conferences)  
+- [Conferences & Events](#conferences--events)  
 
 ---
 
 ## Best Practices & Security Standards  
 
-- **[NIST AI Risk Management Framework (AI RMF)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)**
-- **[NIST AI Risk Management Framework Playbook](https://airc.nist.gov/airmf-resources/playbook/)**
-- **[MITRE ATLAS](http://atlas.mitre.org)**  
-- **[OWASP AI Exchange](https://owaspai.org/docs/ai_security_overview/)**  
-- **[OWASP Top 10 for LLM and Generative AI Resources Library](https://owasp.org/www-project-top-10-for-large-language-model-applications/)**  
+- **[NIST AI Risk Management Framework (AI RMF)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)**  
+- **[NIST AI Risk Management Framework Playbook](https://airc.nist.gov/airmf-resources/playbook/)**  
+- **[MITRE ATLAS](http://atlas.mitre.org)** – Adversarial Threat Landscape for AI Systems  
+- **[OWASP AI Exchange](https://owaspai.org/docs/ai_security_overview/)** – AI Security Overview  
+- **[OWASP Top 10 for LLM and Generative AI](https://owasp.org/www-project-top-10-for-large-language-model-applications/)**  
 
 ---
 
 ## Reports & Research  
 
-*(To be added – Collection of published AI security reports.)*  
+📌 *(To be added – A collection of AI security reports, white papers, and academic studies.)*  
 
 ---
 
-## Glossary
+## Glossary  
 
-- **[NIST - “The Language of Trustworthy AI: An In-Depth Glossary of Terms”](https://airc.nist.gov/glossary/)**
+- **[NIST - "The Language of Trustworthy AI: An In-Depth Glossary of Terms"](https://airc.nist.gov/glossary/)**  
+
+---
 
 ## Taxonomy  
 
-- **[ARC PI Taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy)** – Taxonomy of prompt injection attacks  
+- **[ARC PI Taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy)** – A taxonomy of prompt injection attacks  
 
 ---
 
 ## Benchmarks  
 
-*(To be added – List of AI security evaluation benchmarks.)*  
+📌 *(To be added – A curated list of AI security evaluation benchmarks.)*  
 
 ---
 
 ## Datasets  
 
-*(To be added – Public datasets for AI security research.)*  
+📌 *(To be added – Public datasets useful for AI security research and adversarial ML testing.)*  
 
 ---
 
 ## Additional AI Security Resources  
 
-- **[LLM Security](http://llmsecurity.net)**  
-- **[Vinija AI](http://vinija.ai/models/LLM/)**  
+- **[LLM Security](http://llmsecurity.net)** – Security research on Large Language Models  
+- **[Vinija AI](http://vinija.ai/models/LLM/)** – LLM models and security resources  
 
 ---
 
@@ -66,6 +71,10 @@ A curated repository of resources, research, tools, and discussions on AI securi
 
 ---
 
-## Conferences  
+## Conferences & Events  
 
-*(To be added.)*  
+📌 *(To be added – List of key conferences, workshops, and symposiums focused on AI security.)*  
+
+---
+
+🛡️ *Contributions are welcome! Feel free to submit PRs with new resources and updates.*  
