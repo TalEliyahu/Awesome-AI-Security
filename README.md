@@ -15,7 +15,7 @@ A curated repository of resources, research, tools, and discussions on AI securi
 - **[MITRE ATLAS](http://atlas.mitre.org)**  
 - **[LLM Security](http://llmsecurity.net)**  
 - **[OWASP AI Security](http://owaspai.org)**  
-- **[Vinija AI Model Security](http://vinija.ai/models/LLM/)**  
+- **[Vinija AI](http://vinija.ai/models/LLM/)**  
 
 ## 🔗 GitHub Repositories  
 
