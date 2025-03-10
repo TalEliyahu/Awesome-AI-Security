@@ -14,7 +14,7 @@ A curated repository of resources, research, tools, and discussions on AI securi
 - **[NIST AI Risk Management Framework (AI RMF)](https://www.nist.gov/ai-risk)**  
 - **[MITRE ATLAS](http://atlas.mitre.org)**  
 - **[LLM Security](http://llmsecurity.net)**  
-- **[OWASP AI Security]([http://owaspai.org](https://owaspai.org/docs/ai_security_overview/)**  
+- **[OWASP AI Security]([http://owaspai.org](https://owaspai.org/docs/ai_security_overview/])**  
 - **[Vinija AI](http://vinija.ai/models/LLM/)**  
 
 ## 🔗 GitHub Repositories  
