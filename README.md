@@ -31,6 +31,10 @@ A curated repository of resources, research, tools, and discussions on AI securi
 
 ---
 
+## Glossary
+
+- **[NIST is releasing “The Language of Trustworthy AI: An In-Depth Glossary of Terms”](https://airc.nist.gov/glossary/)**
+
 ## Taxonomy  
 
 - **[ARC PI Taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy)** – Taxonomy of prompt injection attacks  
