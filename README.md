@@ -12,6 +12,7 @@ A curated repository of resources, research, tools, and discussions on AI securi
 - [Taxonomy](#taxonomy)  
 - [Benchmarks](#benchmarks)  
 - [Datasets](#datasets)  
+- [Free AI Security Courses](#free-ai-security-courses)  
 - [Additional AI Security Resources](#additional-ai-security-resources)  
 - [GitHub Repositories](#github-repositories)  
 - [Newsletter](#newsletter)  
@@ -61,6 +62,12 @@ A curated repository of resources, research, tools, and discussions on AI securi
 
 ---
 
+## Free AI Security Courses  
+
+📌 *(To be added – A curated list of free AI security courses.)*  
+
+---
+
 ## Additional AI Security Resources  
 
 - **[LLM Security](http://llmsecurity.net)**  
@@ -69,6 +76,8 @@ A curated repository of resources, research, tools, and discussions on AI securi
 ---
 
 ## GitHub Repositories  
+
+- **[AI Security & Adversarial ML Reading List](https://github.com/AI-secure/awesome-adversarial-machine-learning)**  
 
 ---
 
