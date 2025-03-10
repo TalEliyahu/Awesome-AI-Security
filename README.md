@@ -74,8 +74,8 @@ A curated repository of resources, research, tools, and discussions on AI securi
 
 ## Conferences & Events  
 
-- **[AI Village (DEF CON)](https://aivillage.org/)** 
-- **[Black Hat AI Summit](https://www.blackhat.com/)**
+- **[AI Village (DEF CON)](https://aivillage.org/events/)** 
+- **[Black Hat AI Summit](https://www.blackhat.com/asia-25/ai-summit.html)**
   
 ---
 
