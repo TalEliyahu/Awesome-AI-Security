@@ -17,7 +17,7 @@ A curated repository of resources, research, tools, and discussions on AI securi
 
 ## Best Practices & Security Standards  
 
-- **[NIST AI Risk Management Framework (AI RMF)](https://www.nist.gov/ai-risk)**  
+- **[NIST AI Risk Management Framework (AI RMF)][(https://www.nist.gov/ai-risk](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf))**  
 - **[MITRE ATLAS](http://atlas.mitre.org)**  
 - **[OWASP AI Security Overview](https://owaspai.org/docs/ai_security_overview/)**  
 - **[OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)**  
