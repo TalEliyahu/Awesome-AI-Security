@@ -7,11 +7,11 @@ A curated repository of resources, research, tools, and discussions on AI securi
 ## Table of Contents  
 
 - [Best Practices & Security Standards](#best-practices--security-standards)  
+- [AI Risk & Incident Databases](#ai-risk--incident-databases)  
 - [Glossary](#glossary)  
 - [Taxonomy](#taxonomy)  
 - [Benchmarks](#benchmarks)  
 - [Datasets](#datasets)  
-- [AI Risk & Incident Databases](#ai-risk--incident-databases)  
 - [Additional AI Security Resources](#additional-ai-security-resources)  
 - [GitHub Repositories](#github-repositories)  
 - [Newsletter](#newsletter)  
@@ -27,6 +27,13 @@ A curated repository of resources, research, tools, and discussions on AI securi
 - **[MITRE ATLAS](http://atlas.mitre.org)**  
 - **[OWASP AI Exchange](https://owaspai.org/docs/ai_security_overview/)**  
 - **[OWASP Top 10 for LLM and Generative AI](https://owasp.org/www-project-top-10-for-large-language-model-applications/)**  
+
+---
+
+## AI Risk & Incident Databases  
+
+- **[MIT AI Risk Database](https://airisk.mit.edu/)** – A structured repository documenting AI-related risks, incidents, and mitigation strategies to improve governance and security awareness.  
+- **[AI Incident Database](https://incidentdatabase.ai/)** – A collection of real-world AI incidents and security failures, helping researchers and practitioners understand past vulnerabilities.  
 
 ---
 
@@ -51,13 +58,6 @@ A curated repository of resources, research, tools, and discussions on AI securi
 ## Datasets  
 
 📌 *(To be added – Public datasets useful for AI security research and adversarial ML testing.)*  
-
----
-
-## AI Risk & Incident Databases  
-
-- **[MIT AI Risk Database](https://airisk.mit.edu/)** – A structured repository documenting AI-related risks, incidents, and mitigation strategies to improve governance and security awareness.  
-- **[AI Incident Database](https://incidentdatabase.ai/)** – A collection of real-world AI incidents and security failures, helping researchers and practitioners understand past vulnerabilities.  
 
 ---
 
