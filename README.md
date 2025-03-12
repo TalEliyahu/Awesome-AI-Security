@@ -105,6 +105,9 @@ A curated repository of resources, research, tools, and discussions on AI securi
 
 ## CTF Challenges  
 
+- **[AI GOAT](https://github.com/dhammon/ai-goat)** – Learn AI security through a series of vulnerable LLM CTF challenges. No sign-ups, no cloud fees, run everything locally on your system.  
+- **[Gandalf CTF](https://gandalf.lakera.ai/)** – A challenge to break an AI-powered security system by bypassing an LLM-based filter.  
+
 📌 *(More CTFs to be added – Feel free to suggest AI security CTFs that should be included!)*  
 
 ---
