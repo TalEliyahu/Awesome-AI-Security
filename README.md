@@ -1,7 +1,6 @@
 # Awesome AI Security 🛡️  
 
-> A curated list of resources, research, tools, and discussions on AI security. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+> Curated resources, research, and tools for securing AI systems. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ---
 
 ## Table of Contents  
