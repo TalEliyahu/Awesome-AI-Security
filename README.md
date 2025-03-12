@@ -17,8 +17,8 @@
 - [Additional AI Security Resources](#additional-ai-security-resources)  
 - [GitHub Repositories](#github-repositories)  
 - [Newsletter](#newsletter)  
-- [Conferences & Events](#conferences--events)  
-- [Reports & Research](#reports--research)  
+- [Conferences and Events](#conferences-and-events)  
+- [Reports and Research](#reports-and-research)  
 - [CTF Challenges](#ctf-challenges)  
 - [Tools](#tools)  
 
