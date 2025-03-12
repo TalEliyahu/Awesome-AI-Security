@@ -19,6 +19,7 @@ A curated repository of resources, research, tools, and discussions on AI securi
 - [Conferences & Events](#conferences--events)  
 - [Reports & Research](#reports--research)  
 - [CTF Challenges](#ctf-challenges)  
+- [Tools](#tools)  
 
 ---
 
@@ -105,11 +106,17 @@ A curated repository of resources, research, tools, and discussions on AI securi
 
 ## CTF Challenges  
 
-- **[AI GOAT](https://github.com/dhammon/ai-goat)** – Learn AI security through a series of vulnerable LLM CTF challenges.
+- **[AI GOAT](https://github.com/dhammon/ai-goat)** – A set of LLM security challenges focused on identifying and exploiting vulnerabilities in AI systems.  
+- **[Gandalf CTF](https://gandalf.lakera.ai/)** – A challenge where participants attempt to extract hidden passphrases from an evolving AI model through prompt engineering techniques.  
 - **[DamnVulnerableLLMApplication-Demo](https://github.com/greshake/DamnVulnerableLLMApp)** – A project designed for security researchers to practice LLM hacking techniques and for AI companies to improve the security of their models and systems. Includes a disclaimer for responsible use.  
-- **[Gandalf CTF](https://gandalf.lakera.ai/)** – An interactive challenge where participants craft prompts to extract secret passwords from an AI language model named Gandalf. With each successful attempt, Gandalf enhances its defenses, making subsequent levels progressively more challenging. 
 
 📌 *(More CTFs to be added – Feel free to suggest AI security CTFs that should be included!)*  
+
+---
+
+## Tools  
+
+- **[Agentic Security](https://github.com/msoedov/agentic_security)** – An open-source vulnerability scanner for Agent Workflows and Large Language Models (LLMs). Helps protect AI systems from jailbreaks, fuzzing, and multimodal attacks.  
 
 ---
 
