@@ -6,8 +6,8 @@
 
 ## Table of Contents  
 
-- [Best Practices & Security Standards](#best-practices--security-standards)  
-- [AI Risk & Incident Databases](#ai-risk--incident-databases)  
+- [Best Practices and Security Standards](#best-practices-and-security-standards)  
+- [AI Risk and Incident Databases](#ai-risk-and-incident-databases)  
 - [Glossary](#glossary)  
 - [Taxonomy](#taxonomy)  
 - [AI Security Knowledge Bases](#ai-security-knowledge-bases)  
@@ -20,7 +20,8 @@
 - [Conferences and Events](#conferences-and-events)  
 - [Reports and Research](#reports-and-research)  
 - [CTF Challenges](#ctf-challenges)  
-- [Tools](#tools)  
+- [Tools](#tools)
+
 
 ---
 
