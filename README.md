@@ -26,7 +26,7 @@
 
 ## [↑](#table-of-contents) AI Security Knowledge Bases  
 
-- [MITRE ATLAS](http://atlas.mitre.org) – A framework for categorizing threats, vulnerabilities, and adversarial tactics in AI systems.  
+- [MITRE ATLAS](http://atlas.mitre.org) –  A knowledge base of tactics, techniques, and case studies for adversarial threats targeting AI systems.
 - [GenAI Attacks Matrix](https://ttps.ai/matrix.html#genai-attacks-matrix) – A structured knowledge base documenting TTPs used to target GenAI-based systems, copilots, and agents.  
 
 ---
