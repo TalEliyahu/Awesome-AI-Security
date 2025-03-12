@@ -1,6 +1,10 @@
 # Awesome AI Security 🛡️  
 
-> Curated resources, research, and tools for securing AI systems. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+> Curated resources, research, and tools for securing AI systems.  
+> Inspired by [Awesome Lists](https://github.com/sindresorhus/awesome).  
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 ---
 
 ## Table of Contents  
@@ -9,6 +13,7 @@
 - [AI Risk & Incident Databases](#ai-risk--incident-databases)  
 - [Glossary](#glossary)  
 - [Taxonomy](#taxonomy)  
+- [AI Security Knowledge Bases](#ai-security-knowledge-bases)  
 - [Benchmarks](#benchmarks)  
 - [Datasets](#datasets)  
 - [Free AI Security Courses](#free-ai-security-courses)  
@@ -22,11 +27,17 @@
 
 ---
 
+## [↑](#table-of-contents) AI Security Knowledge Bases  
+
+- [MITRE ATLAS](http://atlas.mitre.org) – A framework for categorizing threats, vulnerabilities, and adversarial tactics in AI systems.  
+- [GenAI Attacks Matrix](https://ttps.ai/matrix.html#genai-attacks-matrix) – A structured knowledge base documenting TTPs used to target GenAI-based systems, copilots, and agents.  
+
+---
+
 ## [↑](#table-of-contents) Best Practices & Security Standards  
 
 - [NIST AI Risk Management Framework (AI RMF)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)  
 - [NIST AI Risk Management Framework Playbook](https://airc.nist.gov/airmf-resources/playbook/)  
-- [MITRE ATLAS](http://atlas.mitre.org)  
 - [OWASP AI Exchange](https://owaspai.org/docs/ai_security_overview/)  
 - [OWASP Top 10 for LLM and Generative AI](https://owasp.org/www-project-top-10-for-large-language-model-applications/)  
 
@@ -36,6 +47,7 @@
 
 - [MIT AI Risk Repository](https://airisk.mit.edu/)  
 - [AI Incident Database (AIID)](https://incidentdatabase.ai/)  
+- [AI/ML Supply Chain Vulnerability Database](https://sightline.protectai.com/vulnerabilities) – A database tracking vulnerabilities in AI/ML supply chains, providing insights into threats affecting AI models and infrastructure.  
 
 ---
 
@@ -47,7 +59,7 @@
 
 ## [↑](#table-of-contents) Taxonomy  
 
-- [ARC PI Taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy)  
+- [ARC PI Taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy) – A taxonomy of prompt injection attacks.  
 
 ---
 
@@ -128,5 +140,3 @@ This repository follows the **[Awesome Manifesto](https://github.com/sindresorhu
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 This list is released under the **Creative Commons Zero v1.0 Universal** license.  
-
----
