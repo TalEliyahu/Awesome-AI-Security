@@ -74,6 +74,8 @@
 
 ## [↑](#table-of-contents) Free AI Security Courses  
 
+- [Microsoft AI Security Learning Path](https://learn.microsoft.com/en-us/training/browse/?filter-roles=ai%20&roles=ai-engineer&subjects=security) – Free training modules on AI security, covering secure AI model development, risk management, and threat mitigation.  
+
 📌 *(To be added – A curated list of free AI security courses.)*  
 
 ---
