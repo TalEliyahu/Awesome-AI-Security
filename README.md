@@ -18,6 +18,7 @@ A curated repository of resources, research, tools, and discussions on AI securi
 - [Newsletter](#newsletter)  
 - [Conferences & Events](#conferences--events)  
 - [Reports & Research](#reports--research)  
+- [CTF Challenges](#ctf-challenges)  
 
 ---
 
@@ -77,6 +78,7 @@ A curated repository of resources, research, tools, and discussions on AI securi
 
 ## GitHub Repositories  
 
+📌 *(More AI security-focused repositories to be added.)*  
 
 ---
 
@@ -98,6 +100,12 @@ A curated repository of resources, research, tools, and discussions on AI securi
 ## Reports & Research  
 
 📌 *(More to be added – A collection of AI security reports, white papers, and academic studies.)*  
+
+---
+
+## CTF Challenges  
+
+📌 *(More CTFs to be added – Feel free to suggest AI security CTFs that should be included!)*  
 
 ---
 
