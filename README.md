@@ -20,19 +20,18 @@
 - [Conferences and Events](#conferences-and-events)  
 - [Reports and Research](#reports-and-research)  
 - [CTF Challenges](#ctf-challenges)  
-- [Tools](#tools)
-
+- [Tools](#tools)  
 
 ---
 
 ## [↑](#table-of-contents) AI Security Knowledge Bases  
 
-- [MITRE ATLAS](http://atlas.mitre.org) –  A knowledge base of tactics, techniques, and case studies for adversarial threats targeting AI systems.
+- [MITRE ATLAS](http://atlas.mitre.org) – A knowledge base of tactics, techniques, and case studies for adversarial threats targeting AI systems.  
 - [GenAI Attacks Matrix](https://ttps.ai/matrix.html#genai-attacks-matrix) – A structured knowledge base documenting TTPs used to target GenAI-based systems, copilots, and agents.  
 
 ---
 
-## [↑](#table-of-contents) Best Practices & Security Standards  
+## [↑](#table-of-contents) Best Practices and Security Standards  
 
 - [NIST AI Risk Management Framework (AI RMF)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)  
 - [NIST AI Risk Management Framework Playbook](https://airc.nist.gov/airmf-resources/playbook/)  
@@ -41,7 +40,7 @@
 
 ---
 
-## [↑](#table-of-contents) AI Risk & Incident Databases  
+## [↑](#table-of-contents) AI Risk and Incident Databases  
 
 - [MIT AI Risk Repository](https://airisk.mit.edu/)  
 - [AI Incident Database (AIID)](https://incidentdatabase.ai/)  
@@ -75,11 +74,8 @@
 
 ## [↑](#table-of-contents) Free AI Security Courses  
 
-- [Microsoft AI Security Learning Path](https://learn.microsoft.com/en-us/training/browse/?filter-roles=ai%20&roles=ai-engineer&subjects=security) – Free training modules on AI security, covering secure AI model development, risk management, and threat mitigation.
+- [Microsoft AI Security Learning Path](https://learn.microsoft.com/en-us/training/browse/?filter-roles=ai%20&roles=ai-engineer&subjects=security) – Free training modules on AI security, covering secure AI model development, risk management, and threat mitigation.  
 - [AWS AI Security Training](https://explore.skillbuilder.aws/learn/external-ecommerce;view=none;redirectURL=?ctldoc-catalog-0=se-%22AI%20Security%22) – Free AWS courses on securing AI applications, risk management, and implementing security best practices in AI/ML environments.  
-
-
-📌 *(To be added – A curated list of free AI security courses.)*  
 
 ---
 
@@ -102,14 +98,14 @@
 
 ---
 
-## [↑](#table-of-contents) Conferences & Events  
+## [↑](#table-of-contents) Conferences and Events  
 
 - [AI Village (DEF CON)](https://aivillage.org/)  
 - [Black Hat AI Summit](https://www.blackhat.com/)  
 
 ---
 
-## [↑](#table-of-contents) Reports & Research  
+## [↑](#table-of-contents) Reports and Research  
 
 📌 *(More to be added – A collection of AI security reports, white papers, and academic studies.)*  
 
