@@ -15,12 +15,13 @@
 - [AI Security Knowledge Bases](#ai-security-knowledge-bases)  
 - [Benchmarks](#benchmarks)  
 - [Datasets](#datasets)  
-- [Free AI Security Courses](#free-ai-security-courses)  
+- [AI Security Courses](#ai-security-courses)  
+- [AI Security Guides & Learning Resources](#ai-security-guides--learning-resources)  
 - [Additional AI Security Resources](#additional-ai-security-resources)  
 - [GitHub Repositories](#github-repositories)  
 - [Newsletter](#newsletter)  
-- [Conferences-and-Events](#conferences-and-events)  
-- [Reports-and-Research](#reports-and-research)  
+- [Conferences and Events](#conferences-and-events)  
+- [Reports and Research](#reports-and-research)  
 - [CTF Challenges](#ctf-challenges)  
 - [Tools](#tools)  
 
@@ -74,10 +75,16 @@
 
 ---
 
-## Free AI Security Courses  
+## AI Security Courses  
 
-- [Microsoft AI Security Learning Path](https://learn.microsoft.com/en-us/training/browse/?filter-roles=ai%20&roles=ai-engineer&subjects=security)  
-- [AWS AI Security Training](https://explore.skillbuilder.aws/learn/external-ecommerce;view=none;redirectURL=?ctldoc-catalog-0=se-%22AI%20Security%22)  
+- [Microsoft AI Security Learning Path](https://learn.microsoft.com/en-us/training/browse/?filter-roles=ai%20&roles=ai-engineer&subjects=security) – Free training modules on AI security, covering secure AI model development, risk management, and threat mitigation.  
+- [AWS AI Security Training](https://explore.skillbuilder.aws/learn/external-ecommerce;view=none;redirectURL=?ctldoc-catalog-0=se-%22AI%20Security%22) – Free AWS courses on securing AI applications, risk management, and implementing security best practices in AI/ML environments.  
+
+---
+
+## AI Security Guides & Learning Resources  
+
+- [Nightfall AI Security 101](https://www.nightfall.ai/ai-security-101) – A centralized learning hub for AI security, offering an evolving library of concepts, emerging risks, and foundational principles in securing AI systems.  
 
 ---
 
@@ -115,15 +122,15 @@
 
 ## CTF Challenges  
 
-- [AI GOAT](https://github.com/dhammon/ai-goat)  
-- [Gandalf CTF](https://gandalf.lakera.ai/)  
-- [DamnVulnerableLLMApplication-Demo](https://github.com/greshake/DamnVulnerableLLMApp)  
+- [AI GOAT](https://github.com/dhammon/ai-goat) – A set of LLM security challenges focused on identifying and exploiting vulnerabilities in AI systems.  
+- [Gandalf CTF](https://gandalf.lakera.ai/) – A challenge where participants attempt to extract hidden passphrases from an evolving AI model through prompt engineering techniques.  
+- [DamnVulnerableLLMApplication-Demo](https://github.com/greshake/DamnVulnerableLLMApp) – A project designed for security researchers to practice LLM hacking techniques and for AI companies to improve the security of their models and systems.  
 
 ---
 
 ## Tools  
 
-- [Agentic Security](https://github.com/msoedov/agentic_security)  
+- [Agentic Security](https://github.com/msoedov/agentic_security) – An open-source vulnerability scanner for Agent Workflows and Large Language Models (LLMs). Helps protect AI systems from jailbreaks, fuzzing, and multimodal attacks.  
 
 ---
 
