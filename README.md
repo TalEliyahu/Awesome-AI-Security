@@ -65,7 +65,38 @@
 
 ## Benchmarks
 
-📌 *(To be added – A curated list of AI security evaluation benchmarks.)*
+### **Categories of AI Security Benchmarks**
+
+#### **Robustness & Adversarial Resilience**  
+**Purpose**: Evaluates how AI systems withstand adversarial attacks, including evasion, poisoning, and model extraction. Ensures AI remains functional under manipulation.  
+**NIST AI RMF Alignment**: **Measure, Manage**  
+- **Measure**: Identify risks related to adversarial attacks.  
+- **Manage**: Implement mitigation strategies to ensure resilience.  
+
+#### **Model & Data Integrity**  
+**Purpose**: Assesses AI models for unauthorized modifications, including backdoors and dataset poisoning. Supports trustworthiness and security of model outputs.  
+**NIST AI RMF Alignment**: **Map, Measure**  
+- **Map**: Understand and identify risks to model/data integrity.  
+- **Measure**: Evaluate and mitigate risks through validation techniques.  
+
+#### **Governance & Compliance**  
+**Purpose**: Ensures AI security aligns with governance frameworks, industry regulations, and security policies. Supports auditability and risk management.  
+**NIST AI RMF Alignment**: **Govern**  
+- **Govern**: Establish policies, accountability structures, and compliance controls.  
+
+#### **Privacy & Data Protection**  
+**Purpose**: Evaluates AI for risks like data leakage, membership inference, and model inversion. Helps ensure privacy preservation and compliance.  
+**NIST AI RMF Alignment**: **Measure, Manage**  
+- **Measure**: Identify and assess AI-related privacy risks.  
+- **Manage**: Implement security controls to mitigate privacy threats.  
+
+#### **Explainability & Trustworthiness**  
+**Purpose**: Assesses AI for transparency, fairness, and bias mitigation. Ensures AI operates in an interpretable and ethical manner.  
+**NIST AI RMF Alignment**: **Govern, Map, Measure**  
+- **Govern**: Establish policies for fairness, bias mitigation, and transparency.  
+- **Map**: Identify potential explainability risks in AI decision-making.  
+- **Measure**: Evaluate AI outputs for fairness, bias, and interpretability.  
+
 
 ---
 
