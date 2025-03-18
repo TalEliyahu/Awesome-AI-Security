@@ -168,9 +168,22 @@
 
 ## Tools
 
-- [Agentic Security](https://github.com/msoedov/agentic_security) – An open-source vulnerability scanner for Agent Workflows and Large Language Models (LLMs). Helps protect AI systems from jailbreaks, fuzzing, and multimodal attacks.
-- [Foolbox](https://github.com/bethgelab/foolbox) – A Python library for running adversarial attacks against machine learning models, including deep neural networks. Built on top of EagerPy, it works natively with PyTorch, TensorFlow, and JAX.
-- [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) – Provides tools for developers and researchers to defend and evaluate machine learning models against adversarial threats, including evasion, poisoning, extraction, and inference attacks.
+### Data Security & Integrity  
+*(Ensuring the integrity, provenance, and security of training/testing data.)*  
+- *(No tools currently listed in this category.)*  
+
+### Model Training & Hardening  
+*(Protecting models from adversarial attacks during training.)*  
+- **[Foolbox](https://github.com/bethgelab/foolbox)** – A Python library for running adversarial attacks against machine learning models, including deep neural networks.  
+
+### Model Evaluation & Adversarial Testing  
+*(Assessing AI model security posture before deployment.)*  
+- **[Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)** – Provides tools to defend and evaluate machine learning models against adversarial threats, including evasion, poisoning, extraction, and inference attacks.  
+
+### Model Deployment & Security Monitoring  
+*(Ensuring secure AI model deployment and detecting vulnerabilities in operational environments.)*  
+- **[Agentic Security](https://github.com/msoedov/agentic_security)** – An open-source vulnerability scanner for **Agent Workflows** and **Large Language Models (LLMs)**. Helps protect AI systems from **jailbreaks, fuzzing, and multimodal attacks**.
+
 
 ---
 
