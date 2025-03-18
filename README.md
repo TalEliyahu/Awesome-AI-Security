@@ -169,6 +169,8 @@
 ## Tools
 
 - [Agentic Security](https://github.com/msoedov/agentic_security) – An open-source vulnerability scanner for Agent Workflows and Large Language Models (LLMs). Helps protect AI systems from jailbreaks, fuzzing, and multimodal attacks.
+- [Foolbox](https://github.com/bethgelab/foolbox) – A Python library for running adversarial attacks against machine learning models, including deep neural networks. Built on top of EagerPy, it works natively with PyTorch, TensorFlow, and JAX.
+
 
 ---
 
