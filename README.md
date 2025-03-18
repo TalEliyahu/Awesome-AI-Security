@@ -116,6 +116,8 @@
 ## AI Security Guides & Learning Resources
 
 - [Nightfall AI Security 101](https://www.nightfall.ai/ai-security-101) – A centralized learning hub for AI security, offering an evolving library of concepts, emerging risks, and foundational principles in securing AI systems.
+- [Google's Secure AI Framework (SAIF)](https://saif.google/) – SAIF offers guidance for organizations looking to secure AI systems. Google has created SAIF, including a SAIF Risk Self-Assessment, to support the implementation of SAIF in organizations and help build and deploy AI systems securely.
+
 
 ---
 
