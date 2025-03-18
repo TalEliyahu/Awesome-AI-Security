@@ -33,6 +33,8 @@
 - [NIST AI Risk Management Framework Playbook](https://airc.nist.gov/airmf-resources/playbook/)
 - [OWASP AI Exchange](https://owaspai.org/docs/ai_security_overview/)
 - [OWASP Top 10 for LLM and Generative AI](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+- [ISO/IEC 42001:2023 – Information technology — Artificial intelligence — Management system](https://www.iso.org/standard/81230.html)
+
 
 ---
 
