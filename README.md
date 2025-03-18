@@ -182,7 +182,7 @@
 
 ### Model Deployment & Security Monitoring  
 *(Ensuring secure AI model deployment and detecting vulnerabilities in operational environments.)*  
-- **[Agentic Security](https://github.com/msoedov/agentic_security)** – An open-source vulnerability scanner for **Agent Workflows** and **Large Language Models (LLMs)**. Helps protect AI systems from **jailbreaks, fuzzing, and multimodal attacks**.
+- **[Agentic Security](https://github.com/msoedov/agentic_security)** – An open-source vulnerability scanner for Agent Workflows and Large Language Models (LLMs). Helps protect AI systems from jailbreaks, fuzzing, and multimodal attacks.
 
 
 ---
