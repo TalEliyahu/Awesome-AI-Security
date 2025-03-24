@@ -189,7 +189,8 @@
 
 ---
 
-## 🎧 Podcasts
+## [Podcasts](#podcasts)
+
 
 - [**The MLSecOps Podcast**](https://podcasts.apple.com/us/podcast/the-mlsecops-podcast/id1679667447) – Insightful conversations with industry leaders and AI experts, exploring the fascinating world of machine learning security operations.
 
