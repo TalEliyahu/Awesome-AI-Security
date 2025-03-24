@@ -141,6 +141,7 @@
 ## Newsletter
 
 - [Adversarial AI Digest](https://www.linkedin.com/newsletters/adversarial-ai-digest-7298813894498598912/)
+- [AI Cyber Magazine](https://issuu.com/aicybermagazine) – AI Cyber Magazine provides quality in-depth analysis, insightful interviews, thoughtfully curated high-value resources, technical how-to articles, and thought leadership at the intersection of Artificial Intelligence and Cybersecurity.
 
 ---
 
