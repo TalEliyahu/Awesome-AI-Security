@@ -24,6 +24,7 @@
 - [Reports and Research](#reports-and-research)
 - [CTF Challenges](#ctf-challenges)
 - [Tools](#tools)
+- [Podcasts](#podcasts)
 
 ---
 
@@ -34,7 +35,6 @@
 - [OWASP AI Exchange](https://owaspai.org/docs/ai_security_overview/)
 - [OWASP Top 10 for LLM and Generative AI](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 - [ISO/IEC 42001:2023 – Information technology — Artificial intelligence — Management system](https://www.iso.org/standard/81230.html)
-
 
 ---
 
@@ -99,7 +99,6 @@
 - **Map**: Identify potential explainability risks in AI decision-making.  
 - **Measure**: Evaluate AI outputs for fairness, bias, and interpretability.  
 
-
 ---
 
 ## Datasets
@@ -120,7 +119,6 @@
 - [Nightfall AI Security 101](https://www.nightfall.ai/ai-security-101) – A centralized learning hub for AI security, offering an evolving library of concepts, emerging risks, and foundational principles in securing AI systems.
 - [Google's Secure AI Framework (SAIF)](https://saif.google/) – SAIF offers guidance for organizations looking to secure AI systems. Google has created SAIF, including a SAIF Risk Self-Assessment, to support the implementation of SAIF in organizations and help build and deploy AI systems securely.
 
-
 ---
 
 ## Research Working Groups
@@ -128,7 +126,6 @@
 - [Cloud Security Alliance (CSA) AI Security Working Groups](https://cloudsecurityalliance.org/research/working-groups) – Collaborative research groups focused on AI security, cloud security, and emerging threats in AI-driven systems.
 - [OWASP Top 10 for LLM & Generative AI Security Risks Project](https://genai.owasp.org/contribute/) – An open-source initiative addressing critical security risks in Large Language Models (LLMs) and Generative AI applications, offering resources and guidelines to mitigate emerging threats.
 - [CWE Artificial Intelligence Working Group (AI WG)](https://cwe.mitre.org/community/working_groups.html) – The AI WG was established by CWE™ and CVE® community stakeholders to identify and address gaps in the CWE corpus where AI-related weaknesses are not adequately covered, and work collaboratively to fix them.
-
 
 📌 *(More working groups to be added.)*
 
@@ -190,6 +187,11 @@
 - **[Agentic Security](https://github.com/msoedov/agentic_security)** – An open-source vulnerability scanner for Agent Workflows and Large Language Models (LLMs). Helps protect AI systems from jailbreaks, fuzzing, and multimodal attacks.
 - **[LLM Guard](https://github.com/protectai/llm-guard)** – A security toolkit for Large Language Model (LLM) interactions, providing sanitization, harmful language detection, data leakage prevention, and resistance against prompt injection attacks.
 
+---
+
+## 🎧 Podcasts
+
+- [**The MLSecOps Podcast**](https://podcasts.apple.com/us/podcast/the-mlsecops-podcast/id1679667447) – Insightful conversations with industry leaders and AI experts, exploring the fascinating world of machine learning security operations.
 
 ---
 
