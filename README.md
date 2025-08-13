@@ -170,11 +170,23 @@
 
 ### Offensive Security Tools for LLMs & GenAI
 
-#### 1. Active LLM Vulnerability Scanners
-*(Static probes that send crafted prompts to uncover vulnerabilities.)*
-- **[garak](https://github.com/NVIDIA/garak)** – Modular scanner for prompt injection, data leakage, jailbreaks, and unsafe outputs.
-- **[Promptmap](https://github.com/utkusen/promptmap)** – Prompt injection scanner with attack and detection in one.
-- **[LLMFuzzer](https://github.com/llm-fuzzer/LLMFuzzer)** – Fuzzing-based jailbreak and prompt injection discovery.
+#### Active LLM Vulnerability Scanners
+*(Tools that actively probe LLMs to uncover vulnerabilities. Five main sub-types are recognized in research.)*
+
+- **Fuzzers** – Systematically or randomly generate inputs to discover vulnerabilities.  
+  - [LLMFuzzer](https://github.com/llm-fuzzer/LLMFuzzer) – Fuzzing-based jailbreak and prompt injection discovery.
+
+- **Prompt Injection Scanners** – Detect known prompt injection patterns and payloads.  
+  - [Promptmap](https://github.com/utkusen/promptmap) – Prompt injection scanner with attack and detection in one.
+
+- **Comprehensive Security Testers** – Multi-module frameworks scanning for multiple vulnerability classes in one run (injection, leakage, jailbreak, unsafe output).  
+  - [Garak](https://github.com/NVIDIA/garak) – Modular scanner covering multiple LLM vulnerabilities in one session.
+
+- **Jailbreak & Safety Bypass Testers** – Probe for policy evasion and unsafe content generation.  
+  - [JailbreakBench](https://github.com/llm-benchmarks/jailbreakbench) – Standard test suite for jailbreak and guardrail bypass detection.
+
+- **Data Leakage Detectors** – Identify unintended disclosure of sensitive information.  
+  - *(No dedicated open-source tool listed yet.)*
 
 #### 2. Automated Red-Teaming Harnesses
 *(Goal-driven, adaptive attack orchestrators that can chain tools like garak.)*
