@@ -107,8 +107,8 @@
 Structured Q&A datasets and CTF-style challenges that evaluate cybersecurity reasoning and terminology.
 **Used to** assess an LLM’s domain knowledge, factual recall, and understanding of security concepts.
 
-- **CyberMetric** – Multiple-choice cybersecurity Q&A in various sizes (80–10,000 questions).
-- **NYU CTF Bench** – Interactive Dockerized CTF challenges across exploit categories, crypto, forensics, etc.
+- **[CyberMetric](https://github.com/CyberMetric)** — Multiple-choice cybersecurity Q&A dataset (80–10,000 questions).
+- **[NYU CTF Bench (LLM_CTF Database)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database)** — Interactive, Dockerized CTF challenges spanning areas like exploitation, cryptography, and forensics.
 
 ---
 
@@ -116,7 +116,7 @@ Structured Q&A datasets and CTF-style challenges that evaluate cybersecurity rea
 Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Common Weakness Enumeration).
 **Used to** evaluate the model’s ability to recognize insecure code patterns and suggest secure fixes.
 
-- **LLMSecEval** – Vulnerable vs. secure code examples based on CWE Top 25.
+- **[LLMSecEval](https://github.com/tuhh-softsec/LLMSecEval)** — Natural language prompts linked to CWE Top 25, with secure vs. vulnerable code context for evaluating LLM code security.
 
 ---
 
@@ -124,19 +124,21 @@ Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Commo
 Adversarial prompt datasets—both text-only and multimodal—designed to bypass safety mechanisms or test refusal logic.
 **Used to** test how effectively a model resists jailbreaks and enforces policy-based refusal.
 
-- **CySecBench (Prompt Dataset)** – 12,662 cybersecurity-themed jailbreak/adversarial prompts.
-- **JailBreakV-28K** – A large mix of text and image-based jailbreak prompts.
-- **LLM Red-Teaming Prompts** – Adversarial prompts across multiple harm categories to test guardrails.
-- **Do-Not-Answer** – Prompts that a safe model should explicitly refuse.
+- **[CySecBench (Prompt Dataset)](https://github.com/cysecbench/dataset)** — 12,662 cybersecurity-themed jailbreak/adversarial prompts.
+- **[JailBreakV-28K (Hugging Face)](https://huggingface.co/datasets/JailbreakV-28K/JailBreakV-28k)** — 28K multimodal (text + image) jailbreak test cases designed to test alignment vulnerabilities in MLLMs.  
+  :contentReference[oaicite:1]{index=1}
+- **[LLM Red-Teaming Prompts](https://github.com/TUD-ARTS-2023/LLM-red-teaming-prompts)** — Contains initial assessment prompts, teaching prompts, and successful red-teaming prompts across different harm categories.  
+  :contentReference[oaicite:2]{index=2}
+- **[Do-Not-Answer](https://github.com/Libr-AI/do-not-answer)** — Prompts that a safe, responsibly-aligned model should refuse to answer.
 
----
 
 ### Prompt Injection & Malicious Prompt Detection
 Datasets labeled with whether prompts are benign or malicious (i.e., injection attempts).
 **Used to** evaluate an LLM’s ability to detect and neutralize prompt-injection style attacks.
 
-- **Prompt Injection Dataset** – Prompts classified as malicious vs. benign.
-- **LLMail-Inject** – Adaptive prompt injection attempts simulating an email agent under attack.
+- **[Prompt Injection Dataset](https://github.com/AhsanAyub/malicious-prompt-detection)** — Classified prompts (malicious vs benign) for injection detection.  
+  :contentReference[oaicite:2]{index=2}
+- **[LLMail-Inject Challenge Dataset](https://github.com/microsoft/llmail-inject-challenge)** — Email-based adaptive prompt injection dataset with extensive participation and analysis.
 
 ---
 
@@ -189,6 +191,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 📌 *(More to be added – A collection of AI security reports, white papers, and academic studies.)*
 
+https://research.pwnedby.me/?category=cs.AI&tag=ai 
 ---
 
 ## CTF Challenges
