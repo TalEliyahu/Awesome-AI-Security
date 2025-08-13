@@ -203,8 +203,6 @@
 #### 4. Commercial AI Security Platforms / BAS
 *(Enterprise-grade continuous testing, compliance, and attack simulation.)*
 - **[Mindgard](https://mindgard.ai/)** – AI security platform with model scanning, red-teaming, and runtime protection.
-- **[Qualys TotalAI](https://blog.qualys.com/product-tech/2024/12/05/qualys-totalai)** – AI vulnerability scanning and compliance management.
-- **[FireCompass AI Pentest](https://www.firecompass.com/)** – Continuous autonomous GenAI penetration testing.
 
 ### Data Security & Integrity  
 *(Ensuring the integrity, provenance, and security of training/testing data.)*  
