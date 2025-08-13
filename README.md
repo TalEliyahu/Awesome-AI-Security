@@ -229,7 +229,7 @@ https://research.pwnedby.me/?category=cs.AI&tag=ai
 
 #### 3. Benchmarks / Test Suites
 *(Standardized datasets and scoring methods for resilience measurement.)*
-- **[Purple Llama](https://github.com/meta-llama/PurpleLlama)** – Meta’s framework for AI model safety, covering prompt injection, code abuse, and harmful output mitigation.
+- **[Purple Llama – CyberSecEval](https://github.com/meta-llama/PurpleLlama)** — Meta’s benchmark suite for testing LLMs against offensive risks, including prompt injection, exploit code generation, and harmful content creation.
 - **[JailbreakBench](https://github.com/llm-benchmarks/jailbreakbench)** – Standard test suite for jailbreak and guardrail bypass detection.
 - **[AgentDojo](https://github.com/llm-benchmarks/agentdojo)** – Multi-agent security benchmark environment.
 
