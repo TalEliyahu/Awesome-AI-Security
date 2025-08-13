@@ -168,6 +168,32 @@
 
 ## Tools
 
+### Offensive Security Tools for LLMs & GenAI
+
+#### 1. Active LLM Vulnerability Scanners
+*(Static probes that send crafted prompts to uncover vulnerabilities.)*
+- **[garak](https://github.com/NVIDIA/garak)** – Modular scanner for prompt injection, data leakage, jailbreaks, and unsafe outputs.
+- **[Promptmap](https://github.com/utkusen/promptmap)** – Prompt injection scanner with attack and detection in one.
+- **[LLMFuzzer](https://github.com/llm-fuzzer/LLMFuzzer)** – Fuzzing-based jailbreak and prompt injection discovery.
+
+#### 2. Automated Red-Teaming Harnesses
+*(Goal-driven, adaptive attack orchestrators that can chain tools like garak.)*
+- **[PyRIT](https://github.com/Azure/PyRIT)** – Microsoft’s Python Risk Identification Tool for orchestrated red-teaming.
+- **[DeepTeam](https://github.com/confident-ai/deepteam)** – Plug-and-play LLM red-team framework for bias, jailbreaks, and PII leaks.
+- **[PentestGPT](https://github.com/GreyDGL/PentestGPT)** – LLM-powered penetration testing assistant for complex multi-step workflows.
+
+#### 3. Benchmarks / Test Suites
+*(Standardized datasets and scoring methods for resilience measurement.)*
+- **[CyberSecEval](https://github.com/meta-llama/CyberSecEval)** – Meta’s benchmark for prompt injection, code abuse, and harmful outputs.
+- **[JailbreakBench](https://github.com/llm-benchmarks/jailbreakbench)** – Standard test suite for jailbreak and guardrail bypass detection.
+- **[AgentDojo](https://github.com/llm-benchmarks/agentdojo)** – Multi-agent security benchmark environment.
+
+#### 4. Commercial AI Security Platforms / BAS
+*(Enterprise-grade continuous testing, compliance, and attack simulation.)*
+- **[Mindgard](https://mindgard.ai/)** – AI security platform with model scanning, red-teaming, and runtime protection.
+- **[Qualys TotalAI](https://blog.qualys.com/product-tech/2024/12/05/qualys-totalai)** – AI vulnerability scanning and compliance management.
+- **[FireCompass AI Pentest](https://www.firecompass.com/)** – Continuous autonomous GenAI penetration testing.
+
 ### Data Security & Integrity  
 *(Ensuring the integrity, provenance, and security of training/testing data.)*  
 - *(No tools currently listed in this category.)*  
