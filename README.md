@@ -188,7 +188,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 📌 *(More to be added – A collection of AI security reports, white papers, and academic studies.)*
 
-https://research.pwnedby.me/?category=cs.AI&tag=ai 
 ---
 
 ## CTF Challenges
