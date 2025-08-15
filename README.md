@@ -187,6 +187,8 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 ## Reports and Research
 
 - [AI Security Research Feed](https://research.pwnedby.me/?category=cs.AI&tag=ai) – Continuously updated feed of AI security–related academic papers, preprints, and research indexed from arXiv.
+- [AI Security Portal – Literature Database](https://aisecurity-portal.org/en/section/literature-database/) – Categorized database of AI security literature, taxonomy, and related resources.
+
 
 
 📌 *(More to be added – A collection of AI security reports, white papers, and academic studies.)*
