@@ -167,7 +167,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ## Communities & Social Groups
 
-- [AI Security Hub (LinkedIn Group)](https://www.linkedin.com/groups/14545517/) – Community discussions, research sharing, news, and job posts focused on AI security.
+- [AI Security Hub (LinkedIn Group)](https://www.linkedin.com/groups/14545517/)
 
 ---
 
