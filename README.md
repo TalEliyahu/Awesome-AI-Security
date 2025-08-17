@@ -210,15 +210,15 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 *(Tools that actively probe LLMs to uncover vulnerabilities. Five main sub-types are recognized in research.)*
 
 - **Fuzzers** – Systematically or randomly generate inputs to discover vulnerabilities.  
-  - [LLMFuzzer](https://github.com/llm-fuzzer/LLMFuzzer) 
-  - [FuzzyAI](https://github.com/cyberark/FuzzyAI)
-  - [GPTFuzz](https://github.com/sherdencooper/GPTFuzz)
+  - **[LLMFuzzer](https://github.com/llm-fuzzer/LLMFuzzer)**
+  - **[FuzzyAI](https://github.com/cyberark/FuzzyAI)**
+  - **[GPTFuzz](https://github.com/sherdencooper/GPTFuzz)**
 
 - **Prompt Injection Scanners** – Detect known prompt injection patterns and payloads.  
-  - [Promptmap](https://github.com/utkusen/promptmap) – Prompt injection scanner with attack and detection in one.
+  - **[Promptmap](https://github.com/utkusen/promptmap)**
 
 - **Comprehensive Security Testers** – Multi-module frameworks scanning for multiple vulnerability classes in one run (injection, leakage, jailbreak, unsafe output).  
-  - [Garak](https://github.com/NVIDIA/garak) – Modular scanner covering multiple LLM vulnerabilities in one session.
+  - **[Garak](https://github.com/NVIDIA/garak)**
 
 - **Data Leakage Detectors** – Identify unintended disclosure of sensitive information.  
   - *(No dedicated open-source tool listed yet.)*
@@ -232,7 +232,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ### Benchmarks / Test Suites
 *(Standardized datasets and scoring methods for resilience measurement.)*
-- **[Purple Llama — CyberSecEval](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks)** — Cybersecurity evaluation suite for LLMs (e.g., insecure code generation, assistance-in-cyberattacks).
+- **[Purple Llama — CyberSecEval](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks)**
 - **[AgentDojo](https://github.com/llm-benchmarks/agentdojo)** 
 - **[JailbreakBench](https://github.com/JailbreakBench/jailbreakbench)**
 
@@ -240,13 +240,10 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 *Scan model files **before loading**; supply-chain hygiene.*
 
 - **Protect AI — ModelScan** — Open-source serialized model scanner (Pickle/TF/Keras).  
-  GitHub: https://github.com/protectai/modelscan • Site: https://protectai.com/modelscan
-- **HiddenLayer — Model Scanner** — Commercial artifact scanner.  
-  Site: https://hiddenlayer.com/model-scanner/
-- **Trail of Bits — Fickling** — Pickle decompiler/static analyzer for `.pkl`/`.pt`.  
-  https://github.com/trailofbits/fickling
-- **picklescan** — Lightweight Pickle scanner (fast triage).  
-  https://github.com/mmaitre314/picklescan
+  GitHub: https://github.com/protectai/modelscan - https://protectai.com/modelscan
+- **HiddenLayer — Model Scanner** — Commercial artifact scanner - https://hiddenlayer.com/model-scanner/
+- **Trail of Bits — Fickling** — Pickle decompiler/static analyzer for `.pkl`/`.pt`. - https://github.com/trailofbits/fickling
+- **picklescan** — Lightweight Pickle scanner (fast triage). - https://github.com/mmaitre314/picklescan
 
 ### Model Training & Hardening (white-box/robustness)
 *Attack/defense libraries for robustness research and training-time hardening.*
