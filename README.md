@@ -229,7 +229,8 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 ### Benchmarks / Test Suites
 *(Standardized datasets and scoring methods for resilience measurement.)*
 - **[Purple Llama — CyberSecEval](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks)** — Cybersecurity evaluation suite for LLMs (e.g., insecure code generation, assistance-in-cyberattacks).
-- **[AgentDojo](https://github.com/llm-benchmarks/agentdojo)** – Multi-agent security benchmark environment.
+- **[AgentDojo](https://github.com/llm-benchmarks/agentdojo)** 
+- **[JailbreakBench](https://github.com/JailbreakBench/jailbreakbench)**
 
 ### Data Security & Integrity — Model Artifact Scanning (static)
 *Scan model files **before loading**; supply-chain hygiene.*
