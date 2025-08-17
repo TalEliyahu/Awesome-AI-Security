@@ -210,7 +210,9 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 *(Tools that actively probe LLMs to uncover vulnerabilities. Five main sub-types are recognized in research.)*
 
 - **Fuzzers** – Systematically or randomly generate inputs to discover vulnerabilities.  
-  - [LLMFuzzer](https://github.com/llm-fuzzer/LLMFuzzer) – Fuzzing-based jailbreak and prompt injection discovery.
+  - [LLMFuzzer](https://github.com/llm-fuzzer/LLMFuzzer) 
+  - [FuzzyAI](https://github.com/cyberark/FuzzyAI)
+  - [GPTFuzz](https://github.com/sherdencooper/GPTFuzz)
 
 - **Prompt Injection Scanners** – Detect known prompt injection patterns and payloads.  
   - [Promptmap](https://github.com/utkusen/promptmap) – Prompt injection scanner with attack and detection in one.
