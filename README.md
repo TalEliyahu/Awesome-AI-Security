@@ -205,8 +205,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ## Tools
 
-### Offensive Security Tools for LLMs & GenAI
-
 #### Active LLM Vulnerability Scanners
 *(Tools that actively probe LLMs to uncover vulnerabilities. Five main sub-types are recognized in research.)*
 
@@ -225,41 +223,61 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - **Data Leakage Detectors** – Identify unintended disclosure of sensitive information.  
   - *(No dedicated open-source tool listed yet.)*
 
-#### 2. Automated Red-Teaming Harnesses
+#### Automated Red-Teaming Harnesses
 *(Goal-driven, adaptive attack orchestrators that can chain tools like garak.)*
 - **[PyRIT](https://github.com/Azure/PyRIT)** – Microsoft’s Python Risk Identification Tool for orchestrated red-teaming.
 - **[DeepTeam](https://github.com/confident-ai/deepteam)** – Plug-and-play LLM red-team framework for bias, jailbreaks, and PII leaks.
 - **[PentestGPT](https://github.com/GreyDGL/PentestGPT)** – LLM-powered penetration testing assistant for complex multi-step workflows.
 
-#### 3. Benchmarks / Test Suites
+#### Benchmarks / Test Suites
 *(Standardized datasets and scoring methods for resilience measurement.)*
 - **[Purple Llama – CyberSecEval](https://github.com/meta-llama/PurpleLlama)** — Meta’s benchmark suite for testing LLMs against offensive risks, including prompt injection, exploit code generation, and harmful content creation.
 - **[JailbreakBench](https://github.com/llm-benchmarks/jailbreakbench)** – Standard test suite for jailbreak and guardrail bypass detection.
 - **[AgentDojo](https://github.com/llm-benchmarks/agentdojo)** – Multi-agent security benchmark environment.
 
-#### 4. Commercial AI Security Platforms / BAS
-*(Enterprise-grade continuous testing, compliance, and attack simulation.)*
-- **[Mindgard](https://mindgard.ai/)** – AI security platform with model scanning, red-teaming, and runtime protection.
+### Data Security & Integrity — Model Artifact Scanning (static)
+*Scan model files **before loading**; supply-chain hygiene.*
 
-### Data Security & Integrity  
-*(Ensuring the integrity, provenance, and security of training/testing data.)*  
-- *(No tools currently listed in this category.)*  
+- **Protect AI — ModelScan** — Open-source serialized model scanner (Pickle/TF/Keras).  
+  GitHub: https://github.com/protectai/modelscan • Site: https://protectai.com/modelscan
+- **HiddenLayer — Model Scanner** — Commercial artifact scanner.  
+  Site: https://hiddenlayer.com/model-scanner/ • Azure: https://azuremarketplace.microsoft.com/en-us/marketplace/apps/hiddenlayerinc1690422428200.hiddenlayer-model-scanner
+- **Trail of Bits — Fickling** — Pickle decompiler/static analyzer for `.pkl`/`.pt`.  
+  https://github.com/trailofbits/fickling
+- **picklescan** — Lightweight Pickle scanner (fast triage).  
+  https://github.com/mmaitre314/picklescan
+- **Hugging Face — safetensors** — Safer, non-executable tensor format (prefer over Pickle).  
+  https://github.com/huggingface/safetensors
 
-### Model Training & Hardening  
-*(Protecting models from adversarial attacks during training.)*  
-- **[Foolbox](https://github.com/bethgelab/foolbox)** – A Python library for running adversarial attacks against machine learning models, including deep neural networks.  
+### Model Training & Hardening (white-box/robustness)
+*Attack/defense libraries for robustness research and training-time hardening.*
 
-### Model Evaluation & Adversarial Testing  
-*(Assessing AI model security posture before deployment.)*  
-- **[Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)** – Provides tools to defend and evaluate machine learning models against adversarial threats, including evasion, poisoning, extraction, and inference attacks.
-- **[DeepEval](https://github.com/deepeval/deepeval)** – An LLM evaluation framework designed for testing large language models. Supports hallucination detection, bias analysis, RAG assessment, adversarial robustness testing, and model benchmarking.  
-- **[RobustBench](https://github.com/RobustBench/robustbench)** – A standardized adversarial robustness benchmark that evaluates AI models against adversarial perturbations, common corruptions, and adaptive attacks.
-- **[PyRIT](https://github.com/Azure/PyRIT)** – The Python Risk Identification Tool for generative AI (PyRIT) is an open-source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.  
+- **Foolbox** — Adversarial attacks for robustness research.  
+  https://github.com/bethgelab/foolbox
 
-### Model Deployment & Security Monitoring  
-*(Ensuring secure AI model deployment and detecting vulnerabilities in operational environments.)*  
-- **[Agentic Security](https://github.com/msoedov/agentic_security)** – An open-source vulnerability scanner for Agent Workflows and Large Language Models (LLMs). Helps protect AI systems from jailbreaks, fuzzing, and multimodal attacks.
-- **[LLM Guard](https://github.com/protectai/llm-guard)** – A security toolkit for Large Language Model (LLM) interactions, providing sanitization, harmful language detection, data leakage prevention, and resistance against prompt injection attacks.
+### Model Evaluation & Adversarial Testing (white-box & general eval)
+*Evaluate/defend against evasion, poisoning, extraction, inference attacks.*
+
+- **Adversarial Robustness Toolbox (ART)** — Comprehensive attacks & defenses.  
+  https://github.com/Trusted-AI/adversarial-robustness-toolbox
+- **DeepEval** — LLM evaluation (hallucination, RAG, adversarial, bias).  
+  https://github.com/deepeval/deepeval
+- **RobustBench** — Adversarial robustness benchmark & leaderboard.  
+  https://github.com/RobustBench/robustbench
+
+### Model Deployment & Security Monitoring (agentic/RAG apps)
+*Operational checks for agentic services; pre-deploy and runtime.*
+
+- **Agentic Security** — Scanner for agent workflows and LLM apps (jailbreaks, fuzzing, multimodal issues).  
+  https://github.com/msoedov/agentic_security
+
+### Runtime Guardrails & DLP (defenses, not scanners)
+*Filters/sanitizers to reduce leakage and unsafe content in production.*
+
+- **LLM Guard** — Prompt/output DLP, PII redaction, PI resistance.  
+  https://github.com/protectai/llm-guard
+- **Microsoft Presidio** — PII detection/anonymization SDK.  
+  https://github.com/microsoft/presidio
 
 ---
 
