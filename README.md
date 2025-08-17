@@ -260,8 +260,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
   https://github.com/Trusted-AI/adversarial-robustness-toolbox
 - **DeepEval** — LLM evaluation (hallucination, RAG, adversarial, bias).  
   https://github.com/deepeval/deepeval
-- **RobustBench** — Adversarial robustness benchmark & leaderboard.  
-  https://github.com/RobustBench/robustbench
 
 ### Model Deployment & Security Monitoring (agentic/RAG apps)
 *Operational checks for agentic services; pre-deploy and runtime.*
