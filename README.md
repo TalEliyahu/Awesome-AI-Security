@@ -246,8 +246,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
   https://github.com/trailofbits/fickling
 - **picklescan** — Lightweight Pickle scanner (fast triage).  
   https://github.com/mmaitre314/picklescan
-- **Hugging Face — safetensors** — Safer, non-executable tensor format (prefer over Pickle).  
-  https://github.com/huggingface/safetensors
 
 ### Model Training & Hardening (white-box/robustness)
 *Attack/defense libraries for robustness research and training-time hardening.*
