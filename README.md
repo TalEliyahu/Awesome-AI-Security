@@ -19,6 +19,7 @@ This list is still a work in progress — check back in a few days.
 - [AI Security Courses](#ai-security-courses)
 - [AI Security Guides & Learning Resources](#ai-security-guides--learning-resources)
 - [Research Working Groups](#research-working-groups)
+- [Communities & Social Groups](#communities--social-groups)
 - [Additional AI Security Resources](#additional-ai-security-resources)
 - [Newsletter](#newsletter)
 - [Conferences and Events](#conferences-and-events)
@@ -161,6 +162,12 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - [CWE Artificial Intelligence Working Group (AI WG)](https://cwe.mitre.org/community/working_groups.html) – The AI WG was established by CWE™ and CVE® community stakeholders to identify and address gaps in the CWE corpus where AI-related weaknesses are not adequately covered, and work collaboratively to fix them.
 
 📌 *(More working groups to be added.)*
+
+---
+
+## Communities & Social Groups
+
+- [AI Security Hub (LinkedIn Group)](https://www.linkedin.com/groups/14545517/) – Community discussions, research sharing, news, and job posts focused on AI security.
 
 ---
 
