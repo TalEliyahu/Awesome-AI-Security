@@ -217,9 +217,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - **Comprehensive Security Testers** – Multi-module frameworks scanning for multiple vulnerability classes in one run (injection, leakage, jailbreak, unsafe output).  
   - [Garak](https://github.com/NVIDIA/garak) – Modular scanner covering multiple LLM vulnerabilities in one session.
 
-- **Jailbreak & Safety Bypass Testers** – Probe for policy evasion and unsafe content generation.  
-  - [JailbreakBench](https://github.com/JailbreakBench/jailbreakbench) – Standard test suite for jailbreak and guardrail bypass detection.
-
 - **Data Leakage Detectors** – Identify unintended disclosure of sensitive information.  
   - *(No dedicated open-source tool listed yet.)*
 
@@ -232,7 +229,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 ### Benchmarks / Test Suites
 *(Standardized datasets and scoring methods for resilience measurement.)*
 - **[Purple Llama – CyberSecEval](https://github.com/meta-llama/PurpleLlama)** — Meta’s benchmark suite for testing LLMs against offensive risks, including prompt injection, exploit code generation, and harmful content creation.
-- **[JailbreakBench](https://github.com/JailbreakBench/jailbreakbench)** – Standard test suite for jailbreak and guardrail bypass detection.
 - **[AgentDojo](https://github.com/llm-benchmarks/agentdojo)** – Multi-agent security benchmark environment.
 
 ### Data Security & Integrity — Model Artifact Scanning (static)
@@ -272,9 +268,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 - **LLM Guard** — Prompt/output DLP, PII redaction, PI resistance.  
   https://github.com/protectai/llm-guard
-- **Microsoft Presidio** — PII detection/anonymization SDK.  
-  https://github.com/microsoft/presidio
-
 ---
 
 ## [Podcasts](#podcasts)
