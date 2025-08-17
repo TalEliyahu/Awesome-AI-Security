@@ -205,7 +205,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ## Tools
 
-#### Active LLM Vulnerability Scanners
+### Active LLM Vulnerability Scanners
 *(Tools that actively probe LLMs to uncover vulnerabilities. Five main sub-types are recognized in research.)*
 
 - **Fuzzers** – Systematically or randomly generate inputs to discover vulnerabilities.  
@@ -223,13 +223,13 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - **Data Leakage Detectors** – Identify unintended disclosure of sensitive information.  
   - *(No dedicated open-source tool listed yet.)*
 
-#### Automated Red-Teaming Harnesses
+### Automated Red-Teaming Harnesses
 *(Goal-driven, adaptive attack orchestrators that can chain tools like garak.)*
 - **[PyRIT](https://github.com/Azure/PyRIT)** – Microsoft’s Python Risk Identification Tool for orchestrated red-teaming.
 - **[DeepTeam](https://github.com/confident-ai/deepteam)** – Plug-and-play LLM red-team framework for bias, jailbreaks, and PII leaks.
 - **[PentestGPT](https://github.com/GreyDGL/PentestGPT)** – LLM-powered penetration testing assistant for complex multi-step workflows.
 
-#### Benchmarks / Test Suites
+### Benchmarks / Test Suites
 *(Standardized datasets and scoring methods for resilience measurement.)*
 - **[Purple Llama – CyberSecEval](https://github.com/meta-llama/PurpleLlama)** — Meta’s benchmark suite for testing LLMs against offensive risks, including prompt injection, exploit code generation, and harmful content creation.
 - **[JailbreakBench](https://github.com/llm-benchmarks/jailbreakbench)** – Standard test suite for jailbreak and guardrail bypass detection.
