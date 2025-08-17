@@ -2,6 +2,8 @@
 
 > Curated resources, research, and tools for securing AI systems.
 
+🔴 Heads up: This list is still a work in progress — check back in a few days.
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ---
