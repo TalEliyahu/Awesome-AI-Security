@@ -241,7 +241,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - **Protect AI — ModelScan** — Open-source serialized model scanner (Pickle/TF/Keras).  
   GitHub: https://github.com/protectai/modelscan • Site: https://protectai.com/modelscan
 - **HiddenLayer — Model Scanner** — Commercial artifact scanner.  
-  Site: https://hiddenlayer.com/model-scanner/ • Azure: https://azuremarketplace.microsoft.com/en-us/marketplace/apps/hiddenlayerinc1690422428200.hiddenlayer-model-scanner
+  Site: https://hiddenlayer.com/model-scanner/
 - **Trail of Bits — Fickling** — Pickle decompiler/static analyzer for `.pkl`/`.pt`.  
   https://github.com/trailofbits/fickling
 - **picklescan** — Lightweight Pickle scanner (fast triage).  
