@@ -223,9 +223,10 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ### Automated Red-Teaming Harnesses
 *(Goal-driven, adaptive attack orchestrators that can chain tools like garak.)*
-- **[PyRIT](https://github.com/Azure/PyRIT)** – Microsoft’s Python Risk Identification Tool for orchestrated red-teaming.
-- **[DeepTeam](https://github.com/confident-ai/deepteam)** – Plug-and-play LLM red-team framework for bias, jailbreaks, and PII leaks.
-- **[PentestGPT](https://github.com/GreyDGL/PentestGPT)** – LLM-powered penetration testing assistant for complex multi-step workflows.
+- **[PyRIT](https://github.com/Azure/PyRIT)** 
+- **[DeepTeam](https://github.com/confident-ai/deepteam)** 
+- **[PentestGPT](https://github.com/GreyDGL/PentestGPT)** 
+- **[promptfoo](https://github.com/promptfoo/promptfoo)** 
 
 ### Benchmarks / Test Suites
 *(Standardized datasets and scoring methods for resilience measurement.)*
