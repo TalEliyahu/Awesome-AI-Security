@@ -27,7 +27,7 @@
 - [Reports and Research](#reports-and-research)
 - [CTF Challenges](#ctf-challenges)
 - [Podcasts](#podcasts)
-- [Solutions Landscape]
+- [Solutions Landscape](#solutions-landscape)
 - [Related Awesome Lists](#related-awesome-lists)
 
 ---
