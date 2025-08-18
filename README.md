@@ -133,9 +133,9 @@
 ### MCP Security, Gateways & Testing
 *Utilities to secure, test, and operate Model Context Protocol (MCP) servers/clients.*
 
-- **[MCP Inspector (official)](https://github.com/modelcontextprotocol/inspector)** — Explore/validate MCP servers, inspect schemas/methods, and simulate calls for hardening & debugging.[![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector?logo=github&label=&style=social)](https://github.com/modelcontextprotocol/inspector)
+- **[MCP Inspector (official)](https://github.com/modelcontextprotocol/inspector)** [![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector?logo=github&label=&style=social)](https://github.com/modelcontextprotocol/inspector)
 
-- **[mcp-scan (Invariant Labs)](https://github.com/invariantlabs-ai/mcp-scan)** — Security scanner for MCP servers; audits capabilities, flags misconfigurations, and produces CI-friendly reports.[![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
+- **[mcp-scan (Invariant Labs)](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
 
 ---
 
