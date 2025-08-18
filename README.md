@@ -264,8 +264,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 - **Adversarial Robustness Toolbox (ART)** — Comprehensive attacks & defenses.  
   https://github.com/Trusted-AI/adversarial-robustness-toolbox
-- **DeepEval** — LLM evaluation (hallucination, RAG, adversarial, bias).  
-  https://github.com/deepeval/deepeval
 
 ### Model Deployment & Security Monitoring (agentic/RAG apps)
 *Operational checks for agentic services; pre-deploy and runtime.*
