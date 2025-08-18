@@ -228,9 +228,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
   - **[Garak](https://github.com/NVIDIA/garak)**
   - **[Agentic Security](https://github.com/msoedov/agentic_security)** 
 
-- **Data Leakage Detectors** – Identify unintended disclosure of sensitive information.  
-  - *(No dedicated open-source tool listed yet.)*
-
 ### Automated Red-Teaming Harnesses
 *Goal-driven automated red-team frameworks for LLM/agent apps; run multi-step attacks and can be paired with scanners (e.g., garak) in CI.*
 - **[PyRIT](https://github.com/Azure/PyRIT)**
