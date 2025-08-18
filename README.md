@@ -135,6 +135,14 @@
 - **[MCP Inspector](https://github.com/modelcontextprotocol/inspector)** [![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector?logo=github&label=&style=social)](https://github.com/modelcontextprotocol/inspector)
 - **[mcp-scan (Invariant Labs)](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
 
+- **[MCP Inspector — modelcontextprotocol](https://github.com/modelcontextprotocol/inspector)** [![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector?logo=github&label=&style=social)](https://github.com/modelcontextprotocol/inspector)
+- **[MCP Scan — invariantlabs-ai](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
+- **[MCP Shield — riseandignite](https://github.com/riseandignite/mcp-shield)** [![GitHub Repo stars](https://img.shields.io/github/stars/riseandignite/mcp-shield?logo=github&label=&style=social)](https://github.com/riseandignite/mcp-shield)
+- **[MCP Gateway — Docker](https://github.com/docker/mcp-gateway)** [![GitHub Repo stars](https://img.shields.io/github/stars/docker/mcp-gateway?logo=github&label=&style=social)](https://github.com/docker/mcp-gateway)
+- **[Semgrep MCP Server — semgrep](https://github.com/semgrep/mcp)** [![GitHub Repo stars](https://img.shields.io/github/stars/semgrep/mcp?logo=github&label=&style=social)](https://github.com/semgrep/mcp)
+
+
+
 ### Pentesting Assistants
 *Designed for security engineers, pentesters, and bounty hunters—tools to speed recon, triage, and testing.*
 
