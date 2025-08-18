@@ -199,21 +199,21 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - [DamnVulnerableLLMApplication-Demo](https://github.com/greshake/DamnVulnerableLLMApp) – A project designed for security researchers to practice LLM hacking techniques and for AI companies to improve the security of their models and systems.
 
 ---
+
 ## Tools
 
 ### Active LLM Vulnerability Scanners
-*(Tools that actively probe LLMs to uncover vulnerabilities. Five main sub-types are recognized in research.)*
+*(Tools that actively probe LLMs to uncover vulnerabilities)*
 
-- **Fuzzers** – Systematically or randomly generate inputs to discover vulnerabilities.  
-
+- **Fuzzers** – Generate/mutate inputs to trigger unsafe or undesired model behaviors (e.g., jailbreaks, injections).
   - **[LLMFuzzer](https://github.com/mnns/LLMFuzzer)** [![GitHub Repo stars](https://img.shields.io/github/stars/mnns/LLMFuzzer?logo=github&label=&style=social)](https://github.com/mnns/LLMFuzzer)
   - **[FuzzyAI](https://github.com/cyberark/FuzzyAI)** [![GitHub Repo stars](https://img.shields.io/github/stars/cyberark/FuzzyAI?logo=github&label=&style=social)](https://github.com/cyberark/FuzzyAI)
   - **[GPTFuzz](https://github.com/sherdencooper/GPTFuzz)** [![GitHub Repo stars](https://img.shields.io/github/stars/sherdencooper/GPTFuzz?logo=github&label=&style=social)](https://github.com/sherdencooper/GPTFuzz)
 
-- **Prompt Injection Scanners** – Detect known prompt injection patterns and payloads.  
+- **Prompt Injection Scanners** – Detect known prompt injection patterns and payloads.
   - **[Promptmap](https://github.com/utkusen/promptmap)** [![GitHub Repo stars](https://img.shields.io/github/stars/utkusen/promptmap?logo=github&label=&style=social)](https://github.com/utkusen/promptmap)
 
-- **Comprehensive Security Testers** – Multi-module frameworks scanning for multiple vulnerability classes in one run (injection, leakage, jailbreak, unsafe output).  
+- **Comprehensive Security Testers** – Multi-module scanners for multiple vulnerability classes in one run (injection, leakage, jailbreak, unsafe output).
   - **[Garak](https://github.com/NVIDIA/garak)** [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/garak?logo=github&label=&style=social)](https://github.com/NVIDIA/garak)
   - **[Agentic Security](https://github.com/msoedov/agentic_security)** [![GitHub Repo stars](https://img.shields.io/github/stars/msoedov/agentic_security?logo=github&label=&style=social)](https://github.com/msoedov/agentic_security)
 
@@ -232,7 +232,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - **[JailbreakBench](https://github.com/JailbreakBench/jailbreakbench)** [![GitHub Repo stars](https://img.shields.io/github/stars/JailbreakBench/jailbreakbench?logo=github&label=&style=social)](https://github.com/JailbreakBench/jailbreakbench)
 
 ### Data Security & Integrity — Model Artifact Scanning (static)
-*Scan model files **before loading**; supply-chain hygiene.*
+*Scan model files before loading to catch unsafe deserialization (e.g., pickle RCE) and improve supply-chain hygiene.*
 
 - **[Protect AI — ModelScan](https://github.com/protectai/modelscan)** [![GitHub Repo stars](https://img.shields.io/github/stars/protectai/modelscan?logo=github&label=&style=social)](https://github.com/protectai/modelscan)
 - **[Trail of Bits — Fickling](https://github.com/trailofbits/fickling)** [![GitHub Repo stars](https://img.shields.io/github/stars/trailofbits/fickling?logo=github&label=&style=social)](https://github.com/trailofbits/fickling)
