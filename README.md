@@ -8,7 +8,7 @@
 [![Join @AISecHub on Telegram](https://img.shields.io/badge/Join-@AISecHub-2CA5E0?logo=telegram&logoColor=white)](https://t.me/AISecHub)
 ---
 
-## Table of Contents
+## Contents
 
 - [Best Practices and Security Standards](#best-practices-and-security-standards)
 - [AI Risk and Incident Databases](#ai-risk-and-incident-databases)
@@ -267,8 +267,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
-## [Podcasts](#podcasts)
-
+## Podcasts
 
 - [**The MLSecOps Podcast**](https://podcasts.apple.com/us/podcast/the-mlsecops-podcast/id1679667447) – Insightful conversations with industry leaders and AI experts, exploring the fascinating world of machine learning security operations.
 
