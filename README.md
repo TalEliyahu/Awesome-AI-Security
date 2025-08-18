@@ -306,6 +306,13 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
+### Solutions Landscape
+
+- [OWASP — LLM and Generative AI Security Solutions Landscape](https://genai.owasp.org/resource/llm-and-generative-ai-security-solutions-landscape-q12025/) <!-- no official GitHub repo -->
+- [OWASP — AI Security Solutions Landscape for Agentic AI](https://genai.owasp.org/resource/ai-security-solutions-landscape-for-agentic-ai-q3-2025/) <!-- no official GitHub repo -->
+
+---
+
 ## Related Awesome Lists
 
 - [Awesome LLMSecOps — wearetyomsmnv](https://github.com/wearetyomsmnv/Awesome-LLMSecOps) [![GitHub Repo stars](https://img.shields.io/github/stars/wearetyomsmnv/Awesome-LLMSecOps?logo=github&label=&style=social)](https://github.com/wearetyomsmnv/Awesome-LLMSecOps)
