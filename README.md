@@ -33,11 +33,41 @@
 
 ## Best Practices and Security Standards
 
+**Governance & Management Frameworks**
 - [NIST AI Risk Management Framework (AI RMF)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
-- [NIST AI Risk Management Framework Playbook](https://airc.nist.gov/airmf-resources/playbook/)
+- [NIST AI RMF Playbook](https://airc.nist.gov/airmf-resources/playbook/)
+- [ISO/IEC 42001:2023](https://www.iso.org/standard/81230.html)
+- [OWASP AI Maturity Assessment (AIMA)](https://owasp.org/www-project-ai-maturity-assessment/)
+
+**Standards & Threat Lists**
+- [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+- [OWASP Machine Learning Security Top 10](https://owasp.org/www-project-machine-learning-security-top-10/)
+- [OWASP Artificial Intelligence Security Verification Standard (AISVS)](https://owasp.org/www-project-artificial-intelligence-security-verification-standard-aisvs-docs/)
+- [OWASP LLM Security Verification Standard (LLMSVS)](https://owasp.org/www-project-llm-verification-standard/)
+- [OWASP Machine Learning Security Verification Standard (MLSVS)](https://owasp.org/www-project-mlsecops-verification-standard/)
+- [OWASP AI Vulnerability Scoring System (AIVSS)](https://aivss.owasp.org/)
+- [OWASP AI Bill of Materials (AIBOM)](https://owasp.org/www-project-aibom/)
+
+**Testing, Red Teaming & Incident Response**
+- [OWASP AI Testing Guide](https://owasp.org/www-project-ai-testing-guide/)
+- [OWASP GenAI Red Teaming Guide](https://genai.owasp.org/resource/genai-red-teaming-guide/)
+- [OWASP LLM Exploit Generation](https://genai.owasp.org/resource/owasp-llm-exploit-generation-v1-0-pdf/)
+- [OWASP GenAI Incident Response Guide](https://genai.owasp.org/resource/genai-incident-response-guide-1-0/)
+
+**Guidance & Best Practices**
+- [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
 - [OWASP AI Exchange](https://owaspai.org/docs/ai_security_overview/)
-- [OWASP Top 10 for LLM and Generative AI](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-- [ISO/IEC 42001:2023 – Information technology — Artificial intelligence — Management system](https://www.iso.org/standard/81230.html)
+- [OWASP AI Security Solutions Landscape — Cheat Sheet](https://genai.owasp.org/resource/ai-security-solution-cheat-sheet-q1-2025/)
+- [Google Secure AI Framework (SAIF)](https://saif.google/)
+- [OWASP GenAI Security Project](https://genai.owasp.org/)
+
+**Agentic AI (Architecture & Governance)**
+- [OWASP Agent Observability Standard (AOS)](https://aos.owasp.org/)
+- [OWASP Agent Name Service (ANS) for Secure AI Agent Discovery](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/)
+- [OWASP Securing Agentic Applications Guide](https://genai.owasp.org/resource/securing-agentic-applications-guide-1-0/)
+- [OWASP Multi-Agentic System Threat Modeling Guide](https://genai.owasp.org/resource/multi-agentic-system-threat-modeling-guide-v1-0/)
+- [OWASP Agentic AI — Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
+- [OWASP State of Agentic AI Security and Governance](https://genai.owasp.org/resource/state-of-agentic-ai-security-and-governance-1-0/)
 
 ---
 
