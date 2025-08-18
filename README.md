@@ -241,12 +241,15 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 ### Model Training & Hardening (white-box/robustness)
 *Attack/defense libraries for robustness research and training-time hardening.*
 
-- **[Foolbox](https://github.com/bethgelab/foolbox)** — Adversarial attacks for robustness research.  [![GitHub Repo stars](https://img.shields.io/github/stars/bethgelab/foolbox?logo=github&label=&style=social)](https://github.com/bethgelab/foolbox)
+- **[Foolbox](https://github.com/bethgelab/foolbox)** — Adversarial attacks for robustness research. [![GitHub Repo stars](https://img.shields.io/github/stars/bethgelab/foolbox?logo=github&label=&style=social)](https://github.com/bethgelab/foolbox)
 
 ### Model Evaluation & Adversarial Testing (white-box & general eval)
 *Evaluate/defend against evasion, poisoning, extraction, inference attacks.*
 
-- **[Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)** — Comprehensive attacks & defenses.  [![GitHub Repo stars](https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox?logo=github&label=&style=social)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
+- **[Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)**[![GitHub Repo stars](https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox?logo=github&label=&style=social)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
+- **[TextAttack](https://github.com/QData/TextAttack)** — Adversarial NLP attack/augmentation framework for robustness testing. [![GitHub Repo stars](https://img.shields.io/github/stars/QData/TextAttack?logo=github&label=&style=social)](https://github.com/QData/TextAttack)
+- **[Giskard](https://github.com/Giskard-AI/giskard)** — Testing library that detects LLM risks (prompt injection, leakage, hallucination) and generates test suites for CI. [![GitHub Repo stars](https://img.shields.io/github/stars/Giskard-AI/giskard?logo=github&label=&style=social)](https://github.com/Giskard-AI/giskard)
+
 
 ### Runtime Guardrails & Policy Enforcement
 *Filters/classifiers used inline at runtime to block jailbreaks, prompt injection, and leaks.*
