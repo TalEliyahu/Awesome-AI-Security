@@ -258,6 +258,9 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - **[Rebuff (Protect AI)](https://github.com/protectai/rebuff)** [![GitHub Repo stars](https://img.shields.io/github/stars/protectai/rebuff?logo=github&label=&style=social)](https://github.com/protectai/rebuff)
 - **[LLM Guard (Protect AI)](https://github.com/protectai/llm-guard)** [![GitHub Repo stars](https://img.shields.io/github/stars/protectai/llm-guard?logo=github&label=&style=social)](https://github.com/protectai/llm-guard)
 - **[Llama Guard (Meta)](https://github.com/meta-llama/PurpleLlama/tree/main/Llama-Guard4)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama) [Model card](https://huggingface.co/meta-llama/Llama-Guard-4-12B)
+- **[LlamaFirewall (Meta)](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
+- **[Code Shield (Meta)](https://github.com/meta-llama/PurpleLlama/tree/main/CodeShield)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
+
 
 ---
 
