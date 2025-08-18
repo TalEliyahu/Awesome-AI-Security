@@ -246,23 +246,20 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 ### Data Security & Integrity — Model Artifact Scanning (static)
 *Scan model files **before loading**; supply-chain hygiene.*
 
-- **Protect AI — ModelScan** — Open-source serialized model scanner (Pickle/TF/Keras).  
-  GitHub: https://github.com/protectai/modelscan
-- **HiddenLayer — Model Scanner** — Commercial artifact scanner - https://hiddenlayer.com/model-scanner/
-- **Trail of Bits — Fickling** — Pickle decompiler/static analyzer for `.pkl`/`.pt`. - https://github.com/trailofbits/fickling
-- **picklescan** — Lightweight Pickle scanner (fast triage). - https://github.com/mmaitre314/picklescan
+- **[Protect AI — ModelScan](https://github.com/protectai/modelscan)** — Open-source serialized model scanner (Pickle/TF/Keras).
+- **[HiddenLayer — Model Scanner](https://hiddenlayer.com/model-scanner/)** — Commercial artifact scanner
+- **[Trail of Bits — Fickling](https://github.com/trailofbits/fickling)** — Pickle decompiler/static analyzer for `.pkl`/`.pt`. 
+- **[picklescan](https://github.com/mmaitre314/picklescan)** — Lightweight Pickle scanner (fast triage).
 
 ### Model Training & Hardening (white-box/robustness)
 *Attack/defense libraries for robustness research and training-time hardening.*
 
-- **Foolbox** — Adversarial attacks for robustness research.  
-  https://github.com/bethgelab/foolbox
+- **[Foolbox](https://github.com/bethgelab/foolbox)** — Adversarial attacks for robustness research.  
 
 ### Model Evaluation & Adversarial Testing (white-box & general eval)
 *Evaluate/defend against evasion, poisoning, extraction, inference attacks.*
 
-- **Adversarial Robustness Toolbox (ART)** — Comprehensive attacks & defenses.  
-  https://github.com/Trusted-AI/adversarial-robustness-toolbox
+- **[Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)** — Comprehensive attacks & defenses.  
 
 ### Runtime Guardrails & Policy Enforcement
 *Filters/classifiers used inline at runtime to block jailbreaks, prompt injection, and leaks.*
