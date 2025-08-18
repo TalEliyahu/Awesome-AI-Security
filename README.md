@@ -54,10 +54,7 @@
 
 **Guidance & Best Practices**
 - [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
-- [OWASP AI Exchange](https://owaspai.org/docs/ai_security_overview/)
-- [OWASP AI Security Solutions Landscape — Cheat Sheet](https://genai.owasp.org/resource/ai-security-solution-cheat-sheet-q1-2025/)
 - [Google Secure AI Framework (SAIF)](https://saif.google/)
-- [OWASP GenAI Security Project](https://genai.owasp.org/)
 
 **Agentic AI (Architecture & Governance)**
 - [OWASP Agent Observability Standard (AOS)](https://aos.owasp.org/)
