@@ -130,6 +130,17 @@
 - **[LlamaFirewall (Meta)](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
 - **[Code Shield (Meta)](https://github.com/meta-llama/PurpleLlama/tree/main/CodeShield)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
 
+### MCP Security, Gateways & Testing
+*Utilities to secure, test, and operate Model Context Protocol (MCP) servers/clients.*
+
+- **[MCP Gateway (IBM)](https://github.com/IBM/MCP-gateway)** — Enterprise MCP gateway/proxy with authentication, rate limiting, and observability for safe production exposure.  
+  [![GitHub Repo stars](https://img.shields.io/github/stars/IBM/MCP-gateway?logo=github&label=&style=social)](https://github.com/IBM/MCP-gateway)
+
+- **[MCP Inspector (official)](https://github.com/modelcontextprotocol/inspector)** — Explore/validate MCP servers, inspect schemas/methods, and simulate calls for hardening & debugging.  
+  [![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector?logo=github&label=&style=social)](https://github.com/modelcontextprotocol/inspector)
+
+- **[mcp-scan (Invariant Labs)](https://github.com/invariantlabs-ai/mcp-scan)** — Security scanner for MCP servers; audits capabilities, flags misconfigurations, and produces CI-friendly reports.  
+  [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
 
 ---
 
