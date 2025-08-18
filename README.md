@@ -233,8 +233,9 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
   - *(No dedicated open-source tool listed yet.)*
 
 ### Automated Red-Teaming Harnesses
-*(Goal-driven, adaptive attack orchestrators that can chain tools like garak.)*
-- **[PyRIT](https://github.com/Azure/PyRIT)** 
+*Goal-driven automated red-team frameworks for LLM/agent apps; run multi-step attacks and can be paired with scanners (e.g., garak) in CI.*
+- **[PyRIT](https://github.com/Azure/PyRIT)**
+- **[DeepTeam](https://github.com/confident-ai/deepteam)**
 - **[promptfoo](https://github.com/promptfoo/promptfoo)** 
 
 ### Benchmarks / Test Suites
