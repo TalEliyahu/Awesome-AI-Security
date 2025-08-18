@@ -119,7 +119,6 @@
 - **[TextAttack](https://github.com/QData/TextAttack)** [![GitHub Repo stars](https://img.shields.io/github/stars/QData/TextAttack?logo=github&label=&style=social)](https://github.com/QData/TextAttack)
 - **[Giskard](https://github.com/Giskard-AI/giskard)** [![GitHub Repo stars](https://img.shields.io/github/stars/Giskard-AI/giskard?logo=github&label=&style=social)](https://github.com/Giskard-AI/giskard)
 
-
 ### Runtime Guardrails & Policy Enforcement
 *Filters/classifiers used inline at runtime to block jailbreaks, prompt injection, and leaks.*
 
@@ -135,6 +134,16 @@
 
 - **[MCP Inspector](https://github.com/modelcontextprotocol/inspector)** [![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector?logo=github&label=&style=social)](https://github.com/modelcontextprotocol/inspector)
 - **[mcp-scan (Invariant Labs)](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
+
+### Pentesting Assistants
+*Designed for security engineers, pentesters, and bounty hunters—tools to speed recon, triage, and testing.*
+
+- **[PentestGPT](https://github.com/GreyDGL/PentestGPT)** [![GitHub Repo stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?logo=github&label=&style=social)](https://github.com/GreyDGL/PentestGPT)
+- **[hackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT)** [![GitHub Repo stars](https://img.shields.io/github/stars/ipa-lab/hackingBuddyGPT?logo=github&label=&style=social)](https://github.com/ipa-lab/hackingBuddyGPT)
+- **[BurpGPT (aress31)](https://github.com/aress31/burpgpt)** [![GitHub Repo stars](https://img.shields.io/github/stars/aress31/burpgpt?logo=github&label=&style=social)](https://github.com/aress31/burpgpt)
+- **[BurpGPT (Tenable)](https://github.com/tenable/Burp-extension-for-GPT)** [![GitHub Repo stars](https://img.shields.io/github/stars/tenable/Burp-extension-for-GPT?logo=github&label=&style=social)](https://github.com/tenable/Burp-extension-for-GPT)
+- **[ReconAIzer](https://github.com/hisxo/ReconAIzer)** [![GitHub Repo stars](https://img.shields.io/github/stars/hisxo/ReconAIzer?logo=github&label=&style=social)](https://github.com/hisxo/ReconAIzer)
+- **[EscalateGPT](https://github.com/tenable/EscalateGPT)** [![GitHub Repo stars](https://img.shields.io/github/stars/tenable/EscalateGPT?logo=github&label=&style=social)](https://github.com/tenable/EscalateGPT)
 
 ---
 
@@ -307,8 +316,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 ---
 
 ## Solutions Landscape 
-*Curated market maps of tools and vendor approaches for securing LLM and agentic AI applications across the lifecycle.*
-
+*Curated market maps of tools and vendors for securing LLM and agentic AI applications across the lifecycle.*
 
 - [OWASP — LLM and Generative AI Security Solutions Landscape](https://genai.owasp.org/resource/llm-and-generative-ai-security-solutions-landscape-q12025/)
 - [OWASP — AI Security Solutions Landscape for Agentic AI](https://genai.owasp.org/resource/ai-security-solutions-landscape-for-agentic-ai-q3-2025/) 
