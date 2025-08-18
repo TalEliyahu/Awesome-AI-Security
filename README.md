@@ -19,7 +19,6 @@
 - [AI Security Guides & Learning Resources](#ai-security-guides--learning-resources)
 - [Research Working Groups](#research-working-groups)
 - [Communities & Social Groups](#communities--social-groups)
-- [Additional AI Security Resources](#additional-ai-security-resources)
 - [Newsletter](#newsletter)
 - [Conferences and Events](#conferences-and-events)
 - [Reports and Research](#reports-and-research)
@@ -167,13 +166,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 ## Communities & Social Groups
 
 - [AI Security Hub (LinkedIn Group)](https://www.linkedin.com/groups/14545517/)
-
----
-
-## Additional AI Security Resources
-
-- [LLM Security](http://llmsecurity.net)
-- [Vinija AI](http://vinija.ai/models/LLM/)
 
 ---
 
