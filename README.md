@@ -15,12 +15,12 @@
 - [Glossary](#glossary)
 - [Taxonomy](#taxonomy)
 - [AI Security Knowledge Bases](#ai-security-knowledge-bases)
-- [Benchmarks](#benchmarks)
 - [Datasets](#datasets)
 - [AI Security Courses](#ai-security-courses)
 - [AI Security Guides & Learning Resources](#ai-security-guides--learning-resources)
 - [Research Working Groups](#research-working-groups)
 - [Communities & Social Groups](#communities--social-groups)
+- [Benchmarks](#benchmarks)
 - [Newsletter](#newsletter)
 - [Conferences and Events](#conferences-and-events)
 - [Reports and Research](#reports-and-research)
@@ -65,42 +65,6 @@
 
 - [MITRE ATLAS](http://atlas.mitre.org) – A knowledge base of tactics, techniques, and case studies for adversarial threats targeting AI systems.
 - [GenAI Attacks Matrix](https://ttps.ai/matrix.html#genai-attacks-matrix) – A structured knowledge base documenting TTPs used to target GenAI-based systems, copilots, and agents.
-
----
-
-## Benchmarks
-
-### **Categories of AI Security Benchmarks**
-
-#### **Robustness & Adversarial Resilience**  
-**Purpose**: Evaluates how AI systems withstand adversarial attacks, including evasion, poisoning, and model extraction. Ensures AI remains functional under manipulation.  
-**NIST AI RMF Alignment**: **Measure, Manage**  
-- **Measure**: Identify risks related to adversarial attacks.  
-- **Manage**: Implement mitigation strategies to ensure resilience.  
-
-#### **Model & Data Integrity**  
-**Purpose**: Assesses AI models for unauthorized modifications, including backdoors and dataset poisoning. Supports trustworthiness and security of model outputs.  
-**NIST AI RMF Alignment**: **Map, Measure**  
-- **Map**: Understand and identify risks to model/data integrity.  
-- **Measure**: Evaluate and mitigate risks through validation techniques.  
-
-#### **Governance & Compliance**  
-**Purpose**: Ensures AI security aligns with governance frameworks, industry regulations, and security policies. Supports auditability and risk management.  
-**NIST AI RMF Alignment**: **Govern**  
-- **Govern**: Establish policies, accountability structures, and compliance controls.  
-
-#### **Privacy & Data Protection**  
-**Purpose**: Evaluates AI for risks like data leakage, membership inference, and model inversion. Helps ensure privacy preservation and compliance.  
-**NIST AI RMF Alignment**: **Measure, Manage**  
-- **Measure**: Identify and assess AI-related privacy risks.  
-- **Manage**: Implement security controls to mitigate privacy threats.  
-
-#### **Explainability & Trustworthiness**  
-**Purpose**: Assesses AI for transparency, fairness, and bias mitigation. Ensures AI operates in an interpretable and ethical manner.  
-**NIST AI RMF Alignment**: **Govern, Map, Measure**  
-- **Govern**: Establish policies for fairness, bias mitigation, and transparency.  
-- **Map**: Identify potential explainability risks in AI decision-making.  
-- **Measure**: Evaluate AI outputs for fairness, bias, and interpretability.  
 
 ---
 
@@ -169,6 +133,42 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 ## Communities & Social Groups
 
 - [AI Security Hub (LinkedIn Group)](https://www.linkedin.com/groups/14545517/)
+
+---
+
+## Benchmarks
+
+### **Categories of AI Security Benchmarks**
+
+#### **Robustness & Adversarial Resilience**  
+**Purpose**: Evaluates how AI systems withstand adversarial attacks, including evasion, poisoning, and model extraction. Ensures AI remains functional under manipulation.  
+**NIST AI RMF Alignment**: **Measure, Manage**  
+- **Measure**: Identify risks related to adversarial attacks.  
+- **Manage**: Implement mitigation strategies to ensure resilience.  
+
+#### **Model & Data Integrity**  
+**Purpose**: Assesses AI models for unauthorized modifications, including backdoors and dataset poisoning. Supports trustworthiness and security of model outputs.  
+**NIST AI RMF Alignment**: **Map, Measure**  
+- **Map**: Understand and identify risks to model/data integrity.  
+- **Measure**: Evaluate and mitigate risks through validation techniques.  
+
+#### **Governance & Compliance**  
+**Purpose**: Ensures AI security aligns with governance frameworks, industry regulations, and security policies. Supports auditability and risk management.  
+**NIST AI RMF Alignment**: **Govern**  
+- **Govern**: Establish policies, accountability structures, and compliance controls.  
+
+#### **Privacy & Data Protection**  
+**Purpose**: Evaluates AI for risks like data leakage, membership inference, and model inversion. Helps ensure privacy preservation and compliance.  
+**NIST AI RMF Alignment**: **Measure, Manage**  
+- **Measure**: Identify and assess AI-related privacy risks.  
+- **Manage**: Implement security controls to mitigate privacy threats.  
+
+#### **Explainability & Trustworthiness**  
+**Purpose**: Assesses AI for transparency, fairness, and bias mitigation. Ensures AI operates in an interpretable and ethical manner.  
+**NIST AI RMF Alignment**: **Govern, Map, Measure**  
+- **Govern**: Establish policies for fairness, bias mitigation, and transparency.  
+- **Map**: Identify potential explainability risks in AI decision-making.  
+- **Measure**: Evaluate AI outputs for fairness, bias, and interpretability.  
 
 ---
 
