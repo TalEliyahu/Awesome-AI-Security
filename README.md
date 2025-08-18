@@ -247,7 +247,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 *Scan model files **before loading**; supply-chain hygiene.*
 
 - **Protect AI — ModelScan** — Open-source serialized model scanner (Pickle/TF/Keras).  
-  GitHub: https://github.com/protectai/modelscan - https://protectai.com/modelscan
+  GitHub: https://github.com/protectai/modelscan
 - **HiddenLayer — Model Scanner** — Commercial artifact scanner - https://hiddenlayer.com/model-scanner/
 - **Trail of Bits — Fickling** — Pickle decompiler/static analyzer for `.pkl`/`.pt`. - https://github.com/trailofbits/fickling
 - **picklescan** — Lightweight Pickle scanner (fast triage). - https://github.com/mmaitre314/picklescan
@@ -264,16 +264,14 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - **Adversarial Robustness Toolbox (ART)** — Comprehensive attacks & defenses.  
   https://github.com/Trusted-AI/adversarial-robustness-toolbox
 
-### Model Deployment & Security Monitoring (agentic/RAG apps)
-*Operational checks for agentic services; pre-deploy and runtime.*
+### Runtime Guardrails & Policy Enforcement
+*Filters/classifiers used inline at runtime to block jailbreaks, prompt injection, and leaks.*
 
--
+- **[NeMo Guardrails (NVIDIA)](https://github.com/NVIDIA/NeMo-Guardrails)**
+- **[Rebuff (Protect AI)](https://github.com/protectai/rebuff)**
+- **[LLM Guard (Protect AI)](https://github.com/protectai/llm-guard)** 
+- **[Llama Guard (Meta)](https://huggingface.co/meta-llama/Llama-Guard-4-12B)**
 
-### Runtime Guardrails & DLP (defenses, not scanners)
-*Filters/sanitizers to reduce leakage and unsafe content in production.*
-
-- **LLM Guard** — Prompt/output DLP, PII redaction, PI resistance.  
-  https://github.com/protectai/llm-guard
 ---
 
 ## [Podcasts](#podcasts)
