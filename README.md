@@ -229,7 +229,8 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
   - **[Agentic Security](https://github.com/msoedov/agentic_security)** [![GitHub Repo stars](https://img.shields.io/github/stars/msoedov/agentic_security?logo=github&label=&style=social)](https://github.com/msoedov/agentic_security)
 
 ### Automated Red-Teaming Harnesses
-*Goal-driven automated red-team frameworks for LLM/agent apps; run multi-step attacks and can be paired with scanners (e.g., garak) in CI.*
+*(Goal-driven automated red-team frameworks for LLM/agent apps; run multi-step attacks and can be paired with scanners (e.g., garak) in CI.)*
+
 - **[PyRIT](https://github.com/Azure/PyRIT)** [![GitHub Repo stars](https://img.shields.io/github/stars/Azure/PyRIT?logo=github&label=&style=social)](https://github.com/Azure/PyRIT)
 - **[DeepTeam](https://github.com/confident-ai/deepteam)** [![GitHub Repo stars](https://img.shields.io/github/stars/confident-ai/deepteam?logo=github&label=&style=social)](https://github.com/confident-ai/deepteam)
 - **[promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?logo=github&label=&style=social)](https://github.com/promptfoo/promptfoo)
