@@ -41,7 +41,6 @@
 
 **Standards & Threat Lists**
 - [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-- [OWASP Machine Learning Security Top 10](https://owasp.org/www-project-machine-learning-security-top-10/)
 - [OWASP Artificial Intelligence Security Verification Standard (AISVS)](https://owasp.org/www-project-artificial-intelligence-security-verification-standard-aisvs-docs/)
 - [OWASP LLM Security Verification Standard (LLMSVS)](https://owasp.org/www-project-llm-verification-standard/)
 - [OWASP Machine Learning Security Verification Standard (MLSVS)](https://owasp.org/www-project-mlsecops-verification-standard/)
