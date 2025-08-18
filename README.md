@@ -226,8 +226,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 - **Comprehensive Security Testers** – Multi-module frameworks scanning for multiple vulnerability classes in one run (injection, leakage, jailbreak, unsafe output).  
   - **[Garak](https://github.com/NVIDIA/garak)**
-  - **Agentic Security** — Scanner for agent workflows and LLM apps (jailbreaks, fuzzing, multimodal issues).  
-  https://github.com/msoedov/agentic_security
+  - **[Agentic Security](https://github.com/msoedov/agentic_security)** 
 
 - **Data Leakage Detectors** – Identify unintended disclosure of sensitive information.  
   - *(No dedicated open-source tool listed yet.)*
