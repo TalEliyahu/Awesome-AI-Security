@@ -43,7 +43,6 @@
 - [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 - [OWASP Artificial Intelligence Security Verification Standard (AISVS)](https://owasp.org/www-project-artificial-intelligence-security-verification-standard-aisvs-docs/)
 - [OWASP LLM Security Verification Standard (LLMSVS)](https://owasp.org/www-project-llm-verification-standard/)
-- [OWASP Machine Learning Security Verification Standard (MLSVS)](https://owasp.org/www-project-mlsecops-verification-standard/)
 - [OWASP AI Vulnerability Scoring System (AIVSS)](https://aivss.owasp.org/)
 - [OWASP AI Bill of Materials (AIBOM)](https://owasp.org/www-project-aibom/)
 
