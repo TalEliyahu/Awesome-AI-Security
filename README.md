@@ -23,6 +23,7 @@
 - [Research Working Groups](#research-working-groups)
 - [Communities & Social Groups](#communities--social-groups)
 - [Benchmarks](#benchmarks)
+- [Incident Response](#incident-response)
 - [Newsletter](#newsletter)
 - [Conferences and Events](#conferences-and-events)
 - [Reports and Research](#reports-and-research)
@@ -287,9 +288,23 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
+## Incident Response
+
+### Incident Databases
+- [AI Incident Database (AIID)](https://incidentdatabase.ai/) 
+- [MIT AI Risk Repository — Incident Tracker](https://airisk.mit.edu/ai-incident-tracker) 
+- [AIAAIC Repository](https://www.aiaaic.org/aiaaic-repository/ai-algorithmic-and-automation-incidents)
+
+### Guides & Playbooks
+- [OWASP — GenAI Incident Response Guide](https://genai.owasp.org/resource/genai-incident-response-guide-1-0/) 
+- [OWASP — Guide for Preparing & Responding to Deepfake Events](https://genai.owasp.org/resource/guide-for-preparing-and-responding-to-deepfake-events/)
+  
+---
+
 ## Newsletter
 
 - [Adversarial AI Digest](https://www.linkedin.com/newsletters/adversarial-ai-digest-7298813894498598912/) - A digest of AI security research, threats, governance challenges, and best practices for securing AI systems.
+
 ---
 
 ## Conferences and Events
