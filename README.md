@@ -2,7 +2,6 @@
 
 > Curated resources, research, and tools for securing AI systems.
 
-This list is still a work in progress — check back in a few days.
 [![Status: Work in Progress](https://img.shields.io/badge/status-work--in--progress-red)](#) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ---
