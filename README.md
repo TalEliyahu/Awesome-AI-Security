@@ -230,21 +230,15 @@ Interactive CTFs and self-contained labs for hands-on security skills (web, pwn,
 
 - **[NYU CTF Bench](https://github.com/NYU-LLM-CTF/LLM_CTF_Database)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/LLM_CTF_Database?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database)
 
----
-
 ### Cybersecurity Knowledge (Q&A)
 Structured Q&A datasets assessing security knowledge and terminology. **Used to** evaluate factual recall and conceptual understanding.
 
 - **[CyberMetric](https://github.com/CyberMetric)** [![GitHub Repo stars](https://img.shields.io/github/stars/CyberMetric?logo=github&label=&style=social)](https://github.com/CyberMetric)
  
----
-
 ### Secure Coding & Vulnerability Detection
 Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Common Weakness Enumeration). **Used to** evaluate the model’s ability to recognize insecure code patterns and suggest secure fixes.
 
 - **[LLMSecEval](https://github.com/tuhh-softsec/LLMSecEval)** [![GitHub Repo stars](https://img.shields.io/github/stars/tuhh-softsec/LLMSecEval?logo=github&label=&style=social)](https://github.com/tuhh-softsec/LLMSecEval)
-
----
 
 ### Jailbreak & Guardrail Evaluation
 Adversarial prompt datasets—both text-only and multimodal—designed to bypass safety mechanisms or test refusal logic.
@@ -254,7 +248,6 @@ Adversarial prompt datasets—both text-only and multimodal—designed to bypass
 - **[JailBreakV-28K (Hugging Face)](https://huggingface.co/datasets/JailBreakV-28K)** — 28K multimodal (text + image) jailbreak test cases designed to test alignment vulnerabilities in MLLMs. 
 - **[LLM Red-Teaming Prompts](https://huggingface.co/datasets/llm-redteaming-prompts)** — Contains initial assessment prompts, teaching prompts, and successful red-teaming prompts across different harm categories.
 - **[Do-Not-Answer](https://github.com/Libr-AI/do-not-answer)** — Prompts that a safe, responsibly-aligned model should refuse to answer.
-
 
 ### Prompt Injection & Malicious Prompt Detection
 Datasets labeled with whether prompts are benign or malicious (i.e., injection attempts).
