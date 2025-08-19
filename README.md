@@ -187,7 +187,6 @@ Curated resources, research, and tools for securing AI systems.
 
 - [MIT AI Risk Repository](https://airisk.mit.edu/)
 - [AI Incident Database (AIID)](https://incidentdatabase.ai/)
-- [AI/ML Supply Chain Vulnerability Database](https://sightline.protectai.com/vulnerabilities)
 
 ---
 
