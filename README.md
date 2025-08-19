@@ -190,7 +190,7 @@ Resources that map adversarial **TTPs** against AI systems (matrix-style).
 Guidance and standards for securing the AI/ML software supply chain (models, datasets, code, and pipelines). *No tools here—just specs and frameworks.*
 
 - [OWASP — AI Bill of Materials (AIBOM)](https://github.com/OWASP/www-project-aibom) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-aibom?logo=github&label=&style=social)](https://github.com/OWASP/www-project-aibom)
-- [NIST — Secure Software Development Practices for Generative AI and Dual-Use Foundation Models: An SSDF Community Profile (SP 800-218A)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218A.pdf) — Published July 26, 2024.
+- [NIST — Secure Software Development Practices for Generative AI and Dual-Use Foundation Models: An SSDF Community Profile (SP 800-218A)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218A.pdf)
 
 ---
 
