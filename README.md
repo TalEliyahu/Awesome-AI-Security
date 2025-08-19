@@ -169,6 +169,8 @@ Resources that map adversarial **TTPs** against AI systems (matrix-style).
 
 - [MITRE ATLAS](http://atlas.mitre.org) – Adversarial TTP matrix and accompanying knowledge base for threats to AI systems.
 - [GenAI Attacks Matrix](https://ttps.ai/matrix.html#genai-attacks-matrix) – Matrix of TTPs targeting GenAI apps, copilots, and agents.
+- [AIDEFEND — AI Defense Framework](https://edward-playground.github.io/aidefense-framework/) • [demo](https://github.com/edward-playground/aidefense-framework) [![GitHub Repo stars](https://img.shields.io/github/stars/edward-playground/aidefense-framework?logo=github&label=&style=social)](https://github.com/edward-playground/aidefense-framework) – Interactive defensive countermeasures KB with Tactics / Pillars / Phases views; maps mitigations to MITRE ATLAS, MAESTRO, and OWASP LLM risks.
+
 
 ---
 
