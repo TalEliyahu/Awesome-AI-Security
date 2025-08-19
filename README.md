@@ -1,4 +1,4 @@
-# Awesome AI Security 🛡️
+# Awesome AI Security
 
 Curated resources, research, and tools for securing AI systems.
 
