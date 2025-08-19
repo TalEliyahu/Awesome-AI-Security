@@ -245,7 +245,7 @@ Adversarial prompt datasets—both text-only and multimodal—designed to bypass
 **Used to** test how effectively a model resists jailbreaks and enforces policy-based refusal.
 
 - **[CySecBench](https://github.com/cysecbench/dataset)** [![GitHub Repo stars](https://img.shields.io/github/stars/cysecbench/dataset?logo=github&label=&style=social)](https://github.com/cysecbench/dataset)
-- **[JailBreakV-28K (Hugging Face)](https://huggingface.co/datasets/JailBreakV-28K)** — 28K multimodal (text + image) jailbreak test cases designed to test alignment vulnerabilities in MLLMs. 
+- **[JailBreakV-28K](https://github.com/SaFoLab-WISC/JailBreakV_28K)** [![GitHub Repo stars](https://img.shields.io/github/stars/SaFoLab-WISC/JailBreakV_28K?logo=github&label=&style=social)](https://github.com/SaFoLab-WISC/JailBreakV_28K)
 - **[LLM Red-Teaming Prompts](https://huggingface.co/datasets/llm-redteaming-prompts)** — Contains initial assessment prompts, teaching prompts, and successful red-teaming prompts across different harm categories.
 - **[Do-Not-Answer](https://github.com/Libr-AI/do-not-answer)** — Prompts that a safe, responsibly-aligned model should refuse to answer.
 
