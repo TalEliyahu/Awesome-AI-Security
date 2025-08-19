@@ -12,6 +12,7 @@
 
 - [Best Practices and Security Standards](#best-practices-and-security-standards)
 - [Tools](#tools)
+- [Attack Matrices](#attack-matrices)
 - [Checklists](#checklists)
 - [AI Risk and Incident Databases](#ai-risk-and-incident-databases)
 - [Glossary](#glossary)
@@ -42,6 +43,7 @@
 - [OWASP — AI Maturity Assessment (AIMA)](https://github.com/OWASP/www-project-ai-maturity-assessment) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-ai-maturity-assessment?logo=github&label=&style=social)](https://github.com/OWASP/www-project-ai-maturity-assessment)
 - [Google — Secure AI Framework (SAIF)](https://saif.google/)
 - [OWASP — LLM & GenAI Security Center of Excellence (CoE) Guide](https://genai.owasp.org/resource/llm-and-generative-ai-security-center-of-excellence-guide/)
+- [CSA — AI Model Risk Management Framework](https://cloudsecurityalliance.org/artifacts/ai-model-risk-management-framework)
 
 ### Standards & Risk Lists
 - [OWASP — Top 10 for Large Language Model Applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-top-10-for-large-language-model-applications?logo=github&label=&style=social)](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications)
@@ -49,12 +51,16 @@
 - [OWASP — Artificial Intelligence Security Verification Standard (AISVS)](https://github.com/OWASP/AISVS) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/AISVS?logo=github&label=&style=social)](https://github.com/OWASP/AISVS)
 - [OWASP — Artificial Intelligence Vulnerability Scoring System](https://github.com/OWASP/www-project-artificial-intelligence-vulnerability-scoring-system) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-artificial-intelligence-vulnerability-scoring-system?logo=github&label=&style=social)](https://github.com/OWASP/www-project-artificial-intelligence-vulnerability-scoring-system)
 - [OWASP — AI Bill of Materials (AIBOM)](https://github.com/OWASP/www-project-aibom) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-aibom?logo=github&label=&style=social)](https://github.com/OWASP/www-project-aibom)
+- [CSA — AI Controls Matrix (AICM)](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix)
+
 
 ### Testing, Red Teaming & Incident Response
 - [OWASP — AI Testing Guide](https://github.com/OWASP/www-project-ai-testing-guide) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-ai-testing-guide?logo=github&label=&style=social)](https://github.com/OWASP/www-project-ai-testing-guide)
 - [OWASP — Red Teaming Guide](https://genai.owasp.org/resource/genai-red-teaming-guide/)
 - [OWASP — Incident Response Guide](https://genai.owasp.org/resource/genai-incident-response-guide-1-0/)
 - [OWASP — LLM Exploit Generation](https://genai.owasp.org/resource/owasp-llm-exploit-generation-v1-0-pdf/)
+- [CSA — Agentic AI Red Teaming Guide](https://cloudsecurityalliance.org/artifacts/agentic-ai-red-teaming-guide)
+
 
 ### Guidance & Best Practices
 - [OWASP — AI Security and Privacy Guide](https://github.com/OWASP/www-project-ai-security-and-privacy-guide) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-ai-security-and-privacy-guide?logo=github&label=&style=social)](https://github.com/OWASP/www-project-ai-security-and-privacy-guide)
@@ -62,6 +68,8 @@
 - [OWASP — LLM and Generative AI Security Solutions Landscape](https://genai.owasp.org/resource/llm-and-generative-ai-security-solutions-landscape-q12025/)
 - [OWASP — LLM and Gen AI Data Security Best Practices](https://genai.owasp.org/resource/llm-and-gen-ai-data-security-best-practices/)
 - [OWASP — GenAI Security Project](https://github.com/OWASP/genai-security-project) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/genai-security-project?logo=github&label=&style=social)](https://github.com/OWASP/genai-security-project)
+- [CSA — Secure LLM Systems: Essential Authorization Practices](https://cloudsecurityalliance.org/artifacts/securing-llm-backed-systems-essential-authorization-practices)
+  
 
 ### Agentic AI Security & Governance
 - [OWASP — Agent Observability Standard (AOS)](https://github.com/OWASP/www-project-agent-observability-standard) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-agent-observability-standard?logo=github&label=&style=social)](https://github.com/OWASP/www-project-agent-observability-standard)
@@ -70,6 +78,7 @@
 - [OWASP — Securing Agentic Applications Guide](https://genai.owasp.org/resource/securing-agentic-applications-guide-1-0/)
 - [OWASP — Multi-Agentic System Threat Modeling Guide](https://genai.owasp.org/resource/multi-agentic-system-threat-modeling-guide-v1-0/)
 - [OWASP — State of Agentic AI Security and Governance](https://genai.owasp.org/resource/state-of-agentic-ai-security-and-governance-1-0/)
+- [CSA — Secure Agentic System Design: A Trait-Based Approach](https://cloudsecurityalliance.org/artifacts/secure-agentic-system-design)
 
 ---
 
@@ -152,6 +161,14 @@
 
 ---
 
+## Attack Matrices
+Resources that map adversarial **TTPs** against AI systems (matrix-style).
+
+- [MITRE ATLAS](http://atlas.mitre.org) – Adversarial TTP matrix and accompanying knowledge base for threats to AI systems.
+- [GenAI Attacks Matrix](https://ttps.ai/matrix.html#genai-attacks-matrix) – Matrix of TTPs targeting GenAI apps, copilots, and agents.
+
+---
+
 ## Checklists
 
 - [OWASP — LLM Applications Cybersecurity & Governance Checklist](https://genai.owasp.org/resource/llm-applications-cybersecurity-and-governance-checklist-english/)
@@ -175,13 +192,14 @@
 ## Taxonomy
 
 - [ARC PI Taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy)
+- [CSA — Large Language Model (LLM) Threats Taxonomy](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy)
+
 
 ---
 
 ## AI Security Knowledge Bases
 
-- [MITRE ATLAS](http://atlas.mitre.org) – A knowledge base of tactics, techniques, and case studies for adversarial threats targeting AI systems.
-- [GenAI Attacks Matrix](https://ttps.ai/matrix.html#genai-attacks-matrix) – A structured knowledge base documenting TTPs used to target GenAI-based systems, copilots, and agents.
+- [AI Security Portal – Literature Database](https://aisecurity-portal.org/en/section/literature-database/) – Categorized database of AI security literature, taxonomy, and related resources.
 
 ---
 
@@ -318,9 +336,10 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 ## Reports and Research
 
 - [AI Security Research Feed](https://research.pwnedby.me/?category=cs.AI&tag=ai) – Continuously updated feed of AI security–related academic papers, preprints, and research indexed from arXiv.
-- [AI Security Portal – Literature Database](https://aisecurity-portal.org/en/section/literature-database/) – Categorized database of AI security literature, taxonomy, and related resources.
-
-
+- [CSA — The State of AI and Security Survey Report](https://cloudsecurityalliance.org/artifacts/the-state-of-ai-and-security-survey-report)
+- [CSA — Principles to Practice: Responsible AI in a Dynamic Regulatory Environment](https://cloudsecurityalliance.org/artifacts/principles-to-practice-responsible-ai-in-a-dynamic-regulatory-environment)
+- [CSA — AI Resilience: A Revolutionary Benchmarking Model for AI Safety](https://cloudsecurityalliance.org/artifacts/ai-resilience-a-revolutionary-benchmarking-model-for-ai-safety) – Governance & compliance benchmarking model.
+- [CSA — Using AI for Offensive Security](https://cloudsecurityalliance.org/artifacts/using-ai-for-offensive-security)
 
 📌 *(More to be added – A collection of AI security reports, white papers, and academic studies.)*
 
