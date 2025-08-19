@@ -156,7 +156,7 @@
 - **[hackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT)** [![GitHub Repo stars](https://img.shields.io/github/stars/ipa-lab/hackingBuddyGPT?logo=github&label=&style=social)](https://github.com/ipa-lab/hackingBuddyGPT)
 - **[HexStrike AI](https://github.com/0x4m4/hexstrike-ai)** [![GitHub Repo stars](https://img.shields.io/github/stars/0x4m4/hexstrike-ai?logo=github&label=&style=social)](https://github.com/0x4m4/hexstrike-ai)
 - **[PortSwigger — MCP Server](https://github.com/PortSwigger/mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?logo=github&label=&style=social)](https://github.com/PortSwigger/mcp-server)
-- **[BurpGPT — aress31](https://github.com/aress31/burpgpt)** [![GitHub Repo stars](https://img.shields.io/github/stars/aress31/burpgpt?logo=github&label=&style=social)](https://github.com/aress31/burpgpt)
+- **[BurpGPT](https://github.com/aress31/burpgpt)** [![GitHub Repo stars](https://img.shields.io/github/stars/aress31/burpgpt?logo=github&label=&style=social)](https://github.com/aress31/burpgpt)
 
 ---
 
