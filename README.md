@@ -113,11 +113,16 @@ Curated resources, research, and tools for securing AI systems.
 ### Code Security Review
 
 - **[claude-code-security-review - Anthropics](https://github.com/anthropics/claude-code-security-review)** [![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code-security-review?logo=github&label=&style=social)](https://github.com/anthropics/claude-code-security-review) — An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
-  
-### Benchmarks / Test Suites
+
+### Agent/Workflow Security Testbeds
+Evaluate the security of agentic or tool-using workflows end-to-end. 
+
+- **[AgentDojo](https://github.com/ethz-spylab/agentdojo)** [![GitHub Repo stars](https://img.shields.io/github/stars/ethz-spylab/agentdojo?logo=github&label=&style=social)](https://github.com/ethz-spylab/agentdojo)
+- **[Agentic Radar](https://github.com/splx-ai/agentic-radar)** [![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?logo=github&label=&style=social)](https://github.com/splx-ai/agentic-radar)
+
+### Benchmarks
 
 - **[Purple Llama — CyberSecEval](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
-- **[AgentDojo](https://github.com/ethz-spylab/agentdojo)** [![GitHub Repo stars](https://img.shields.io/github/stars/ethz-spylab/agentdojo?logo=github&label=&style=social)](https://github.com/ethz-spylab/agentdojo)
 - **[JailbreakBench](https://github.com/JailbreakBench/jailbreakbench)** [![GitHub Repo stars](https://img.shields.io/github/stars/JailbreakBench/jailbreakbench?logo=github&label=&style=social)](https://github.com/JailbreakBench/jailbreakbench)
 
 ### Data Security & Integrity — Model Artifact Scanning (static)
