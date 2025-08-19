@@ -23,7 +23,7 @@ Curated resources, research, and tools for securing AI systems.
 - [Guides & Learning Resources](#ai-security-guides--learning-resources)
 - [Research Working Groups](#research-working-groups)
 - [Communities & Social Groups](#communities--social-groups)
-- [Benchmarking Categories](#benchmarking-categories)
+- [Benchmarking](#benchmarking)
 - [Incident Response](#incident-response)
 - [Supply Chain Security](#supply-chain-security)
 - [Newsletter](#newsletter)
@@ -119,11 +119,6 @@ Evaluate the security of agentic or tool-using workflows end-to-end.
 
 - **[AgentDojo](https://github.com/ethz-spylab/agentdojo)** [![GitHub Repo stars](https://img.shields.io/github/stars/ethz-spylab/agentdojo?logo=github&label=&style=social)](https://github.com/ethz-spylab/agentdojo)
 - **[Agentic Radar](https://github.com/splx-ai/agentic-radar)** [![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?logo=github&label=&style=social)](https://github.com/splx-ai/agentic-radar)
-
-### Benchmarks
-
-- **[Purple Llama — CyberSecEval](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
-- **[JailbreakBench](https://github.com/JailbreakBench/jailbreakbench)** [![GitHub Repo stars](https://img.shields.io/github/stars/JailbreakBench/jailbreakbench?logo=github&label=&style=social)](https://github.com/JailbreakBench/jailbreakbench)
 
 ### Data Security & Integrity — Model Artifact Scanning (static)
 *Scan model files before loading to catch unsafe deserialization (e.g., pickle RCE) and improve supply-chain hygiene.*
@@ -294,7 +289,12 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
-## Benchmarking Categories
+## Benchmarking
+
+### Benchmarks
+
+- **[Purple Llama — CyberSecEval](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
+- **[JailbreakBench](https://github.com/JailbreakBench/jailbreakbench)** [![GitHub Repo stars](https://img.shields.io/github/stars/JailbreakBench/jailbreakbench?logo=github&label=&style=social)](https://github.com/JailbreakBench/jailbreakbench)
 
 ### **Categories of AI Security Benchmarks**
 
