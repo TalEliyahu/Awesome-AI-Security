@@ -345,8 +345,8 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ## Conferences and Events
 
-- [AI Village (DEF CON)](https://aivillage.org/)
-- [Black Hat AI Summit](https://www.blackhat.com/)
+- [AI Village @ DEF CON](https://aivillage.org/)
+- [AI Summit @ Black Hat](https://www.blackhat.com/)
 - [AI Hacking Village @ BSides TLV](https://aihackingvillage.com/)
 
 ---
