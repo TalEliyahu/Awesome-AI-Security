@@ -14,21 +14,22 @@
 - [Tools](#tools)
 - [Attack Matrices](#attack-matrices)
 - [Checklists](#checklists)
-- [AI Risk and Incident Databases](#ai-risk-and-incident-databases)
+- [Risk and Incident Databases](#ai-risk-and-incident-databases)
 - [Glossary](#glossary)
 - [Taxonomy](#taxonomy)
-- [AI Security Knowledge Bases](#ai-security-knowledge-bases)
+- [Knowledge Bases](#ai-security-knowledge-bases)
 - [Datasets](#datasets)
-- [AI Security Courses](#ai-security-courses)
-- [AI Security Guides & Learning Resources](#ai-security-guides--learning-resources)
+- [Courses](#ai-security-courses)
+- [Guides & Learning Resources](#ai-security-guides--learning-resources)
 - [Research Working Groups](#research-working-groups)
 - [Communities & Social Groups](#communities--social-groups)
 - [Benchmarks](#benchmarks)
 - [Incident Response](#incident-response)
+- [Supply Chain Security](#supply-chain-security)
 - [Newsletter](#newsletter)
 - [Conferences and Events](#conferences-and-events)
 - [Reports and Research](#reports-and-research)
-- [CTF Challenges](#ctf-challenges)
+- [CTFs & Challenges](#ctf-challenges)
 - [Podcasts](#podcasts)
 - [Solutions Landscape](#solutions-landscape)
 - [Related Awesome Lists](#related-awesome-lists)
@@ -154,7 +155,6 @@
 - **[PentestGPT](https://github.com/GreyDGL/PentestGPT)** [![GitHub Repo stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?logo=github&label=&style=social)](https://github.com/GreyDGL/PentestGPT)
 - **[CAI — Cybersecurity AI](https://github.com/aliasrobotics/cai)** [![GitHub Repo stars](https://img.shields.io/github/stars/aliasrobotics/cai?logo=github&label=&style=social)](https://github.com/aliasrobotics/cai) 
 - **[hackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT)** [![GitHub Repo stars](https://img.shields.io/github/stars/ipa-lab/hackingBuddyGPT?logo=github&label=&style=social)](https://github.com/ipa-lab/hackingBuddyGPT)
-- **[BurpGPT (aress31)](https://github.com/aress31/burpgpt)** [![GitHub Repo stars](https://img.shields.io/github/stars/aress31/burpgpt?logo=github&label=&style=social)](https://github.com/aress31/burpgpt)
 - **[HexStrike AI](https://github.com/0x4m4/hexstrike-ai)** [![GitHub Repo stars](https://img.shields.io/github/stars/0x4m4/hexstrike-ai?logo=github&label=&style=social)](https://github.com/0x4m4/hexstrike-ai)
 - **[PortSwigger — MCP Server](https://github.com/PortSwigger/mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?logo=github&label=&style=social)](https://github.com/PortSwigger/mcp-server)
 - **[BurpGPT — aress31](https://github.com/aress31/burpgpt)** [![GitHub Repo stars](https://img.shields.io/github/stars/aress31/burpgpt?logo=github&label=&style=social)](https://github.com/aress31/burpgpt)
@@ -180,6 +180,14 @@ Resources that map adversarial **TTPs** against AI systems (matrix-style).
 - [MIT AI Risk Repository](https://airisk.mit.edu/)
 - [AI Incident Database (AIID)](https://incidentdatabase.ai/)
 - [AI/ML Supply Chain Vulnerability Database](https://sightline.protectai.com/vulnerabilities)
+
+---
+
+## Supply Chain Security
+
+Guidance and standards for securing the AI/ML software supply chain (models, datasets, code, and pipelines). *No tools here—just specs and frameworks.*
+
+- [OWASP — AI Bill of Materials (AIBOM)](https://github.com/OWASP/www-project-aibom)
 
 ---
 
@@ -251,7 +259,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 ## AI Security Guides & Learning Resources
 
 - [Nightfall AI Security 101](https://www.nightfall.ai/ai-security-101) – A centralized learning hub for AI security, offering an evolving library of concepts, emerging risks, and foundational principles in securing AI systems.
-- [Google's Secure AI Framework (SAIF)](https://saif.google/) – SAIF offers guidance for organizations looking to secure AI systems. Google has created SAIF, including a SAIF Risk Self-Assessment, to support the implementation of SAIF in organizations and help build and deploy AI systems securely.
 
 ---
 
