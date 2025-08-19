@@ -165,7 +165,7 @@ Curated resources, research, and tools for securing AI systems.
 ---
 
 ## Attack & Defense Matrices
-Resources covering adversarial **TTPs** (attack) and curated **defensive techniques** (defense) for AI systems.
+*Matrix-style resources covering adversarial TTPs and curated defensive techniques for AI systems.*
 
 ### Attack
 - [MITRE ATLAS](https://atlas.mitre.org) – Adversarial TTP matrix and knowledge base for threats to AI systems.
