@@ -252,8 +252,8 @@ Adversarial prompt datasets—both text-only and multimodal—designed to bypass
 Datasets labeled with whether prompts are benign or malicious (i.e., injection attempts).
 **Used to** evaluate an LLM’s ability to detect and neutralize prompt-injection style attacks.
 
-- **[Prompt Injection Dataset](https://github.com/AhsanAyub/malicious-prompt-detection)** — Classified prompts labeled as malicious or benign for prompt injection detection experiments.
-- **[LLMail-Inject Challenge Dataset](https://github.com/microsoft/llmail-inject-challenge)** — Email-based adaptive prompt injection dataset with extensive participation and analysis.
+- **[Malicious Prompt Detection](https://github.com/AhsanAyub/malicious-prompt-detection)** [![GitHub Repo stars](https://img.shields.io/github/stars/AhsanAyub/malicious-prompt-detection?logo=github&label=&style=social)](https://github.com/AhsanAyub/malicious-prompt-detection) 
+- **[LLMail-Inject](https://github.com/microsoft/llmail-inject-challenge)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/llmail-inject-challenge?logo=github&label=&style=social)](https://github.com/microsoft/llmail-inject-challenge) 
 
 ---
 
