@@ -381,7 +381,8 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 *Curated market maps of tools and vendors for securing LLM and agentic AI applications across the lifecycle.*
 
 - [OWASP — LLM and Generative AI Security Solutions Landscape](https://genai.owasp.org/resource/llm-and-generative-ai-security-solutions-landscape-q12025/)
-- [OWASP — AI Security Solutions Landscape for Agentic AI](https://genai.owasp.org/resource/ai-security-solutions-landscape-for-agentic-ai-q3-2025/) 
+- [OWASP — AI Security Solutions Landscape for Agentic AI](https://genai.owasp.org/resource/ai-security-solutions-landscape-for-agentic-ai-q3-2025/)
+- [Latio — 2025 AI Security Report](https://pulse.latio.tech/p/2025-latio-ai-security-report) – Market trends and vendor landscape snapshot for AI security.
 
 ---
 
