@@ -71,7 +71,7 @@ Curated resources, research, and tools for securing AI systems.
 - [OWASP — LLM and Gen AI Data Security Best Practices](https://genai.owasp.org/resource/llm-and-gen-ai-data-security-best-practices/)
 - [OWASP — GenAI Security Project](https://github.com/OWASP/genai-security-project) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/genai-security-project?logo=github&label=&style=social)](https://github.com/OWASP/genai-security-project)
 - [CSA — Secure LLM Systems: Essential Authorization Practices](https://cloudsecurityalliance.org/artifacts/securing-llm-backed-systems-essential-authorization-practices)
-- [NIST — Four Principles of Explainable Artificial Intelligence](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=933399) — Published September 29, 2021.
+- [NIST — Four Principles of Explainable Artificial Intelligence](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=933399)
   
 
 ### Agentic AI Security & Governance
@@ -262,6 +262,9 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 ## AI Security Guides & Learning Resources
 
 - [Nightfall AI Security 101](https://www.nightfall.ai/ai-security-101) – A centralized learning hub for AI security, offering an evolving library of concepts, emerging risks, and foundational principles in securing AI systems.
+
+### Foundations (non-AI)
+- [SANS — 20 Coolest Careers in Cybersecurity](https://www.sans.org/cybersecurity-careers/) — Career pathways poster + training map; helpful baseline skills that transfer to AI security (IR, DFIR, detection, threat hunting).
 
 ---
 
