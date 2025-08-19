@@ -240,10 +240,9 @@ Structured Q&A datasets assessing security knowledge and terminology. **Used to*
 ---
 
 ### Secure Coding & Vulnerability Detection
-Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Common Weakness Enumeration).
-**Used to** evaluate the model’s ability to recognize insecure code patterns and suggest secure fixes.
+Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Common Weakness Enumeration). **Used to** evaluate the model’s ability to recognize insecure code patterns and suggest secure fixes.
 
-- **[LLMSecEval](https://github.com/tuhh-softsec/LLMSecEval)** — Natural language prompts linked to CWE Top 25, with secure vs. vulnerable code context for evaluating LLM code security.
+- **[LLMSecEval](https://github.com/tuhh-softsec/LLMSecEval)** [![GitHub Repo stars](https://img.shields.io/github/stars/tuhh-softsec/LLMSecEval?logo=github&label=&style=social)](https://github.com/tuhh-softsec/LLMSecEval)
 
 ---
 
