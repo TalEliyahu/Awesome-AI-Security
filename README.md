@@ -23,7 +23,7 @@
 - [Guides & Learning Resources](#ai-security-guides--learning-resources)
 - [Research Working Groups](#research-working-groups)
 - [Communities & Social Groups](#communities--social-groups)
-- [Benchmarks](#benchmarks)
+- [Benchmarking Categories](#benchmarking-categories)
 - [Incident Response](#incident-response)
 - [Supply Chain Security](#supply-chain-security)
 - [Newsletter](#newsletter)
@@ -278,7 +278,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
-## Benchmarks
+## Benchmarking Categories
 
 ### **Categories of AI Security Benchmarks**
 
