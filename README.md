@@ -263,7 +263,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 - [Nightfall AI Security 101](https://www.nightfall.ai/ai-security-101) – A centralized learning hub for AI security, offering an evolving library of concepts, emerging risks, and foundational principles in securing AI systems.
 
-### Foundations (non-AI)
+### Foundations
 - [SANS — AI Cybersecurity Careers](https://www.sans.org/cybersecurity-careers/) — Career pathways poster + training map; helpful baseline skills that transfer to AI security (IR, DFIR, detection, threat hunting).
 
 ---
