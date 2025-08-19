@@ -225,13 +225,18 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 
 ## Datasets
 
-### Cybersecurity Knowledge & Skills
-Structured Q&A datasets and CTF-style challenges that evaluate cybersecurity reasoning and terminology.
-**Used to** assess an LLM’s domain knowledge, factual recall, and understanding of security concepts.
+### Cybersecurity Skills (CTFs & Hands-On Labs)
+Interactive CTFs and self-contained labs for hands-on security skills (web, pwn, crypto, forensics, reversing). **Used to** assess practical reasoning, tool use, and end-to-end task execution.
 
-- **[CyberMetric](https://github.com/CyberMetric)** — Multiple-choice cybersecurity Q&A dataset (80–10,000 questions).
-- **[NYU CTF Bench (LLM_CTF Database)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database)** — Interactive, Dockerized CTF challenges spanning areas like exploitation, cryptography, and forensics.
+- **[NYU CTF Bench (LLM_CTF Database)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/LLM_CTF_Database?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database)
 
+---
+
+### Cybersecurity Knowledge (Q&A)
+Structured Q&A datasets assessing security knowledge and terminology. **Used to** evaluate factual recall and conceptual understanding.
+
+- **[CyberMetric](https://github.com/CyberMetric)** [![GitHub Repo stars](https://img.shields.io/github/stars/CyberMetric?logo=github&label=&style=social)](https://github.com/CyberMetric)
+ 
 ---
 
 ### Secure Coding & Vulnerability Detection
