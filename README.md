@@ -1,6 +1,6 @@
 # Awesome AI Security 🛡️
 
-> Curated resources, research, and tools for securing AI systems.
+Curated resources, research, and tools for securing AI systems.
 
 [![Status: Work in Progress](https://img.shields.io/badge/status-work--in--progress-red)](#) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Join AISecHub on LinkedIn](https://img.shields.io/badge/Join-AISecHub%20on%20LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/groups/14545517/)
