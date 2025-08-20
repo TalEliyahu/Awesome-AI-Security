@@ -31,7 +31,7 @@ Curated resources, research, and tools for securing AI systems.
 - [Reports and Research](#reports-and-research)
 - [CTFs & Challenges](#ctf-challenges)
 - [Podcasts](#podcasts)
-- [Market Landscape](#solutions-landscape)
+- [Market Landscape](#market-landscape)
 - [Related Awesome Lists](#related-awesome-lists)
 
 ---
