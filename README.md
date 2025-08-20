@@ -202,7 +202,7 @@ Evaluate the security of agentic or tool-using workflows end-to-end.
 Guidance and standards for securing the AI/ML software supply chain (models, datasets, code, pipelines). Primarily specs and frameworks; includes vetted TPRM templates.
 
 ### Standards & Specs
-- **OWASP — AI Bill of Materials (AIBOM)** [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/AI-security-and-privacy-guide?logo=github&label=&style=social)](https://github.com/OWASP/AI-security-and-privacy-guide) — Bill of materials concept for AI components and dependencies.
+- **OWASP — AI Bill of Materials (AIBOM)** [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-aibom?logo=github&label=&style=social)](https://github.com/OWASP/www-project-aibom) — Bill of materials format for AI components, datasets, and model dependencies.
 - **NIST — Secure Software Development Practices for Generative AI and Dual-Use Foundation Models (SSDF Community Profile, SP 800-218A)** — Profile of secure development practices for GenAI.
 
 ### Vendor Risk & TPRM
