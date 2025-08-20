@@ -31,7 +31,7 @@ Curated resources, research, and tools for securing AI systems.
 - [Reports and Research](#reports-and-research)
 - [CTFs & Challenges](#ctf-challenges)
 - [Podcasts](#podcasts)
-- [Solutions Landscape](#solutions-landscape)
+- [Market Landscape](#solutions-landscape)
 - [Related Awesome Lists](#related-awesome-lists)
 
 ---
@@ -65,7 +65,6 @@ Curated resources, research, and tools for securing AI systems.
 
 ### Guidance & Best Practices
 - [OWASP — AI Security and Privacy Guide](https://github.com/OWASP/www-project-ai-security-and-privacy-guide) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-ai-security-and-privacy-guide?logo=github&label=&style=social)](https://github.com/OWASP/www-project-ai-security-and-privacy-guide)
-- [OWASP — LLM and Generative AI Security Solutions Landscape](https://genai.owasp.org/resource/llm-and-generative-ai-security-solutions-landscape-q12025/)
 - [OWASP — LLM and Gen AI Data Security Best Practices](https://genai.owasp.org/resource/llm-and-gen-ai-data-security-best-practices/)
 - [OWASP — GenAI Security Project](https://github.com/OWASP/genai-security-project) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/genai-security-project?logo=github&label=&style=social)](https://github.com/OWASP/genai-security-project)
 - [CSA — Secure LLM Systems: Essential Authorization Practices](https://cloudsecurityalliance.org/artifacts/securing-llm-backed-systems-essential-authorization-practices)
@@ -384,14 +383,14 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
-## Solutions Landscape 
+## Market Landscape 
 *Curated market maps of tools and vendors for securing LLM and agentic AI applications across the lifecycle.*
 
 - [OWASP — LLM and Generative AI Security Solutions Landscape](https://genai.owasp.org/resource/llm-and-generative-ai-security-solutions-landscape-q12025/)
 - [OWASP — AI Security Solutions Landscape for Agentic AI](https://genai.owasp.org/resource/ai-security-solutions-landscape-for-agentic-ai-q3-2025/)
 - [Latio — 2025 AI Security Report](https://pulse.latio.tech/p/2025-latio-ai-security-report) – Market trends and vendor landscape snapshot for AI security.
 - [Woodside Capital Partners — Cybersecurity Sector](https://woodsidecap.com/wcp-cybersecurity-sector-update-state-of-ai-security/) — A snapshot with vendor breakdowns and landscape view.
-  
+
 ---
 
 ## Related Awesome Lists
