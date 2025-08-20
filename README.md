@@ -176,6 +176,7 @@ Evaluate the security of agentic or tool-using workflows end-to-end.
 ### Attack
 - [MITRE ATLAS](https://atlas.mitre.org) – Adversarial TTP matrix and knowledge base for threats to AI systems.
 - [GenAI Attacks Matrix](https://ttps.ai/matrix.html#genai-attacks-matrix) – Matrix of TTPs targeting GenAI apps, copilots, and agents.
+- [MCP Security Tactics, Techniques, and Procedures (TTPs)](https://modelcontextprotocol-security.io/ttps/)
 
 ### Defense
 - [AIDEFEND — AI Defense Framework](https://github.com/edward-playground/aidefense-framework) [![GitHub Repo stars](https://img.shields.io/github/stars/edward-playground/aidefense-framework?logo=github&label=&style=social)](https://github.com/edward-playground/aidefense-framework) — Interactive defensive countermeasures knowledge base with Tactics / Pillars / Phases views; maps mitigations to MITRE ATLAS, MAESTRO, and OWASP LLM risks. • **Live demo:** https://edward-playground.github.io/aidefense-framework/
