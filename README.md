@@ -7,7 +7,7 @@ Curated resources, research, and tools for securing AI systems.
 [![Join @AISecHub on Telegram](https://img.shields.io/badge/Join-@AISecHub-2CA5E0?logo=telegram&logoColor=white)](https://t.me/AISecHub)
 ---
 
-## Contents
+## Table of Contents
 
 - [Best Practices and Security Standards](#best-practices-and-security-standards)
   - [Governance & Management Frameworks](#governance--management-frameworks)
