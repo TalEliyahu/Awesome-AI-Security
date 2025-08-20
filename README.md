@@ -33,7 +33,7 @@ Curated resources, research, and tools for securing AI systems.
 - [Newsletter](#newsletter)
 - [Conferences and Events](#conferences-and-events)
 - [Reports and Research](#reports-and-research)
-- [CTFs & Challenges](#ctf-challenges)
+- [CTFs & Challenges](#ctfs--challenges)
 - [Podcasts](#podcasts)
 - [Market Landscape](#market-landscape)
 - [Related Awesome Lists](#related-awesome-lists)
@@ -373,7 +373,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 ---
 
 ## CTFs & Challenges
-
 - [AI GOAT](https://github.com/dhammon/ai-goat) [![GitHub Repo stars](https://img.shields.io/github/stars/dhammon/ai-goat?logo=github&label=&style=social)](https://github.com/dhammon/ai-goat)
 - [Gandalf CTF](https://gandalf.lakera.ai/) 
 - [Damn Vulnerable LLM Agent](https://github.com/ReversecLabs/damn-vulnerable-llm-agent) [![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/damn-vulnerable-llm-agent?logo=github&label=&style=social)](https://github.com/ReversecLabs/damn-vulnerable-llm-agent)
