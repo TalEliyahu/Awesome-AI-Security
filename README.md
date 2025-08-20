@@ -83,6 +83,8 @@ Curated resources, research, and tools for securing AI systems.
 - [OWASP — Multi-Agentic System Threat Modeling Guide](https://genai.owasp.org/resource/multi-agentic-system-threat-modeling-guide-v1-0/)
 - [OWASP — State of Agentic AI Security and Governance](https://genai.owasp.org/resource/state-of-agentic-ai-security-and-governance-1-0/)
 - [CSA — Secure Agentic System Design: A Trait-Based Approach](https://cloudsecurityalliance.org/artifacts/secure-agentic-system-design)
+- [CSA — Agentic AI Identity & Access Management](https://cloudsecurityalliance.org/artifacts/agentic-ai-identity-and-access-management-a-new-approach) — Purpose-built IAM for agents (DIDs/VCs), secure delegation, Zero Trust policy enforcement, and real-time monitoring in multi-agent systems (08/18/2025).
+
 
 ---
 
