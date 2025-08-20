@@ -56,10 +56,9 @@ Curated resources, research, and tools for securing AI systems.
 - [CSA — AI Controls Matrix (AICM)](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix)
 
 
-### Testing, Red Teaming & Incident Response
+### Testing & Red Teaming
 - [OWASP — AI Testing Guide](https://github.com/OWASP/www-project-ai-testing-guide) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-ai-testing-guide?logo=github&label=&style=social)](https://github.com/OWASP/www-project-ai-testing-guide)
 - [OWASP — Red Teaming Guide](https://genai.owasp.org/resource/genai-red-teaming-guide/)
-- [OWASP — Incident Response Guide](https://genai.owasp.org/resource/genai-incident-response-guide-1-0/)
 - [OWASP — LLM Exploit Generation](https://genai.owasp.org/resource/owasp-llm-exploit-generation-v1-0-pdf/)
 - [CSA — Agentic AI Red Teaming Guide](https://cloudsecurityalliance.org/artifacts/agentic-ai-red-teaming-guide)
 
@@ -75,7 +74,7 @@ Curated resources, research, and tools for securing AI systems.
 - [CISA — AI Data Security: Best Practices for Securing Data Used to Train & Operate AI Systems](https://www.cisa.gov/news-events/alerts/2025/05/22/new-best-practices-guide-securing-ai-data-released)
   
 
-### Agentic AI Security & Governance
+### Agentic Systems — Governance, Standards & Guides
 - [OWASP — Agent Observability Standard (AOS)](https://github.com/OWASP/www-project-agent-observability-standard) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-agent-observability-standard?logo=github&label=&style=social)](https://github.com/OWASP/www-project-agent-observability-standard)
 - [OWASP — Agent Name Service (ANS) for Secure AI Agent Discovery](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/)
 - [OWASP — Agentic AI - Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
