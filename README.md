@@ -199,11 +199,15 @@ Evaluate the security of agentic or tool-using workflows end-to-end.
 
 ## Supply Chain Security
 
-Guidance and standards for securing the AI/ML software supply chain (models, datasets, code, and pipelines). *No tools here—just specs and frameworks.*
+Guidance and standards for securing the AI/ML software supply chain (models, datasets, code, pipelines). Primarily specs and frameworks; includes vetted TPRM templates.
 
-- [OWASP — AI Bill of Materials (AIBOM)](https://github.com/OWASP/www-project-aibom) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-aibom?logo=github&label=&style=social)](https://github.com/OWASP/www-project-aibom)
-- [NIST — Secure Software Development Practices for Generative AI and Dual-Use Foundation Models: An SSDF Community Profile (SP 800-218A)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218A.pdf)
-- FS-ISAC — Generative AI Vendor Evaluation & Qualitative Risk Assessment — [Assessment Tool XLSX](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessmentTool.xlsx) • [Guide PDF](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessment.pdf) — Vendor due-diligence toolkit for GenAI — includes risk tiering by use case, integration and data sensitivity; questionnaires across privacy, security, model development and validation, integration, legal and compliance; plus auto-generated reporting.
+### Standards & Specs
+- **OWASP — AI Bill of Materials (AIBOM)** [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/AI-security-and-privacy-guide?logo=github&label=&style=social)](https://github.com/OWASP/AI-security-and-privacy-guide) — Bill of materials concept for AI components and dependencies.
+- **NIST — Secure Software Development Practices for Generative AI and Dual-Use Foundation Models (SSDF Community Profile, SP 800-218A)** — Profile of secure development practices for GenAI.
+
+### Vendor Risk & TPRM
+- **FS-ISAC — Generative AI Vendor Evaluation & Qualitative Risk Assessment** — [Assessment Tool XLSX](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessmentTool.xlsx) • [Guide PDF](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessment.pdf) — Vendor due-diligence toolkit for GenAI: risk tiering by use case, integration and data sensitivity; questionnaires across privacy, security, model development and validation, integration, legal and compliance; auto-generated reporting.
+
 ---
 
 ## Glossary
