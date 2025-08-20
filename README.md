@@ -2,7 +2,6 @@
 
 Curated resources, research, and tools for securing AI systems.
 
-[![Status: Work in Progress](https://img.shields.io/badge/status-work--in--progress-red)](#) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Join AISecHub on LinkedIn](https://img.shields.io/badge/Join-AISecHub%20on%20LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/groups/14545517/)
 [![Follow @AISecHub on X](https://img.shields.io/badge/Follow-@AISecHub-black?logo=x&logoColor=white)](https://x.com/AISecHub)
 [![Join @AISecHub on Telegram](https://img.shields.io/badge/Join-@AISecHub-2CA5E0?logo=telegram&logoColor=white)](https://t.me/AISecHub)
@@ -85,7 +84,7 @@ Curated resources, research, and tools for securing AI systems.
 - [OWASP — Multi-Agentic System Threat Modeling Guide](https://genai.owasp.org/resource/multi-agentic-system-threat-modeling-guide-v1-0/)
 - [OWASP — State of Agentic AI Security and Governance](https://genai.owasp.org/resource/state-of-agentic-ai-security-and-governance-1-0/)
 - [CSA — Secure Agentic System Design: A Trait-Based Approach](https://cloudsecurityalliance.org/artifacts/secure-agentic-system-design)
-- [CSA — Agentic AI Identity & Access Management](https://cloudsecurityalliance.org/artifacts/agentic-ai-identity-and-access-management-a-new-approach) — Purpose-built IAM for agents (DIDs/VCs), secure delegation, Zero Trust policy enforcement, and real-time monitoring in multi-agent systems (08/18/2025).
+- [CSA — Agentic AI Identity & Access Management](https://cloudsecurityalliance.org/artifacts/agentic-ai-identity-and-access-management-a-new-approach) — 08/25
 
 ---
 
@@ -115,7 +114,7 @@ Curated resources, research, and tools for securing AI systems.
 
 ### Code Security Review
 
-- **[claude-code-security-review - Anthropics](https://github.com/anthropics/claude-code-security-review)** [![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code-security-review?logo=github&label=&style=social)](https://github.com/anthropics/claude-code-security-review) — An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
+- **[claude-code-security-review - Anthropics](https://github.com/anthropics/claude-code-security-review)** [![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code-security-review?logo=github&label=&style=social)](https://github.com/anthropics/claude-code-security-review)
 
 ### Workflow Security Testbeds
 Evaluate the security of agentic or tool-using workflows end-to-end. 
@@ -203,7 +202,6 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 
 ### Standards & Specs
 - **OWASP — AI Bill of Materials (AIBOM)** [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-aibom?logo=github&label=&style=social)](https://github.com/OWASP/www-project-aibom) — Bill of materials format for AI components, datasets, and model dependencies.
-- **NIST — Secure Software Development Practices for Generative AI and Dual-Use Foundation Models (SSDF Community Profile, SP 800-218A)** — Profile of secure development practices for GenAI.
 
 ### Vendor Risk & TPRM
 - **FS-ISAC — Generative AI Vendor Evaluation & Qualitative Risk Assessment** — [Assessment Tool XLSX](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessmentTool.xlsx) • [Guide PDF](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessment.pdf) — Vendor due-diligence toolkit for GenAI: risk tiering by use case, integration and data sensitivity; questionnaires across privacy, security, model development and validation, integration, legal and compliance; auto-generated reporting.
@@ -237,7 +235,7 @@ Interactive CTFs and self-contained labs for hands-on security skills (web, pwn,
 
 - **[NYU CTF Bench](https://github.com/NYU-LLM-CTF/LLM_CTF_Database)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/LLM_CTF_Database?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database)
 
-### Cybersecurity Knowledge (Q&A)
+### Cybersecurity Knowledge
 Structured Q&A datasets assessing security knowledge and terminology. **Used to** evaluate factual recall and conceptual understanding.
 
 - **[CyberMetric](https://github.com/CyberMetric)** [![GitHub Repo stars](https://img.shields.io/github/stars/CyberMetric?logo=github&label=&style=social)](https://github.com/CyberMetric)
@@ -336,7 +334,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - **Measure**: Evaluate AI outputs for fairness, bias, and interpretability.  
 
 ---
-
 ## Incident Response
 
 ### Incident Databases
@@ -351,7 +348,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 ---
 
 ## Newsletter
-
 - [Adversarial AI Digest](https://www.linkedin.com/newsletters/adversarial-ai-digest-7298813894498598912/) - A digest of AI security research, threats, governance challenges, and best practices for securing AI systems.
 
 ---
@@ -378,9 +374,9 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ## CTF Challenges
 
-- [AI GOAT](https://github.com/dhammon/ai-goat) – A set of LLM security challenges focused on identifying and exploiting vulnerabilities in AI systems.
-- [Gandalf CTF](https://gandalf.lakera.ai/) – A challenge where participants attempt to extract hidden passphrases from an evolving AI model through prompt engineering techniques.
-- [DamnVulnerableLLMApplication-Demo](https://github.com/greshake/DamnVulnerableLLMApp) – A project designed for security researchers to practice LLM hacking techniques and for AI companies to improve the security of their models and systems.
+- [AI GOAT](https://github.com/dhammon/ai-goat) [![GitHub Repo stars](https://img.shields.io/github/stars/dhammon/ai-goat?logo=github&label=&style=social)](https://github.com/dhammon/ai-goat)
+- [Gandalf CTF](https://gandalf.lakera.ai/) 
+- [DamnVulnerableLLMApplication-Demo](https://github.com/greshake/DamnVulnerableLLMApp) [![GitHub Repo stars](https://img.shields.io/github/stars/greshake/DamnVulnerableLLMApp?logo=github&label=&style=social)](https://github.com/greshake/DamnVulnerableLLMApp)
 
 ---
 
