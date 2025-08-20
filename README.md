@@ -117,25 +117,25 @@ Curated resources, research, and tools for securing AI systems.
 
 - **[claude-code-security-review - Anthropics](https://github.com/anthropics/claude-code-security-review)** [![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code-security-review?logo=github&label=&style=social)](https://github.com/anthropics/claude-code-security-review) — An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
 
-### Agent/Workflow Security Testbeds
+### Workflow Security Testbeds
 Evaluate the security of agentic or tool-using workflows end-to-end. 
 
 - **[AgentDojo](https://github.com/ethz-spylab/agentdojo)** [![GitHub Repo stars](https://img.shields.io/github/stars/ethz-spylab/agentdojo?logo=github&label=&style=social)](https://github.com/ethz-spylab/agentdojo)
 - **[Agentic Radar](https://github.com/splx-ai/agentic-radar)** [![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?logo=github&label=&style=social)](https://github.com/splx-ai/agentic-radar)
 
-### Data Security & Integrity — Model Artifact Scanning (static)
+### Model Artifact Scanning
 *Scan model files before loading to catch unsafe deserialization (e.g., pickle RCE) and improve supply-chain hygiene.*
 
 - **[Protect AI — ModelScan](https://github.com/protectai/modelscan)** [![GitHub Repo stars](https://img.shields.io/github/stars/protectai/modelscan?logo=github&label=&style=social)](https://github.com/protectai/modelscan)
 - **[Trail of Bits — Fickling](https://github.com/trailofbits/fickling)** [![GitHub Repo stars](https://img.shields.io/github/stars/trailofbits/fickling?logo=github&label=&style=social)](https://github.com/trailofbits/fickling)
 - **[picklescan](https://github.com/mmaitre314/picklescan)** [![GitHub Repo stars](https://img.shields.io/github/stars/mmaitre314/picklescan?logo=github&label=&style=social)](https://github.com/mmaitre314/picklescan)
 
-### Model Training & Hardening (white-box/robustness)
+### Model Training & Hardening
 *Attack/defense libraries for robustness research and training-time hardening.*
 
 - **[Foolbox](https://github.com/bethgelab/foolbox)** [![GitHub Repo stars](https://img.shields.io/github/stars/bethgelab/foolbox?logo=github&label=&style=social)](https://github.com/bethgelab/foolbox)
 
-### Model Evaluation & Adversarial Testing (white-box & general eval)
+### Model Evaluation & Adversarial Testing
 *Evaluate/defend against evasion, poisoning, extraction, inference attacks.*
 
 - **[Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)** [![GitHub Repo stars](https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox?logo=github&label=&style=social)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
