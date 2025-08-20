@@ -376,7 +376,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 - [AI GOAT](https://github.com/dhammon/ai-goat) [![GitHub Repo stars](https://img.shields.io/github/stars/dhammon/ai-goat?logo=github&label=&style=social)](https://github.com/dhammon/ai-goat)
 - [Gandalf CTF](https://gandalf.lakera.ai/) 
-- [DamnVulnerableLLMApplication-Demo](https://github.com/greshake/DamnVulnerableLLMApp) [![GitHub Repo stars](https://img.shields.io/github/stars/greshake/DamnVulnerableLLMApp?logo=github&label=&style=social)](https://github.com/greshake/DamnVulnerableLLMApp)
+- [Damn Vulnerable LLM Agent](https://github.com/ReversecLabs/damn-vulnerable-llm-agent) [![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/damn-vulnerable-llm-agent?logo=github&label=&style=social)](https://github.com/ReversecLabs/damn-vulnerable-llm-agent)
 
 ---
 
