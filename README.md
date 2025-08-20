@@ -230,7 +230,7 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 
 ## Datasets
 
-### Cybersecurity Skills (CTFs & Hands-On Labs)
+### Cybersecurity Skills 
 Interactive CTFs and self-contained labs for hands-on security skills (web, pwn, crypto, forensics, reversing). **Used to** assess practical reasoning, tool use, and end-to-end task execution.
 
 - **[NYU CTF Bench](https://github.com/NYU-LLM-CTF/LLM_CTF_Database)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/LLM_CTF_Database?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database)
@@ -372,7 +372,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
-## CTF Challenges
+## CTFs & Challenges
 
 - [AI GOAT](https://github.com/dhammon/ai-goat) [![GitHub Repo stars](https://img.shields.io/github/stars/dhammon/ai-goat?logo=github&label=&style=social)](https://github.com/dhammon/ai-goat)
 - [Gandalf CTF](https://gandalf.lakera.ai/) 
