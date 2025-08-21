@@ -16,7 +16,6 @@ Curated resources, research, and tools for securing AI systems.
 - [Attack & Defense Matrices](#attack--defense-matrices)
 - [Checklists](#checklists)
 - [Foundations: Glossary, SoK/Surveys & Taxonomies](#foundations-glossary-soksurveys--taxonomies)
-- [Knowledge Bases](#ai-security-knowledge-bases)
 - [Datasets](#datasets)
 - [Courses](#ai-security-courses)
 - [Guides & Learning Resources](#ai-security-guides--learning-resources)
@@ -218,13 +217,6 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 
 - [**CSA — Large Language Model (LLM) Threats Taxonomy**](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy) - Community taxonomy of LLM-specific threats; clarifies categories/definitions for risk discussion and control mapping.
 - [**ARC — PI (Prompt Injection) Taxonomy**](https://github.com/Arcanum-Sec/arc_pi_taxonomy) - Focused taxonomy for prompt-injection behaviors/variants with practical labeling guidance for detection and defense.
----
-
-## Knowledge Bases
-
-- [MIT AI Risk Repository](https://airisk.mit.edu/)
-
-
 ---
 
 ## Datasets
