@@ -465,8 +465,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 #### Operate
 *Monitor memory mutations for drift/poisoning, detect abnormal loops/misuse, enforce HITL overrides, and scan plugins—continuous, real-time vigilance for resilient operations as systems scale and self-orchestrate.*
-- [Pillar Security](https://www.pillar.security/blog)
-- [Vulcan Cyber](https://vulcan.io/blog)
 - [Straiker](https://www.straiker.ai/blog)
 - [Lakera](https://www.lakera.ai/blog)
 - [AIM Security](https://www.aim.security/aim-blog)
