@@ -26,10 +26,16 @@ Curated resources, research, and tools for securing AI systems.
 - [Communities & Social Groups](#communities--social-groups)
 - [Benchmarking](#benchmarking)
 - [Incident Response](#incident-response)
+  - [Incident Databases](#incident-databases)
+  - [Guides & Playbooks](#guides--playbooks)
 - [Supply Chain Security](#supply-chain-security)
+  - [Standards & Specs](#standards--specs)
+  - [Third-Party Assessment](#third-party-assessment)
 - [Newsletter](#newsletter)
 - [Conferences and Events](#conferences-and-events)
 - [Reports and Research](#reports-and-research)
+  - [Research Feed](#research-feed)
+  - [Reports](#reports)
 - [CTFs & Challenges](#ctfs--challenges)
 - [Podcasts](#podcasts)
 - [Market Landscape](#market-landscape)
@@ -361,7 +367,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ## Reports and Research
 
-### Index 
+### Research Feed
 
 - [AI Security Research Feed](https://research.pwnedby.me/?category=cs.AI&tag=ai) – Continuously updated feed of AI security–related academic papers, preprints, and research indexed from arXiv.
 - [AI Security Portal – Literature Database](https://aisecurity-portal.org/en/section/literature-database/) – Categorized database of AI security literature, taxonomy, and related resources.
