@@ -51,7 +51,7 @@ Curated resources, research, and tools for securing AI systems.
 - [CTFs & Challenges](#ctfs--challenges)
 - [Podcasts](#podcasts)
 - [Market Landscape](#market-landscape)
-- [Startups - Agentic AI](#startups---owasp-agentic-ai-lifecycle)
+- [Startups](#startups)
   - [Scope & Plan](#scope--plan)
   - [Develop & Experiment](#develop--experiment)
   - [Augment & Fine-Tune Data](#augment--fine-tune-data)
@@ -428,7 +428,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
-## Startups - Agentic AI lifecycle 
+## Startups 
 *A curated list of startups securing agentic AI applications, organized by the OWASP Agentic AI lifecycle (Scope & Plan → Govern). Each company appears once in its best-fit stage based on public positioning, and links point to blog/insights for deeper context. Some startups span multiple stages; placements reflect primary focus as of Aug 2025—PRs welcome for updates.*
 
 #### Scope & Plan
