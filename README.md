@@ -480,7 +480,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 *Enforce role/task policies, version/retire agents, prevent privilege creep, and align evidence with AI regulations.*
 - [GuardionAI](https://guardion.ai/blog)
 - [Zenity](https://zenity.io/blog)
-- [Unbound](https://www.getunbound.ai/insights/)
+- [Unbound](https://www.getunbound.ai/news-and-media)
 - [Prompt Security](https://www.prompt.security/blog)
 - [NOMA Security](https://noma.security/blog/)
 - [WitnessAI](https://witness.ai/blog)
