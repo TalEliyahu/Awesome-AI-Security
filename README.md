@@ -210,7 +210,6 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 - [**NIST — “The Language of Trustworthy AI: An In-Depth Glossary of Terms.”**](https://airc.nist.gov/glossary/) - Authoritative cross-org terminology aligned to NIST AI RMF; useful for standardizing terms across teams.
 - [**ISO/IEC 22989:2022 — *Artificial intelligence — Concepts and terminology***](https://www.iso.org/standard/74296.html) - International standard that formalizes core AI concepts and vocabulary used in policy and engineering.
 
-
 ### SoK & Surveys
 *(Systematizations of Knowledge (SoK), surveys, systematic reviews, and mapping studies.)*
 
