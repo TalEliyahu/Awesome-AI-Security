@@ -478,7 +478,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - [Fiddler](https://www.fiddler.ai/blog)
 - [Pangea](https://pangea.cloud/blog/)
 - [Tumeryk](https://tumeryk.com/blog/)
-- HiveTrace — *no public blog found*
 
 #### Govern
 *Enforce role/task policies, version/retire agents, prevent privilege creep, and align evidence with AI regulations.*
