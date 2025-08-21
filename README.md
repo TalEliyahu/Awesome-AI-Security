@@ -447,7 +447,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 #### Test & Evaluate
 *Adversarial testing for goal drift, prompt injection, and tool misuse; red-team sims; sandboxed calls; decision validation.*
-- [Citadel AI](https://citadel-ai.com/news)
+- [Citadel AI](https://citadel-ai.com/blog/)
 - [Mindgard](https://www.mindgard.ai/blog)
 - [Adversa AI](https://adversa.ai/topic/trusted-ai-blog/)
 - [Troj.ai](https://www.troj.ai/blog)
