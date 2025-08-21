@@ -218,6 +218,10 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 
 ---
 
+## SoK & Surveys
+
+---
+
 ## Taxonomy
 
 - [ARC PI Taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy)
