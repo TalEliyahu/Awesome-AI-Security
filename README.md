@@ -434,7 +434,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 #### Scope & Plan
 *Design-time security: non-human identities, agent threat modeling, privilege boundaries/authn, and memory scoping/isolation.*
 
-<!-- (no unique vendors here) -->
+>no unique vendors here
 
 #### Develop & Experiment
 *Secure agent loops and tool use; validate I/O contracts; embed policy hooks; test resilience during co-engineering.*
@@ -458,7 +458,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 #### Release
 *Sign models/plugins/memory; verify SBOMs; enforce cryptographically validated policies; register agents/capabilities.*
 
-<!-- (no unique vendors here) -->
+>no unique vendors here
 
 #### Deploy
 *Zero-trust activation: rotate ephemeral creds, apply allowlists/LLM firewalls, and fine-grained least-privilege authorization.*
