@@ -212,7 +212,7 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 ### SoK & Surveys
 *(Systematizations of Knowledge (SoK), surveys, systematic reviews, and mapping studies.)*
 
-## Taxonomy
+### Taxonomy
 *(Reusable classification schemes—clear dimensions, categories, and labeling rules for attacks, defenses, datasets, and risks.)*
 
 - [**CSA — Large Language Model (LLM) Threats Taxonomy**](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy) - Community taxonomy of LLM-specific threats; clarifies categories/definitions for risk discussion and control mapping.
