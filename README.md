@@ -193,9 +193,13 @@ Evaluate the security of agentic or tool-using workflows end-to-end.
 Guidance and standards for securing the AI/ML software supply chain (models, datasets, code, pipelines). Primarily specs and frameworks; includes vetted TPRM templates.
 
 ### Standards & Specs
+*Normative formats and specifications for transparency and traceability across AI components and dependencies.*
+
 - **OWASP — AI Bill of Materials (AIBOM)** [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-aibom?logo=github&label=&style=social)](https://github.com/OWASP/www-project-aibom) — Bill of materials format for AI components, datasets, and model dependencies.
 
-### Vendor Risk & TPRM
+### Third-Party Assessment
+*Questionnaires and templates to assess external vendors, model providers, and integrators for security, privacy, and compliance.*
+
 - **FS-ISAC — Generative AI Vendor Evaluation & Qualitative Risk Assessment** — [Assessment Tool XLSX](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessmentTool.xlsx) • [Guide PDF](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessment.pdf) — Vendor due-diligence toolkit for GenAI: risk tiering by use case, integration and data sensitivity; questionnaires across privacy, security, model development and validation, integration, legal and compliance; auto-generated reporting.
 
 ---
