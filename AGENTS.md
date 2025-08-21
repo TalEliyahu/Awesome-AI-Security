@@ -23,7 +23,21 @@ Use a social stars badge for GitHub repos where stars are requested.
 - If a subsection says “sort by stars” → **descending by star count**.
 - Otherwise → **alphabetical by project name**.
 
+## Conflicts
+- If guidance conflicts, `README.md` is the **content** source of truth; **AGENTS.md** governs *how* to edit it (style, sorting, safety).
+
+## Dead links
+- Prefer **official/canonical** replacements.
+- If a project is **archived/unmaintained**, remove it or mark “(archived)” with the date.
+- Avoid non-official mirrors unless the upstream is permanently gone.
+
+## PR title format
+- `[section] <short purpose>`; examples:
+  - `[tools] add LLMFuzzer + stars`
+  - `[matrices] update AIDEFEND description`
+
 ## Canonical section labels (use exactly)
+- **Incident Repositories, Trackers & Monitors**
 - **Third-Party Assessment** (replaces “Vendor Risk & TPRM”)
 - **Research Feed** (not “Index”)
 - **Attack & Defense Matrices** → subsections **Attack** / **Defense**
