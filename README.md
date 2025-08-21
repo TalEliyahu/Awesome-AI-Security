@@ -201,7 +201,6 @@ Evaluate the security of agentic or tool-using workflows end-to-end.
 ---
 
 ## Supply Chain Security
-
 Guidance and standards for securing the AI/ML software supply chain (models, datasets, code, pipelines). Primarily specs and frameworks; includes vetted TPRM templates.
 
 ### Standards & Specs
@@ -219,6 +218,7 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 ---
 
 ## SoK & Surveys
+*(Systematizations of Knowledge (SoK), surveys, systematic reviews, and mapping studies.)*
 
 ---
 
