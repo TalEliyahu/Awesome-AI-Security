@@ -2,9 +2,6 @@
 
 Curated resources, research, and tools for securing AI systems.
 
-[![Join AISecHub on LinkedIn](https://img.shields.io/badge/Join-AISecHub%20on%20LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/groups/14545517/)
-[![Follow @AISecHub on X](https://img.shields.io/badge/Follow-@AISecHub-black?logo=x&logoColor=white)](https://x.com/AISecHub)
-[![Join @AISecHub on Telegram](https://img.shields.io/badge/Join-@AISecHub-2CA5E0?logo=telegram&logoColor=white)](https://t.me/AISecHub)
 ---
 
 ## Table of Contents
