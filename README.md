@@ -51,7 +51,7 @@ Curated resources, research, and tools for securing AI systems.
 - [CTFs & Challenges](#ctfs--challenges)
 - [Podcasts](#podcasts)
 - [Market Landscape](#market-landscape)
-- [Startups - OWASP Agentic AI lifecycle](#startups---owasp-agentic-ai-lifecycle)
+- [Startups - Agentic AI](#startups---owasp-agentic-ai-lifecycle)
   - [Scope & Plan](#scope--plan)
   - [Develop & Experiment](#develop--experiment)
   - [Augment & Fine-Tune Data](#augment--fine-tune-data)
