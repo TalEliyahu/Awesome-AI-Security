@@ -32,8 +32,8 @@ Curated resources, research, and tools for securing AI systems.
   - [SoK & Surveys](#sok--surveys)
   - [Taxonomy](#taxonomy)
 - [Datasets](#datasets)
-- [Courses](#ai-security-courses)
-- [Guides & Learning Resources](#ai-security-guides--learning-resources)
+- [Courses](#courses)
+- [Learning Resources](#learning-resources)
 - [Research Working Groups](#research-working-groups)
 - [Communities & Social Groups](#communities--social-groups)
 - [Benchmarking](#benchmarking)
@@ -279,14 +279,14 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
-## AI Security Courses
+## Courses
 
 - [Microsoft AI Security Learning Path](https://learn.microsoft.com/en-us/training/browse/?filter-roles=ai%20&roles=ai-engineer&subjects=security) – Free training modules on AI security, covering secure AI model development, risk management, and threat mitigation.
 - [AWS AI Security Training](https://explore.skillbuilder.aws/learn/external-ecommerce;view=none;redirectURL=?ctldoc-catalog-0=se-%22AI%20Security%22) – Free AWS courses on securing AI applications, risk management, and implementing security best practices in AI/ML environments.
 
 ---
 
-## AI Security Guides & Learning Resources
+## Learning Resources
 
 - [Nightfall AI Security 101](https://www.nightfall.ai/ai-security-101) – A centralized learning hub for AI security, offering an evolving library of concepts, emerging risks, and foundational principles in securing AI systems.
 
