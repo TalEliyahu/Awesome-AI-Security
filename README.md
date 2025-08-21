@@ -193,13 +193,6 @@ Evaluate the security of agentic or tool-using workflows end-to-end.
 
 ---
 
-## AI Risk and Incident Databases
-
-- [MIT AI Risk Repository](https://airisk.mit.edu/)
-- [AI Incident Database (AIID)](https://incidentdatabase.ai/)
-
----
-
 ## Supply Chain Security
 Guidance and standards for securing the AI/ML software supply chain (models, datasets, code, pipelines). Primarily specs and frameworks; includes vetted TPRM templates.
 
@@ -212,6 +205,7 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 ---
 
 ## Glossary
+*(Authoritative definitions for AI/ML security, governance, and risk—use to align terminology across docs and reviews.)*
 
 - [NIST - "The Language of Trustworthy AI: An In-Depth Glossary of Terms"](https://airc.nist.gov/glossary/)
 
@@ -223,6 +217,7 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 ---
 
 ## Taxonomy
+*(Reusable classification schemes—clear dimensions, categories, and labeling rules for attacks, defenses, datasets, and risks.)*
 
 - [ARC PI Taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy)
 - [CSA — Large Language Model (LLM) Threats Taxonomy](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy)
@@ -230,9 +225,10 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 
 ---
 
-## AI Security Knowledge Bases
+## Knowledge Bases
 
-- [AI Security Portal – Literature Database](https://aisecurity-portal.org/en/section/literature-database/) – Categorized database of AI security literature, taxonomy, and related resources.
+- [MIT AI Risk Repository](https://airisk.mit.edu/)
+
 
 ---
 
@@ -352,7 +348,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 ### Guides & Playbooks
 - [OWASP — GenAI Incident Response Guide](https://genai.owasp.org/resource/genai-incident-response-guide-1-0/) 
 - [OWASP — Guide for Preparing & Responding to Deepfake Events](https://genai.owasp.org/resource/guide-for-preparing-and-responding-to-deepfake-events/)
-  
+
 ---
 
 ## Newsletter
@@ -370,7 +366,12 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ## Reports and Research
 
+### Index 
+
 - [AI Security Research Feed](https://research.pwnedby.me/?category=cs.AI&tag=ai) – Continuously updated feed of AI security–related academic papers, preprints, and research indexed from arXiv.
+- [AI Security Portal – Literature Database](https://aisecurity-portal.org/en/section/literature-database/) – Categorized database of AI security literature, taxonomy, and related resources.
+
+### Reports
 - [CSA — The State of AI and Security Survey Report](https://cloudsecurityalliance.org/artifacts/the-state-of-ai-and-security-survey-report)
 - [CSA — Principles to Practice: Responsible AI in a Dynamic Regulatory Environment](https://cloudsecurityalliance.org/artifacts/principles-to-practice-responsible-ai-in-a-dynamic-regulatory-environment)
 - [CSA — AI Resilience: A Revolutionary Benchmarking Model for AI Safety](https://cloudsecurityalliance.org/artifacts/ai-resilience-a-revolutionary-benchmarking-model-for-ai-safety) – Governance & compliance benchmarking model.
