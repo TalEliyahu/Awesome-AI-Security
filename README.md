@@ -51,6 +51,7 @@ Curated resources, research, and tools for securing AI systems.
 - [CTFs & Challenges](#ctfs--challenges)
 - [Podcasts](#podcasts)
 - [Market Landscape](#market-landscape)
+- [Startups - OWASP Agentic AI lifecycle](#startups---owasp-agentic-ai-lifecycle)
 - [Related Awesome Lists](#related-awesome-lists)
 - [Common Acronyms](#common-acronyms)
 
@@ -415,6 +416,69 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - [OWASP — AI Security Solutions Landscape for Agentic AI](https://genai.owasp.org/resource/ai-security-solutions-landscape-for-agentic-ai-q3-2025/)
 - [Latio — 2025 AI Security Report](https://pulse.latio.tech/p/2025-latio-ai-security-report) – Market trends and vendor landscape snapshot for AI security.
 - [Woodside Capital Partners — Cybersecurity Sector](https://woodsidecap.com/wcp-cybersecurity-sector-update-state-of-ai-security/) — A snapshot with vendor breakdowns and landscape view.
+
+---
+
+### Startups - Agentic AI lifecycle 
+*A curated list of startups securing agentic AI applications, organized by the OWASP Agentic AI lifecycle (Scope & Plan → Govern). Each company appears once in its best-fit stage based on public positioning, and links point to blog/insights for deeper context. Some startups span multiple stages; placements reflect primary focus as of Aug 2025—PRs welcome for updates.*
+
+#### Scope & Plan
+*Design-time security: non-human identities, agent threat modeling, privilege boundaries/authn, and memory scoping/isolation.*
+
+<!-- (no unique vendors here) -->
+
+#### Develop & Experiment
+*Secure agent loops and tool use; validate I/O contracts; embed policy hooks; test resilience during co-engineering.*
+- [Pensar](https://www.pensarai.app/blog)
+
+#### Augment & Fine-Tune Data
+*Sanitize/trace data and reasoning; validate alignment; protect sensitive memory with privacy controls before deployment.*
+- [Skyflow](https://www.skyflow.com/blog)
+
+#### Test & Evaluate
+*Adversarial testing for goal drift, prompt injection, and tool misuse; red-team sims; sandboxed calls; decision validation.*
+- [Citadel AI](https://citadel-ai.com/news)
+- [Mindgard](https://www.mindgard.ai/blog)
+- [EUNOMATIX](https://eunomatix.com/blog/)
+- [Adversa AI](https://adversa.ai/blog/)
+- [Troj.ai](https://www.troj.ai/blog)
+- [SPLX AI](https://splx.ai/blog)
+- [Octomind](https://octomind.dev/blog)
+- [Patronus AI](https://www.patronus.ai/blog)
+
+#### Release
+*Sign models/plugins/memory; verify SBOMs; enforce cryptographically validated policies; register agents/capabilities.*
+
+<!-- (no unique vendors here) -->
+
+#### Deploy
+*Zero-trust activation: rotate ephemeral creds, apply allowlists/LLM firewalls, and fine-grained least-privilege authorization.*
+- [Pomerium](https://www.pomerium.com/blog)
+
+#### Operate
+*Monitor memory mutations for drift/poisoning, detect abnormal loops/misuse, enforce HITL overrides, and scan plugins—continuous, real-time vigilance for resilient operations as systems scale and self-orchestrate.*
+- [Pillar Security](https://www.pillar.security/blog)
+- [Vulcan Cyber](https://vulcan.io/blog)
+- [Straiker](https://www.straiker.ai/blog)
+- [Lakera](https://www.lakera.ai/blog)
+- [AIM Security](https://www.aim.security/aim-blog)
+- [Lasso Security](https://www.lasso.security/blog)
+
+#### Monitor
+*Correlate agent steps/tools/comms; detect anomalies (e.g., goal reversal); keep immutable logs for auditability.*
+- [Fiddler](https://www.fiddler.ai/blog)
+- [Pangea](https://pangea.cloud/blog/)
+- [Tumeryk](https://tumeryk.com/blog/)
+- HiveTrace — *no public blog found*
+
+#### Govern
+*Enforce role/task policies, version/retire agents, prevent privilege creep, and align evidence with AI regulations.*
+- [GuardionAI](https://guardion.ai/blog)
+- [Zenity](https://zenity.io/blog)
+- [Unbound](https://www.getunbound.ai/insights/)
+- [Prompt Security](https://www.prompt.security/blog)
+- [NOMA Security](https://noma.security/blog/)
+- [WitnessAI](https://witness.ai/blog)
 
 ---
 
