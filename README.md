@@ -31,6 +31,7 @@ Curated resources, research, and tools for securing AI systems.
 - [Podcasts](#podcasts)
 - [Market Landscape](#market-landscape)
 - [Related Awesome Lists](#related-awesome-lists)
+- [Common Acronyms](#common-acronyms)
 
 ---
 
@@ -428,6 +429,47 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - [Awesome LRMs Safety — WangCheng0116](https://github.com/WangCheng0116/Awesome-LRMs-Safety) [![GitHub Repo stars](https://img.shields.io/github/stars/WangCheng0116/Awesome-LRMs-Safety?logo=github&label=&style=social)](https://github.com/WangCheng0116/Awesome-LRMs-Safety)
 - [Awesome LLM Safety — ydyjya](https://github.com/ydyjya/Awesome-LLM-Safety) [![GitHub Repo stars](https://img.shields.io/github/stars/ydyjya/Awesome-LLM-Safety?logo=github&label=&style=social)](https://github.com/ydyjya/Awesome-LLM-Safety)
 - [Awesome MCP Security — Puliczek](https://github.com/Puliczek/awesome-mcp-security) [![GitHub Repo stars](https://img.shields.io/github/stars/Puliczek/awesome-mcp-security?logo=github&label=&style=social)](https://github.com/Puliczek/awesome-mcp-security)
+
+---
+
+## Common Acronyms
+
+| Acronym  | Full Form                                                                 |
+|:---------|:--------------------------------------------------------------------------|
+| AI       | Artificial Intelligence                                                   |
+| AGI      | Artificial General Intelligence                                           |
+| ALBERT   | A Lite BERT                                                               |
+| BERT     | Bidirectional Encoder Representations from Transformers                   |
+| BGMAttack| Black-box Generative Model-based Attack                                   |
+| CBA      | Composite Backdoor Attack                                                 |
+| CCPA     | California Consumer Privacy Act                                           |
+| DAN      | Do Anything Now                                                           |
+| DNN      | Deep Neural Network                                                       |
+| DP       | Differential Privacy                                                      |
+| FL       | Federated Learning                                                        |
+| GDPR     | General Data Protection Regulation                                        |
+| GA       | Genetic Algorithm                                                         |
+| GPT      | Generative Pre-trained Transformer                                        |
+| HIPAA    | Health Insurance Portability and Accountability Act                       |
+| LM       | Language Model                                                            |
+| LLM      | Large Language Model                                                      |
+| Llama    | Large Language Model Meta AI                                              |
+| MIA      | Membership Inference Attack                                               |
+| MDP      | Masking-Differential Prompting                                            |
+| MLM      | Masked Language Model                                                     |
+| NLP      | Natural Language Processing                                               |
+| OOD      | Out Of Distribution                                                       |
+| PI       | Prompt Injection                                                          |
+| PII      | Personally Identifiable Information                                       |
+| PAIR     | Prompt Automatic Iterative Refinement                                     |
+| PLM      | pre-trained Language Model                                                |
+| RL       | Reinforcement Learning                                                    |
+| RLHF     | Reinforcement Learning from Human Feedback                                |
+| RoBERTa  | Robustly optimized BERT approach                                          |
+| SGD      | Stochastic Gradient Descent                                               |
+| TAG      | Gradient Attack on Transformer-based Language Models                      |
+| XLNet    | Transformer-XL with autoregressive and autoencoding pre-training          |
+
 
 ---
 
