@@ -17,6 +17,7 @@ Curated resources, research, and tools for securing AI systems.
 - [Checklists](#checklists)
 - [Risk and Incident Databases](#ai-risk-and-incident-databases)
 - [Glossary](#glossary)
+- [SoK & Surveys](#sok--surveys)
 - [Taxonomy](#taxonomy)
 - [Knowledge Bases](#ai-security-knowledge-bases)
 - [Datasets](#datasets)
