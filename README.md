@@ -342,7 +342,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - **Map**: Understand and identify risks to model/data integrity.  
 - **Measure**: Evaluate and mitigate risks through validation techniques.
 
-- [CVE-Bench — @uiuc-kang-lab](https://github.com/uiuc-kang-lab/cve-bench) [![GitHub Repo stars](https://img.shields.io/github/stars/uiuc-kang-lab/cve-bench?logo=github&label=&style=social)](https://github.com/uiuc-kang-lab/cve-bench) —  How well AI agents can exploit real-world software vulnerabilities that are listed in the CVE database.
+- **[CVE-Bench — @uiuc-kang-lab](https://github.com/uiuc-kang-lab/cve-bench)** [![GitHub Repo stars](https://img.shields.io/github/stars/uiuc-kang-lab/cve-bench?logo=github&label=&style=social)](https://github.com/uiuc-kang-lab/cve-bench) — How well AI agents can exploit real-world software vulnerabilities that are listed in the CVE database.
 
 
 #### **Governance & Compliance**  
