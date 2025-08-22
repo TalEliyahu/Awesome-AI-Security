@@ -434,12 +434,12 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 #### Scope & Plan
 *Design-time security: non-human identities, agent threat modeling, privilege boundaries/authn, and memory scoping/isolation.*
 
->no startups here with active blog
+> no startups here with active blog and active GitHub account
 
 #### Develop & Experiment
 *Secure agent loops and tool use; validate I/O contracts; embed policy hooks; test resilience during co-engineering.*
 
->no startups here with active blog 
+> no startups here with active blog and active GitHub account
 
 #### Augment & Fine-Tune Data
 *Sanitize/trace data and reasoning; validate alignment; protect sensitive memory with privacy controls before deployment.*
@@ -460,7 +460,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 #### Release
 *Sign models/plugins/memory; verify SBOMs; enforce cryptographically validated policies; register agents/capabilities.*
 
->no startups here with active blog 
+> no startups here with active blog and active GitHub account
 
 #### Deploy
 *Zero-trust activation: rotate ephemeral creds, apply allowlists/LLM firewalls, and fine-grained least-privilege authorization.*
@@ -483,7 +483,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 #### Govern
 *Enforce role/task policies, version/retire agents, prevent privilege creep, and align evidence with AI regulations.*
-- [GuardionAI](https://guardion.ai/blog)
+- [GuardionAI](https://guardion.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/GuardionAI?style=social)](https://github.com/GuardionAI)
 - [Zenity](https://zenity.io/blog) [![GitHub followers](https://img.shields.io/github/followers/zenitysec?style=social)](https://github.com/zenitysec)
 - [Unbound](https://www.getunbound.ai/news-and-media)
 - [NOMA Security](https://noma.security/blog/)
