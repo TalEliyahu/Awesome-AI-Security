@@ -484,8 +484,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - [GuardionAI](https://guardion.ai/blog) [:octocat:](https://github.com/guardion-ai)
 - [Zenity](https://zenity.io/blog) [:octocat:](https://github.com/zenitysec)
 - [Unbound](https://www.getunbound.ai/news-and-media)
-- [Prompt Security](https://www.prompt.security/blog) [:octocat:](https://github.com/prompt-security)
-- [NOMA Security](https://noma.security/blog/) [:octocat:](https://github.com/getnoma)
+- [NOMA Security](https://noma.security/blog/)
 - [WitnessAI](https://witness.ai/blog)
 ---
 
