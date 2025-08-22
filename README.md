@@ -443,7 +443,8 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 #### Augment & Fine-Tune Data
 *Sanitize/trace data and reasoning; validate alignment; protect sensitive memory with privacy controls before deployment.*
-- [Skyflow](https://www.skyflow.com/blog)  [:octocat:](https://github.com/skyflowapi)
+- [Skyflow](https://www.skyflow.com/blog) [:octocat:](https://github.com/skyflowapi) [![GitHub followers](https://img.shields.io/github/followers/skyflowapi?style=social)](https://github.com/skyflowapi)
+
 
 #### Test & Evaluate
 *Adversarial testing for goal drift, prompt injection, and tool misuse; red-team sims; sandboxed calls; decision validation.*
