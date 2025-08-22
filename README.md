@@ -431,6 +431,11 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 ## Startups Blogs
 *A curated list of startups securing agentic AI applications, organized by the OWASP Agentic AI lifecycle (Scope & Plan → Govern). Each company appears once in its best-fit stage based on public positioning, and links point to blog/insights for deeper context. Some startups span multiple stages; placements reflect primary focus.*
 
+**Inclusion criteria**
+1. Startup has **not been acquired**
+2. Has an **active blog**
+3. Has an **active GitHub** organization/repository
+
 #### Scope & Plan
 *Design-time security: non-human identities, agent threat modeling, privilege boundaries/authn, and memory scoping/isolation.*
 
