@@ -272,6 +272,9 @@ Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Commo
 
 - **[LLMSecEval](https://github.com/tuhh-softsec/LLMSecEval)** [![GitHub Repo stars](https://img.shields.io/github/stars/tuhh-softsec/LLMSecEval?logo=github&label=&style=social)](https://github.com/tuhh-softsec/LLMSecEval)
 
+- **[SecCodePLT](https://huggingface.co/datasets/Virtue-AI-HUB/SecCodePLT)** [![GitHub Repo stars](https://img.shields.io/github/stars/<owner>/<repo>?logo=github&label=&style=social)](https://github.com/<owner>/<repo>) [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FVirtue-AI-HUB%2FSecCodePLT&query=%24.downloads&label=HF%20downloads&logo=huggingface)](https://huggingface.co/datasets/Virtue-AI-HUB/SecCodePLT)
+
+
 ### Jailbreak & Guardrail Evaluation
 Adversarial prompt datasets—both text-only and multimodal—designed to bypass safety mechanisms or test refusal logic.
 **Used to** test how effectively a model resists jailbreaks and enforces policy-based refusal.
