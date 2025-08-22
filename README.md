@@ -477,14 +477,14 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 #### Monitor
 *Correlate agent steps/tools/comms; detect anomalies (e.g., goal reversal); keep immutable logs for auditability.*
-- [Fiddler](https://www.fiddler.ai/blog) [:octocat:](https://github.com/fiddler-labs)
-- [Pangea](https://pangea.cloud/blog/) [:octocat:](https://github.com/pangeacyber)
-- [Tumeryk](https://tumeryk.com/blog/) [:octocat:](https://github.com/tumeryk)
+- [Fiddler](https://www.fiddler.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/fiddler-labs?style=social)](https://github.com/fiddler-labs)
+- [Pangea](https://pangea.cloud/blog/) [![GitHub followers](https://img.shields.io/github/followers/pangeacyber?style=social)](https://github.com/pangeacyber)
+- [Tumeryk](https://tumeryk.com/blog/) [![GitHub followers](https://img.shields.io/github/followers/tumeryk?style=social)](https://github.com/tumeryk)
 
 #### Govern
 *Enforce role/task policies, version/retire agents, prevent privilege creep, and align evidence with AI regulations.*
-- [GuardionAI](https://guardion.ai/blog) [:octocat:](https://github.com/guardion-ai)
-- [Zenity](https://zenity.io/blog) [:octocat:](https://github.com/zenitysec)
+- [GuardionAI](https://guardion.ai/blog)
+- [Zenity](https://zenity.io/blog) [![GitHub followers](https://img.shields.io/github/followers/zenitysec?style=social)](https://github.com/zenitysec)
 - [Unbound](https://www.getunbound.ai/news-and-media)
 - [NOMA Security](https://noma.security/blog/)
 - [WitnessAI](https://witness.ai/blog)
