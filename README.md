@@ -340,7 +340,10 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 **Purpose**: Assesses AI models for unauthorized modifications, including backdoors and dataset poisoning. Supports trustworthiness and security of model outputs.  
 **NIST AI RMF Alignment**: **Map, Measure**  
 - **Map**: Understand and identify risks to model/data integrity.  
-- **Measure**: Evaluate and mitigate risks through validation techniques.  
+- **Measure**: Evaluate and mitigate risks through validation techniques.
+
+- [CVE-Bench — @uiuc-kang-lab](https://github.com/uiuc-kang-lab/cve-bench) [![GitHub Repo stars](https://img.shields.io/github/stars/uiuc-kang-lab/cve-bench?logo=github&label=&style=social)](https://github.com/uiuc-kang-lab/cve-bench) —  How well AI agents can exploit real-world software vulnerabilities that are listed in the CVE database.
+
 
 #### **Governance & Compliance**  
 **Purpose**: Ensures AI security aligns with governance frameworks, industry regulations, and security policies. Supports auditability and risk management.  
