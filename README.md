@@ -434,7 +434,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 #### Scope & Plan
 *Design-time security: non-human identities, agent threat modeling, privilege boundaries/authn, and memory scoping/isolation.*
 
->no startups here with active blog 
+>no startups here with active blog
 
 #### Develop & Experiment
 *Secure agent loops and tool use; validate I/O contracts; embed policy hooks; test resilience during co-engineering.*
@@ -443,7 +443,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 #### Augment & Fine-Tune Data
 *Sanitize/trace data and reasoning; validate alignment; protect sensitive memory with privacy controls before deployment.*
-- [Skyflow](https://www.skyflow.com/blog)
+- [Skyflow](https://www.skyflow.com/blog)  [:octocat:](https://github.com/skyflowapi)
 
 #### Test & Evaluate
 *Adversarial testing for goal drift, prompt injection, and tool misuse; red-team sims; sandboxed calls; decision validation.*
