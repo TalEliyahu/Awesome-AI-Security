@@ -451,10 +451,11 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - [Citadel AI](https://citadel-ai.com/blog/) [![GitHub followers](https://img.shields.io/github/followers/citadel-ai?style=social)](https://github.com/citadel-ai)
 - [Mindgard](https://www.mindgard.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/Mindgard?style=social)](https://github.com/Mindgard)
 - [Adversa AI](https://adversa.ai/topic/trusted-ai-blog/)
-- [Troj.ai](https://www.troj.ai/blog)
+- [Troj.ai](https://www.troj.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/trojai?style=social)](https://github.com/trojai)
 - [SPLX AI](https://splx.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/splx-ai?style=social)](https://github.com/splx-ai)
-- [Octomind](https://octomind.dev/blog) [![GitHub followers](https://img.shields.io/github/followers/octomind-github?style=social)](https://github.com/OctoMind-dev)
+- [Octomind](https://octomind.dev/blog) [![GitHub followers](https://img.shields.io/github/followers/OctoMind-dev?style=social)](https://github.com/OctoMind-dev)
 - [Patronus AI](https://www.patronus.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/patronus-ai?style=social)](https://github.com/patronus-ai)
+
 
 #### Release
 *Sign models/plugins/memory; verify SBOMs; enforce cryptographically validated policies; register agents/capabilities.*
