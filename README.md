@@ -448,14 +448,13 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 #### Test & Evaluate
 *Adversarial testing for goal drift, prompt injection, and tool misuse; red-team sims; sandboxed calls; decision validation.*
-- [Citadel AI](https://citadel-ai.com/blog/) [:octocat:](https://github.com/citadel-ai)
-- [Mindgard](https://www.mindgard.ai/blog) [:octocat:](https://github.com/Mindgard)
-- [Adversa AI](https://adversa.ai/topic/trusted-ai-blog/) [:octocat:](https://github.com/Adversa-AI)
+- [Citadel AI](https://citadel-ai.com/blog/) [![GitHub followers](https://img.shields.io/github/followers/citadel-ai?style=social)](https://github.com/citadel-ai)
+- [Mindgard](https://www.mindgard.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/Mindgard?style=social)](https://github.com/Mindgard)
+- [Adversa AI](https://adversa.ai/topic/trusted-ai-blog/) [![GitHub followers](https://img.shields.io/github/followers/Adversa-AI?style=social)](https://github.com/Adversa-AI)
 - [Troj.ai](https://www.troj.ai/blog)
-- [SPLX AI](https://splx.ai/blog) [:octocat:](https://github.com/splxai)
-- [Octomind](https://octomind.dev/blog) [:octocat:](https://github.com/octomind-github)
-- [Patronus AI](https://www.patronus.ai/blog) [:octocat:](https://github.com/patronus-ai)
-
+- [SPLX AI](https://splx.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/splxai?style=social)](https://github.com/splxai)
+- [Octomind](https://octomind.dev/blog) [![GitHub followers](https://img.shields.io/github/followers/octomind-github?style=social)](https://github.com/octomind-github)
+- [Patronus AI](https://www.patronus.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/patronus-ai?style=social)](https://github.com/patronus-ai)
 
 #### Release
 *Sign models/plugins/memory; verify SBOMs; enforce cryptographically validated policies; register agents/capabilities.*
