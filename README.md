@@ -452,7 +452,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - [Mindgard](https://www.mindgard.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/Mindgard?style=social)](https://github.com/Mindgard)
 - [Adversa AI](https://adversa.ai/topic/trusted-ai-blog/)
 - [Troj.ai](https://www.troj.ai/blog)
-- [SPLX AI](https://splx.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/splxai?style=social)](https://github.com/splxai)
+- [SPLX AI](https://splx.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/splx-ai?style=social)](https://github.com/splx-ai)
 - [Octomind](https://octomind.dev/blog) [![GitHub followers](https://img.shields.io/github/followers/octomind-github?style=social)](https://github.com/OctoMind-dev)
 - [Patronus AI](https://www.patronus.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/patronus-ai?style=social)](https://github.com/patronus-ai)
 
