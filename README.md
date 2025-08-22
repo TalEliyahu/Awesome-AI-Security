@@ -475,7 +475,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 *Correlate agent steps/tools/comms; detect anomalies (e.g., goal reversal); keep immutable logs for auditability.*
 - [Fiddler](https://www.fiddler.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/fiddler-labs?style=social)](https://github.com/fiddler-labs)
 - [Pangea](https://pangea.cloud/blog/) [![GitHub followers](https://img.shields.io/github/followers/pangeacyber?style=social)](https://github.com/pangeacyber)
-- [Tumeryk](https://tumeryk.com/blog/) [![GitHub followers](https://img.shields.io/github/followers/tumeryk?style=social)](https://github.com/tumeryk)
 
 #### Govern
 *Enforce role/task policies, version/retire agents, prevent privilege creep, and align evidence with AI regulations.*
