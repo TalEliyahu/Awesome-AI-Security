@@ -464,15 +464,16 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 #### Deploy
 *Zero-trust activation: rotate ephemeral creds, apply allowlists/LLM firewalls, and fine-grained least-privilege authorization.*
-- [Pomerium](https://www.pomerium.com/blog) [:octocat:](https://github.com/pomerium)
+- [Pomerium](https://www.pomerium.com/blog) [![GitHub followers](https://img.shields.io/github/followers/pomerium?style=social)](https://github.com/pomerium)
+
 
 #### Operate
 *Monitor memory mutations for drift/poisoning, detect abnormal loops/misuse, enforce HITL overrides, and scan plugins—continuous, real-time vigilance for resilient operations as systems scale and self-orchestrate.*
 - [Pillar Security](https://www.pillar.security/blog)
 - [Straiker](https://www.straiker.ai/blog)
-- [Lakera](https://www.lakera.ai/blog) [:octocat:](https://github.com/lakeraai)
-- [AIM Security](https://www.aim.security/aim-blog) [:octocat:](https://github.com/AIM-Intelligence)
-- [Lasso Security](https://www.lasso.security/blog) [:octocat:](https://github.com/lasso-security)
+- [Lakera](https://www.lakera.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/lakeraai?style=social)](https://github.com/lakeraai)
+- [AIM Security](https://www.aim.security/aim-blog)
+- [Lasso Security](https://www.lasso.security/blog) [![GitHub followers](https://img.shields.io/github/followers/lasso-security?style=social)](https://github.com/lasso-security)
 
 #### Monitor
 *Correlate agent steps/tools/comms; detect anomalies (e.g., goal reversal); keep immutable logs for auditability.*
