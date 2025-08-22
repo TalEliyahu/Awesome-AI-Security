@@ -278,7 +278,7 @@ Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Commo
 Adversarial prompt datasets—both text-only and multimodal—designed to bypass safety mechanisms or test refusal logic.
 **Used to** test how effectively a model resists jailbreaks and enforces policy-based refusal.
 
-- **[CySecBench](https://github.com/cysecbench/dataset)** [![GitHub Repo stars](https://img.shields.io/github/stars/cysecbench/dataset?logo=github&label=&style=social)](https://github.com/cysecbench/dataset) [![HF Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fcysecbench%2Fdataset&query=downloads&label=HF%20downloads&logo=huggingface)](https://huggingface.co/datasets/cysecbench/dataset)
+- **[CySecBench](https://github.com/cysecbench/dataset)** [![GitHub Repo stars](https://img.shields.io/github/stars/cysecbench/dataset?logo=github&label=&style=social)](https://github.com/cysecbench/dataset)
 - **[JailBreakV-28K](https://github.com/SaFoLab-WISC/JailBreakV_28K)** [![GitHub Repo stars](https://img.shields.io/github/stars/SaFoLab-WISC/JailBreakV_28K?logo=github&label=&style=social)](https://github.com/SaFoLab-WISC/JailBreakV_28K)
 - **[Do-Not-Answer](https://github.com/Libr-AI/do-not-answer)** [![GitHub Repo stars](https://img.shields.io/github/stars/Libr-AI/do-not-answer?logo=github&label=&style=social)](https://github.com/Libr-AI/do-not-answer)
 
@@ -286,7 +286,7 @@ Adversarial prompt datasets—both text-only and multimodal—designed to bypass
 Datasets labeled with whether prompts are benign or malicious (i.e., injection attempts).
 **Used to** evaluate an LLM’s ability to detect and neutralize prompt-injection style attacks.
 
-- **[Malicious Prompt Detection](https://github.com/AhsanAyub/malicious-prompt-detection)** [![GitHub Repo stars](https://img.shields.io/github/stars/AhsanAyub/malicious-prompt-detection?logo=github&label=&style=social)](https://github.com/AhsanAyub/malicious-prompt-detection) [![HF Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FAhsanAyub%2Fmalicious-prompt-detection&query=downloads&label=HF%20downloads&logo=huggingface)](https://huggingface.co/datasets/AhsanAyub/malicious-prompt-detection)
+- **[Malicious Prompt Detection](https://github.com/AhsanAyub/malicious-prompt-detection)** [![GitHub Repo stars](https://img.shields.io/github/stars/AhsanAyub/malicious-prompt-detection?logo=github&label=&style=social)](https://github.com/AhsanAyub/malicious-prompt-detection)
 - **[LLMail-Inject](https://github.com/microsoft/llmail-inject-challenge)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/llmail-inject-challenge?logo=github&label=&style=social)](https://github.com/microsoft/llmail-inject-challenge) 
 
 ---
