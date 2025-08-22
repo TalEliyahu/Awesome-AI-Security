@@ -450,7 +450,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 *Adversarial testing for goal drift, prompt injection, and tool misuse; red-team sims; sandboxed calls; decision validation.*
 - [Citadel AI](https://citadel-ai.com/blog/) [![GitHub followers](https://img.shields.io/github/followers/citadel-ai?style=social)](https://github.com/citadel-ai)
 - [Mindgard](https://www.mindgard.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/Mindgard?style=social)](https://github.com/Mindgard)
-- [Adversa AI](https://adversa.ai/topic/trusted-ai-blog/)
 - [Troj.ai](https://www.troj.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/trojai?style=social)](https://github.com/trojai)
 - [SPLX AI](https://splx.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/splx-ai?style=social)](https://github.com/splx-ai)
 - [Octomind](https://octomind.dev/blog) [![GitHub followers](https://img.shields.io/github/followers/OctoMind-dev?style=social)](https://github.com/OctoMind-dev)
@@ -469,10 +468,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 #### Operate
 *Monitor memory mutations for drift/poisoning, detect abnormal loops/misuse, enforce HITL overrides, and scan plugins—continuous, real-time vigilance for resilient operations as systems scale and self-orchestrate.*
-- [Pillar Security](https://www.pillar.security/blog)
-- [Straiker](https://www.straiker.ai/blog)
 - [Lakera](https://www.lakera.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/lakeraai?style=social)](https://github.com/lakeraai)
-- [AIM Security](https://www.aim.security/aim-blog)
 - [Lasso Security](https://www.lasso.security/blog) [![GitHub followers](https://img.shields.io/github/followers/lasso-security?style=social)](https://github.com/lasso-security)
 
 #### Monitor
@@ -485,9 +481,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 *Enforce role/task policies, version/retire agents, prevent privilege creep, and align evidence with AI regulations.*
 - [GuardionAI](https://guardion.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/GuardionAI?style=social)](https://github.com/GuardionAI)
 - [Zenity](https://zenity.io/blog) [![GitHub followers](https://img.shields.io/github/followers/zenitysec?style=social)](https://github.com/zenitysec)
-- [Unbound](https://www.getunbound.ai/news-and-media)
-- [NOMA Security](https://noma.security/blog/)
-- [WitnessAI](https://witness.ai/blog)
+
 ---
 
 ## Related Awesome Lists
