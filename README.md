@@ -447,13 +447,14 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 #### Test & Evaluate
 *Adversarial testing for goal drift, prompt injection, and tool misuse; red-team sims; sandboxed calls; decision validation.*
-- [Citadel AI](https://citadel-ai.com/blog/)
-- [Mindgard](https://www.mindgard.ai/blog)
-- [Adversa AI](https://adversa.ai/topic/trusted-ai-blog/)
+- [Citadel AI](https://citadel-ai.com/blog/) [:octocat:](https://github.com/citadel-ai)
+- [Mindgard](https://www.mindgard.ai/blog) [:octocat:](https://github.com/Mindgard)
+- [Adversa AI](https://adversa.ai/topic/trusted-ai-blog/) [:octocat:](https://github.com/Adversa-AI)
 - [Troj.ai](https://www.troj.ai/blog)
-- [SPLX AI](https://splx.ai/blog)
-- [Octomind](https://octomind.dev/blog)
-- [Patronus AI](https://www.patronus.ai/blog)
+- [SPLX AI](https://splx.ai/blog) [:octocat:](https://github.com/splxai)
+- [Octomind](https://octomind.dev/blog) [:octocat:](https://github.com/octomind-github)
+- [Patronus AI](https://www.patronus.ai/blog) [:octocat:](https://github.com/patronus-ai)
+
 
 #### Release
 *Sign models/plugins/memory; verify SBOMs; enforce cryptographically validated policies; register agents/capabilities.*
@@ -462,31 +463,30 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 #### Deploy
 *Zero-trust activation: rotate ephemeral creds, apply allowlists/LLM firewalls, and fine-grained least-privilege authorization.*
-- [Pomerium](https://www.pomerium.com/blog)
+- [Pomerium](https://www.pomerium.com/blog) [:octocat:](https://github.com/pomerium)
 
 #### Operate
 *Monitor memory mutations for drift/poisoning, detect abnormal loops/misuse, enforce HITL overrides, and scan plugins—continuous, real-time vigilance for resilient operations as systems scale and self-orchestrate.*
 - [Pillar Security](https://www.pillar.security/blog)
 - [Straiker](https://www.straiker.ai/blog)
-- [Lakera](https://www.lakera.ai/blog)
-- [AIM Security](https://www.aim.security/aim-blog)
-- [Lasso Security](https://www.lasso.security/blog)
+- [Lakera](https://www.lakera.ai/blog) [:octocat:](https://github.com/lakeraai)
+- [AIM Security](https://www.aim.security/aim-blog) [:octocat:](https://github.com/AIM-Intelligence)
+- [Lasso Security](https://www.lasso.security/blog) [:octocat:](https://github.com/lasso-security)
 
 #### Monitor
 *Correlate agent steps/tools/comms; detect anomalies (e.g., goal reversal); keep immutable logs for auditability.*
-- [Fiddler](https://www.fiddler.ai/blog)
-- [Pangea](https://pangea.cloud/blog/)
-- [Tumeryk](https://tumeryk.com/blog/)
+- [Fiddler](https://www.fiddler.ai/blog) [:octocat:](https://github.com/fiddler-labs)
+- [Pangea](https://pangea.cloud/blog/) [:octocat:](https://github.com/pangeacyber)
+- [Tumeryk](https://tumeryk.com/blog/) [:octocat:](https://github.com/tumeryk)
 
 #### Govern
 *Enforce role/task policies, version/retire agents, prevent privilege creep, and align evidence with AI regulations.*
-- [GuardionAI](https://guardion.ai/blog)
-- [Zenity](https://zenity.io/blog)
+- [GuardionAI](https://guardion.ai/blog) [:octocat:](https://github.com/guardion-ai)
+- [Zenity](https://zenity.io/blog) [:octocat:](https://github.com/zenitysec)
 - [Unbound](https://www.getunbound.ai/news-and-media)
-- [Prompt Security](https://www.prompt.security/blog)
-- [NOMA Security](https://noma.security/blog/)
+- [Prompt Security](https://www.prompt.security/blog) [:octocat:](https://github.com/prompt-security)
+- [NOMA Security](https://noma.security/blog/) [:octocat:](https://github.com/getnoma)
 - [WitnessAI](https://witness.ai/blog)
-
 ---
 
 ## Related Awesome Lists
