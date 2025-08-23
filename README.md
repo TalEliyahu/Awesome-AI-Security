@@ -120,7 +120,7 @@ Curated resources, research, and tools for securing AI systems.
 ---
 
 ## Tools
-*Inclusion criteria (open-source tools): must have **200+ GitHub stars**, **active maintenance in the last 12 months**, and **≥3 contributors**.*
+*Inclusion criteria (open-source tools): must have **220+ GitHub stars**, **active maintenance in the last 12 months**, and **≥3 contributors**.*
 
 ### Active LLM Vulnerability Scanners
 *(Tools that actively probe LLMs to uncover vulnerabilities)*
