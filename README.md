@@ -126,7 +126,6 @@ Curated resources, research, and tools for securing AI systems.
 *(Tools that actively probe LLMs to uncover vulnerabilities)*
 
 - **Fuzzers** – Generate/mutate inputs to trigger unsafe or undesired model behaviors (e.g., jailbreaks, injections).
-  - **[LLMFuzzer](https://github.com/mnns/LLMFuzzer)** [![GitHub Repo stars](https://img.shields.io/github/stars/mnns/LLMFuzzer?logo=github&label=&style=social)](https://github.com/mnns/LLMFuzzer)
   - **[FuzzyAI](https://github.com/cyberark/FuzzyAI)** [![GitHub Repo stars](https://img.shields.io/github/stars/cyberark/FuzzyAI?logo=github&label=&style=social)](https://github.com/cyberark/FuzzyAI)
   - **[GPTFuzz](https://github.com/sherdencooper/GPTFuzz)** [![GitHub Repo stars](https://img.shields.io/github/stars/sherdencooper/GPTFuzz?logo=github&label=&style=social)](https://github.com/sherdencooper/GPTFuzz)
 
