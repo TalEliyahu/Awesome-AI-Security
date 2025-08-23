@@ -176,7 +176,6 @@ Evaluate the security of agentic or tool-using workflows end-to-end.
 *Filters/classifiers used inline at runtime to block jailbreaks, prompt injection, and leaks.*
 
 - **[NeMo Guardrails (NVIDIA)](https://github.com/NVIDIA/NeMo-Guardrails)** [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?logo=github&label=&style=social)](https://github.com/NVIDIA/NeMo-Guardrails)
-- **[Rebuff (Protect AI)](https://github.com/protectai/rebuff)** [![GitHub Repo stars](https://img.shields.io/github/stars/protectai/rebuff?logo=github&label=&style=social)](https://github.com/protectai/rebuff)
 - **[LLM Guard (Protect AI)](https://github.com/protectai/llm-guard)** [![GitHub Repo stars](https://img.shields.io/github/stars/protectai/llm-guard?logo=github&label=&style=social)](https://github.com/protectai/llm-guard)
 - **[Llama Guard (Meta)](https://github.com/meta-llama/PurpleLlama/tree/main/Llama-Guard4)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama) [Model card](https://huggingface.co/meta-llama/Llama-Guard-4-12B)
 - **[LlamaFirewall (Meta)](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
@@ -187,7 +186,6 @@ Evaluate the security of agentic or tool-using workflows end-to-end.
 
 - **[MCP Inspector](https://github.com/modelcontextprotocol/inspector)** [![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector?logo=github&label=&style=social)](https://github.com/modelcontextprotocol/inspector)
 - **[mcp-scan (Invariant Labs)](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
-- **[MCP Shield — riseandignite](https://github.com/riseandignite/mcp-shield)** [![GitHub Repo stars](https://img.shields.io/github/stars/riseandignite/mcp-shield?logo=github&label=&style=social)](https://github.com/riseandignite/mcp-shield)
 
 ### Pentesting Assistants
 *Designed for security engineers, pentesters, and bounty hunters—tools to speed recon, triage, and testing.*
@@ -197,7 +195,6 @@ Evaluate the security of agentic or tool-using workflows end-to-end.
 - **[hackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT)** [![GitHub Repo stars](https://img.shields.io/github/stars/ipa-lab/hackingBuddyGPT?logo=github&label=&style=social)](https://github.com/ipa-lab/hackingBuddyGPT)
 - **[HexStrike AI](https://github.com/0x4m4/hexstrike-ai)** [![GitHub Repo stars](https://img.shields.io/github/stars/0x4m4/hexstrike-ai?logo=github&label=&style=social)](https://github.com/0x4m4/hexstrike-ai)
 - **[PortSwigger — MCP Server](https://github.com/PortSwigger/mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?logo=github&label=&style=social)](https://github.com/PortSwigger/mcp-server)
-- **[BurpGPT](https://github.com/aress31/burpgpt)** [![GitHub Repo stars](https://img.shields.io/github/stars/aress31/burpgpt?logo=github&label=&style=social)](https://github.com/aress31/burpgpt)
 - **[Nebula](https://github.com/berylliumsec/nebula)** [![GitHub Repo stars](https://img.shields.io/github/stars/berylliumsec/nebula?logo=github&label=&style=social)](https://github.com/berylliumsec/nebula)
 ---
 
