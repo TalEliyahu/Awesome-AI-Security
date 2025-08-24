@@ -24,7 +24,7 @@ Curated resources, research, and tools for securing AI systems.
   - [Vector/Memory Store Security](#vectormemory-store-security)
   - [Data/Model Poisoning Defenses](#datamodel-poisoning-defenses)
   - [Sensitive Data Leak Prevention (DLP for AI)](#sensitive-data-leak-prevention-dlp-for-ai)
-  - [Monitoring, Logging & Anomaly Detection (Security Telemetry)](#monitoring-logging--anomaly-detection-security-telemetry)
+  - [Monitoring, Logging & Anomaly Detection](#monitoring-logging--anomaly-detection)
 - [Attack & Defense Matrices](#attack--defense-matrices)
   - [Attack](#attack)
   - [Defense](#defense)
@@ -222,7 +222,7 @@ Curated resources, research, and tools for securing AI systems.
 
 - *(none from your current list yet)*
 
-### Monitoring, Logging & Anomaly Detection (Security Telemetry)
+### Monitoring, Logging & Anomaly Detection
 *Collect AI-specific security logs/signals; detect abuse patterns (PI/jailbreak/leakage), enrich alerts, and support forensics.*
 
 - *(none from your current list yet)*
