@@ -229,7 +229,7 @@ Curated resources, research, and tools for securing AI systems.
 ### Monitoring, Logging & Anomaly Detection
 *Collect AI-specific security logs/signals; detect abuse patterns (PI/jailbreak/leakage), enrich alerts, and support forensics.*
 
-- *(none from your current list yet)*
+- **[LangKit](https://github.com/whylabs/langkit)** [![GitHub Repo stars](https://img.shields.io/github/stars/whylabs/langkit?logo=github&label=&style=social)](https://github.com/whylabs/langkit) — LLM observability metrics toolkit (whylogs-compatible): prompt-injection/jailbreak similarity, PII patterns, hallucination/consistency, relevance, sentiment/toxicity, readability.
 
 ---
 
