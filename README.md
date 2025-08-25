@@ -19,6 +19,7 @@ Curated resources, research, and tools for securing AI systems.
   - [Agent Tooling and MCP Security](#agent-tooling-and-mcp-security)
   - [Execution Sandboxing for Agent Code](#execution-sandboxing-for-agent-code)
   - [AI Gateways & Policy Proxies](#ai-gateways--policy-proxies)
+  - [Code Review](#code-review)
   - [Red-Teaming Harnesses & Automated Security Testing](#red-teaming-harnesses--automated-security-testing)
   - [Supply Chain: AI/ML BOM and Attestation](#supply-chain-aiml-bom-and-attestation)
   - [Vector/Memory Store Security](#vectormemory-store-security)
