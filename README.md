@@ -18,7 +18,7 @@ Curated resources, research, and tools for securing AI systems.
   - [Model Artifact Scanners](#model-artifact-scanners)
   - [Agent Tooling and MCP Security](#agent-tooling-and-mcp-security)
   - [Execution Sandboxing for Agent Code](#execution-sandboxing-for-agent-code)
-  - [AI Gateways & Policy Proxies](#ai-gateways--policy-proxies)
+  - [Gateways & Policy Proxies](#gateways--policy-proxies)
   - [Code Review](#code-review)
   - [Red-Teaming Harnesses & Automated Security Testing](#red-teaming-harnesses--automated-security-testing)
   - [Supply Chain: AI/ML BOM and Attestation](#supply-chain-aiml-bom-and-attestation)
@@ -161,11 +161,15 @@ Curated resources, research, and tools for securing AI systems.
 
 - **[E2B](https://github.com/e2b-dev/E2B)** [![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/E2B?logo=github&label=&style=social)](https://github.com/e2b-dev/E2B) — SDK + self-hostable infra to run untrusted, LLM-generated code in isolated cloud sandboxes (Firecracker microVMs).
 
-### AI Gateways & Policy Proxies
+### Gateways & Policy Proxies
 *Centralize auth, quotas/rate limits, cost caps, egress/DLP filters, and guardrail orchestration across all model/providers.*
 
 - *(none from your current list yet)*
 
+### Code Review
+- **[Claude Code Security Reviewer](https://github.com/anthropics/claude-code-security-review)** [![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code-security-review?logo=github&label=&style=social)](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
+- **[Vulnhuntr](https://github.com/protectai/vulnhuntr)** [![GitHub Repo stars](https://img.shields.io/github/stars/protectai/vulnhuntr?logo=github&label=&style=social)] - Vulnhuntr leverages the power of LLMs to automatically create and analyze entire code call chains starting from remote user input and ending at server output for detection of complex, multi-step, security-bypassing vulnerabilities that go far beyond what traditional static code analysis tools are capable of performing. (https://github.com/protectai/vulnhuntr) 
+  
 ### Red-Teaming Harnesses & Automated Security Testing
 *Automate attack suites (prompt-injection, leakage, jailbreak, goal-based tasks) in CI; score results and produce regression evidence.*
 
@@ -198,7 +202,6 @@ Curated resources, research, and tools for securing AI systems.
 - **[promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?logo=github&label=&style=social)](https://github.com/promptfoo/promptfoo)
 - **[Agentic Radar](https://github.com/splx-ai/agentic-radar)** [![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?logo=github&label=&style=social)](https://github.com/splx-ai/agentic-radar)
 - **[DeepTeam](https://github.com/confident-ai/deepteam)** [![GitHub Repo stars](https://img.shields.io/github/stars/confident-ai/deepteam?logo=github&label=&style=social)](https://github.com/confident-ai/deepteam)
-- **[claude-code-security-review](https://github.com/anthropics/claude-code-security-review)** [![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code-security-review?logo=github&label=&style=social)](https://github.com/anthropics/claude-code-security-review)
 
 #### Scoring/leaderboards & evidence reports
 - *(none from your current list yet)*
