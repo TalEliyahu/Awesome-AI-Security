@@ -158,7 +158,7 @@ Curated resources, research, and tools for securing AI systems.
 ### Execution Sandboxing for Agent Code
 *Run untrusted or LLM-triggered code in isolated sandboxes (FS/network/process limits) to contain RCE and reduce blast radius.*
 
-- *(none from your current list yet)*
+- **[E2B](https://github.com/e2b-dev/E2B)** [![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/E2B?logo=github&label=&style=social)](https://github.com/e2b-dev/E2B) — SDK + self-hostable infra to run untrusted, LLM-generated code in isolated cloud sandboxes (Firecracker microVMs).
 
 ### AI Gateways & Policy Proxies
 *Centralize auth, quotas/rate limits, cost caps, egress/DLP filters, and guardrail orchestration across all model/providers.*
