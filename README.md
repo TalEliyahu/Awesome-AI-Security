@@ -8,7 +8,7 @@ Curated resources, research, and tools for securing AI systems.
 
 - [Best Practices and Security Standards](#best-practices-and-security-standards)
   - [Governance & Management Frameworks](#governance--management-frameworks)
-  - [Standards, Controls & Top10s](#standards-controls--top10s)
+  - [Standards, Controls & Top 10s](#standards-controls--top-10s)
   - [Testing & Red Teaming](#testing--red-teaming)
   - [Implementation Guides & Best Practices](#implementation-guides--best-practices)
   - [Agentic Systems — Governance, Standards & Guides](#agentic-systems--governance-standards--guides)
