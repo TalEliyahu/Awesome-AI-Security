@@ -346,10 +346,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - [NIST AI RMF 1.0 Architect — Certified Information Security](https://www.certifiedinfosec.com/services/training-courses/ai/nist-ai-rmf-1-0-architect-training) — Credential offered by Certified Information Security aligned to NIST AI RMF 1.0 (listed on NICCS); prepares professionals to design and lead AI risk-management programs.
 
 ### Security Engineering 
-- [Tonex — Certified AI Security Fundamentals (CAISF)](https://www.tonex.com/training-courses/certified-ai-security-fundamentals-caisf/) — 2-day fundamentals on AI security and how to identify and mitigate risks to AI systems and data.
-- [GSDC — Certified Generative AI in Cybersecurity](https://www.gsdcouncil.org/certified-generative-ai-in-cybersecurity) — Equips professionals with skills to implement generative AI effectively within cybersecurity programs.
-- [Tonex — Certified AI Security Engineer (CAISE)](https://www.tonex.com/training-courses/certified-ai-security-engineer-caise-certification-program/) — 2-day practitioner track on AI-specific threats and implementing security best practices across the AI model lifecycle (from data collection/preprocessing to deployment/monitoring).
-- [QA — Certified AI Security Engineer (APMG exam route)](https://www.qa.com/en-us/course-catalogue/courses/certified-ai-security-engineer-qascaaisec/) — Course with an independent APMG exam voucher; exam is taken post-class via the APMG proctor platform.
+
 
 ### Cloud & Platform (useful context; not AI-security certs)
 - [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) — Demonstrates knowledge of AI/ML concepts and related Microsoft Azure services.
