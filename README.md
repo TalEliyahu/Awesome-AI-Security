@@ -345,9 +345,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - [IAPP — Artificial Intelligence Governance Professional (AIGP)](https://iapp.org/certify/aigp/) — Demonstrates capability to ensure safety and trust in the development, deployment, and ongoing management of ethical AI; aligned training focuses on building trustworthy AI in line with emerging laws/policies.
 - [NIST AI RMF 1.0 Architect — Certified Information Security](https://www.certifiedinfosec.com/services/training-courses/ai/nist-ai-rmf-1-0-architect-training) — Credential offered by Certified Information Security aligned to NIST AI RMF 1.0 (listed on NICCS); prepares professionals to design and lead AI risk-management programs.
 
-### Security Engineering 
-
-
 ### Cloud & Platform (useful context; not AI-security certs)
 - [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) — Demonstrates knowledge of AI/ML concepts and related Microsoft Azure services.
 - [AWS Certified Machine Learning – Specialty (MLS-C01)](https://aws.amazon.com/certification/certified-machine-learning-specialty/) — Validates skills across data engineering, exploration, modeling, and ML implementation/operations on AWS.
