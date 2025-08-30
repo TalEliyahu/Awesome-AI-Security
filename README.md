@@ -622,3 +622,10 @@ This repository follows the **[Awesome Manifesto](https://github.com/sindresorhu
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is released under the **Creative Commons Zero v1.0 Universal** license.
+
+## License
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+
+© 2025 Tal Eliyahu. This list is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**. 
+
