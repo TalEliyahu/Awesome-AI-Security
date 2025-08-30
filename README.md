@@ -619,7 +619,7 @@ This repository follows the **[Awesome Manifesto](https://github.com/sindresorhu
 
 ## License
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
-© 2025 Tal Eliyahu. This list is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**. 
+© 2025 Tal Eliyahu. Licensed under the **MIT License**. See [`LICENSE`](LICENSE).
 
