@@ -36,6 +36,7 @@ Curated resources, research, and tools for securing AI systems.
   - [Taxonomy](#taxonomy)
 - [Datasets](#datasets)
 - [Courses](#courses)
+- [Certifications](#certifications)
 - [Learning Resources](#learning-resources)
 - [Research Working Groups](#research-working-groups)
 - [Communities & Social Groups](#communities--social-groups)
@@ -333,6 +334,26 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 - [Microsoft AI Security Learning Path](https://learn.microsoft.com/en-us/training/browse/?filter-roles=ai%20&roles=ai-engineer&subjects=security) – Free training modules on AI security, covering secure AI model development, risk management, and threat mitigation.
 - [AWS AI Security Training](https://explore.skillbuilder.aws/learn/external-ecommerce;view=none;redirectURL=?ctldoc-catalog-0=se-%22AI%20Security%22) – Free AWS courses on securing AI applications, risk management, and implementing security best practices in AI/ML environments.
+
+---
+
+## Certifications
+
+### Governance & Audit
+- [ISACA — Advanced in AI Security Management (AAISM™)](https://www.isaca.org/credentialing/aaism) — AI-centric security management certification to manage AI-related risk, implement policy, and ensure responsible/effective use across the organization 
+- [ISACA — Advanced in AI Audit (AAIA™)](https://www.isaca.org/credentialing/aaia) — Validates ability to audit complex systems and mitigate AI-related risks; domains include AI governance & risk, AI operations, and AI tools/techniques.
+- [IAPP — Artificial Intelligence Governance Professional (AIGP)](https://iapp.org/certify/aigp/) — Demonstrates capability to ensure safety and trust in the development, deployment, and ongoing management of ethical AI; aligned training focuses on building trustworthy AI in line with emerging laws/policies.
+- [NIST AI RMF 1.0 Architect — Certified Information Security](https://www.certifiedinfosec.com/services/training-courses/ai/nist-ai-rmf-1-0-architect-training) — Credential offered by Certified Information Security aligned to NIST AI RMF 1.0 (listed on NICCS); prepares professionals to design and lead AI risk-management programs.
+
+### Security Engineering 
+- [Tonex — Certified AI Security Fundamentals (CAISF)](https://www.tonex.com/training-courses/certified-ai-security-fundamentals-caisf/) — 2-day fundamentals on AI security and how to identify and mitigate risks to AI systems and data.
+- [GSDC — Certified Generative AI in Cybersecurity](https://www.gsdcouncil.org/certified-generative-ai-in-cybersecurity) — Equips professionals with skills to implement generative AI effectively within cybersecurity programs.
+- [Tonex — Certified AI Security Engineer (CAISE)](https://www.tonex.com/training-courses/certified-ai-security-engineer-caise-certification-program/) — 2-day practitioner track on AI-specific threats and implementing security best practices across the AI model lifecycle (from data collection/preprocessing to deployment/monitoring).
+- [QA — Certified AI Security Engineer (APMG exam route)](https://www.qa.com/en-us/course-catalogue/courses/certified-ai-security-engineer-qascaaisec/) — Course with an independent APMG exam voucher; exam is taken post-class via the APMG proctor platform.
+
+### Cloud & Platform (useful context; not AI-security certs)
+- [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) — Demonstrates knowledge of AI/ML concepts and related Microsoft Azure services.
+- [AWS Certified Machine Learning – Specialty (MLS-C01)](https://aws.amazon.com/certification/certified-machine-learning-specialty/) — Validates skills across data engineering, exploration, modeling, and ML implementation/operations on AWS.
 
 ---
 
