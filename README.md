@@ -348,10 +348,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - [ISO/IEC 42001 — AI Management System (Lead Auditor, PECB)](https://pecb.com/en/education-and-certification-for-individuals/iso-iec-42001/iso-iec-42001-lead-auditor) — Develops expertise to audit artificial intelligence management systems (AIMS) using recognized audit principles, procedures, and techniques.
 - [ISO/IEC 23894 — AI Risk Management (AI Risk Manager, PECB)](https://pecb.com/en/education-and-certification-for-individuals/ai-risk) — Training & certification focused on identifying, assessing, and mitigating AI-related risks; aligned to frameworks such as ISO/IEC 23894 and NIST AI RMF.
 
-### Cloud & Platform (useful context; not AI-security certs)
-- [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) — Demonstrates knowledge of AI/ML concepts and related Microsoft Azure services.
-- [AWS Certified Machine Learning – Specialty (MLS-C01)](https://aws.amazon.com/certification/certified-machine-learning-specialty/) — Validates skills across data engineering, exploration, modeling, and ML implementation/operations on AWS.
-
 ---
 
 ## Learning Resources
