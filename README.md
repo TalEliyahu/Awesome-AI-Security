@@ -366,11 +366,11 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - [CWE Artificial Intelligence Working Group (AI WG)](https://cwe.mitre.org/community/working_groups.html) – The AI WG was established by CWE™ and CVE® community stakeholders to identify and address gaps in the CWE corpus where AI-related weaknesses are not adequately covered, and work collaboratively to fix them.
 - [OpenSSF — AI/ML Security Working Group](https://github.com/ossf/ai-ml-security) — Cross-org WG on “security for AI” and “AI for security”
 - [CoSAI — Coalition for Secure AI (OASIS Open Project)](https://github.com/cosai-oasis) — Open, cross-industry initiative advancing secure-by-design AI through shared frameworks, tooling, and guidance.
-  - **WS1: Software Supply Chain Security for AI Systems** — Extends SSDF/SLSA principles to AI; provenance, model risks, and pipeline security.https://github.com/cosai-oasis/ws1-supply-chain
-  - **WS2: Preparing Defenders for a Changing Cybersecurity Landscape** — Defender-focused framework aligning threats, mitigations, and investments for AI-driven ops. https://github.com/cosai-oasis/ws2-defenders  
+  - **WS1: Software Supply Chain Security for AI Systems** - Extends SSDF/SLSA principles to AI; provenance, model risks, and pipeline security.https://github.com/cosai-oasis/ws1-supply-chain
+  - **WS2: Preparing Defenders for a Changing Cybersecurity Landscape** - Defender-focused framework aligning threats, mitigations, and investments for AI-driven ops. https://github.com/cosai-oasis/ws2-defenders  
     • Reference doc: “Preparing Defenders of AI Systems” https://github.com/cosai-oasis/ws2-defenders/blob/main/preparing-defenders-of-ai-systems.md
-  - **WS3: AI Security Risk Governance** — Security-focused risk & controls taxonomy, checklist, and scorecard for AI products and components.https://github.com/cosai-oasis/ws3-ai-risk-governance
-  - **WS4: Secure Design Patterns for Agentic Systems** — Threat models and secure design patterns for agentic systems and infrastructure. https://github.com/cosai-oasis/ws4-secure-design-agentic-systems
+  - **WS3: AI Security Risk Governance** - Security-focused risk & controls taxonomy, checklist, and scorecard for AI products and components.https://github.com/cosai-oasis/ws3-ai-risk-governance
+  - **WS4: Secure Design Patterns for Agentic Systems** - Threat models and secure design patterns for agentic systems and infrastructure. https://github.com/cosai-oasis/ws4-secure-design-agentic-systems
 
 📌 *(More working groups to be added.)*
 
