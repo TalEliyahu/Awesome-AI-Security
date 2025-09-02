@@ -364,6 +364,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - [Cloud Security Alliance (CSA) AI Security Working Groups](https://cloudsecurityalliance.org/research/working-groups) – Collaborative research groups focused on AI security, cloud security, and emerging threats in AI-driven systems.
 - [OWASP Top 10 for LLM & Generative AI Security Risks Project](https://genai.owasp.org/contribute/) – An open-source initiative addressing critical security risks in Large Language Models (LLMs) and Generative AI applications, offering resources and guidelines to mitigate emerging threats.
 - [CWE Artificial Intelligence Working Group (AI WG)](https://cwe.mitre.org/community/working_groups.html) – The AI WG was established by CWE™ and CVE® community stakeholders to identify and address gaps in the CWE corpus where AI-related weaknesses are not adequately covered, and work collaboratively to fix them.
+- [OpenSSF — AI/ML Security Working Group](https://github.com/ossf/ai-ml-security) — Cross-org WG on “security for AI” and “AI for security”
 
 📌 *(More working groups to be added.)*
 
