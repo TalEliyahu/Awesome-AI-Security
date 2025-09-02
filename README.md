@@ -339,7 +339,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ## Certifications
 
-### Governance & Audit
 - [ISACA — Advanced in AI Security Management (AAISM™)](https://www.isaca.org/credentialing/aaism) — AI-centric security management certification to manage AI-related risk, implement policy, and ensure responsible/effective use across the organization 
 - [ISACA — Advanced in AI Audit (AAIA™)](https://www.isaca.org/credentialing/aaia) — Validates ability to audit complex systems and mitigate AI-related risks; domains include AI governance & risk, AI operations, and AI tools/techniques.
 - [IAPP — Artificial Intelligence Governance Professional (AIGP)](https://iapp.org/certify/aigp/) — Demonstrates capability to ensure safety and trust in the development, deployment, and ongoing management of ethical AI; aligned training focuses on building trustworthy AI in line with emerging laws/policies.
