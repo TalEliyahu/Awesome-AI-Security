@@ -497,10 +497,11 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 ## Market Landscape 
 *Curated market maps of tools and vendors for securing LLM and agentic AI applications across the lifecycle.*
 
-- [OWASP — LLM and Generative AI Security Solutions Landscape](https://genai.owasp.org/resource/llm-and-generative-ai-security-solutions-landscape-q12025/)
-- [OWASP — AI Security Solutions Landscape for Agentic AI](https://genai.owasp.org/resource/ai-security-solutions-landscape-for-agentic-ai-q3-2025/)
-- [Latio — 2025 AI Security Report](https://pulse.latio.tech/p/2025-latio-ai-security-report) – Market trends and vendor landscape snapshot for AI security.
-- [Woodside Capital Partners — Cybersecurity Sector](https://woodsidecap.com/wcp-cybersecurity-sector-update-state-of-ai-security/) — A snapshot with vendor breakdowns and landscape view.
+- **[OWASP — LLM and Generative AI Security Solutions Landscape](https://genai.owasp.org/resource/llm-and-generative-ai-security-solutions-landscape-q12025/)** — 
+- **[OWASP — AI Security Solutions Landscape for Agentic AI](https://genai.owasp.org/resource/ai-security-solutions-landscape-for-agentic-ai-q3-2025/)** —
+- **[Latio — 2025 AI Security Report](https://pulse.latio.tech/p/2025-latio-ai-security-report)** — Market trends and vendor landscape snapshot for AI security.
+- **[Woodside Capital Partners — Cybersecurity Sector](https://woodsidecap.com/wcp-cybersecurity-sector-update-state-of-ai-security/)** — A snapshot with vendor breakdowns and landscape view.
+- **[Insight Partners — Cybersecurity Portfolio Overview (Market Map)](https://info.insightpartners.com/cybersecurity-portfolio-overview.html?_gl=1*1tyates*_ga*MzcyNjg5MDY1LjE3NTY5MjY4ODc.*_ga_R6M33R23CY*czE3NTY5MjY4ODckbzEkZzEkdDE3NTY5Mjg0NjkkajYwJGwwJGgw)** — Visual market map and portfolio overview across cybersecurity domains.
 
 ---
 
