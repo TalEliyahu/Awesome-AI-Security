@@ -48,7 +48,7 @@ Curated resources, research, and tools for securing AI systems.
   - [Standards & Specs](#standards--specs)
   - [Third-Party Assessment](#third-party-assessment)
 - [Newsletter](#newsletter)
-- [Conferences and Events](https://github.com/TalEliyahu/Awesome-AI-Security/blob/main/Conferences.md)
+- [Conferences](https://github.com/TalEliyahu/Awesome-AI-Security/blob/main/Conferences.md)
 - [Reports and Research](#reports-and-research)
   - [Research Feed](#research-feed)
   - [Reports](#reports)
