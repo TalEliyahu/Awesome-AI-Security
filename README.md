@@ -349,7 +349,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 - [SANS — SEC545: GenAI & LLM Application Security](https://www.sans.org/cyber-security-courses/genai-llm-application-security) — Hands-on course covering prompt injection, excessive agency, model supply chain, and defensive patterns.
 
-- [SANS — SEC495: Leveraging LLMs (RAG) — Build & Secure](https://www.sans.org/cyber-security-courses/leveraging-llms-building-securing-rag) — Practical RAG builds with threat modeling, validation, and guardrails.
+- [SEC495: Leveraging LLMs: Building & Securing RAG, Contextual RAG, and Agentic RAG](https://www.sans.org/cyber-security-courses/leveraging-llms-building-securing-rag) — Practical RAG builds with threat modeling, validation, and guardrails.
 
 ### Bespoke
 
