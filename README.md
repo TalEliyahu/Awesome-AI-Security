@@ -35,9 +35,15 @@ Curated resources, research, and tools for securing AI systems.
   - [SoK & Surveys](#sok--surveys)
   - [Taxonomy](#taxonomy)
 - [Datasets](#datasets)
+- [Courses & Certifications](#courses--certifications)
+  - [Career Pathways](#career-pathways)
+  - [Courses (includes labs)](#courses-includes-labs)
+  - [Professional Certifications (exam-based)](#professional-certifications-exam-based)
 - [Training](#training)
-- [Certifications](#certifications)
-- [Learning Resources](#learning-resources)
+  - [Provider Training Portals](#provider-training-portals)
+  - [Guided Tracks](#guided-tracks)
+  - [CTFs & Challenges](#ctfs--challenges)
+  - [Bespoke](#bespoke)
 - [Research Working Groups](#research-working-groups)
 - [Communities & Social Groups](#communities--social-groups)
 - [Benchmarking](#benchmarking)
@@ -332,51 +338,42 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
+## Courses & Certifications
+
+#### Career Pathways
+- **[SANS — AI Cybersecurity Careers](https://www.sans.org/cybersecurity-careers/)** — Career pathways poster + training map; baseline skills for AI security (IR, DFIR, detection, threat hunting).
+
+#### Courses (includes labs)
+- **[SANS — SEC545: GenAI & LLM Application Security](https://www.sans.org/cyber-security-courses/genai-llm-application-security)** — Hands-on course covering prompt injection, excessive agency, model supply chain, and defensive patterns. *(Certificate of completion provided by SANS.)*
+- **[SANS — SEC495: Leveraging LLMs: Building & Securing RAG, Contextual RAG, and Agentic RAG](https://www.sans.org/cyber-security-courses/leveraging-llms-building-securing-rag)** — Practical RAG builds with threat modeling, validation, and guardrails. *(Certificate of completion provided by SANS.)*
+
+#### Professional Certifications (exam-based)
+- **[IAPP — Artificial Intelligence Governance Professional (AIGP)](https://iapp.org/certify/aigp/)** — Governance-focused credential aligned with emerging regulations.
+- **[ISACA — Advanced in AI Security Management (AAISM™)](https://www.isaca.org/credentialing/aaism)** — AI-centric security management certification.
+- **[NIST AI RMF 1.0 Architect — Certified Information Security](https://www.certifiedinfosec.com/services/training-courses/ai/nist-ai-rmf-1-0-architect-training)** — Credential aligned to NIST AI RMF 1.0.
+- **[ISO/IEC 23894 — AI Risk Management (AI Risk Manager, PECB)](https://pecb.com/en/education-and-certification-for-individuals/ai-risk)** — Risk identification, assessment, and mitigation aligned to ISO/IEC 23894 and NIST AI RMF.
+- **[ISO/IEC 42001 — AI Management System (Lead Implementer, PECB)](https://pecb.com/en/education-and-certification-for-individuals/iso-iec-42001/iso-iec-42001-lead-implementer)** — Implement an AIMS per ISO/IEC 42001.
+- **[ISO/IEC 42001 — AI Management System (Lead Auditor, PECB)](https://pecb.com/en/education-and-certification-for-individuals/iso-iec-42001/iso-iec-42001-lead-auditor)** — Audit AIMS using recognized principles.
+- **[ISACA — Advanced in AI Audit (AAIA™)](https://www.isaca.org/credentialing/aaia)** — Certification for auditing AI systems and mitigating AI-related risks.
+
+---
+
 ## Training
 
-### Infratracture 
-- [Microsoft AI Security Learning Path](https://learn.microsoft.com/en-us/training/browse/?filter-roles=ai%20&roles=ai-engineer&subjects=security) – Free training modules on AI security, covering secure AI model development, risk management, and threat mitigation.
-- [AWS AI Security Training](https://skillbuilder.aws/search?page=1&domain=artificial_intelligence&searchText=security) – Free AWS courses on securing AI applications, risk management, and implementing security best practices in AI/ML environments.
+### Provider Training Portals
+- [Microsoft AI Security Learning Path](https://learn.microsoft.com/en-us/training/browse/?filter-roles=ai%20&roles=ai-engineer&subjects=security) — Free, self-paced Microsoft content on secure AI model development, risk management, and threat mitigation.
+- [AWS AI Security Training](https://skillbuilder.aws/search?page=1&domain=artificial_intelligence&searchText=security) — Free AWS portal with courses on securing AI applications, risk management, and AI/ML security best practices.
 
-### Web & AppSec
-
-- [PortSwigger — Web Security Academy: Web LLM attacks](https://portswigger.net/web-security/llm-attacks) — Free, hands-on labs on prompt injection, excessive agency, insecure output handling; includes a focused learning path.
+### Guided Tracks
+- [PortSwigger — Web Security Academy: Web LLM attacks](https://portswigger.net/web-security/llm-attacks) — Structured, guided track on LLM issues (prompt injection, insecure output handling, excessive agency) with walkthrough-style exercises.
 
 ### CTFs & Challenges
-- [AI GOAT](https://github.com/dhammon/ai-goat) [![GitHub Repo stars](https://img.shields.io/github/stars/dhammon/ai-goat?logo=github&label=&style=social)](https://github.com/dhammon/ai-goat) - Learn AI security through a series of vulnerable LLM CTF challenges.
+- [AI GOAT](https://github.com/dhammon/ai-goat) [![GitHub Repo stars](https://img.shields.io/github/stars/dhammon/ai-goat?logo=github&label=&style=social)](https://github.com/dhammon/ai-goat) — Vulnerable LLM CTF challenges for learning AI security.
 - [Damn Vulnerable LLM Agent](https://github.com/ReversecLabs/damn-vulnerable-llm-agent) [![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/damn-vulnerable-llm-agent?logo=github&label=&style=social)](https://github.com/ReversecLabs/damn-vulnerable-llm-agent)
-- [AI Red Teaming Playground Labs — Microsoft](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AI-Red-Teaming-Playground-Labs?logo=github&label=&style=social)](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) — Self-hostable lab environment with 12 challenges (direct/indirect prompt injection, metaprompt extraction, Crescendo multi-turn, guardrail bypass).
-
-### Course 
-
-- [SANS — SEC545: GenAI & LLM Application Security](https://www.sans.org/cyber-security-courses/genai-llm-application-security) — Hands-on course covering prompt injection, excessive agency, model supply chain, and defensive patterns.
-
-- [SEC495: Leveraging LLMs: Building & Securing RAG, Contextual RAG, and Agentic RAG](https://www.sans.org/cyber-security-courses/leveraging-llms-building-securing-rag) — Practical RAG builds with threat modeling, validation, and guardrails.
+- [AI Red Teaming Playground Labs — Microsoft](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AI-Red-Teaming-Playground-Labs?logo=github&label=&style=social)](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) — Self-hostable environment with 12 challenges (direct/indirect prompt injection, metaprompt extraction, Crescendo multi-turn, guardrail bypass).
 
 ### Bespoke
-
-- [Trail of Bits — AI/ML Security & Safety Training](https://www.trailofbits.com/services/software-assurance/ai-ml/) — Courses cover comprehensive security training for understanding and evaluating AI-based system risks, including AI failure modes, adversarial attacks, AI safety, data provenance, pipeline threats, and risk mitigation. Trail of Bits won 2nd place at DARPA’s AIxCC finals.
-
----
-
-## Certifications
-
-- [ISACA — Advanced in AI Security Management (AAISM™)](https://www.isaca.org/credentialing/aaism) — AI-centric security management certification to manage AI-related risk, implement policy, and ensure responsible/effective use across the organization 
-- [ISACA — Advanced in AI Audit (AAIA™)](https://www.isaca.org/credentialing/aaia) — Validates ability to audit complex systems and mitigate AI-related risks; domains include AI governance & risk, AI operations, and AI tools/techniques.
-- [IAPP — Artificial Intelligence Governance Professional (AIGP)](https://iapp.org/certify/aigp/) — Demonstrates capability to ensure safety and trust in the development, deployment, and ongoing management of ethical AI; aligned training focuses on building trustworthy AI in line with emerging laws/policies.
-- [NIST AI RMF 1.0 Architect — Certified Information Security](https://www.certifiedinfosec.com/services/training-courses/ai/nist-ai-rmf-1-0-architect-training) — Credential offered by Certified Information Security aligned to NIST AI RMF 1.0 (listed on NICCS); prepares professionals to design and lead AI risk-management programs.
-- [ISO/IEC 42001 — AI Management System (Lead Implementer, PECB)](https://pecb.com/en/education-and-certification-for-individuals/iso-iec-42001/iso-iec-42001-lead-implementer) — Prepares professionals to implement an artificial intelligence management system (AIMS) in accordance with ISO/IEC 42001.
-- [ISO/IEC 42001 — AI Management System (Lead Auditor, PECB)](https://pecb.com/en/education-and-certification-for-individuals/iso-iec-42001/iso-iec-42001-lead-auditor) — Develops expertise to audit artificial intelligence management systems (AIMS) using recognized audit principles, procedures, and techniques.
-- [ISO/IEC 23894 — AI Risk Management (AI Risk Manager, PECB)](https://pecb.com/en/education-and-certification-for-individuals/ai-risk) — Training & certification focused on identifying, assessing, and mitigating AI-related risks; aligned to frameworks such as ISO/IEC 23894 and NIST AI RMF.
-
----
-
-## Learning Resources
-
-- [Nightfall AI Security 101](https://www.nightfall.ai/ai-security-101) – A centralized learning hub for AI security, offering an evolving library of concepts, emerging risks, and foundational principles in securing AI systems.
-
-### Foundations
-- [SANS — AI Cybersecurity Careers](https://www.sans.org/cybersecurity-careers/) — Career pathways poster + training map; helpful baseline skills that transfer to AI security (IR, DFIR, detection, threat hunting).
+- [Trail of Bits — AI/ML Security & Safety Training](https://www.trailofbits.com/services/software-assurance/ai-ml/) — Courses on AI failure modes, adversarial attacks, data provenance, pipeline threats, and mitigation.
 
 ---
 
