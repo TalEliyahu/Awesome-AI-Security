@@ -110,6 +110,8 @@ Curated resources, research, and tools for securing AI systems.
 - [NIST — Four Principles of Explainable Artificial Intelligence](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=933399)
 - [OASIS CoSAI — Preparing Defenders of AI Systems](https://github.com/cosai-oasis/ws2-defenders/blob/main/preparing-defenders-of-ai-systems.md) [![GitHub Repo stars](https://img.shields.io/github/stars/cosai-oasis/ws2-defenders?logo=github&label=&style=social)](https://github.com/cosai-oasis/ws2-defenders)
 - [CISA — AI Data Security: Best Practices for Securing Data Used to Train & Operate AI Systems](https://www.cisa.gov/news-events/alerts/2025/05/22/new-best-practices-guide-securing-ai-data-released)
+- [DoD CIO — AI Cybersecurity Risk Management Tailoring Guide (2025)](https://dodcio.defense.gov/Portals/0/Documents/Library/AI-CybersecurityRMTailoringGuide.pdf) — Practical RMF tailoring for AI systems across the lifecycle; complements CDAO’s RAI toolkit.
+
 
 ### Agentic Systems — Governance, Standards & Guides
 - [OWASP — Agent Observability Standard (AOS)](https://github.com/OWASP/www-project-agent-observability-standard) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-agent-observability-standard?logo=github&label=&style=social)](https://github.com/OWASP/www-project-agent-observability-standard)
