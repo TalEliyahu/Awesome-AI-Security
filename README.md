@@ -354,7 +354,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ### Bespoke
 
-- [Trail of Bits — AI/ML Security & Safety Training](https://blog.trailofbits.com/tag/ai-ml-security) — Workshop-style training informed by real assessments. Trail of Bits won 2nd place at DARPA’s AIxCC finals.
+- [Trail of Bits — AI/ML Security & Safety Training](https://www.trailofbits.com/services/software-assurance/ai-ml/) — Courses cover comprehensive security training for understanding and evaluating AI-based system risks, including AI failure modes, adversarial attacks, AI safety, data provenance, pipeline threats, and risk mitigation. Trail of Bits won 2nd place at DARPA’s AIxCC finals.
 
 ---
 
