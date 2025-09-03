@@ -340,23 +340,21 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 - [PortSwigger — Web Security Academy: Web LLM attacks](https://portswigger.net/web-security/llm-attacks) — Free, hands-on labs on prompt injection, excessive agency, insecure output handling; includes a focused learning path.
 
-## CTFs & Challenges
+### CTFs & Challenges
 - [AI GOAT](https://github.com/dhammon/ai-goat) [![GitHub Repo stars](https://img.shields.io/github/stars/dhammon/ai-goat?logo=github&label=&style=social)](https://github.com/dhammon/ai-goat)
 - [Gandalf CTF](https://gandalf.lakera.ai/) 
 - [Damn Vulnerable LLM Agent](https://github.com/ReversecLabs/damn-vulnerable-llm-agent) [![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/damn-vulnerable-llm-agent?logo=github&label=&style=social)](https://github.com/ReversecLabs/damn-vulnerable-llm-agent)
 - [AI Red Teaming Playground Labs — Microsoft](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AI-Red-Teaming-Playground-Labs?logo=github&label=&style=social)](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) — Self-hostable lab environment with 12 challenges (direct/indirect prompt injection, metaprompt extraction, Crescendo multi-turn, guardrail bypass).
 
-## Course 
+### Course 
 
 - [SANS — SEC545: GenAI & LLM Application Security](https://www.sans.org/cyber-security-courses/genai-llm-application-security) — Hands-on course covering prompt injection, excessive agency, model supply chain, and defensive patterns.
 
 - [SANS — SEC495: Leveraging LLMs (RAG) — Build & Secure](https://www.sans.org/cyber-security-courses/leveraging-llms-building-securing-rag) — Practical RAG builds with threat modeling, validation, and guardrails.
 
-
-## Bespoke
+### Bespoke
 
 - [Trail of Bits — AI/ML Security & Safety Training](https://blog.trailofbits.com/tag/ai-ml-security) — Workshop-style training informed by real assessments. Trail of Bits won 2nd place at DARPA’s AIxCC finals.
-
 
 ---
 
