@@ -1,5 +1,14 @@
 # AI Security Conferences 
 
+## August 2025
+
+- 📅 **The AI Summit @ Black Hat USA** — **August 5, 2025** · Mandalay Bay, Las Vegas · https://www.blackhat.com/us-25/ai-summit.html · *Organizer:* Black Hat Events  
+- 📅 **AI Village @ DEF CON 33** — **August 7, 2025** · Las Vegas Convention Center, Las Vegas, NV · https://aivillage.org/events/defcon33/ · *Organizer:* AI Village / DEF CON  
+- 📅 **Vegas AI Security Forum ’25** — **August 7, 2025 · 10:00–23:00** · Palms Casino Resort, Las Vegas · https://aisecurity.forum/vegas-25 · *Organizer:* AI Security Forum  
+- 📅 **GRC Data & AI Summit** — **August 13, 2025 · 09:00 PDT** · Virtual · https://www.anecdotes.ai/grc-data-ai-summit · *Organizer:* anecdotes  
+- 📅 **Artificial Intelligence Risk Summit** — **August 19–20, 2025** · https://www.airisksummit.com/  
+- 📅 **Agentic AI Security Summit 2025** — **August 19, 2025** · Virtual · https://web.cvent.com/event/6a48aa4b-a67c-40ca-81a5-3c3e8f78884c/ · *Organizer:* Cloud Security Alliance  
+
 ## September 2025
 
 - 📅 **The International Conference on Cybersecurity and AI-Based Systems** — September 1–4, 2025 · Varna, Bulgaria · https://www.cyber-ai.org/ · *Organizer:* Cyber-AI  
