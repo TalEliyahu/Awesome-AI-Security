@@ -341,7 +341,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - [PortSwigger — Web Security Academy: Web LLM attacks](https://portswigger.net/web-security/llm-attacks) — Free, hands-on labs on prompt injection, excessive agency, insecure output handling; includes a focused learning path.
 
 ### CTFs & Challenges
-- [AI GOAT](https://github.com/dhammon/ai-goat) [![GitHub Repo stars](https://img.shields.io/github/stars/dhammon/ai-goat?logo=github&label=&style=social)](https://github.com/dhammon/ai-goat)
+- [AI GOAT](https://github.com/dhammon/ai-goat) [![GitHub Repo stars](https://img.shields.io/github/stars/dhammon/ai-goat?logo=github&label=&style=social)](https://github.com/dhammon/ai-goat) - Learn AI security through a series of vulnerable LLM CTF challenges.
 - [Gandalf CTF](https://gandalf.lakera.ai/) 
 - [Damn Vulnerable LLM Agent](https://github.com/ReversecLabs/damn-vulnerable-llm-agent) [![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/damn-vulnerable-llm-agent?logo=github&label=&style=social)](https://github.com/ReversecLabs/damn-vulnerable-llm-agent)
 - [AI Red Teaming Playground Labs — Microsoft](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AI-Red-Teaming-Playground-Labs?logo=github&label=&style=social)](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) — Self-hostable lab environment with 12 challenges (direct/indirect prompt injection, metaprompt extraction, Crescendo multi-turn, guardrail bypass).
