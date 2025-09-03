@@ -65,6 +65,7 @@ Curated resources, research, and tools for securing AI systems.
   - [Operate](#operate)
   - [Monitor](#monitor)
   - [Govern](#govern)
+- [Conferences](#conferences.md)
 - [Related Awesome Lists](#related-awesome-lists)
 - [Common Acronyms](#common-acronyms)
 
