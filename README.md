@@ -236,14 +236,14 @@ Curated resources, research, and tools for securing AI systems.
 
 ---
 
-## Checklists
+## [↑](#table-of-contents)Checklists <a name="checklists"></a>
 
 - [OWASP — LLM Applications Cybersecurity & Governance Checklist](https://genai.owasp.org/resource/llm-applications-cybersecurity-and-governance-checklist-english/)
 - [SlowMist — MCP Security Checklist](https://github.com/slowmist/MCP-Security-Checklist) [![GitHub Repo stars](https://img.shields.io/github/stars/slowmist/MCP-Security-Checklist?logo=github&label=&style=social)](https://github.com/slowmist/MCP-Security-Checklist)
 
 ---
 
-## Supply Chain Security
+## [↑](#table-of-contents)Supply Chain Security <a name="supply-chain-security"></a>
 Guidance and standards for securing the AI/ML software supply chain (models, datasets, code, pipelines). Primarily specs and frameworks; includes vetted TPRM templates.
 
 ### Standards & Specs
@@ -258,7 +258,7 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 
 ---
 
-## Foundations: Glossary, SoK/Surveys & Taxonomies
+## [↑](#table-of-contents)Foundations: Glossary, SoK/Surveys & Taxonomies <a name="foundations-glossary-soksurveys--taxonomies"></a>
 *(Core references and syntheses for orientation and shared language.)*
 
 ### Glossary
@@ -277,7 +277,7 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 - [**ARC — PI (Prompt Injection) Taxonomy**](https://github.com/Arcanum-Sec/arc_pi_taxonomy) - Focused taxonomy for prompt-injection behaviors/variants with practical labeling guidance for detection and defense.
 ---
 
-## Datasets
+## [↑](#table-of-contents)Datasets <a name="datasets"></a>
 
 ### Cybersecurity Skills 
 Interactive CTFs and self-contained labs for hands-on security skills (web, pwn, crypto, forensics, reversing). **Used to** assess practical reasoning, tool use, and end-to-end task execution.
@@ -313,7 +313,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
-## Courses & Certifications
+## [↑](#table-of-contents)Courses & Certifications <a name="courses--certifications"></a>
 
 #### Career Pathways
 - **[SANS — AI Cybersecurity Careers](https://www.sans.org/cybersecurity-careers/)** — Career pathways poster + training map; baseline skills for AI security (IR, DFIR, detection, threat hunting).
@@ -333,7 +333,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
-## Training
+## [↑](#table-of-contents)Training <a name="training"></a>
 
 ### Provider Training Portals
 - [Microsoft AI Security Learning Path](https://learn.microsoft.com/en-us/training/browse/?filter-roles=ai%20&roles=ai-engineer&subjects=security) — Free, self-paced Microsoft content on secure AI model development, risk management, and threat mitigation.
@@ -352,7 +352,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
-## Research Working Groups
+## [↑](#table-of-contents)Research Working Groups <a name="research-working-groups"></a>
 
 - [Cloud Security Alliance (CSA) AI Security Working Groups](https://cloudsecurityalliance.org/research/working-groups) – Collaborative research groups focused on AI security, cloud security, and emerging threats in AI-driven systems.
 - [OWASP Top 10 for LLM & Generative AI Security Risks Project](https://genai.owasp.org/contribute/) – An open-source initiative addressing critical security risks in Large Language Models (LLMs) and Generative AI applications, offering resources and guidelines to mitigate emerging threats.
@@ -370,13 +370,13 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
-## Communities & Social Groups
+## [↑](#table-of-contents)Communities & Social Groups <a name="communities--social-groups"></a>
 
 - [AI Security Hub (LinkedIn Group)](https://www.linkedin.com/groups/14545517/)
 
 ---
 
-## Benchmarking
+## [↑](#table-of-contents)Benchmarking <a name="benchmarking"></a>
 
 ### Benchmarks
 
@@ -419,7 +419,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - **Measure**: Evaluate AI outputs for fairness, bias, and interpretability.  
 
 ---
-## Incident Response
+## [↑](#table-of-contents)Incident Response <a name="incident-response"></a>
 
 ### Incident Repositories, Trackers & Monitors
 - [AI Incident Database (AIID)](https://incidentdatabase.ai/) 
@@ -433,20 +433,12 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
-## Newsletter
+## [↑](#table-of-contents)Newsletter <a name="newsletter"></a>
 - [Adversarial AI Digest](https://www.linkedin.com/newsletters/adversarial-ai-digest-7298813894498598912/) - A digest of AI security research, threats, governance challenges, and best practices for securing AI systems.
 
 ---
 
-## Conferences and Events
-
-- [AI Village @ DEF CON](https://aivillage.org/)
-- [AI Summit @ Black Hat](https://www.blackhat.com/)
-- [AI Hacking Village @ BSides TLV](https://aihackingvillage.com/)
-
----
-
-## Reports and Research
+## [↑](#table-of-contents)Reports and Research <a name="reports-and-research"></a>
 
 ### Research Feed
 
@@ -463,13 +455,13 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
-## Podcasts
+## [↑](#table-of-contents)Podcasts <a name="podcasts"></a>
 
 - [**The MLSecOps Podcast**](https://podcasts.apple.com/us/podcast/the-mlsecops-podcast/id1679667447) – Insightful conversations with industry leaders and AI experts, exploring the fascinating world of machine learning security operations.
 
 ---
 
-## Market Landscape 
+## [↑](#table-of-contents)Market Landscape <a name="market-landscape"></a>
 *Curated market maps of tools and vendors for securing LLM and agentic AI applications across the lifecycle.*
 
 - **[OWASP — LLM and Generative AI Security Solutions Landscape](https://genai.owasp.org/resource/llm-and-generative-ai-security-solutions-landscape-q12025/)** 
@@ -480,7 +472,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
-## Startups Blogs
+## [↑](#table-of-contents)Startups Blogs <a name="startups-blogs"></a>
 *A curated list of startups securing agentic AI applications, organized by the OWASP Agentic AI lifecycle (Scope & Plan → Govern). Each company appears once in its best-fit stage based on public positioning, and links point to blog/insights for deeper context. Some startups span multiple stages; placements reflect primary focus.*
 
 **Inclusion criteria**
@@ -540,7 +532,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
-## Related Awesome Lists
+## [↑](#table-of-contents)Related Awesome Lists <a name="related-awesome-lists"></a>
 
 - [Awesome LLMSecOps — wearetyomsmnv](https://github.com/wearetyomsmnv/Awesome-LLMSecOps) [![GitHub Repo stars](https://img.shields.io/github/stars/wearetyomsmnv/Awesome-LLMSecOps?logo=github&label=&style=social)](https://github.com/wearetyomsmnv/Awesome-LLMSecOps)
 - [OSS LLM Security — kaplanlior](https://github.com/kaplanlior/oss-llm-security) [![GitHub Repo stars](https://img.shields.io/github/stars/kaplanlior/oss-llm-security?logo=github&label=&style=social)](https://github.com/kaplanlior/oss-llm-security)
@@ -576,7 +568,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
-## Common Acronyms
+## [↑](#table-of-contents)Common Acronyms <a name="common-acronyms"></a>
 
 | Acronym  | Full Form                                                                 |
 |:---------|:--------------------------------------------------------------------------|
@@ -617,7 +609,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
-## Contributing
+## [↑](#table-of-contents)Contributing <a name="contributing"></a>
 
 Contributions are welcome! If you have new resources, tools, or insights to add, feel free to submit a pull request.
 
@@ -625,7 +617,7 @@ This repository follows the **[Awesome Manifesto](https://github.com/sindresorhu
 
 ---
 
-## License
+## [↑](#table-of-contents)License <a name="license"></a>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
