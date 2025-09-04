@@ -102,7 +102,7 @@ Curated resources, research, and tools for securing AI systems.
 
 ---
 
-## Tools
+##[↑] Tools
 *Inclusion criteria (open-source tools): must have **220+ GitHub stars**, **active maintenance in the last 12 months**, and **≥3 contributors**.*
 
 ### Prompt-Injection Detection & Mitigation
