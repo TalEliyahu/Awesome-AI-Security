@@ -31,3 +31,8 @@ a single phase.
 3. Separate different attack vectors into independent
 phases.
 4. Merge multiple actions triggered by the same entity.
+5. 5.evidence_set must fully retain the original log entries.
+6. Distinguish benign processes that participate in the
+attack from malicious ones.
+7. ...
+Output Format: Return the result as a JSON array...
