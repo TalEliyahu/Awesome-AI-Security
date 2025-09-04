@@ -223,7 +223,7 @@ Curated resources, research, and tools for securing AI systems.
 
 ---
 
-## Attack & Defense Matrices
+## [↑](#table-of-contents)Attack & Defense Matrices <a name="attack--defense-matrices"></a>
 *Matrix-style resources covering adversarial TTPs and curated defensive techniques for AI systems.*
 
 ### Attack
