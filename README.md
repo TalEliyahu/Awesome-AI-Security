@@ -270,6 +270,9 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 
 ## [↑](#table-of-contents)Datasets <a name="datasets"></a>
 
+### Meta-lists
+- [Awesome Cybersecurity Datasets — meta-list (shramos)](https://github.com/shramos/Awesome-Cybersecurity-Datasets) [![GitHub Repo stars](https://img.shields.io/github/stars/shramos/Awesome-Cybersecurity-Datasets?logo=github&label=&style=social)](https://github.com/shramos/Awesome-Cybersecurity-Datasets)
+
 ### Cybersecurity Skills 
 Interactive CTFs and self-contained labs for hands-on security skills (web, pwn, crypto, forensics, reversing). **Used to** assess practical reasoning, tool use, and end-to-end task execution.
 
