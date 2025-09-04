@@ -33,8 +33,6 @@ Curated resources, research, and tools for securing AI systems.
   - [Incident Repositories, Trackers & Monitors](#incident-repositories-trackers--monitors)
   - [Guides & Playbooks](#guides--playbooks)
 - [Supply Chain Security](#supply-chain-security)
-  - [Standards & Specs](#standards--specs)
-  - [Third-Party Assessment](#third-party-assessment)
 - [Newsletter](#newsletter)
 - [Conferences](https://github.com/TalEliyahu/Awesome-AI-Security/blob/main/Conferences.md)
 - [Reports and Research](#reports-and-research)
