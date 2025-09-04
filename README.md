@@ -275,8 +275,8 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 
 ### Dataset indexes & portals
 
-- **[Kaggle — Cybersecurity datasets](https://www.kaggle.com/datasets?search=cybersecurity)** — Community-contributed datasets (IDS, phishing, malware URLs, incidents).
-- **[Hugging Face Datasets — Cybersecurity](https://huggingface.co/datasets?search=cybersecurity)** — Search HF datasets tagged/related to cybersecurity and threat intel.
+- **[Kaggle](https://www.kaggle.com/datasets?search=cybersecurity)** — Community-contributed datasets (IDS, phishing, malware URLs, incidents).
+- **[Hugging Face](https://huggingface.co/datasets?search=cybersecurity)** — Search HF datasets tagged/related to cybersecurity and threat intel.
 
 ### Cybersecurity Skills 
 Interactive CTFs and self-contained labs for hands-on security skills (web, pwn, crypto, forensics, reversing). **Used to** assess practical reasoning, tool use, and end-to-end task execution.
