@@ -1,7 +1,7 @@
 
-# [An Automated Attack Investigation Approach Leveraging Threat-Knowledge-Augmented Large Language Models](https://arxiv.org/pdf/2509.01271)
+## [An Automated Attack Investigation Approach Leveraging Threat-Knowledge-Augmented Large Language Models](https://arxiv.org/pdf/2509.01271)
 
-## Prompt for Kill-Chain Annotation
+### Prompt for Kill-Chain Annotation
 
 You are an expert in Kill Chain knowledge, write the analysis. Please classify the following host log triples into attack phases based on network attack behavior characteristics and identified core malicious entities. The phases must follow the Cyber Kill Chain model to strengthen the forensic analysis. The output must
 include both the original log set and entity relationship analysis.
@@ -30,7 +30,7 @@ Processing Rules:
 Output Format: Return the result as a JSON array...
 
 
-## Prompt for Causal Reasoning
+### Prompt for Causal Reasoning
 
 You are a cyber forensic analyst investigating potential attacks in preprocessed system logs...
 Given a sequence of attack-related behavior records...
@@ -53,7 +53,7 @@ Task:
 Answer:
 Output Format: Return the result as a JSON array...
 
-## Prompt for Attack Report Generation
+### Prompt for Attack Report Generation
 
 You are a cyber forensic analyst responsible for consolidating reasoning results into a comprehensive attack investigation report. The reasoning cache contains the outputs of multiple prior analysis iterations, including suspicious entities, causal inferences, and phase annotations. Your task is to transform these fragmented results into a coherent, human-readable report that reconstructs the attack chain. Contexts: Aggregated reasoning cache: [reasoning_cache] Detected suspicious entities across iterations: [detected] 
 
@@ -67,7 +67,7 @@ Task:
 
 Answer: Based on this information, generate a structured forensic report that describes the chronological attack timeline, explains each stage in terms of the Kill Chain phases, highlights abnormal behaviors and their causal relationships, and summarizes the roles of suspicious entities. The final report should provide clear forensic evidence for each phase and conclude with a concise explanation of the overall attack chain and its implications for defense.
 
-## Prompt for Attack Report Generation
+### Prompt for Attack Report Generation
 
 You are a cyber forensic analyst responsible for consolidating reasoning results into a comprehensive attack investigation report. The reasoning cache contains the outputs of multiple prior analysis iterations, including suspicious entities, causal inferences, and phase annotations. Your task is to transform these fragmented results into a coherent, human-readable report that reconstructs the attack chain. Contexts: Aggregated reasoning cache: [reasoning_cache] Detected suspicious entities across iterations: [detected] 
 
