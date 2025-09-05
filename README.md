@@ -29,6 +29,7 @@ Curated resources, research, and tools for securing AI systems.
   - [Incident Repositories, Trackers & Monitors](#incident-repositories-trackers--monitors)
   - [Guides & Playbooks](#guides--playbooks)
 - [Supply Chain Security](#supply-chain-security)
+- [Videos & Playlists](#videos--playlists)
 - [Newsletter](#newsletter)
 - [Conferences](https://github.com/TalEliyahu/Awesome-AI-Security/blob/main/Conferences.md)
 - [Podcasts](#podcasts)
@@ -247,6 +248,16 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 *Questionnaires and templates to assess external vendors, model providers, and integrators for security, privacy, and compliance.*
 
 - **FS-ISAC — Generative AI Vendor Evaluation & Qualitative Risk Assessment** — [Assessment Tool XLSX](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessmentTool.xlsx) • [Guide PDF](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessment.pdf) — Vendor due-diligence toolkit for GenAI: risk tiering by use case, integration and data sensitivity; questionnaires across privacy, security, model development and validation, integration, legal and compliance; auto-generated reporting.
+
+---
+
+## [↑](#table-of-contents)Videos & Playlists <a name="videos--playlists"></a>
+*Monthly curated playlists of AI-security talks, demos, incidents, and tooling.*
+
+- **AI Security Playlist – September 2025** — https://www.youtube.com/playlist?list=PLFO56KBxdGBeEmDZTbjZtkVEfhBAXQDZt
+- **AI Security Playlist – August 2025** — https://www.youtube.com/playlist?list=PLFO56KBxdGBeqkXsyIXWCRkB7gFrEqaER
+- **AI Security Playlist – July 2025** — https://www.youtube.com/playlist?list=PLFO56KBxdGBfcknOAnHJFYlld2FoLsbre
+- **AI Security Playlist – June 2025** — https://www.youtube.com/playlist?list=PLFO56KBxdGBfOiusdf-YV6e8WBWgAwe-4
 
 ---
 
