@@ -28,7 +28,7 @@ Curated resources, research, and tools for securing AI systems.
 - [Supply Chain Security](#supply-chain-security)
 - [Newsletter](#newsletter)
 - [Conferences](https://github.com/TalEliyahu/Awesome-AI-Security/blob/main/Conferences.md)
-- [Reports and Research](#reports-and-research)
+- [Research Papers](./Research_Papers.md)
 - [Podcasts](#podcasts)
 - [Market Landscape](#market-landscape)
 - [Startups Blogs](#startups-blogs)
