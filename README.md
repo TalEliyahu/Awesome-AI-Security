@@ -20,7 +20,9 @@ Curated resources, research, and tools for securing AI systems.
 - [Courses & Certifications](#courses--certifications)
 - [Training](#training)
 - [Reports and Research](#reports-and-research)
-  - [Research Papers](./Research_Papers.md)
+  - [Research Papers](#research-papers)
+  - [Research Feed](#research-feed)
+  - [Reports](#reports)
 - [Communities & Social Groups](#communities--social-groups)
 - [Benchmarking](#benchmarking)
 - [Incident Response](#incident-response)
@@ -438,7 +440,9 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ## [↑](#table-of-contents)Reports and Research <a name="reports-and-research"></a>
 
-### [Research Papers](https://github.com/TalEliyahu/Awesome-AI-Security/blob/main/Research_Papers.md)
+### [Research Papers]
+
+- [Research Papers](https://github.com/TalEliyahu/Awesome-AI-Security/blob/main/Research_Papers.md)
 
 ### Research Feed
 
