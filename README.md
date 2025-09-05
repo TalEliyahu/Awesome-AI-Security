@@ -254,10 +254,10 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 ## [↑](#table-of-contents)Videos & Playlists <a name="videos--playlists"></a>
 *Monthly curated playlists of AI-security talks, demos, incidents, and tooling.*
 
-- **AI Security Playlist – September 2025** — https://www.youtube.com/playlist?list=PLFO56KBxdGBeEmDZTbjZtkVEfhBAXQDZt
-- **AI Security Playlist – August 2025** — https://www.youtube.com/playlist?list=PLFO56KBxdGBeqkXsyIXWCRkB7gFrEqaER
-- **AI Security Playlist – July 2025** — https://www.youtube.com/playlist?list=PLFO56KBxdGBfcknOAnHJFYlld2FoLsbre
-- **AI Security Playlist – June 2025** — https://www.youtube.com/playlist?list=PLFO56KBxdGBfOiusdf-YV6e8WBWgAwe-4
+- **[AI Security Playlist – September 2025](https://www.youtube.com/playlist?list=PLFO56KBxdGBeEmDZTbjZtkVEfhBAXQDZt)**
+- **[AI Security Playlist – August 2025](https://www.youtube.com/playlist?list=PLFO56KBxdGBeqkXsyIXWCRkB7gFrEqaER)**
+- **[AI Security Playlist – July 2025](https://www.youtube.com/playlist?list=PLFO56KBxdGBfcknOAnHJFYlld2FoLsbre)**
+- **[AI Security Playlist – June 2025](https://www.youtube.com/playlist?list=PLFO56KBxdGBfOiusdf-YV6e8WBWgAwe-4)**
 
 ---
 
