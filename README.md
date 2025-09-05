@@ -440,7 +440,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ## [↑](#table-of-contents)Reports and Research <a name="reports-and-research"></a>
 
-### [Research Papers]
+### Research Papers
 
 - [Research Papers](https://github.com/TalEliyahu/Awesome-AI-Security/blob/main/Research_Papers.md)
 
