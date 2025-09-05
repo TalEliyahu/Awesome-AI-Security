@@ -1,3 +1,6 @@
+
+# [An Automated Attack Investigation Approach Leveraging Threat-Knowledge-Augmented Large Language Models](https://arxiv.org/pdf/2509.01271)
+
 ## Prompt for Kill-Chain Annotation
 
 You are an expert in Kill Chain knowledge, write the analysis. Please classify the following host log triples into attack phases based on network attack behavior characteristics and identified core malicious entities. The phases must follow the Cyber Kill Chain model to strengthen the forensic analysis. The output must
