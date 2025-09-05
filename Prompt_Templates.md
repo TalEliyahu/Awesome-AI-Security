@@ -1,13 +1,7 @@
 ## Prompt for Kill-Chain Annotation
 
-You are an expert in Kill Chain knowledge, write the
-analysis. Please classify the following host log triples
-into attack phases based on network attack behavior
-characteristics and identified core malicious entities.
-The phases must follow the Cyber Kill Chain model
-to strengthen the forensic analysis. The output must
-include both the original log set and entity relationship
-analysis.
+You are an expert in Kill Chain knowledge, write the analysis. Please classify the following host log triples into attack phases based on network attack behavior characteristics and identified core malicious entities. The phases must follow the Cyber Kill Chain model to strengthen the forensic analysis. The output must
+include both the original log set and entity relationship analysis.
 
 Contexts:[malicious_entities],[sequences]
 
@@ -35,4 +29,29 @@ phases.
 6. Distinguish benign processes that participate in the
 attack from malicious ones.
 7. ...
+Output Format: Return the result as a JSON array...
+
+
+## Prompt for Causal Reasoning
+
+You are a cyber forensic analyst investigating potential attacks in preprocessed system logs...
+Given a sequence of attack-related behavior records...
+The logs are structured as (subject, action, object)
+triple...
+Contexts:
+Known malicious entities from alerts:[payload]
+Previously inferred suspicious entities: [detected]
+Current log sequence : [sequence]
+Prior reasoning summary: [summary]
+attack pattern from knowledge base:[augmentation
+knowledge ]
+
+Task:
+1. Analyze the current log sequence in temporal order
+...
+2. Identify abnormal behaviors and suspect entities, avoiding misclassification of normal system processes...
+3.Infer causality between the current and previous
+window based on behavioral continuity...
+4...
+Answer:
 Output Format: Return the result as a JSON array...
