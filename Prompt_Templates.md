@@ -55,3 +55,19 @@ Task:
 
 Answer:
 Output Format: Return the result as a JSON array...
+
+## Prompt for Attack Report Generation
+
+You are a cyber forensic analyst responsible for consolidating reasoning results into a comprehensive attack investigation report. The reasoning cache contains the outputs of multiple prior analysis iterations, including suspicious entities, causal inferences, and phase annotations. Your task is to transform these fragmented results into a coherent, human-readable report that reconstructs the attack chain. Contexts: Aggregated reasoning cache: [reasoning_cache] Detected suspicious entities across iterations: [detected] 
+
+Task: 
+
+1. Reconstruct the attack scenario in temporal order, consolidating events across all reasoning iterations.
+2. Organize the scenario into Kill Chain phases (e.g., Initial Access, Persistence, Lateral Movement, Exfiltration).
+3. Summarize abnormal behaviors and their causal relationships, highlighting how each suspicious entity contributed to the attack progression.
+4. Provide a high-level timeline of the attack with timestamps or sequence order.
+5. ...
+
+Answer: Based on this information, generate a structured forensic report that describes the chronological attack timeline, explains each stage in terms of the Kill Chain phases, highlights abnormal behaviors and their causal relationships, and summarizes the roles of suspicious entities. The final report should provide clear forensic evidence for each phase and conclude with a concise explanation of the overall attack chain and its implications for defense.
+
+
