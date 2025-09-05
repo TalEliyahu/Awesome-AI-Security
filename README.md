@@ -29,7 +29,6 @@ Curated resources, research, and tools for securing AI systems.
 - [Supply Chain Security](#supply-chain-security)
 - [Newsletter](#newsletter)
 - [Conferences](https://github.com/TalEliyahu/Awesome-AI-Security/blob/main/Conferences.md)
-- [Research Papers](./Research_Papers.md)
 - [Podcasts](#podcasts)
 - [Market Landscape](#market-landscape)
 - [Startups Blogs](#startups-blogs)
@@ -438,6 +437,8 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 ---
 
 ## [↑](#table-of-contents)Reports and Research <a name="reports-and-research"></a>
+
+### [Research Papers](https://github.com/TalEliyahu/Awesome-AI-Security/blob/main/Research_Papers.md)
 
 ### Research Feed
 
