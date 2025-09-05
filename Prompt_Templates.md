@@ -31,15 +31,14 @@ Output Format: Return the result as a JSON array...
 
 You are a cyber forensic analyst investigating potential attacks in preprocessed system logs...
 Given a sequence of attack-related behavior records...
-The logs are structured as (subject, action, object)
-triple...
+The logs are structured as (subject, action, object) triple...
+
 Contexts:
 Known malicious entities from alerts:[payload]
 Previously inferred suspicious entities: [detected]
 Current log sequence : [sequence]
 Prior reasoning summary: [summary]
-attack pattern from knowledge base:[augmentation
-knowledge ]
+attack pattern from knowledge base:[augmentation knowledge ]
 
 Task:
 
