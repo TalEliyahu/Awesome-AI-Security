@@ -2,6 +2,12 @@
 
 A curated list of recent research relevant to AI security.
 
+## Table of Contents
+- [August 2025](#august-2025)
+- [July 2025](#july-2025)
+- [June 2025](#june-2025)
+- [May 2025](#may-2025)
+
 ## August 2025
 
 - 📖 **[DIRF: A Framework for Digital Identity Protection and Clone Governance in Agentic AI Systems](https://www.arxiv.org/pdf/2508.01997)** — Proposes a Digital Identity Rights Framework to govern biometric/behavioral likeness, detection, and lawful use of AI-generated clones.
