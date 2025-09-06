@@ -131,9 +131,6 @@ Curated resources, research, and tools for securing AI systems.
 #### Tool manifest/metadata validators
 - **[MCP Inspector](https://github.com/modelcontextprotocol/inspector)** [![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector?logo=github&label=&style=social)](https://github.com/modelcontextprotocol/inspector)
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
-  
-#### MCP Governance
-- **[MCP Audit Extension](https://github.com/Agentity-com/mcp-audit-extension)** [![GitHub Repo stars](https://img.shields.io/github/stars/Agentity-com/mcp-audit-extension?logo=github&label=&style=social)](https://github.com/Agentity-com/mcp-audit-extension) - Agentic IDE extension to log all of the copilot's MCP tool calls to a SIEM or centralized loging system.
 
 #### Servers & Dev tooling
 - **[PortSwigger — MCP Server](https://github.com/PortSwigger/mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?logo=github&label=&style=social)](https://github.com/PortSwigger/mcp-server)
