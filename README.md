@@ -15,7 +15,6 @@ Curated resources, research, and tools for securing AI systems.
 - [Tools](#tools)
 - [Attack & Defense Matrices](#attack--defense-matrices)
 - [Checklists](#checklists)
-- [Foundations: Glossary, SoK/Surveys & Taxonomies](#foundations-glossary-soksurveys--taxonomies)
 - [Datasets](#datasets)
 - [Courses & Certifications](#courses--certifications)
 - [Training](#training)
@@ -32,6 +31,7 @@ Curated resources, research, and tools for securing AI systems.
 - [Videos & Playlists](#videos--playlists)
 - [Newsletter](#newsletter)
 - [Conferences](https://github.com/TalEliyahu/Awesome-AI-Security/blob/main/Conferences.md)
+- [Foundations: Glossary, SoK/Surveys & Taxonomies](#foundations-glossary-soksurveys--taxonomies)
 - [Podcasts](#podcasts)
 - [Market Landscape](#market-landscape)
 - [Startups Blogs](#startups-blogs)
@@ -261,25 +261,6 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 
 ---
 
-## [↑](#table-of-contents)Foundations: Glossary, SoK/Surveys & Taxonomies <a name="foundations-glossary-soksurveys--taxonomies"></a>
-*(Core references and syntheses for orientation and shared language.)*
-
-### Glossary
-*(Authoritative definitions for AI/ML security, governance, and risk—use to align terminology across docs and reviews.)*
-
-- [**NIST — “The Language of Trustworthy AI: An In-Depth Glossary of Terms.”**](https://airc.nist.gov/glossary/) - Authoritative cross-org terminology aligned to NIST AI RMF; useful for standardizing terms across teams.
-- [**ISO/IEC 22989:2022 — *Artificial intelligence — Concepts and terminology***](https://www.iso.org/standard/74296.html) - International standard that formalizes core AI concepts and vocabulary used in policy and engineering.
-
-### SoK & Surveys
-*(Systematizations of Knowledge (SoK), surveys, systematic reviews, and mapping studies.)*
-
-### Taxonomy
-*(Reusable classification schemes—clear dimensions, categories, and labeling rules for attacks, defenses, datasets, and risks.)*
-
-- [**CSA — Large Language Model (LLM) Threats Taxonomy**](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy) - Community taxonomy of LLM-specific threats; clarifies categories/definitions for risk discussion and control mapping.
-- [**ARC — PI (Prompt Injection) Taxonomy**](https://github.com/Arcanum-Sec/arc_pi_taxonomy) - Focused taxonomy for prompt-injection behaviors/variants with practical labeling guidance for detection and defense.
----
-
 ## [↑](#table-of-contents)Datasets <a name="datasets"></a>
 
 ### Meta-lists
@@ -467,6 +448,26 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - [CSA — Using AI for Offensive Security](https://cloudsecurityalliance.org/artifacts/using-ai-for-offensive-security)
 
 📌 *(More to be added – A collection of AI security reports, white papers, and academic studies.)*
+
+--- 
+
+## [↑](#table-of-contents)Foundations: Glossary, SoK/Surveys & Taxonomies <a name="foundations-glossary-soksurveys--taxonomies"></a>
+*(Core references and syntheses for orientation and shared language.)*
+
+### Glossary
+*(Authoritative definitions for AI/ML security, governance, and risk—use to align terminology across docs and reviews.)*
+
+- [**NIST — “The Language of Trustworthy AI: An In-Depth Glossary of Terms.”**](https://airc.nist.gov/glossary/) - Authoritative cross-org terminology aligned to NIST AI RMF; useful for standardizing terms across teams.
+- [**ISO/IEC 22989:2022 — *Artificial intelligence — Concepts and terminology***](https://www.iso.org/standard/74296.html) - International standard that formalizes core AI concepts and vocabulary used in policy and engineering.
+
+### SoK & Surveys
+*(Systematizations of Knowledge (SoK), surveys, systematic reviews, and mapping studies.)*
+
+### Taxonomy
+*(Reusable classification schemes—clear dimensions, categories, and labeling rules for attacks, defenses, datasets, and risks.)*
+
+- [**CSA — Large Language Model (LLM) Threats Taxonomy**](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy) - Community taxonomy of LLM-specific threats; clarifies categories/definitions for risk discussion and control mapping.
+- [**ARC — PI (Prompt Injection) Taxonomy**](https://github.com/Arcanum-Sec/arc_pi_taxonomy) - Focused taxonomy for prompt-injection behaviors/variants with practical labeling guidance for detection and defense.
 
 ---
 
