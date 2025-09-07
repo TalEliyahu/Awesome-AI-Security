@@ -14,4 +14,3 @@
 | **Conflict & Social Dilemmas** | Agents’ mixed incentives can drive collective-action failures or escalate competition - automating tragedy-of-the-commons and coercive stratagems at machine speed. |
 | **Societal threats** | Advanced AI agents expand the attack surface for automated social engineering: they can generate highly personalized phishing, vishing, and manipulative content at scale, dynamically refine tactics via user feedback, and disperse campaigns across many seemingly independent bots to evade detection - creating cascading disruptions in public trust, financial systems, and political discourse. Such attacks can be low-stakes, meaning they could trigger systemic effects over time like shifting the Overton window. |
 
-*Work in Progress — please contact the author if you have any questions or would like to contribute.*
