@@ -19,6 +19,7 @@ Curated resources, research, and tools for securing AI systems.
 - [Courses & Certifications](#courses--certifications)
 - [Training](#training)
 - [Reports and Research](#reports-and-research)
+  - Vendor Reports(#vendor-reports)
   - [Research Papers](#research-papers)
   - [Research Feed](#research-feed)
   - [Reports](#reports)
@@ -432,6 +433,10 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ## [↑](#table-of-contents)Reports and Research <a name="reports-and-research"></a>
 
+### Vendor Reports
+
+- [Vendor Reports](https://github.com/TalEliyahu/Awesome-AI-Security/blob/main/Reports.md)
+
 ### Research Papers
 
 - [Research Papers](https://github.com/TalEliyahu/Awesome-AI-Security/blob/main/Research_Papers.md)
@@ -441,10 +446,11 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - [AI Security Research Feed](https://research.pwnedby.me/?category=cs.AI&tag=ai) – Continuously updated feed of AI security–related academic papers, preprints, and research indexed from arXiv.
 - [AI Security Portal – Literature Database](https://aisecurity-portal.org/en/section/literature-database/) – Categorized database of AI security literature, taxonomy, and related resources.
 
-### Reports
+### Industry Alliance & Nonprofit Reports
 - [CSA — Principles to Practice: Responsible AI in a Dynamic Regulatory Environment](https://cloudsecurityalliance.org/artifacts/principles-to-practice-responsible-ai-in-a-dynamic-regulatory-environment)
 - [CSA — AI Resilience: A Revolutionary Benchmarking Model for AI Safety](https://cloudsecurityalliance.org/artifacts/ai-resilience-a-revolutionary-benchmarking-model-for-ai-safety) – Governance & compliance benchmarking model.
 - [CSA — Using AI for Offensive Security](https://cloudsecurityalliance.org/artifacts/using-ai-for-offensive-security)
+
 
 📌 *(More to be added – A collection of AI security reports, white papers, and academic studies.)*
 
