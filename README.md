@@ -596,37 +596,60 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 | AI       | Artificial Intelligence                                                   |
 | AGI      | Artificial General Intelligence                                           |
 | ALBERT   | A Lite BERT                                                               |
+| AOC      | Area Over Curve                                                           |
+| ASR      | Attack Success Rate                                                       |
 | BERT     | Bidirectional Encoder Representations from Transformers                   |
 | BGMAttack| Black-box Generative Model-based Attack                                   |
 | CBA      | Composite Backdoor Attack                                                 |
 | CCPA     | California Consumer Privacy Act                                           |
+| CNN      | Convolutional Neural Network                                              |
+| CoT      | Chain-of-Thought                                                          |
 | DAN      | Do Anything Now                                                           |
+| DFS      | Depth-First Search                                                        |
 | DNN      | Deep Neural Network                                                       |
+| DPO      | Direct Preference Optimization                                            |
 | DP       | Differential Privacy                                                      |
 | FL       | Federated Learning                                                        |
-| GDPR     | General Data Protection Regulation                                        |
 | GA       | Genetic Algorithm                                                         |
+| GDPR     | General Data Protection Regulation                                        |
 | GPT      | Generative Pre-trained Transformer                                        |
+| GRPO     | Group Relative Policy Optimization                                        |
 | HIPAA    | Health Insurance Portability and Accountability Act                       |
+| ICL      | In-Context Learning                                                       |
+| KL       | Kullback–Leibler Divergence                                               |
+| LAS      | Leakage-Adjusted Simulatability                                           |
 | LM       | Language Model                                                            |
 | LLM      | Large Language Model                                                      |
 | Llama    | Large Language Model Meta AI                                              |
+| LoRA     | Low-Rank Adapter                                                          |
+| LRM      | Large Reasoning Model                                                     |
+| MCTS     | Monte-Carlo Tree Search                                                   |
 | MIA      | Membership Inference Attack                                               |
 | MDP      | Masking-Differential Prompting                                            |
 | MLM      | Masked Language Model                                                     |
+| MLLM     | Multimodal Large Language Model                                           |
+| MLRM     | Multimodal Large Reasoning Model                                          |
+| MoE      | Mixture-of-Experts                                                        |
 | NLP      | Natural Language Processing                                               |
 | OOD      | Out Of Distribution                                                       |
+| ORM      | Outcome Reward Model                                                      |
 | PI       | Prompt Injection                                                          |
 | PII      | Personally Identifiable Information                                       |
 | PAIR     | Prompt Automatic Iterative Refinement                                     |
 | PLM      | pre-trained Language Model                                                |
+| PRM      | Process Reward Model                                                      |
+| QA       | Question-Answering                                                        |
+| RAG      | Retrieval-Augmented Generation                                            |
 | RL       | Reinforcement Learning                                                    |
 | RLHF     | Reinforcement Learning from Human Feedback                                |
+| RLVR     | Reinforcement Learning with Verifiable Reward                             |
 | RoBERTa  | Robustly optimized BERT approach                                          |
+| SCM      | Structural Causal Model                                                   |
 | SGD      | Stochastic Gradient Descent                                               |
+| SOTA     | State of the Art                                                          |
 | TAG      | Gradient Attack on Transformer-based Language Models                      |
+| VR       | Verifiable Reward                                                         |
 | XLNet    | Transformer-XL with autoregressive and autoencoding pre-training          |
-
 
 ---
 
