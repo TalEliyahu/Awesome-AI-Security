@@ -88,4 +88,34 @@
 
 - [AI Data Security — Best Practices for Securing Data Used to Train & Operate AI Systems](https://www.linkedin.com/feed/update/urn:li:activity:7331359099193872387) — This guidance highlights the critical role of data security in ensuring the accuracy, integrity, and trustworthiness of AI outcomes. It outlines key risks that may arise from data security and integrity issues across all phases of the AI lifecycle, from development and testing to deployment and operation.
 
+## May 2025
+
+- [AI Agent Governance: A Field Guide](https://www.linkedin.com/feed/update/urn:li:activity:7328876049524543489) — A deep dive into agent deployment risks and governance gaps, mapping scenarios, and introducing frameworks for oversight.
+
+- [Agent Name Service (ANS) for Secure AI Agent Discovery](https://www.linkedin.com/feed/update/urn:li:activity:7328823746142568449) — Developed under the OWASP GenAI Security Project – Agentic Security Initiative, introduces a secure, DNS-inspired framework for AI agent discovery. ANS leverages Public Key Infrastructure (PKI) for identity verification, structured JSON schemas for communication, and a protocol adapter layer supporting A2A, MCP, and ACP protocols.
+
+- [IDC: AI in Security Ops](https://www.linkedin.com/feed/update/urn:li:activity:7325564352156119040) — A survey of 900+ professionals highlighting AI use cases, deployment frictions, and the need for governance frameworks.
+
+- [Securing AI: Addressing the OWASP Top 10 for Large Language Model Applications](https://www.icitech.org/post/securing-aiaddressing-the-owasp-top-10-forlarge-language-model-applications)
+
+- [Cobalt & Cyentia Institute: State of Pentesting 2025](https://www.linkedin.com/feed/update/urn:li:activity:7324377543984189440) — Highlights AI-specific penetration testing trends, fix rates, and vulnerabilities in LLMs.
+
+- [Check Point Software: State of AI Cybersecurity 2025](https://www.linkedin.com/feed/update/urn:li:activity:7323441087509839872) — A detailed look at GenAI use in phishing, malware, voice deepfakes, and criminal toolkits.
+
+- [Cisco: State of AI Security](https://www.linkedin.com/feed/update/urn:li:activity:7319411865632010241) — Covers infrastructure threats, AI policy trends, and attack vectors like prompt injection.
+
+- [Resemble AI: Deepfake Threats Q1 2025](https://www.resemble.ai/q1-2025-ai-deepfake-security-report/) — Quantifies deepfake-driven fraud, identity risks, and emerging multimodal threats.
+
+- [IBM Security X-Force: GenAI Threat Highlights](https://www.linkedin.com/feed/update/urn:li:activity:7319100078298648576) — Breaks down GenAI misuse trends and the gap between adoption and risk ownership.
+
+- [Imperva: Bad Bot Report](https://www.linkedin.com/feed/update/urn:li:activity:7318788439192006657) — Explores AI bot dominance in web traffic and major sources of automation.
+
+- [ETSI SAI Baseline Security for AI Systems](https://www.etsi.org/deliver/etsi_ts/104200_104299/104223/01.01.01_60/ts_104223v010101p.pdf) — Introduces baseline cybersecurity requirements and verification guidance for AI systems.
+
+- [Automating Deception: AI in Romance Fraud (CSEST)](https://www.linkedin.com/feed/update/urn:li:activity:7318016094340857856) — Explores the role of GenAI in industrializing romance fraud at scale.
+
+- [AI Privacy Risks in LLMs — European Data Protection Board](https://www.linkedin.com/feed/update/urn:li:activity:7318291536704598016) — Analyzes risks like data leakage, prompt injection, and weak access controls across the LLM lifecycle.
+
+- [Microsoft: Taxonomy of Failure Modes in Agentic AI](https://www.linkedin.com/feed/update/urn:li:activity:7323553744065900547) — Categorizes failures in agent-based systems, backed by internal red teaming and interviews, including a memory corruption case study.
+
 
