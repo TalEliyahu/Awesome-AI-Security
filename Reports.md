@@ -1,3 +1,11 @@
+## Table of Contents
+- [August 2025](#august-2025)
+- [July 2025](#july-2025)
+- [June 2025](#june-2025)
+- [May 2025](#may-2025)
+- [March 2025](#march-2025)
+- [February 2025](#february-2025)
+
 ## August 2025
 
 - [MLOps Overview](https://www.linkedin.com/feed/update/urn:li:activity:7366954293167325186) - This comprehensive overview explores how DevSecOps practices apply to the ML lifecycle through MLOps, along with Large Language Model Operations (LLMOps), and AI Agent Operations (AgentOps). It reveals that traditional security approaches are insufficient for ML systems due to novel threats such as data poisoning, model inversion, adversarial attacks, and member inference attacks. by Cloud Security Alliance
@@ -133,4 +141,31 @@
 - [OWASP AI Threat Research: LLM Exploit Generation](https://genai.owasp.org/resource/owasp-llm-exploit-generation-v1-0-pdf/) — A study evaluating GPT-4o, Claude, and DeepSeek R-1 for their ability to automate security testing using OWASP Juice Shop.
 
 - [2025 Cato CTRL Threat Report: Rise of the Zero-Knowledge Threat Actor](https://www.catonetworks.com/resources/2025-cato-ctrl-threat-report-rise-of-zero-knowledge-threat-actor/) — Describes how a Cato Networks researcher jailbreaked multiple LLMs (DeepSeek-R1, DeepSeek-V3, Microsoft Copilot, ChatGPT-4o) to create a functional Chrome 133 infostealer.
+
+## February 2025
+
+- [OCCULT: Evaluating LLMs in Offensive Cyber Operations](https://www.arxiv.org/pdf/2502.15797) — MITRE introduces OCCULT, a benchmarking framework for testing LLMs in offensive security. It evaluates models on adversarial tasks such as privilege escalation and exploit chaining, using CyberLayer, a high-fidelity cyber simulation environment. DeepSeek-R1 is the first LLM to exceed 90% accuracy in MITRE’s TACTL benchmark, surpassing Llama and Mixtral in multi-step cyberattack simulations.
+
+- [Global Call Threat Report 2024](https://www.hiya.com/global-call-threat-report) — Hiya reports a $1.03T global loss from scam calls in 2024, highlighting deepfake executive impersonation, synthetic voicemail fraud, and real-world financial fraud cases involving AI-generated voice scams.
+
+- [Disrupting Malicious Uses of AI](https://openai.com/global-affairs/disrupting-malicious-uses-of-ai/) — OpenAI examines AI-assisted cybercrime, including phishing automation, AI-generated misinformation, and fraud (e.g., fake job schemes, influence operations, and AI-powered scam messages).
+
+- [More Opportunity, Less Risk: 8 Steps to Protect Financial Services Data with GenAI](https://www.fsisac.com/knowledge/ai-risk) — FS-ISAC presents an eight-step framework for securing GenAI adoption in financial institutions (governance structures, adversarial testing, AI fraud prevention, and regulatory compliance strategies).
+
+- [AI Security Is API Security — 2025 API Security Report](https://www.wallarm.com/reports/2025-api-security-report) — Wallarm identifies a 1,025% increase in AI-powered API vulnerabilities, with API exploits driving major breaches (e.g., Dell API abuse: 49M records; Twilio Authy: 33.4M records).
+
+- [The AI Responsibility Gap: Why Leadership is the Missing Link](https://uk.nttdata.com/files/the%20ai%20responsibility%20gap%20why%20leadership%20is%20the%20missing%20link.pdf) — NTT DATA’s survey of 2,307 AI decision-makers finds 89% of CISOs cite AI security risks, yet only 24% report having an effective AI governance framework.
+
+- [Hacker’s Almanack: Identifying the Most Innovative Cyber Threats](https://harris.uchicago.edu/news-events/news/inaugural-hackers-almanack-marks-historic-first-attempt-identify-most-innovative) — Co-published by DEF CON and the University of Chicago; covers AI-enhanced malware, large-scale adversarial exploits, and social engineering advances; calls for joint AI/security red-teaming methodologies.
+
+- [Agentic AI: Threats and Mitigations](https://genaisecurityproject.com/resource/agentic-ai-threats-and-mitigations/) — OWASP GenAI Security Project outlines risks from autonomous, tool-using agents and practical mitigations (e.g., adversarial robustness testing, behavioral monitoring).
+
+- [Regulatory Sandboxes for AI and Cybersecurity](https://cybersecnatlab.it/white-paper-on-regulatory-sandboxes/) — Cybersecurity National Lab assesses sandbox approaches for AI security innovation, with implementation strategies, compliance considerations, and case studies aligned with the AI Act.
+
+- [LLM and GenAI Data Security Best Practices](https://genaisecurityproject.com/resource/agentic-ai-threats-and-mitigations/) — OWASP GenAI Security Project guidance on model access control, input validation, and adversarial threat mitigation to safeguard generative AI deployments.
+
+- [A Five-Step Framework for Global AI-Cyber Risk Governance](https://parispeaceforum.org/publications/forging-global-cooperation-on-ai-risks-cyber-policy-as-a-governance-blueprint/) — Paris Peace Forum proposes international collaboration mechanisms, security auditing, and AI-specific incident response protocols for global cyber risk governance.
+
+- [Databricks AI Security Framework (DASF)](https://www.databricks.com/resources/whitepaper/databricks-ai-security-framework-dasf) — Enterprise AI security framework focusing on model integrity, pipeline security, and adversarial detection, with practical cloud implementation strategies.
+
 
