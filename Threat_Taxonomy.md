@@ -1,7 +1,5 @@
 ## Multi-Agent Security Threats - Not complete 
 
-Table 1: An (incomplete) overview of multi-agent security threats.
-
 | Challenge | TL;DR |
 |---|---|
 | Privacy vulnerabilities and Disinformation | Interacting agents often hold private information essential to their tasks, yet must juggle multiple contexts and decide dynamically what to share—and with whom. They’re vulnerable to a range of worst-case exploits, from distributed (semantic) inference attacks and jailbreaks to other context-targeting hacks. In multi-agent systems, privacy breaches can spread rapidly and may be indistinguishable from intentional disinformation. |
