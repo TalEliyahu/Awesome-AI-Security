@@ -70,4 +70,22 @@
 
 - [The General-Purpose AI Code of Practice – Safety & Security](https://www.linkedin.com/feed/update/urn:li:activity:7349138123362091009) — A voluntary EU framework designed to help providers of general-purpose AI models meet AI Act obligations on safety, transparency, and copyright. The Safety & Security chapter focuses on managing systemic risks in advanced models, outlining state-of-the-art practices for risk mitigation. Developed through a multi-stakeholder expert process, the code provides practical guidance and a path for legal compliance under Articles 53 and 55 of the AI Act.
 
+## June 2025
+
+- [Confidential AI Inference Systems](https://www.linkedin.com/feed/update/urn:li:activity:7341501922383695872) — Anthropic and Pattern Labs are exploring confidential inference—an approach for running AI models on sensitive data without exposing it to infrastructure operators or cloud providers. In a typical AI deployment, three parties are involved: the model owner, the user providing the data, and the cloud provider hosting the service. Without safeguards, each must trust the others with sensitive assets. Confidential inference eliminates this need by enforcing cryptographic boundaries—ensuring that neither the data nor the model is accessible outside the secure enclave, not even to the infrastructure host.
+
+- [AI Red-Team Playbook for Security Leaders](https://www.linkedin.com/feed/update/urn:li:activity:7339375352231710721) — Hacken, Blockchain Security & Compliance’s playbook offers a strategic framework for safeguarding LLM systems through lifecycle-based adversarial testing. It identifies emerging risks—prompt injections, jailbreaks, RAG exploits, and data poisoning—while emphasizing real-time mitigation and multidisciplinary collaboration. It integrates methodologies like PASTA and STRIDE, aligning AI security with enterprise risk governance.
+
+- [AI Security Market Report](https://www.linkedin.com/feed/update/urn:li:activity:7325564352156119040) — Security practitioners have been searching for a resource that clearly describes both what AI security challenges exist, and what solutions the market has provided. This report highlights the challenges and clearly states the maturity of various vendor offerings.
+
+- [Fundamentals of Secure AI Systems with Personal Data](https://www.linkedin.com/feed/update/urn:li:activity:7337637796007817216) — is a training for cybersecurity professionals, developers and deployers of AI systems on AI security & Personal Data Protection addressing the current AI needs and skill gaps.
+
+- [Security Risks in Artificial Intelligence for Finance](https://www.linkedin.com/feed/update/urn:li:activity:7341851628955758592) — Set of best practices intended for the Board and C-Level.
+
+- [Disrupting malicious uses of AI: June 2025](https://www.linkedin.com/feed/update/urn:li:activity:7336790322426912768) — OpenAI continues its work to detect and prevent the misuse of AI, including threats like social engineering, cyber espionage, scams, and covert influence operations. In the last three months, AI tools have helped teams uncover and disrupt malicious campaigns, aligned with a broader mission to ensure AI is used safely and democratically.
+
+- [Agentic AI Red Teaming Guide](https://www.linkedin.com/feed/update/urn:li:activity:7333874110684348417) — Agentic systems introduce new risks—autonomous reasoning, tool use, and multi-agent complexity—that traditional red teaming can’t fully address. This guide aims to fill that gap with practical, actionable steps.
+
+- [AI Data Security — Best Practices for Securing Data Used to Train & Operate AI Systems](https://www.linkedin.com/feed/update/urn:li:activity:7331359099193872387) — This guidance highlights the critical role of data security in ensuring the accuracy, integrity, and trustworthiness of AI outcomes. It outlines key risks that may arise from data security and integrity issues across all phases of the AI lifecycle, from development and testing to deployment and operation.
+
 
