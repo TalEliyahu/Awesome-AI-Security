@@ -19,7 +19,7 @@ Curated resources, research, and tools for securing AI systems.
 - [Courses & Certifications](#courses--certifications)
 - [Training](#training)
 - [Reports and Research](#reports-and-research)
-  - Vendor Reports(#vendor-reports)
+  - [Vendor Reports](#vendor-reports)
   - [Research Papers](#research-papers)
   - [Research Feed](#research-feed)
   - [Reports](#reports)
