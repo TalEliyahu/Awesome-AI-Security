@@ -118,4 +118,19 @@
 
 - [Microsoft: Taxonomy of Failure Modes in Agentic AI](https://www.linkedin.com/feed/update/urn:li:activity:7323553744065900547) — Categorizes failures in agent-based systems, backed by internal red teaming and interviews, including a memory corruption case study.
 
+## March 2025
+
+- Securing the UK’s AI Research Ecosystem — A report by The Alan Turing Institute and the Center for Emerging Technology and Security (CETaS) analyzes vulnerabilities in the UK’s AI research sector, emphasizing risks from state-sponsored actors.
+
+- [Balancing Security and Usability of Large Language Models: An LLM Benchmarking Framework](https://github.com/NetSPI/Open-LLM-Security-Benchmark/blob/main/open-LLM-Security-Benchmark.pdf) — NetSPI releases a benchmarking framework assessing LLM security vs. usability trade-offs.
+
+- [AI and Software Cybersecurity Market Analysis (DSIT 2024)](https://www.gov.uk/government/publications/ai-and-software-cyber-security-market-analysis) — A report analyzing the UK market’s AI security providers, investment trends, and technical challenges.
+
+- [US Open-Source AI Governance](https://www.centeraipolicy.org/work/us-open-source-ai-governance) — Highlights backdoor threats, supply chain risks, and model manipulation vulnerabilities in open-source AI.
+
+- [ISO 42001 Checklist Overview](https://www.linkedin.com/feed/update/urn:li:activity:7301267213238382593) — A structured four-phase checklist for achieving ISO 42001 certification for AI security governance.
+
+- [OWASP AI Threat Research: LLM Exploit Generation](https://genai.owasp.org/resource/owasp-llm-exploit-generation-v1-0-pdf/) — A study evaluating GPT-4o, Claude, and DeepSeek R-1 for their ability to automate security testing using OWASP Juice Shop.
+
+- [2025 Cato CTRL Threat Report: Rise of the Zero-Knowledge Threat Actor](https://www.catonetworks.com/resources/2025-cato-ctrl-threat-report-rise-of-zero-knowledge-threat-actor/) — Describes how a Cato Networks researcher jailbreaked multiple LLMs (DeepSeek-R1, DeepSeek-V3, Microsoft Copilot, ChatGPT-4o) to create a functional Chrome 133 infostealer.
 
