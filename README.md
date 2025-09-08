@@ -314,6 +314,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 #### Courses (includes labs)
 - **[SANS — SEC545: GenAI & LLM Application Security](https://www.sans.org/cyber-security-courses/genai-llm-application-security)** — Hands-on course covering prompt injection, excessive agency, model supply chain, and defensive patterns. *(Certificate of completion provided by SANS.)*
 - **[SANS — SEC495: Leveraging LLMs: Building & Securing RAG, Contextual RAG, and Agentic RAG](https://www.sans.org/cyber-security-courses/leveraging-llms-building-securing-rag)** — Practical RAG builds with threat modeling, validation, and guardrails. *(Certificate of completion provided by SANS.)*
+- **[Modern Security - Certified AI Security Expert (MSec-CAIS)](https://www.modernsecurity.io/courses/ai-security-certification)** — Practical AI Security - Go Beyond Theory: Build, Break, and Defend AI apps/agent with hands-on labs. *(Certificate of completion provided by Modern Security.)*
 
 #### Professional Certifications (exam-based)
 - **[IAPP — Artificial Intelligence Governance Professional (AIGP)](https://iapp.org/certify/aigp/)** — Governance-focused credential aligned with emerging regulations.
