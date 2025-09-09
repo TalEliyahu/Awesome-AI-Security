@@ -427,7 +427,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ### Regulatory Incident Reporting
 - [**EU AI Act — Article 73: Reporting of Serious Incidents**](https://artificialintelligenceact.eu/article/73/) — Providers of high-risk AI systems need to report serious incidents to national authorities.
-- 
+
 ---
 
 ## [↑](#table-of-contents)Newsletter <a name="newsletter"></a>
