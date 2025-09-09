@@ -420,6 +420,8 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - [MIT AI Risk Repository — Incident Tracker](https://airisk.mit.edu/ai-incident-tracker) 
 - [AIAAIC Repository](https://www.aiaaic.org/aiaaic-repository/ai-algorithmic-and-automation-incidents)
 - [OECD.AI — AIM: AI Incidents and Hazards Monitor](https://oecd.ai/en/incidents)
+- [AVID — AI Vulnerability Database](https://avidml.org/) — Open, taxonomy-driven catalog of AI failure modes; Vulnerabilities*, Reports map incidents to failure modes/lifecycle stages.
+
 
 ### Guides & Playbooks
 - [OWASP — GenAI Incident Response Guide](https://genai.owasp.org/resource/genai-incident-response-guide-1-0/) 
