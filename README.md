@@ -426,6 +426,8 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 ### Guides & Playbooks
 - [OWASP — GenAI Incident Response Guide](https://genai.owasp.org/resource/genai-incident-response-guide-1-0/) 
 - [OWASP — Guide for Preparing & Responding to Deepfake Events](https://genai.owasp.org/resource/guide-for-preparing-and-responding-to-deepfake-events/)
+- [CISA — JCDC AI Cybersecurity Collaboration Playbook](https://www.cisa.gov/news-events/alerts/2025/01/14/cisa-releases-jcdc-ai-cybersecurity-collaboration-playbook-and-fact-sheet) — Info-sharing & coordination procedures for AI incidents.
+
 
 ### Regulatory Incident Reporting
 - [EU AI Act — Article 73: Reporting of Serious Incidents](https://artificialintelligenceact.eu/article/73/) — Providers of high-risk AI systems need to report serious incidents to national authorities.
