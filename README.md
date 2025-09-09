@@ -429,6 +429,8 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - [OWASP — GenAI Incident Response Guide](https://genai.owasp.org/resource/genai-incident-response-guide-1-0/) 
 - [OWASP — Guide for Preparing & Responding to Deepfake Events](https://genai.owasp.org/resource/guide-for-preparing-and-responding-to-deepfake-events/)
 - [CISA — JCDC AI Cybersecurity Collaboration Playbook](https://www.cisa.gov/news-events/alerts/2025/01/14/cisa-releases-jcdc-ai-cybersecurity-collaboration-playbook-and-fact-sheet) — Info-sharing & coordination procedures for AI incidents.
+- [eSafety Commissioner — Guide to responding to image-based abuse involving AI deepfakes (PDF)](https://www.esafety.gov.au/sites/default/files/2025-06/Respond%203A%20-%20Guide%20to%20responding%20to%20image-based%20abuse%20involving%20AI%20deepfakes.pdf) — Practical, step-by-step playbook (school-focused but adaptable) covering reporting/takedown, evidence preservation, and support.
+
 
 
 ### Regulatory Incident Reporting
