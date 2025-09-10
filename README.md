@@ -84,7 +84,7 @@ Curated resources, research, and tools for securing AI systems.
 - [DoD CIO - AI Cybersecurity Risk Management Tailoring Guide (2025)](https://dodcio.defense.gov/Portals/0/Documents/Library/AI-CybersecurityRMTailoringGuide.pdf) - Practical RMF tailoring for AI systems across the lifecycle; complements CDAO’s RAI toolkit.
 - [DHS/CISA - Safety & Security Guidelines for Critical Infrastructure AI](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators) - Cross-lifecycle guidance for critical-infrastructure owners/operators (govern, design, develop, deploy, operate); developed with SRMAs and informed by CISA’s cross-sector risk analysis.
 - [NCSC (UK) - Guidelines for Secure AI System Development](https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development) - End-to-end secure AI SDLC (secure design, development, deployment, and secure operation & maintenance), including logging/monitoring and update management.
-
+- [NSA AISC – Deploying AI Systems Securely (CSI)](https://media.defense.gov/2024/Apr/15/2003439257/-1/-1/0/csi-deploying-ai-systems-securely.pdf) – Practical, ops-focused guidance for deploying/operating externally developed AI systems; joint with CISA, FBI & international partners; complements NCSC’s secure-AI development guidelines.
 
 ### Agentic Systems - Governance, Standards & Guides
 - [OWASP - Agent Observability Standard (AOS)](https://github.com/OWASP/www-project-agent-observability-standard) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-agent-observability-standard?logo=github&label=&style=social)](https://github.com/OWASP/www-project-agent-observability-standard)
