@@ -78,7 +78,6 @@ Curated resources, research, and tools for securing AI systems.
 - **OWASP**
   - [OWASP - AI Security and Privacy Guide](https://github.com/OWASP/www-project-ai-security-and-privacy-guide) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-ai-security-and-privacy-guide?logo=github&label=&style=social)](https://github.com/OWASP/www-project-ai-security-and-privacy-guide)
   - [OWASP - LLM and Gen AI Data Security Best Practices](https://genai.owasp.org/resource/llm-and-gen-ai-data-security-best-practices/)
-  - [OWASP - GenAI Security Project](https://github.com/OWASP/genai-security-project) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/genai-security-project?logo=github&label=&style=social)](https://github.com/OWASP/genai-security-project)
 - [CSA - Secure LLM Systems: Essential Authorization Practices](https://cloudsecurityalliance.org/artifacts/securing-llm-backed-systems-essential-authorization-practices)
 - [OASIS CoSAI - Preparing Defenders of AI Systems](https://github.com/cosai-oasis/ws2-defenders/blob/main/preparing-defenders-of-ai-systems.md) [![GitHub Repo stars](https://img.shields.io/github/stars/cosai-oasis/ws2-defenders?logo=github&label=&style=social)](https://github.com/cosai-oasis/ws2-defenders)
 - [DoD CIO - AI Cybersecurity Risk Management Tailoring Guide (2025)](https://dodcio.defense.gov/Portals/0/Documents/Library/AI-CybersecurityRMTailoringGuide.pdf) - Practical RMF tailoring for AI systems across the lifecycle; complements CDAO’s RAI toolkit.
