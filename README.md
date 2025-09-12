@@ -282,9 +282,9 @@ Interactive CTFs and self-contained labs for hands-on security skills (web, pwn,
 
 #### CTF Challenge Benchmarks (Agents/LLMs)
 
-- **[InterCode-CTF](https://intercode-benchmark.github.io/)** ([code](https://github.com/princeton-nlp/intercode)) [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/intercode?logo=github&label=&style=social)](https://github.com/princeton-nlp/intercode) — ~100 picoCTF-derived CTF objectives; dockerized interactive envs for agent/LLM eval.
-- **[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** ([code](https://github.com/NYU-LLM-CTF/LLM_CTF_Database)) [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/LLM_CTF_Database?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database) — ~200 CSAW CTF challenges (web/pwn/rev/crypto/forensics/misc); automated, Docker-first eval.
-- **[CyBench](https://cybench.github.io/)** ([code](https://github.com/andyzorigin/cybench)) [![GitHub Repo stars](https://img.shields.io/github/stars/andyzorigin/cybench?logo=github&label=&style=social)](https://github.com/andyzorigin/cybench) — 40 CTF tasks from 4 competitions; difficulty grounded by first-solve time (FST).
+- **[InterCode-CTF](https://intercode-benchmark.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/intercode?logo=github&label=&style=social)](https://github.com/princeton-nlp/intercode) — ~100 picoCTF-derived CTF objectives; dockerized interactive envs for agent/LLM eval.
+- **[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/LLM_CTF_Database?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database) — ~200 CSAW CTF challenges (web/pwn/rev/crypto/forensics/misc); automated, Docker-first eval.
+- **[CyBench](https://cybench.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/andyzorigin/cybench?logo=github&label=&style=social)](https://github.com/andyzorigin/cybench) — 40 CTF tasks from 4 competitions; difficulty grounded by first-solve time (FST).
 
 
 
