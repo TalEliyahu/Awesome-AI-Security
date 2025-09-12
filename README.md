@@ -280,7 +280,7 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 ### Cybersecurity Skills 
 Interactive CTFs and self-contained labs for hands-on security skills (web, pwn, crypto, forensics, reversing). **Used to** assess practical reasoning, tool use, and end-to-end task execution.
 
-#### CTF Challenge Benchmarks (Agents/LLMs)
+#### CTF Challenges
 
 - **[InterCode-CTF](https://intercode-benchmark.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/intercode?logo=github&label=&style=social)](https://github.com/princeton-nlp/intercode) — ~100 picoCTF-derived CTF objectives; dockerized interactive envs for agent/LLM eval.
 - **[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/LLM_CTF_Database?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database) — ~200 CSAW CTF challenges (web/pwn/rev/crypto/forensics/misc); automated, Docker-first eval.
