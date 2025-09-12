@@ -282,9 +282,11 @@ Interactive CTFs and self-contained labs for hands-on security skills (web, pwn,
 
 #### CTF Challenges
 
-- **[InterCode-CTF](https://intercode-benchmark.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/intercode?logo=github&label=&style=social)](https://github.com/princeton-nlp/intercode) — ~100 picoCTF-derived CTF objectives; dockerized interactive envs for agent/LLM eval. **[Dataset+Benchmark]**
-- **[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/LLM_CTF_Database?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database) — ~200 CSAW CTF challenges (web/pwn/rev/crypto/forensics/misc); automated, Docker-first eval. **[Dataset+Benchmark]**
-- **[CyBench](https://cybench.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/andyzorigin/cybench?logo=github&label=&style=social)](https://github.com/andyzorigin/cybench) — 40 CTF tasks from 4 competitions; difficulty grounded by first-solve time (FST). **[Dataset+Benchmark]**
+- **[InterCode-CTF](https://intercode-benchmark.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/intercode?logo=github&label=&style=social)](https://github.com/princeton-nlp/intercode) — 100 picoCTF challenges (high-school level); spans crypto/web/pwn/rev/forensics/misc; “General Skills” mapped to misc. [Dataset+Benchmark]
+- **[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/LLM_CTF_Database?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database) — 200 CSAW challenges (2017–2023); difficulty very easy → hard; categories: crypto/web/pwn/rev/forensics/misc; used as the main dev/eval benchmark; best LMs solved 8/200. [Dataset+Benchmark]
+- **[CyBench](https://cybench.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/andyzorigin/cybench?logo=github&label=&style=social)](https://github.com/andyzorigin/cybench) — 40 tasks from HackTheBox, Sekai CTF, Glacier, HKCert (2022–2024); same six categories; difficulty grounded by first-solve time (FST). [Dataset+Benchmark]
+- **[pwn.college CTF Archive](https://github.com/pwncollege/ctf-archive)** [![GitHub Repo stars](https://img.shields.io/github/stars/pwncollege/ctf-archive?logo=github&label=&style=social)](https://github.com/pwncollege/ctf-archive) — large collection of runnable CTF challenges used as a source corpus (e.g., for Dojo/CTF-Forge). [Dataset]
+
 
 #### Secure Code
 
