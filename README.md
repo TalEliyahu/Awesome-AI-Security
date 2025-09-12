@@ -282,11 +282,24 @@ Interactive CTFs and self-contained labs for hands-on security skills (web, pwn,
 
 #### CTF Challenges
 
-- **[InterCode-CTF](https://intercode-benchmark.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/intercode?logo=github&label=&style=social)](https://github.com/princeton-nlp/intercode) — ~100 picoCTF-derived CTF objectives; dockerized interactive envs for agent/LLM eval.
-- **[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/LLM_CTF_Database?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database) — ~200 CSAW CTF challenges (web/pwn/rev/crypto/forensics/misc); automated, Docker-first eval.
-- **[CyBench](https://cybench.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/andyzorigin/cybench?logo=github&label=&style=social)](https://github.com/andyzorigin/cybench) — 40 CTF tasks from 4 competitions; difficulty grounded by first-solve time (FST).
+- **[InterCode-CTF](https://intercode-benchmark.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/intercode?logo=github&label=&style=social)](https://github.com/princeton-nlp/intercode) — ~100 picoCTF-derived CTF objectives; dockerized interactive envs for agent/LLM eval. [Dataset+Benchmark]
+- **[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/LLM_CTF_Database?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database) — ~200 CSAW CTF challenges (web/pwn/rev/crypto/forensics/misc); automated, Docker-first eval. [Dataset+Benchmark]
+- **[CyBench](https://cybench.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/andyzorigin/cybench?logo=github&label=&style=social)](https://github.com/andyzorigin/cybench) — 40 CTF tasks from 4 competitions; difficulty grounded by first-solve time (FST). [Dataset+Benchmark]
 
+#### Secure Code
 
+##### Detection (classify vulnerable code)
+- **[Devign / CodeXGLUE-Vul](https://github.com/saikat107/Devign)** [![GitHub Repo stars](https://img.shields.io/github/stars/saikat107/Devign?logo=github&label=&style=social)](https://github.com/saikat107/Devign) — function-level C vuln detection. [Dataset+Benchmark]
+- **[DiverseVul](https://github.com/wagner-group/diversevul)** [![GitHub Repo stars](https://img.shields.io/github/stars/wagner-group/diversevul?logo=github&label=&style=social)](https://github.com/wagner-group/diversevul) — multi-CWE function-level detection (C/C++). [Dataset]
+- **[Big-Vul](https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset)** [![GitHub Repo stars](https://img.shields.io/github/stars/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset?logo=github&label=&style=social)](https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset) — real-world C/C++ detection (often with localization). [Dataset]
+
+##### Repair & Patch Mining
+- **[CVEfixes](https://github.com/secureIT-project/CVEfixes)** [![GitHub Repo stars](https://img.shields.io/github/stars/secureIT-project/CVEfixes?logo=github&label=&style=social)](https://github.com/secureIT-project/CVEfixes) — CVE-linked fix commits for security repair. [Dataset]
+- Also used for repair: Big-Vul (generate minimal diffs, then build + scan).
+
+##### Runnable / Scanner Evaluation
+- **[OWASP Benchmark (Java)](https://github.com/OWASP-Benchmark/BenchmarkJava)** [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP-Benchmark/BenchmarkJava?logo=github&label=&style=social)](https://github.com/OWASP-Benchmark/BenchmarkJava) — runnable Java app with seeded vulns; supports SAST/DAST/IAST evaluation and scoring. [Dataset+Benchmark]
+- **Juliet (NIST SARD)** ([C/C++ mirror](https://github.com/arichardson/juliet-test-suite-c) [![GitHub Repo stars](https://img.shields.io/github/stars/arichardson/juliet-test-suite-c?logo=github&label=&style=social)](https://github.com/arichardson/juliet-test-suite-c) • [Java mirror](https://github.com/UnitTestBot/juliet-java-test-suite) [![GitHub Repo stars](https://img.shields.io/github/stars/UnitTestBot/juliet-java-test-suite?logo=github&label=&style=social)](https://github.com/UnitTestBot/juliet-java-test-suite)) — runnable CWE cases for detect → fix → re-test. [Dataset+Benchmark]
 
 ### Cybersecurity Knowledge
 Structured Q&A datasets assessing security knowledge and terminology. **Used to** evaluate factual recall and conceptual understanding.
