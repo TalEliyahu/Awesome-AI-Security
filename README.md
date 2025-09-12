@@ -280,7 +280,13 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 ### Cybersecurity Skills 
 Interactive CTFs and self-contained labs for hands-on security skills (web, pwn, crypto, forensics, reversing). **Used to** assess practical reasoning, tool use, and end-to-end task execution.
 
-- **[NYU CTF Bench](https://github.com/NYU-LLM-CTF/LLM_CTF_Database)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/LLM_CTF_Database?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database)
+#### CTF Challenge Benchmarks (Agents/LLMs)
+
+- **[InterCode-CTF](https://intercode-benchmark.github.io/)** ([code](https://github.com/princeton-nlp/intercode)) [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/intercode?logo=github&label=&style=social)](https://github.com/princeton-nlp/intercode) — ~100 picoCTF-derived CTF objectives; dockerized interactive envs for agent/LLM eval.
+- **[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** ([code](https://github.com/NYU-LLM-CTF/LLM_CTF_Database)) [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/LLM_CTF_Database?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database) — ~200 CSAW CTF challenges (web/pwn/rev/crypto/forensics/misc); automated, Docker-first eval.
+- **[CyBench](https://cybench.github.io/)** ([code](https://github.com/andyzorigin/cybench)) [![GitHub Repo stars](https://img.shields.io/github/stars/andyzorigin/cybench?logo=github&label=&style=social)](https://github.com/andyzorigin/cybench) — 40 CTF tasks from 4 competitions; difficulty grounded by first-solve time (FST).
+
+
 
 ### Cybersecurity Knowledge
 Structured Q&A datasets assessing security knowledge and terminology. **Used to** evaluate factual recall and conceptual understanding.
@@ -396,7 +402,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - **Measure**: Evaluate and mitigate risks through validation techniques.
 
 - **[CVE-Bench - @uiuc-kang-lab](https://github.com/uiuc-kang-lab/cve-bench)** [![GitHub Repo stars](https://img.shields.io/github/stars/uiuc-kang-lab/cve-bench?logo=github&label=&style=social)](https://github.com/uiuc-kang-lab/cve-bench) - How well AI agents can exploit real-world software vulnerabilities that are listed in the CVE database.
-
 
 #### **Governance & Compliance**  
 **Purpose**: Ensures AI security aligns with governance frameworks, industry regulations, and security policies. Supports auditability and risk management.  
