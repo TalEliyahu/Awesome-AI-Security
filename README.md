@@ -83,11 +83,11 @@ Curated resources, research, and tools for securing AI systems.
 - [DoD CIO - AI Cybersecurity Risk Management Tailoring Guide (2025)](https://dodcio.defense.gov/Portals/0/Documents/Library/AI-CybersecurityRMTailoringGuide.pdf) - Practical RMF tailoring for AI systems across the lifecycle; complements CDAO’s RAI toolkit.
 - [DHS/CISA - Safety & Security Guidelines for Critical Infrastructure AI](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators) - Cross-lifecycle guidance for critical-infrastructure owners/operators (govern, design, develop, deploy, operate); developed with SRMAs and informed by CISA’s cross-sector risk analysis.
 - [NCSC (UK) - Guidelines for Secure AI System Development](https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development) - End-to-end secure AI SDLC (secure design, development, deployment, and secure operation & maintenance), including logging/monitoring and update management.
-- **NSA – Artificial Intelligence Security Center (AISC)**
-  - [Deploying AI Systems Securely (CSI)](https://media.defense.gov/2024/Apr/15/2003439257/-1/-1/0/CSI-DEPLOYING-AI-SYSTEMS-SECURELY.PDF) – Practical, ops-focused guidance for deploying/operating externally developed AI systems (with CISA, FBI & international partners); complements NCSC’s secure-AI dev guidelines.
-  - [AI Data Security: Best Practices for Securing Data Used to Train & Operate AI Systems (CSI)](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4192332/nsas-aisc-releases-joint-guidance-on-the-risks-and-best-practices-in-ai-data-se/) – Joint guidance on securing data across the AI lifecycle.
-  - [Content Credentials: Strengthening Multimedia Integrity in the Generative AI Era (CSI)](https://media.defense.gov/2025/Jan/23/2003639157/-1/-1/0/CSI-CONTENT-CREDENTIALS-STRENGTHENING-MULTIMEDIA-INTEGRITY.PDF) – Provenance and Durable Content Credentials for transparent media.
-  - [Contextualizing Deepfake Threats to Organizations (CSI)](https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF) – Risks, impacts, and mitigations for synthetic media targeting orgs.
+- **NSA - Artificial Intelligence Security Center (AISC)**
+  - [Deploying AI Systems Securely (CSI)](https://media.defense.gov/2024/Apr/15/2003439257/-1/-1/0/CSI-DEPLOYING-AI-SYSTEMS-SECURELY.PDF) - Practical, ops-focused guidance for deploying/operating externally developed AI systems (with CISA, FBI & international partners); complements NCSC’s secure-AI dev guidelines.
+  - [AI Data Security: Best Practices for Securing Data Used to Train & Operate AI Systems (CSI)](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4192332/nsas-aisc-releases-joint-guidance-on-the-risks-and-best-practices-in-ai-data-se/) - Joint guidance on securing data across the AI lifecycle.
+  - [Content Credentials: Strengthening Multimedia Integrity in the Generative AI Era (CSI)](https://media.defense.gov/2025/Jan/23/2003639157/-1/-1/0/CSI-CONTENT-CREDENTIALS-STRENGTHENING-MULTIMEDIA-INTEGRITY.PDF) - Provenance and Durable Content Credentials for transparent media.
+  - [Contextualizing Deepfake Threats to Organizations (CSI)](https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF) - Risks, impacts, and mitigations for synthetic media targeting orgs.
 
 ### Agentic Systems - Governance, Standards & Guides
 - [OWASP - Agent Observability Standard (AOS)](https://github.com/OWASP/www-project-agent-observability-standard) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-agent-observability-standard?logo=github&label=&style=social)](https://github.com/OWASP/www-project-agent-observability-standard)
@@ -98,6 +98,12 @@ Curated resources, research, and tools for securing AI systems.
 - [OWASP - State of Agentic AI Security and Governance](https://genai.owasp.org/resource/state-of-agentic-ai-security-and-governance-1-0/)
 - [CSA - Secure Agentic System Design: A Trait-Based Approach](https://cloudsecurityalliance.org/artifacts/secure-agentic-system-design)
 - [CSA - Agentic AI Identity & Access Management](https://cloudsecurityalliance.org/artifacts/agentic-ai-identity-and-access-management-a-new-approach) - 08/25
+
+### Threat Modeling
+
+- **[OWASP - Multi-Agentic System Threat Modeling Guide](https://genai.owasp.org/resource/multi-agentic-system-threat-modeling-guide-v1-0/)** — Applies OWASP’s agentic threat taxonomy to multi-agent systems and demonstrates modeling using the MAESTRO framework with worked examples.
+- **[AWS - Threat modeling your generative AI workload to evaluate security risk](https://aws.amazon.com/blogs/security/threat-modeling-your-generative-ai-workload-to-evaluate-security-risk/)** — Practical, four-question approach (what are we working on; what can go wrong; what are we going to do about it; did we do a good enough job) with concrete deliverables: DFDs and assumptions, threat statements using AWS’s threat grammar, mapped mitigations, and validation; includes worked examples and AWS Threat Composer templates.
+- **[Microsoft - Threat Modeling AI/ML Systems and Dependencies](https://learn.microsoft.com/en-us/security/engineering/threat-modeling-aiml)** — Practical guidance for threat modeling AI/ML: “Key New Considerations” questions plus a threats→mitigations catalog (adversarial perturbation, data poisoning, model inversion, membership inference, model stealing) based on “Failure Modes in Machine Learning”; meant for security design reviews of products that use or depend on AI/ML.
 
 ---
 
@@ -187,7 +193,7 @@ Curated resources, research, and tools for securing AI systems.
 - **[promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?logo=github&label=&style=social)](https://github.com/promptfoo/promptfoo)
 - **[Agentic Radar](https://github.com/splx-ai/agentic-radar)** [![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?logo=github&label=&style=social)](https://github.com/splx-ai/agentic-radar)
 - **[DeepTeam](https://github.com/confident-ai/deepteam)** [![GitHub Repo stars](https://img.shields.io/github/stars/confident-ai/deepteam?logo=github&label=&style=social)](https://github.com/confident-ai/deepteam)
-- **[Buttercup](https://github.com/trailofbits/buttercup)** [![GitHub Repo stars](https://img.shields.io/github/stars/trailofbits/buttercup?logo=github&label=&style=social)](https://github.com/trailofbits/buttercup) - Trail of Bits’ AIxCC Cyber Reasoning System: runs OSS-Fuzz–style campaigns to find vulns, then uses a multi-agent LLM patcher to generate & validate fixes for C/Java repos; ships SigNoz observability; requires at least one LLM API key.
+- **[Buttercup](https://github.com/trailofbits/buttercup)** [![GitHub Repo stars](https://img.shields.io/github/stars/trailofbits/buttercup?logo=github&label=&style=social)](https://github.com/trailofbits/buttercup) - Trail of Bits’ AIxCC Cyber Reasoning System: runs OSS-Fuzz-style campaigns to find vulns, then uses a multi-agent LLM patcher to generate & validate fixes for C/Java repos; ships SigNoz observability; requires at least one LLM API key.
 
 #### Scoring/leaderboards & evidence reports
 - *(none from your current list yet)*
@@ -226,8 +232,8 @@ Curated resources, research, and tools for securing AI systems.
 *Matrix-style resources covering adversarial TTPs and curated defensive techniques for AI systems.*
 
 ### Attack
-- [MITRE ATLAS](https://atlas.mitre.org) – Adversarial TTP matrix and knowledge base for threats to AI systems.
-- [GenAI Attacks Matrix](https://ttps.ai/matrix.html#genai-attacks-matrix) – Matrix of TTPs targeting GenAI apps, copilots, and agents.
+- [MITRE ATLAS](https://atlas.mitre.org) - Adversarial TTP matrix and knowledge base for threats to AI systems.
+- [GenAI Attacks Matrix](https://ttps.ai/matrix.html#genai-attacks-matrix) - Matrix of TTPs targeting GenAI apps, copilots, and agents.
 - [MCP Security Tactics, Techniques, and Procedures (TTPs)](https://modelcontextprotocol-security.io/ttps/)
 
 ### Defense
@@ -260,10 +266,10 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 ## [↑](#table-of-contents)Videos & Playlists <a name="videos--playlists"></a>
 *Monthly curated playlists of AI-security talks, demos, incidents, and tooling.*
 
-- **[AI Security Playlist – September 2025](https://www.youtube.com/playlist?list=PLFO56KBxdGBeEmDZTbjZtkVEfhBAXQDZt)**
-- **[AI Security Playlist – August 2025](https://www.youtube.com/playlist?list=PLFO56KBxdGBeqkXsyIXWCRkB7gFrEqaER)**
-- **[AI Security Playlist – July 2025](https://www.youtube.com/playlist?list=PLFO56KBxdGBfcknOAnHJFYlld2FoLsbre)**
-- **[AI Security Playlist – June 2025](https://www.youtube.com/playlist?list=PLFO56KBxdGBfOiusdf-YV6e8WBWgAwe-4)**
+- **[AI Security Playlist - September 2025](https://www.youtube.com/playlist?list=PLFO56KBxdGBeEmDZTbjZtkVEfhBAXQDZt)**
+- **[AI Security Playlist - August 2025](https://www.youtube.com/playlist?list=PLFO56KBxdGBeqkXsyIXWCRkB7gFrEqaER)**
+- **[AI Security Playlist - July 2025](https://www.youtube.com/playlist?list=PLFO56KBxdGBfcknOAnHJFYlld2FoLsbre)**
+- **[AI Security Playlist - June 2025](https://www.youtube.com/playlist?list=PLFO56KBxdGBfOiusdf-YV6e8WBWgAwe-4)**
 
 ---
 
@@ -282,29 +288,29 @@ Interactive CTFs and self-contained labs for hands-on security skills (web, pwn,
 
 #### CTF Challenges
 
-- **[InterCode-CTF](https://intercode-benchmark.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/intercode?logo=github&label=&style=social)](https://github.com/princeton-nlp/intercode) — 100 picoCTF challenges (high-school level); categories: cryptography, web, binary exploitation (pwn), reverse engineering, forensics, miscellaneous. [Dataset+Benchmark] [arXiv](https://arxiv.org/abs/2306.14898)
+- **[InterCode-CTF](https://intercode-benchmark.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/intercode?logo=github&label=&style=social)](https://github.com/princeton-nlp/intercode) - 100 picoCTF challenges (high-school level); categories: cryptography, web, binary exploitation (pwn), reverse engineering, forensics, miscellaneous. [Dataset+Benchmark] [arXiv](https://arxiv.org/abs/2306.14898)
 
-- **[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/LLM_CTF_Database?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database) — 200 CSAW challenges (2017–2023); difficulty very easy → hard; categories: cryptography, web, binary exploitation (pwn), reverse engineering, forensics, miscellaneous. [Dataset+Benchmark] [arXiv](https://arxiv.org/abs/2406.05590)
+- **[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/LLM_CTF_Database?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database) - 200 CSAW challenges (2017-2023); difficulty very easy → hard; categories: cryptography, web, binary exploitation (pwn), reverse engineering, forensics, miscellaneous. [Dataset+Benchmark] [arXiv](https://arxiv.org/abs/2406.05590)
 
-- **[CyBench](https://cybench.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/andyzorigin/cybench?logo=github&label=&style=social)](https://github.com/andyzorigin/cybench) — 40 tasks from HackTheBox, Sekai CTF, Glacier, HKCert (2022–2024); categories: cryptography, web, binary exploitation (pwn), reverse engineering, forensics, miscellaneous; difficulty grounded by first-solve time (FST). [Dataset+Benchmark] [arXiv](https://arxiv.org/abs/2408.08926)
+- **[CyBench](https://cybench.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/andyzorigin/cybench?logo=github&label=&style=social)](https://github.com/andyzorigin/cybench) - 40 tasks from HackTheBox, Sekai CTF, Glacier, HKCert (2022-2024); categories: cryptography, web, binary exploitation (pwn), reverse engineering, forensics, miscellaneous; difficulty grounded by first-solve time (FST). [Dataset+Benchmark] [arXiv](https://arxiv.org/abs/2408.08926)
 
-- **[pwn.college CTF Archive](https://github.com/pwncollege/ctf-archive)** [![GitHub Repo stars](https://img.shields.io/github/stars/pwncollege/ctf-archive?logo=github&label=&style=social)](https://github.com/pwncollege/ctf-archive) — large collection of runnable CTF challenges; commonly used as a source corpus for research. [Dataset]
+- **[pwn.college CTF Archive](https://github.com/pwncollege/ctf-archive)** [![GitHub Repo stars](https://img.shields.io/github/stars/pwncollege/ctf-archive?logo=github&label=&style=social)](https://github.com/pwncollege/ctf-archive) - large collection of runnable CTF challenges; commonly used as a source corpus for research. [Dataset]
 
 
 #### Secure Code
 
 ##### Detection (classify vulnerable code)
-- **[Devign / CodeXGLUE-Vul](https://github.com/saikat107/Devign)** [![GitHub Repo stars](https://img.shields.io/github/stars/saikat107/Devign?logo=github&label=&style=social)](https://github.com/saikat107/Devign) — function-level C vuln detection. [Dataset+Benchmark]
-- **[DiverseVul](https://github.com/wagner-group/diversevul)** [![GitHub Repo stars](https://img.shields.io/github/stars/wagner-group/diversevul?logo=github&label=&style=social)](https://github.com/wagner-group/diversevul) — multi-CWE function-level detection (C/C++). [Dataset]
-- **[Big-Vul](https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset)** [![GitHub Repo stars](https://img.shields.io/github/stars/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset?logo=github&label=&style=social)](https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset) — real-world C/C++ detection (often with localization). [Dataset]
+- **[Devign / CodeXGLUE-Vul](https://github.com/saikat107/Devign)** [![GitHub Repo stars](https://img.shields.io/github/stars/saikat107/Devign?logo=github&label=&style=social)](https://github.com/saikat107/Devign) - function-level C vuln detection. [Dataset+Benchmark]
+- **[DiverseVul](https://github.com/wagner-group/diversevul)** [![GitHub Repo stars](https://img.shields.io/github/stars/wagner-group/diversevul?logo=github&label=&style=social)](https://github.com/wagner-group/diversevul) - multi-CWE function-level detection (C/C++). [Dataset]
+- **[Big-Vul](https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset)** [![GitHub Repo stars](https://img.shields.io/github/stars/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset?logo=github&label=&style=social)](https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset) - real-world C/C++ detection (often with localization). [Dataset]
 
 ##### Repair & Patch Mining
-- **[CVEfixes](https://github.com/secureIT-project/CVEfixes)** [![GitHub Repo stars](https://img.shields.io/github/stars/secureIT-project/CVEfixes?logo=github&label=&style=social)](https://github.com/secureIT-project/CVEfixes) — CVE-linked fix commits for security repair. [Dataset]
+- **[CVEfixes](https://github.com/secureIT-project/CVEfixes)** [![GitHub Repo stars](https://img.shields.io/github/stars/secureIT-project/CVEfixes?logo=github&label=&style=social)](https://github.com/secureIT-project/CVEfixes) - CVE-linked fix commits for security repair. [Dataset]
 - Also used for repair: Big-Vul (generate minimal diffs, then build + scan).
 
 ##### Runnable / Scanner Evaluation
-- **[OWASP Benchmark (Java)](https://github.com/OWASP-Benchmark/BenchmarkJava)** [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP-Benchmark/BenchmarkJava?logo=github&label=&style=social)](https://github.com/OWASP-Benchmark/BenchmarkJava) — runnable Java app with seeded vulns; supports SAST/DAST/IAST evaluation and scoring. [Dataset+Benchmark]
-- **Juliet (NIST SARD)** ([C/C++ mirror](https://github.com/arichardson/juliet-test-suite-c) [![GitHub Repo stars](https://img.shields.io/github/stars/arichardson/juliet-test-suite-c?logo=github&label=&style=social)](https://github.com/arichardson/juliet-test-suite-c) • [Java mirror](https://github.com/UnitTestBot/juliet-java-test-suite) [![GitHub Repo stars](https://img.shields.io/github/stars/UnitTestBot/juliet-java-test-suite?logo=github&label=&style=social)](https://github.com/UnitTestBot/juliet-java-test-suite)) — runnable CWE cases for detect → fix → re-test. [Dataset+Benchmark]
+- **[OWASP Benchmark (Java)](https://github.com/OWASP-Benchmark/BenchmarkJava)** [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP-Benchmark/BenchmarkJava?logo=github&label=&style=social)](https://github.com/OWASP-Benchmark/BenchmarkJava) - runnable Java app with seeded vulns; supports SAST/DAST/IAST evaluation and scoring. [Dataset+Benchmark]
+- **Juliet (NIST SARD)** ([C/C++ mirror](https://github.com/arichardson/juliet-test-suite-c) [![GitHub Repo stars](https://img.shields.io/github/stars/arichardson/juliet-test-suite-c?logo=github&label=&style=social)](https://github.com/arichardson/juliet-test-suite-c) • [Java mirror](https://github.com/UnitTestBot/juliet-java-test-suite) [![GitHub Repo stars](https://img.shields.io/github/stars/UnitTestBot/juliet-java-test-suite?logo=github&label=&style=social)](https://github.com/UnitTestBot/juliet-java-test-suite)) - runnable CWE cases for detect → fix → re-test. [Dataset+Benchmark]
 
 ### Cybersecurity Knowledge
 Structured Q&A datasets assessing security knowledge and terminology. **Used to** evaluate factual recall and conceptual understanding.
@@ -376,10 +382,10 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ## [↑](#table-of-contents)Research Working Groups <a name="research-working-groups"></a>
 
-- [Cloud Security Alliance (CSA) AI Security Working Groups](https://cloudsecurityalliance.org/research/working-groups) – Collaborative research groups focused on AI security, cloud security, and emerging threats in AI-driven systems.
-- [OWASP Top 10 for LLM & Generative AI Security Risks Project](https://genai.owasp.org/contribute/) – An open-source initiative addressing critical security risks in Large Language Models (LLMs) and Generative AI applications, offering resources and guidelines to mitigate emerging threats.
-- [CWE Artificial Intelligence Working Group (AI WG)](https://cwe.mitre.org/community/working_groups.html) – The AI WG was established by CWE™ and CVE® community stakeholders to identify and address gaps in the CWE corpus where AI-related weaknesses are not adequately covered, and work collaboratively to fix them.
-- [NIST - SP 800-53 Control Overlays for Securing AI Systems (COSAiS)](https://csrc.nist.gov/projects/cosais) – Public collaboration to develop AI security control overlays with NIST principal investigators and the community.
+- [Cloud Security Alliance (CSA) AI Security Working Groups](https://cloudsecurityalliance.org/research/working-groups) - Collaborative research groups focused on AI security, cloud security, and emerging threats in AI-driven systems.
+- [OWASP Top 10 for LLM & Generative AI Security Risks Project](https://genai.owasp.org/contribute/) - An open-source initiative addressing critical security risks in Large Language Models (LLMs) and Generative AI applications, offering resources and guidelines to mitigate emerging threats.
+- [CWE Artificial Intelligence Working Group (AI WG)](https://cwe.mitre.org/community/working_groups.html) - The AI WG was established by CWE™ and CVE® community stakeholders to identify and address gaps in the CWE corpus where AI-related weaknesses are not adequately covered, and work collaboratively to fix them.
+- [NIST - SP 800-53 Control Overlays for Securing AI Systems (COSAiS)](https://csrc.nist.gov/projects/cosais) - Public collaboration to develop AI security control overlays with NIST principal investigators and the community.
 - [OpenSSF - AI/ML Security Working Group](https://github.com/ossf/ai-ml-security) - Cross-org WG on “security for AI” and “AI for security”
 - [CoSAI - Coalition for Secure AI (OASIS Open Project)](https://github.com/cosai-oasis) - Open, cross-industry initiative advancing secure-by-design AI through shared frameworks, tooling, and guidance.
   - **WS1: Software Supply Chain Security for AI Systems** - Extends SSDF/SLSA principles to AI; provenance, model risks, and pipeline security.https://github.com/cosai-oasis/ws1-supply-chain
@@ -480,16 +486,16 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ### Research Feed
 
-- [AI Security Research Feed](https://research.pwnedby.me/?category=cs.AI&tag=ai) – Continuously updated feed of AI security–related academic papers, preprints, and research indexed from arXiv.
-- [AI Security Portal – Literature Database](https://aisecurity-portal.org/en/section/literature-database/) – Categorized database of AI security literature, taxonomy, and related resources.
+- [AI Security Research Feed](https://research.pwnedby.me/?category=cs.AI&tag=ai) - Continuously updated feed of AI security-related academic papers, preprints, and research indexed from arXiv.
+- [AI Security Portal - Literature Database](https://aisecurity-portal.org/en/section/literature-database/) - Categorized database of AI security literature, taxonomy, and related resources.
 
 ### Industry Alliance & Nonprofit Reports
 - [CSA - Principles to Practice: Responsible AI in a Dynamic Regulatory Environment](https://cloudsecurityalliance.org/artifacts/principles-to-practice-responsible-ai-in-a-dynamic-regulatory-environment)
-- [CSA - AI Resilience: A Revolutionary Benchmarking Model for AI Safety](https://cloudsecurityalliance.org/artifacts/ai-resilience-a-revolutionary-benchmarking-model-for-ai-safety) – Governance & compliance benchmarking model.
+- [CSA - AI Resilience: A Revolutionary Benchmarking Model for AI Safety](https://cloudsecurityalliance.org/artifacts/ai-resilience-a-revolutionary-benchmarking-model-for-ai-safety) - Governance & compliance benchmarking model.
 - [CSA - Using AI for Offensive Security](https://cloudsecurityalliance.org/artifacts/using-ai-for-offensive-security)
 
 
-📌 *(More to be added – A collection of AI security reports, white papers, and academic studies.)*
+📌 *(More to be added - A collection of AI security reports, white papers, and academic studies.)*
 
 --- 
 
@@ -515,7 +521,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ## [↑](#table-of-contents)Podcasts <a name="podcasts"></a>
 
-- [**The MLSecOps Podcast**](https://podcasts.apple.com/us/podcast/the-mlsecops-podcast/id1679667447) – Insightful conversations with industry leaders and AI experts, exploring the fascinating world of machine learning security operations.
+- [**The MLSecOps Podcast**](https://podcasts.apple.com/us/podcast/the-mlsecops-podcast/id1679667447) - Insightful conversations with industry leaders and AI experts, exploring the fascinating world of machine learning security operations.
 
 ---
 
@@ -653,7 +659,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 | GRPO     | Group Relative Policy Optimization                                        |
 | HIPAA    | Health Insurance Portability and Accountability Act                       |
 | ICL      | In-Context Learning                                                       |
-| KL       | Kullback–Leibler Divergence                                               |
+| KL       | Kullback-Leibler Divergence                                               |
 | LAS      | Leakage-Adjusted Simulatability                                           |
 | LM       | Language Model                                                            |
 | LLM      | Large Language Model                                                      |
