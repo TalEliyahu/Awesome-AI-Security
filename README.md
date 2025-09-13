@@ -317,6 +317,7 @@ Interactive CTFs and self-contained labs for hands-on security skills (web, pwn,
 
 - **[PhishTank](https://phishtank.org/)** — Continuously updated dataset (API/feed); community-verified phishing URLs and webpage screenshots.
 - **[OpenPhish](https://openphish.com/)** — Regularly updated phishing URLs with fields such as webpage info, hostname, supported language, IP presence, country code, and SSL certificate; includes brand-target stats.
+- **[PhreshPhish](https://huggingface.co/datasets/phreshphish/phreshphish)** — 372k HTML–URL samples (119k phishing / 253k benign) with full-page HTML, URLs, timestamps, and brand targets (~185 brands) across 50+ languages; suitable for training and evaluating URL/page-based phishing detection.
 - **[Phishing.Database](https://github.com/Phishing-Database/Phishing.Database)** — Continuously updated lists of phishing domains/links/IPs (ACTIVE/INACTIVE/INVALID and NEW last hour/today); repo resets daily—download lists; status validated via PyFunceble.
 - **[UCI – Phishing Websites](https://archive.ics.uci.edu/ml/datasets/phishing+websites)** — 11,055 URLs (phishing and legitimate) with 30 engineered features across URL, content, and third-party signals.
 - **[Mendeley – Phishing Websites Dataset](https://data.mendeley.com/datasets/n96ncsr5g4)** — 80,000 instances (50k legitimate from Google/Ebbu 2017; 30k phishing from PhishTank/OpenPhish/PhishRepo) with page source.
