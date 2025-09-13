@@ -12,6 +12,7 @@ Curated resources, research, and tools for securing AI systems.
   - [Testing & Red Teaming](#testing--red-teaming)
   - [Implementation Guides & Best Practices](#implementation-guides--best-practices)
   - [Agentic Systems - Governance, Standards & Guides](#agentic-systems--governance-standards--guides)
+  - [Threat Modeling](#threat-modeling)
 - [Tools](#tools)
 - [Attack & Defense Matrices](#attack--defense-matrices)
 - [Checklists](#checklists)
