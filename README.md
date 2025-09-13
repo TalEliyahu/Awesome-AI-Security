@@ -312,6 +312,18 @@ Interactive CTFs and self-contained labs for hands-on security skills (web, pwn,
 - **[OWASP Benchmark (Java)](https://github.com/OWASP-Benchmark/BenchmarkJava)** [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP-Benchmark/BenchmarkJava?logo=github&label=&style=social)](https://github.com/OWASP-Benchmark/BenchmarkJava) - runnable Java app with seeded vulns; supports SAST/DAST/IAST evaluation and scoring. [Dataset+Benchmark]
 - **Juliet (NIST SARD)** ([C/C++ mirror](https://github.com/arichardson/juliet-test-suite-c) [![GitHub Repo stars](https://img.shields.io/github/stars/arichardson/juliet-test-suite-c?logo=github&label=&style=social)](https://github.com/arichardson/juliet-test-suite-c) • [Java mirror](https://github.com/UnitTestBot/juliet-java-test-suite) [![GitHub Repo stars](https://img.shields.io/github/stars/UnitTestBot/juliet-java-test-suite?logo=github&label=&style=social)](https://github.com/UnitTestBot/juliet-java-test-suite)) - runnable CWE cases for detect → fix → re-test. [Dataset+Benchmark]
 
+
+### Phishing
+
+- **[PhishTank](https://phishtank.org/)** — Continuously updated dataset (API/feed); community-verified phishing URLs and webpage screenshots.
+- **[OpenPhish](https://openphish.com/)** — Regularly updated phishing URLs with fields such as webpage info, hostname, supported language, IP presence, country code, and SSL certificate; includes brand-target stats.
+- **[Phishing.Database](https://github.com/Phishing-Database/Phishing.Database)** — Continuously updated lists of phishing domains/links/IPs (ACTIVE/INACTIVE/INVALID and NEW last hour/today); repo resets daily—download lists; status validated via PyFunceble.
+- **[UCI – Phishing Websites](https://archive.ics.uci.edu/ml/datasets/phishing+websites)** — 11,055 URLs (phishing and legitimate) with 30 engineered features across URL, content, and third-party signals.
+- **[Mendeley – Phishing Websites Dataset](https://data.mendeley.com/datasets/n96ncsr5g4)** — 80,000 instances (50k legitimate from Google/Ebbu 2017; 30k phishing from PhishTank/OpenPhish/PhishRepo) with page source.
+- **[UCI – PhiUSIIL Phishing URL](https://archive.ics.uci.edu/dataset/967/phiusiil%2Bphishing%2Burl%2Bdataset)** — 235,795 URLs (134,850 legitimate; 100,945 phishing) with 54 URL/content features; labels: Class 1 = legitimate, Class 0 = phishing.
+- **[MillerSmiles](https://www.millersmiles.co.uk/)** — Archive of 2,636,652 phishing email scams with the URLs used; long-running email corpus (not a live feed).
+
+
 ### Cybersecurity Knowledge
 Structured Q&A datasets assessing security knowledge and terminology. **Used to** evaluate factual recall and conceptual understanding.
 
