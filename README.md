@@ -314,7 +314,7 @@ Interactive CTFs and self-contained labs for hands-on security skills (web, pwn,
 
 
 ### Phishing
-> Phishing research lacks a fresh, comprehensive dataset that bundles URL, HTML, CSS, JS, images, favicon, and screenshots per page—most sources are just URL lists, pages disappear fast, and existing scrapers miss resources or save them messily. Because of this, models train on stale/incomplete data, fail to generalize to new tactics, and rely on outdated benchmarks (e.g., UCI 2015) whose feature relationships have drifted.
+> Phishing dataset gap: there isn’t a public corpus that, per page, stores the URL plus full HTML/CSS/JS, images, favicon, and a screenshot. Most sources are just URL feeds; pages vanish quickly; older benchmarks drift, so models don’t generalize well. Needed is a structured per-URL capture of all resources, with known limits (visible-area screenshots; some assets blocked by browser safety).
 
 - **[PhishTank](https://phishtank.org/)** — Continuously updated dataset (API/feed); community-verified phishing URLs and webpage screenshots.
 - **[OpenPhish](https://openphish.com/)** — Regularly updated phishing URLs with fields such as webpage info, hostname, supported language, IP presence, country code, and SSL certificate; includes brand-target stats.
