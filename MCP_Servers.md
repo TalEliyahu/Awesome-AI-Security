@@ -32,6 +32,14 @@
 - [OpenCTI](https://github.com/Spathodea-Network/opencti-mcp) [![GitHub](https://img.shields.io/github/stars/Spathodea-Network/opencti-mcp?label=GitHub)](https://github.com/Spathodea-Network/opencti-mcp)
 - [OSV](https://github.com/StacklokLabs/osv-mcp) [![GitHub](https://img.shields.io/github/stars/StacklokLabs/osv-mcp?label=GitHub)](https://github.com/StacklokLabs/osv-mcp)
 - [Shodan MCP](https://github.com/Hexix23/shodan-mcp) [![GitHub](https://img.shields.io/github/stars/Hexix23/shodan-mcp?label=GitHub)](https://github.com/Hexix23/shodan-mcp)
+- [Google Security Operations — mcp-security](https://github.com/google/mcp-security) [![GitHub](https://img.shields.io/github/stars/google/mcp-security?label=GitHub)](https://github.com/google/mcp-security)
+- [VirusTotal](https://github.com/BurtTheCoder/vt-mcp-virustotal) [![GitHub](https://img.shields.io/github/stars/BurtTheCoder/vt-mcp-virustotal?label=GitHub)](https://github.com/BurtTheCoder/vt-mcp-virustotal)
+- [Nmap](https://github.com/joswr1ght/nmap-mcp) [![GitHub](https://img.shields.io/github/stars/joswr1ght/nmap-mcp?label=GitHub)](https://github.com/joswr1ght/nmap-mcp)
+- [TheHive](https://github.com/gbrigandi/mcp-server-thehive) [![GitHub](https://img.shields.io/github/stars/gbrigandi/mcp-server-thehive?label=GitHub)](https://github.com/gbrigandi/mcp-server-thehive)
+- [Cortex](https://github.com/gbrigandi/mcp-server-cortex) [![GitHub](https://img.shields.io/github/stars/gbrigandi/mcp-server-cortex?label=GitHub)](https://github.com/gbrigandi/mcp-server-cortex)
+- [Wazuh](https://github.com/gbrigandi/mcp-server-wazuh) [![GitHub](https://img.shields.io/github/stars/gbrigandi/mcp-server-wazuh?label=GitHub)](https://github.com/gbrigandi/mcp-server-wazuh)
+- [Intruder](https://github.com/intruder-io/intruder-mcp) [![GitHub](https://img.shields.io/github/stars/intruder-io/intruder-mcp?label=GitHub)](https://github.com/intruder-io/intruder-mcp)
+- [Chronicle SecOps (community)](https://github.com/emeryray2002/mcp-secops-v3) [![GitHub](https://img.shields.io/github/stars/emeryray2002/mcp-secops-v3?label=GitHub)](https://github.com/emeryray2002/mcp-secops-v3)
 
 ## Network / Platform / WAF
 
@@ -60,3 +68,4 @@
 ## Compliance / GRC
 
 - [Secureframe](https://github.com/secureframe/secureframe-mcp-server) [![GitHub](https://img.shields.io/github/stars/secureframe/secureframe-mcp-server?label=GitHub)](https://github.com/secureframe/secureframe-mcp-server)
+- [Drata](https://drata.com/mcp)
