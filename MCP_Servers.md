@@ -37,7 +37,7 @@
 
 - [OPNSense](https://github.com/vespo92/OPNSenseMCP) [![GitHub](https://img.shields.io/github/stars/vespo92/OPNSenseMCP?label=GitHub)](https://github.com/vespo92/OPNSenseMCP)
 - [Red Hat Insights](https://github.com/RedHatInsights/insights-mcp) [![GitHub](https://img.shields.io/github/stars/RedHatInsights/insights-mcp?label=GitHub)](https://github.com/RedHatInsights/insights-mcp)
-- [SafeLine (WAF)](https://github.com/chaitin/SafeLine/tree/main/cmd/mcp_server) [![GitHub](https://img.shields.io/github/stars/chaitin/SafeLine?label=GitHub)](https://github.com/chaitin/SafeLine)
+- [SafeLine (WAF)](https://github.com/chaitin/SafeLine/tree/main/mcp_server) [![GitHub](https://img.shields.io/github/stars/chaitin/SafeLine?label=GitHub)](https://github.com/chaitin/SafeLine)
 
 ## Endpoint, IAM & Key Management
 
