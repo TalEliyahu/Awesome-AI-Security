@@ -1,10 +1,10 @@
 # MCP Servers
 
-- [AppSec & DevSecOps](#appsec--devsecops)
-- [Threat Intel & Attack Surface](#threat-intel--attack-surface)
-- [Network / Platform / WAF](#network--platform--waf)
-- [Endpoint, IAM & Key Management](#endpoint-iam--key-management)
-- [Compliance / GRC](#compliance--grc)
+[AppSec & DevSecOps](#appsec--devsecops)
+[Threat Intel & Attack Surface](#threat-intel--attack-surface)
+[Network / Platform / WAF](#network--platform--waf)
+[Endpoint, IAM & Key Management](#endpoint-iam--key-management)
+[Compliance / GRC](#compliance--grc)
 
 ## AppSec & DevSecOps
 
