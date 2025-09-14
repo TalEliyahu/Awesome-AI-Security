@@ -59,5 +59,4 @@
 
 ## Compliance / GRC
 
-- [Drata](https://drata.com/mcp)
 - [Secureframe](https://github.com/secureframe/secureframe-mcp-server) [![GitHub](https://img.shields.io/github/stars/secureframe/secureframe-mcp-server?label=GitHub)](https://github.com/secureframe/secureframe-mcp-server)
