@@ -16,6 +16,7 @@ Curated resources, research, and tools for securing AI systems.
 - [Tools](#tools)
 - [Attack & Defense Matrices](#attack--defense-matrices)
 - [Checklists](#checklists)
+- [Newsletter](#newsletter)
 - [Datasets](#datasets)
 - [Courses & Certifications](#courses--certifications)
 - [Training](#training)
@@ -31,7 +32,6 @@ Curated resources, research, and tools for securing AI systems.
   - [Guides & Playbooks](#guides--playbooks)
 - [Supply Chain Security](#supply-chain-security)
 - [Videos & Playlists](#videos--playlists)
-- [Newsletter](#newsletter)
 - [Conferences](https://github.com/TalEliyahu/Awesome-AI-Security/blob/main/Conferences.md)
 - [Foundations: Glossary, SoK/Surveys & Taxonomies](#foundations-glossary-soksurveys--taxonomies)
 - [Podcasts](#podcasts)
@@ -273,6 +273,11 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 
 ---
 
+## [↑](#table-of-contents)Newsletter <a name="newsletter"></a>
+- [Adversarial AI Digest](https://www.linkedin.com/newsletters/adversarial-ai-digest-7298813894498598912/) - A digest of AI security research, threats, governance challenges, and best practices for securing AI systems.
+
+---
+
 ## [↑](#table-of-contents)Datasets <a name="datasets"></a>
 
 ### Meta-lists
@@ -482,10 +487,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 ---
 
-## [↑](#table-of-contents)Newsletter <a name="newsletter"></a>
-- [Adversarial AI Digest](https://www.linkedin.com/newsletters/adversarial-ai-digest-7298813894498598912/) - A digest of AI security research, threats, governance challenges, and best practices for securing AI systems.
-
----
 
 ## [↑](#table-of-contents)Reports and Research <a name="reports-and-research"></a>
 
