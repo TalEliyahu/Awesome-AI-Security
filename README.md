@@ -11,8 +11,8 @@ Curated resources, research, and tools for securing AI systems.
   - [Controls & Verification Standards](#controls--verification-standards)
   - [Implementation Guides & Patterns](#implementation-guides--patterns)
   - [Testing, Evaluation & Red Teaming](#testing-evaluation--red-teaming)
-  - [Threat Modeling](#threat-modeling)
   - [Agentic Systems - (Standards, Governance & Patterns](#agentic-systems-standards-governance--patterns)
+  - [Threat Modeling](#threat-modeling)
   - [Critical Infrastructure](#critical-infrastructure)
 - [Tools](#tools)
 - [Attack & Defense Matrices](#attack--defense-matrices)
@@ -98,15 +98,15 @@ Curated resources, research, and tools for securing AI systems.
 - [CSA - Secure Agentic System Design: A Trait-Based Approach](https://cloudsecurityalliance.org/artifacts/secure-agentic-system-design)
 - [CSA - Agentic AI Identity & Access Management](https://cloudsecurityalliance.org/artifacts/agentic-ai-identity-and-access-management-a-new-approach) - 08/25
 
-### Critical Infrastructure
-- [DHS/CISA - Safety & Security Guidelines for Critical Infrastructure AI](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators) — Cross-lifecycle guidance for owners/operators (govern, design, develop, deploy, operate); developed with SRMAs and informed by CISA’s cross-sector risk analysis.
-
 ### Threat Modeling
 
 - **[OWASP - Multi-Agentic System Threat Modeling Guide](https://genai.owasp.org/resource/multi-agentic-system-threat-modeling-guide-v1-0/)** — Applies OWASP’s agentic threat taxonomy to multi-agent systems and demonstrates modeling using the MAESTRO framework with worked examples.
 - **[AWS - Threat modeling your generative AI workload to evaluate security risk](https://aws.amazon.com/blogs/security/threat-modeling-your-generative-ai-workload-to-evaluate-security-risk/)** — Practical, four-question approach (what are we working on; what can go wrong; what are we going to do about it; did we do a good enough job) with concrete deliverables: DFDs and assumptions, threat statements using AWS’s threat grammar, mapped mitigations, and validation; includes worked examples and AWS Threat Composer templates.
 - **[Microsoft - Threat Modeling AI/ML Systems and Dependencies](https://learn.microsoft.com/en-us/security/engineering/threat-modeling-aiml)** — Practical guidance for threat modeling AI/ML: “Key New Considerations” questions plus a threats→mitigations catalog (adversarial perturbation, data poisoning, model inversion, membership inference, model stealing) based on “Failure Modes in Machine Learning”; meant for security design reviews of products that use or depend on AI/ML.
 
+### Critical Infrastructure
+- [DHS/CISA - Safety & Security Guidelines for Critical Infrastructure AI](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators) — Cross-lifecycle guidance for owners/operators (govern, design, develop, deploy, operate); developed with SRMAs and informed by CISA’s cross-sector risk analysis.
+  
 ---
 
 ## [↑](#table-of-contents)Tools <a name="tools"></a>
