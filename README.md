@@ -6,13 +6,13 @@ Curated resources, research, and tools for securing AI systems.
 
 ## Table of Contents
 
-- [Best Practices and Security Standards](#best-practices-and-security-standards)
+- [Best Practices, Frameworks & Controls](#best-practices-frameworks--controls)
   - [Governance & Management Frameworks](#governance--management-frameworks)
-  - [Standards, Controls & Top 10s](#standards-controls--top-10s)
-  - [Testing & Red Teaming](#testing--red-teaming)
-  - [Implementation Guides & Best Practices](#implementation-guides--best-practices)
-  - [Agentic Systems - Governance, Standards & Guides](#agentic-systems---governance-standards--guides)
+  - [Controls & Verification Standards](#controls--verification-standards)
+  - [Implementation Guides & Patterns](#implementation-guides--patterns)
+  - [Testing, Evaluation & Red Teaming](#testing-evaluation--red-teaming)
   - [Threat Modeling](#threat-modeling)
+  - [Agentic Systems - (Standards, Governance & Patterns](#agentic-systems-standards-governance--patterns)
 - [Tools](#tools)
 - [Attack & Defense Matrices](#attack--defense-matrices)
 - [Checklists](#checklists)
@@ -42,7 +42,7 @@ Curated resources, research, and tools for securing AI systems.
 
 ---
 
-## Best Practices and Security Standards
+## Best Practices, Frameworks & Controls
 
 ### Governance & Management Frameworks
 - [NIST - AI Risk Management Framework (AI RMF)](https://www.nist.gov/itl/ai-risk-management-framework)
@@ -53,9 +53,7 @@ Curated resources, research, and tools for securing AI systems.
 - [CSA - AI Model Risk Management Framework](https://cloudsecurityalliance.org/artifacts/ai-model-risk-management-framework)
 - [NIST - Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf) 
 
-### Standards, Controls & Top 10s
-
-#### Controls & Verification Standards
+### Controls & Verification Standards
 - [OWASP - LLM Security Verification Standard (LLMSVS)](https://github.com/OWASP/www-project-llm-verification-standard) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-llm-verification-standard?logo=github&label=&style=social)](https://github.com/OWASP/www-project-llm-verification-standard)
 - [OWASP - Artificial Intelligence Security Verification Standard (AISVS)](https://github.com/OWASP/AISVS) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/AISVS?logo=github&label=&style=social)](https://github.com/OWASP/AISVS)
 - [CSA - AI Controls Matrix (AICM)](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix) - The AICM contains 243 control objectives across 18 domains and maps to ISO 42001, ISO 27001, NIST AI RMF 1.0, and BSI AIC4. Freely downloadable.
@@ -68,13 +66,13 @@ Curated resources, research, and tools for securing AI systems.
 #### Scoring & Rating Systems
 - [OWASP - Artificial Intelligence Vulnerability Scoring System](https://github.com/OWASP/www-project-artificial-intelligence-vulnerability-scoring-system) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-artificial-intelligence-vulnerability-scoring-system?logo=github&label=&style=social)](https://github.com/OWASP/www-project-artificial-intelligence-vulnerability-scoring-system)
 
-### Testing & Red Teaming
+### Testing, Evaluation & Red Teaming
 - [OWASP - AI Testing Guide](https://github.com/OWASP/www-project-ai-testing-guide) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-ai-testing-guide?logo=github&label=&style=social)](https://github.com/OWASP/www-project-ai-testing-guide)
 - [OWASP - Red Teaming Guide](https://genai.owasp.org/resource/genai-red-teaming-guide/)
 - [OWASP - LLM Exploit Generation](https://genai.owasp.org/resource/owasp-llm-exploit-generation-v1-0-pdf/)
 - [CSA - Agentic AI Red Teaming Guide](https://cloudsecurityalliance.org/artifacts/agentic-ai-red-teaming-guide)
 
-### Implementation Guides & Best Practices
+### Implementation Guides & Patterns
 
 - **OWASP**
   - [OWASP - AI Security and Privacy Guide](https://github.com/OWASP/www-project-ai-security-and-privacy-guide) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-ai-security-and-privacy-guide?logo=github&label=&style=social)](https://github.com/OWASP/www-project-ai-security-and-privacy-guide)
@@ -91,7 +89,7 @@ Curated resources, research, and tools for securing AI systems.
   - [Content Credentials: Strengthening Multimedia Integrity in the Generative AI Era (CSI)](https://media.defense.gov/2025/Jan/23/2003639157/-1/-1/0/CSI-CONTENT-CREDENTIALS-STRENGTHENING-MULTIMEDIA-INTEGRITY.PDF) - Provenance and Durable Content Credentials for transparent media.
   - [Contextualizing Deepfake Threats to Organizations (CSI)](https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF) - Risks, impacts, and mitigations for synthetic media targeting orgs.
 
-### Agentic Systems - Governance, Standards & Guides
+### Agentic Systems (Standards, Governance & Patterns)
 - [OWASP - Agent Observability Standard (AOS)](https://github.com/OWASP/www-project-agent-observability-standard) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-agent-observability-standard?logo=github&label=&style=social)](https://github.com/OWASP/www-project-agent-observability-standard)
 - [OWASP - Agent Name Service (ANS) for Secure AI Agent Discovery](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/)
 - [OWASP - Agentic AI - Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
