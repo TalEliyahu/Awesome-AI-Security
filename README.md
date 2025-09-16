@@ -127,7 +127,7 @@ Curated resources, research, and tools for securing AI systems.
 
 
 ### Model Artifact Scanners
-*Analyze serialized model files for unsafe deserialization and embedded code; verify integrity/metadata and **block or quarantine on fail**.*
+*Analyze serialized model files for unsafe deserialization and embedded code; verify integrity/metadata and block or quarantine on fail.*
 
 - **[ModelScan](https://github.com/protectai/modelscan)** [![GitHub Repo stars](https://img.shields.io/github/stars/protectai/modelscan?logo=github&label=&style=social)](https://github.com/protectai/modelscan)
 - **[Fickling](https://github.com/trailofbits/fickling)** [![GitHub Repo stars](https://img.shields.io/github/stars/trailofbits/fickling?logo=github&label=&style=social)](https://github.com/trailofbits/fickling)
