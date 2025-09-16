@@ -597,7 +597,6 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 #### Operate
 *Monitor memory mutations for drift/poisoning, detect abnormal loops/misuse, enforce HITL overrides, and scan plugins-continuous, real-time vigilance for resilient operations as systems scale and self-orchestrate.*
-- [Lakera](https://www.lakera.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/lakeraai?style=social)](https://github.com/lakeraai)
 - [Lasso Security](https://www.lasso.security/blog) [![GitHub followers](https://img.shields.io/github/followers/lasso-security?style=social)](https://github.com/lasso-security)
 
 #### Monitor
