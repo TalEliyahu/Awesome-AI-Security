@@ -13,6 +13,7 @@ Curated resources, research, and tools for securing AI systems.
   - [Testing, Evaluation & Red Teaming](#testing-evaluation--red-teaming)
   - [Threat Modeling](#threat-modeling)
   - [Agentic Systems - (Standards, Governance & Patterns](#agentic-systems-standards-governance--patterns)
+  - [Critical Infrastructure](#critical-infrastructure)
 - [Tools](#tools)
 - [Attack & Defense Matrices](#attack--defense-matrices)
 - [Checklists](#checklists)
@@ -80,7 +81,6 @@ Curated resources, research, and tools for securing AI systems.
 - [CSA - Secure LLM Systems: Essential Authorization Practices](https://cloudsecurityalliance.org/artifacts/securing-llm-backed-systems-essential-authorization-practices)
 - [OASIS CoSAI - Preparing Defenders of AI Systems](https://github.com/cosai-oasis/ws2-defenders/blob/main/preparing-defenders-of-ai-systems.md) [![GitHub Repo stars](https://img.shields.io/github/stars/cosai-oasis/ws2-defenders?logo=github&label=&style=social)](https://github.com/cosai-oasis/ws2-defenders)
 - [DoD CIO - AI Cybersecurity Risk Management Tailoring Guide (2025)](https://dodcio.defense.gov/Portals/0/Documents/Library/AI-CybersecurityRMTailoringGuide.pdf) - Practical RMF tailoring for AI systems across the lifecycle; complements CDAO’s RAI toolkit.
-- [DHS/CISA - Safety & Security Guidelines for Critical Infrastructure AI](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators) - Cross-lifecycle guidance for critical-infrastructure owners/operators (govern, design, develop, deploy, operate); developed with SRMAs and informed by CISA’s cross-sector risk analysis.
 - [NCSC (UK) - Guidelines for Secure AI System Development](https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development) - End-to-end secure AI SDLC (secure design, development, deployment, and secure operation & maintenance), including logging/monitoring and update management.
 - [SANS – Critical AI Security Guidelines](https://github.com/sans-community/ai-guidelines) [![GitHub Repo stars](https://img.shields.io/github/stars/sans-community/ai-guidelines?logo=github&label=&style=social)](https://github.com/sans-community/ai-guidelines) - Control-focused guidance for securing AI/LLM systems across six domains (e.g., access controls, data protection, inference security, monitoring, GRC).
 - **NSA - Artificial Intelligence Security Center (AISC)**
@@ -97,6 +97,9 @@ Curated resources, research, and tools for securing AI systems.
 - [OWASP - State of Agentic AI Security and Governance](https://genai.owasp.org/resource/state-of-agentic-ai-security-and-governance-1-0/)
 - [CSA - Secure Agentic System Design: A Trait-Based Approach](https://cloudsecurityalliance.org/artifacts/secure-agentic-system-design)
 - [CSA - Agentic AI Identity & Access Management](https://cloudsecurityalliance.org/artifacts/agentic-ai-identity-and-access-management-a-new-approach) - 08/25
+
+### Critical Infrastructure
+- [DHS/CISA - Safety & Security Guidelines for Critical Infrastructure AI](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators) — Cross-lifecycle guidance for owners/operators (govern, design, develop, deploy, operate); developed with SRMAs and informed by CISA’s cross-sector risk analysis.
 
 ### Threat Modeling
 
