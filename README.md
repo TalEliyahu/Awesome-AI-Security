@@ -440,8 +440,9 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 - **Measure**: Identify risks related to adversarial attacks.  
 - **Manage**: Implement mitigation strategies to ensure resilience.
 
-- **[AutoPenBench](https://github.com/lucagioacchini/auto-pen-bench)** [![GitHub Repo stars](https://img.shields.io/github/stars/lucagioacchini/auto-pen-bench?logo=github&label=&style=social)](https://github.com/lucagioacchini/auto-pen-bench) - 33 tasks (22 fundamentals, 4 crypto, 11 real CVEs) for autonomous pentesting evaluation. 
-- **[AI-Pentest-Benchmark](https://github.com/isamu-isozaki/AI-Pentest-Benchmark)** [![GitHub Repo stars](https://img.shields.io/github/stars/isamu-isozaki/AI-Pentest-Benchmark?logo=github&label=&style=social)](https://github.com/isamu-isozaki/AI-Pentest-Benchmark) - 13 full vulnerable VMs (VulnHub) for end-to-end recon→exploit→privesc benchmarking. 
+**[AutoPenBench](https://github.com/lucagioacchini/auto-pen-bench)** [![GitHub Repo stars](https://img.shields.io/github/stars/lucagioacchini/auto-pen-bench?logo=github&label=&style=social)](https://github.com/lucagioacchini/auto-pen-bench) — 33 tasks: 22 in-vitro fundamentals (incl. 4 crypto) + 11 real-world CVEs for autonomous pentesting evaluation.
+**[AI-Pentest-Benchmark](https://github.com/isamu-isozaki/AI-Pentest-Benchmark)** [![GitHub Repo stars](https://img.shields.io/github/stars/isamu-isozaki/AI-Pentest-Benchmark?logo=github&label=&style=social)](https://github.com/isamu-isozaki/AI-Pentest-Benchmark) — 13 full vulnerable VMs (from VulnHub) for end-to-end recon → exploit → privesc benchmarking.
+
 
 #### **Model & Data Integrity**  
 **Purpose**: Assesses AI models for unauthorized modifications, including backdoors and dataset poisoning. Supports trustworthiness and security of model outputs.  
