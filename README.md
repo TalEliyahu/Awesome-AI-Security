@@ -349,9 +349,7 @@ Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Commo
 
 #### Audio (Speech) Deepfakes
 
-- [**In-the-Wild Dataset**](https://deepfake-total.com/in_the_wild) — 58 politicians/celebrities; ≈20.8 h bona-fide + 17.2 h spoofed; collected from social/video platforms with per-speaker pairing; **labels:** `bona-fide` / `spoof`. [Paper](https://arxiv.org/abs/2203.16263)
-
-- **[In-the-Wild (ITW)](https://deepfake-total.com/in_the_wild)** - 58 politicians/celebrities; 20.7 h bona-fide + 17.2 h spoofed; collected from social/video platforms with per-speaker pairing; labels: `bona-fide` / `spoofed`. [Paper](https://arxiv.org/abs/2203.16263)
+- **[In-the-Wild (ITW)](https://deepfake-total.com/in_the_wild)** - 58 politicians/celebrities; 20.7 h bona-fide + 17.2 h spoofed; collected from social/video platforms with per-speaker pairing; labels: `bona-fide` / `spoofed`. [arXiv](https://arxiv.org/abs/2203.16263)
 
 
 #### Video Deepfakes
