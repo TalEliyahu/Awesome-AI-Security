@@ -297,13 +297,9 @@ Interactive CTFs and self-contained labs for hands-on security skills (web, pwn,
 #### CTF Challenges
 
 - **[InterCode-CTF](https://intercode-benchmark.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/intercode?logo=github&label=&style=social)](https://github.com/princeton-nlp/intercode) - 100 picoCTF challenges (high-school level); categories: cryptography, web, binary exploitation (pwn), reverse engineering, forensics, miscellaneous. [Dataset+Benchmark] [arXiv](https://arxiv.org/abs/2306.14898)
-
 - **[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/LLM_CTF_Database?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database) - 200 CSAW challenges (2017-2023); difficulty very easy → hard; categories: cryptography, web, binary exploitation (pwn), reverse engineering, forensics, miscellaneous. [Dataset+Benchmark] [arXiv](https://arxiv.org/abs/2406.05590)
-
 - **[CyBench](https://cybench.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/andyzorigin/cybench?logo=github&label=&style=social)](https://github.com/andyzorigin/cybench) - 40 tasks from HackTheBox, Sekai CTF, Glacier, HKCert (2022-2024); categories: cryptography, web, binary exploitation (pwn), reverse engineering, forensics, miscellaneous; difficulty grounded by first-solve time (FST). [Dataset+Benchmark] [arXiv](https://arxiv.org/abs/2408.08926)
-
 - **[pwn.college CTF Archive](https://github.com/pwncollege/ctf-archive)** [![GitHub Repo stars](https://img.shields.io/github/stars/pwncollege/ctf-archive?logo=github&label=&style=social)](https://github.com/pwncollege/ctf-archive) - large collection of runnable CTF challenges; commonly used as a source corpus for research. [Dataset]
-
 
 #### Secure Code
 
@@ -350,17 +346,11 @@ Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Commo
 #### Audio (Speech) Deepfakes
 
 - [**ASVspoof 5 – train / dev / eval**](https://arxiv.org/abs/2408.08739) - Train: 8 TTS attacks; Dev: 8 unseen (validation/fusion); Eval: 16 unseen incl. adversarial/codec. Labels: `bona-fide` / `spoofed`.  
-
 - [**In-the-Wild (ITW)**](https://deepfake-total.com/in_the_wild) - 58 politicians/celebrities with per-speaker pairing; ≈20.7 h `bona-fide` + 17.2 h `spoofed`, scraped from social/video platforms. Labels: `bona-fide` / `spoofed`. [Paper](https://arxiv.org/abs/2203.16263)
-
 - [**MLAAD (current v7; uses M-AILABS for real)**](https://deepfake-total.com/mlaad) - Multilingual synthetic TTS corpus (hundreds of hours; many models/languages). For real speech, pair with M-AILABS. Labels (in use): `bona-fide` (M-AILABS) / `spoof` (MLAAD). [Paper](https://arxiv.org/abs/2401.09512)
-
 - [**LlamaPartialSpoof**](https://zenodo.org/records/14214149) - LLM-driven attacker styles; includes full and partial (spliced) spoofs. Labels: `bona-fide` / `fully-spoofed` / `partially-spoofed`. [Paper](https://arxiv.org/abs/2409.14743)
-
 - [**Fake-or-Real (FoR)**](https://bil.eecs.yorku.ca/datasets/) - >195k utterances; four variants: `for-original`, `for-norm`, `for-2sec`, `for-rerec`. Labels: `real` / `synthetic`.
-
 - [**CodecFake**](https://codecfake.github.io/) - Deepfakes generated via neural audio codecs (Interspeech 2024); site links to Hugging Face release. Labels: `real` / `codec-generated fake`. [Paper](https://arxiv.org/abs/2405.04880)
-
 
 #### Video Deepfakes
 
