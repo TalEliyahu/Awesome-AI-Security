@@ -345,6 +345,18 @@ Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Commo
 
 - **[SecCodePLT](https://huggingface.co/datasets/Virtue-AI-HUB/SecCodePLT)** [![HF Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FVirtue-AI-HUB%2FSecCodePLT&query=downloads&label=HF%20downloads&logo=huggingface)](https://huggingface.co/datasets/Virtue-AI-HUB/SecCodePLT)
 
+### Deepfake & Synthetic Media
+
+#### Audio (Speech) Deepfakes
+
+- [**In-the-Wild Dataset**](https://deepfake-total.com/in_the_wild) — 58 politicians/celebrities; ≈20.8 h bona-fide + 17.2 h spoofed; collected from social/video platforms with per-speaker pairing; **labels:** `bona-fide` / `spoof`. [Paper](https://arxiv.org/abs/2203.16263)
+
+- **[In-the-Wild (ITW)](https://deepfake-total.com/in_the_wild)** - 58 politicians/celebrities; 20.7 h bona-fide + 17.2 h spoofed; collected from social/video platforms with per-speaker pairing; labels: `bona-fide` / `spoofed`. [Paper](https://arxiv.org/abs/2203.16263)
+
+
+#### Video Deepfakes
+
+
 ### Jailbreak & Guardrail Evaluation
 Adversarial prompt datasets-both text-only and multimodal-designed to bypass safety mechanisms or test refusal logic.
 **Used to** test how effectively a model resists jailbreaks and enforces policy-based refusal.
