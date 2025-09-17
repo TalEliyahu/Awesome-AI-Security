@@ -442,14 +442,12 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 **[AutoPenBench](https://github.com/lucagioacchini/auto-pen-bench)** [![GitHub Repo stars](https://img.shields.io/github/stars/lucagioacchini/auto-pen-bench?logo=github&label=&style=social)](https://github.com/lucagioacchini/auto-pen-bench) — 33 tasks: 22 in-vitro fundamentals (incl. 4 crypto) + 11 real-world CVEs for autonomous pentesting evaluation. [arXiv](https://arxiv.org/abs/2410.03225) • **Best for:** controlled, task-based coverage across fundamentals and known CVEs (repeatable, fine-grained scoring).
 
-**[AI-Pentest-Benchmark](https://github.com/isamu-isozaki/AI-Pentest-Benchmark)** [![GitHub Repo stars](https://img.shields.io/github/stars/isamu-isozaki/AI-Pentest-Benchmark?logo=github&label=&style=social)](https://github.com/isamu-isozaki/AI-Pentest-Benchmark) — 13 full vulnerable VMs (from VulnHub) for end-to-end recon → exploit → privesc benchmarking. [arXiv](https://arxiv.org/abs/2410.17141) • **Best for:** realistic, end-to-end machine takeovers stressing planning, tool use, and multi-step reasoning.
-
 **[AI-Pentest-Benchmark](https://github.com/isamu-isozaki/AI-Pentest-Benchmark)** [![GitHub Repo stars](https://img.shields.io/github/stars/isamu-isozaki/AI-Pentest-Benchmark?logo=github&label=&style=social)](https://github.com/isamu-isozaki/AI-Pentest-Benchmark) — 13 full vulnerable VMs (from VulnHub), 152 subtasks across Recon (72), Exploit (44), PrivEsc (22), and General (14), for end-to-end recon → exploit → privesc benchmarking. [arXiv](https://arxiv.org/abs/2410.17141) • **Best for:** realistic, end-to-end machine takeovers stressing planning, tool use, and multi-step reasoning.
-
 
 **[CVE-Bench](https://github.com/uiuc-kang-lab/cve-bench)** [![GitHub Repo stars](https://img.shields.io/github/stars/uiuc-kang-lab/cve-bench?logo=github&label=&style=social)](https://github.com/uiuc-kang-lab/cve-bench) — 40 real-world web CVEs in dockerized apps; evaluates agent-driven exploit generation/execution. [arXiv](https://arxiv.org/abs/2503.17332) • **Best for:** focused testing of exploitability against real CVEs (web).
 
-**[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/LLM_CTF_Database?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/LLM_CTF_Database) — 200 dockerized CSAW challenges (web, pwn, rev, forensics, crypto, misc.) for skill-granular agent evaluation. [arXiv](https://arxiv.org/abs/2406.05590) • **Best for:** CTF-style, per-skill assessment and tool-use drills.
+**[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) — 200 dockerized CSAW challenges (web, pwn, rev, forensics, crypto, misc.) for skill-granular agent evaluation. [arXiv](https://arxiv.org/abs/2406.05590) • **Best for:** CTF-style, per-skill assessment and tool-use drills.
+
 
 
 #### **Model & Data Integrity**  
