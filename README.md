@@ -349,7 +349,17 @@ Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Commo
 
 #### Audio (Speech) Deepfakes
 
-- **[In-the-Wild (ITW)](https://deepfake-total.com/in_the_wild)** - 58 politicians/celebrities; 20.7 h bona-fide + 17.2 h spoofed; collected from social/video platforms with per-speaker pairing; labels: `bona-fide` / `spoofed`. [arXiv](https://arxiv.org/abs/2203.16263)
+- [**ASVspoof 5 – train / dev / eval**](https://arxiv.org/abs/2408.08739) - Train: 8 TTS attacks; Dev: 8 unseen (validation/fusion); Eval: 16 unseen incl. adversarial/codec. Labels: `bona-fide` / `spoofed`.  
+
+- [**In-the-Wild (ITW)**](https://deepfake-total.com/in_the_wild) - 58 politicians/celebrities with per-speaker pairing; ≈20.7 h `bona-fide` + 17.2 h `spoofed`, scraped from social/video platforms. Labels: `bona-fide` / `spoofed`. [Paper](https://arxiv.org/abs/2203.16263)
+
+- [**MLAAD (current v7; uses M-AILABS for real)**](https://deepfake-total.com/mlaad) - Multilingual synthetic TTS corpus (hundreds of hours; many models/languages). For real speech, pair with M-AILABS. Labels (in use): `bona-fide` (M-AILABS) / `spoof` (MLAAD). [Paper](https://arxiv.org/abs/2401.09512)
+
+- [**LlamaPartialSpoof**](https://zenodo.org/records/14214149) - LLM-driven attacker styles; includes full and partial (spliced) spoofs. Labels: `bona-fide` / `fully-spoofed` / `partially-spoofed`. [Paper](https://arxiv.org/abs/2409.14743)
+
+- [**Fake-or-Real (FoR)**](https://bil.eecs.yorku.ca/datasets/) - >195k utterances; four variants: `for-original`, `for-norm`, `for-2sec`, `for-rerec`. Labels: `real` / `synthetic`.
+
+- [**CodecFake**](https://codecfake.github.io/) - Deepfakes generated via neural audio codecs (Interspeech 2024); site links to Hugging Face release. Labels: `real` / `codec-generated fake`. [Paper](https://arxiv.org/abs/2405.04880)
 
 
 #### Video Deepfakes
