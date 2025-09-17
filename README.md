@@ -446,8 +446,7 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 
 **[CVE-Bench](https://github.com/uiuc-kang-lab/cve-bench)** [![GitHub Repo stars](https://img.shields.io/github/stars/uiuc-kang-lab/cve-bench?logo=github&label=&style=social)](https://github.com/uiuc-kang-lab/cve-bench) — 40 real-world web CVEs in dockerized apps; evaluates agent-driven exploit generation/execution. [arXiv](https://arxiv.org/abs/2503.17332) • **Best for:** focused testing of exploitability against real CVEs (web).
 
-**[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) — 200 dockerized CSAW challenges (web, pwn, rev, forensics, crypto, misc.) for skill-granular agent evaluation. [arXiv](https://arxiv.org/abs/2406.05590) • **Best for:** CTF-style, per-skill assessment and tool-use drills.
-
+**[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/NYU_CTF_Bench?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) — 200 dockerized CSAW challenges (web, pwn, rev, forensics, crypto, misc.) for skill-granular agent evaluation. [arXiv](https://arxiv.org/abs/2406.05590) • **Best for:** CTF-style, per-skill assessment and tool-use drills.
 
 
 #### **Model & Data Integrity**  
