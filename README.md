@@ -341,7 +341,7 @@ Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Commo
 
 - **[SecCodePLT](https://huggingface.co/datasets/Virtue-AI-HUB/SecCodePLT)** [![HF Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FVirtue-AI-HUB%2FSecCodePLT&query=downloads&label=HF%20downloads&logo=huggingface)](https://huggingface.co/datasets/Virtue-AI-HUB/SecCodePLT)
 
-### Deepfake & Synthetic Media
+### Deepfake
 
 #### Audio (Speech) Deepfakes
 
