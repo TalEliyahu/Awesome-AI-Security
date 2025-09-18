@@ -362,7 +362,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - **[JailBreakV-28K](https://github.com/SaFoLab-WISC/JailBreakV_28K)** [![GitHub Repo stars](https://img.shields.io/github/stars/SaFoLab-WISC/JailBreakV_28K?logo=github&label=&style=social)](https://github.com/SaFoLab-WISC/JailBreakV_28K)
 - **[Do-Not-Answer](https://github.com/Libr-AI/do-not-answer)** [![GitHub Repo stars](https://img.shields.io/github/stars/Libr-AI/do-not-answer?logo=github&label=&style=social)](https://github.com/Libr-AI/do-not-answer)
 
-### Prompt Injection & Malicious Prompt Detection
+### Prompt Injection
 Datasets labeled with whether prompts are benign or malicious (i.e., injection attempts).
 **Used to** evaluate an LLM’s ability to detect and neutralize prompt-injection style attacks.
 
