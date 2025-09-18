@@ -363,8 +363,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - **[Do-Not-Answer](https://github.com/Libr-AI/do-not-answer)** [![GitHub Repo stars](https://img.shields.io/github/stars/Libr-AI/do-not-answer?logo=github&label=&style=social)](https://github.com/Libr-AI/do-not-answer)
 
 ### Prompt Injection
-Datasets labeled with whether prompts are benign or malicious (i.e., injection attempts).
-**Used to** evaluate an LLM’s ability to detect and neutralize prompt-injection style attacks.
+*Public prompt-injection datasets have recurring limitations: partial staleness as models and defenses evolve, CTF skew toward basic instruction following, and label mixing across toxicity, jailbreak roleplay, and true injections that inflates measured true positive rates and distorts evaluation.*
 
 - **[LLMail-Inject](https://huggingface.co/datasets/microsoft/llmail-inject-challenge)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fmicrosoft%2Fllmail-inject-challenge&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/microsoft/llmail-inject-challenge) Realistic email-context prompt-injection challenge with Phase 1 & 2 data (~462k rows total, JSON). Includes flags for retrieval, detection, and exfil outcomes; MIT license. 
 - **[prompt-injection-attack-dataset](https://huggingface.co/datasets/xxz224/prompt-injection-attack-dataset)**[![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fxxz224%2Fprompt-injection-attack-dataset&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/xxz224/prompt-injection-attack-dataset) 3.7k rows pairing benign task prompts with attack variants (naive / escape / ignore / fake-completion / combined). Columns for both target and injected tasks; train split only.
