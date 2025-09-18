@@ -350,10 +350,9 @@ Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Commo
 - [**MLAAD (current v7; uses M-AILABS for real)**](https://deepfake-total.com/mlaad) - Multilingual synthetic TTS corpus (hundreds of hours; many models/languages). For real speech, pair with M-AILABS. Labels (in use): `bona-fide` (M-AILABS) / `spoof` (MLAAD). [arXiv](https://arxiv.org/abs/2401.09512)
 - [**LlamaPartialSpoof**](https://zenodo.org/records/14214149) - LLM-driven attacker styles; includes full and partial (spliced) spoofs. Labels: `bona-fide` / `fully-spoofed` / `partially-spoofed`. [arXiv](https://arxiv.org/abs/2409.14743)
 - [**Fake-or-Real (FoR)**](https://bil.eecs.yorku.ca/datasets/) - >195k utterances; four variants: `for-original`, `for-norm`, `for-2sec`, `for-rerec`. Labels: `real` / `synthetic`.
-- [**CodecFake**](https://codecfake.github.io/) - Deepfakes generated via neural audio codecs (Interspeech 2024); site links to Hugging Face release. Labels: `real` / `codec-generated fake`. [arXiv](https://arxiv.org/abs/2405.04880)
+- [**CodecFake**](https://codecfake.github.io/) - codec-based deepfake audio dataset (Interspeech 2024); Labels: `real` / `codec-generated fake`. [arXiv](https://arxiv.org/abs/2405.04880)
 
 #### Video Deepfakes
-
 
 ### Jailbreak & Guardrail Evaluation
 Adversarial prompt datasets-both text-only and multimodal-designed to bypass safety mechanisms or test refusal logic.
