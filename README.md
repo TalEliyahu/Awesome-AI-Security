@@ -228,7 +228,6 @@ Curated resources, research, and tools for securing AI systems.
 
 - **[Alibi Detect](https://github.com/SeldonIO/alibi-detect)** [![GitHub Repo stars](https://img.shields.io/github/stars/SeldonIO/alibi-detect?logo=github&label=&style=social)](https://github.com/SeldonIO/alibi-detect) - Production drift/outlier/adversarial detection for tabular, text, images, and time series; online/offline detectors with TF/PyTorch backends; returns scores, thresholds, and flags for alerting.
 
-
 ---
 
 ## [↑](#table-of-contents)Attack & Defense Matrices <a name="attack--defense-matrices"></a>
@@ -369,6 +368,9 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - **[prompt-injections-benchmark](https://huggingface.co/datasets/qualifire/prompt-injections-benchmark)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fqualifire%2Fprompt-injections-benchmark&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/qualifire/prompt-injections-benchmark) 5,000 prompts labeled `jailbreak` / `benign` for robustness evals. 
 - **[prompt-injections](https://huggingface.co/datasets/deepset/prompt-injections)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fdeepset%2Fprompt-injections&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/deepset/prompt-injections) Curated collection (662 rows, `train/test`) for injection vs. benign classification. 
 - **[prompt-injection](https://huggingface.co/datasets/jayavibhav/prompt-injection)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fjayavibhav%2Fprompt-injection&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/jayavibhav/prompt-injection) Large-scale injection/benign corpus (~327k rows, `train/test`) for training baselines and detectors.
+- **[prompt-injection-safety](https://huggingface.co/datasets/jayavibhav/prompt-injection-safety)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fjayavibhav%2Fprompt-injection-safety&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/jayavibhav/prompt-injection-safety) 60k rows (`train` 50k / `test` 10k); 3-way labels: benign `0`, injection `1`, harmful request `2`; Parquet.
+- **[prompt_injections](https://huggingface.co/datasets/yanismiraoui/prompt_injections)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fyanismiraoui%2Fprompt_injections&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/yanismiraoui/prompt_injections) ~1k short injection prompts; multilingual (EN, FR, DE, ES, IT, PT, RO); single `train` split; CSV/Parquet.
+
   
 ---
 
