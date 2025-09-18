@@ -367,7 +367,15 @@ Datasets labeled with whether prompts are benign or malicious (i.e., injection a
 **Used to** evaluate an LLM’s ability to detect and neutralize prompt-injection style attacks.
 
 - **[Malicious Prompt Detection](https://github.com/AhsanAyub/malicious-prompt-detection)** [![GitHub Repo stars](https://img.shields.io/github/stars/AhsanAyub/malicious-prompt-detection?logo=github&label=&style=social)](https://github.com/AhsanAyub/malicious-prompt-detection)
-- **[LLMail-Inject](https://github.com/microsoft/llmail-inject-challenge)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/llmail-inject-challenge?logo=github&label=&style=social)](https://github.com/microsoft/llmail-inject-challenge) 
+- **[LLMail-Inject](https://github.com/microsoft/llmail-inject-challenge)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/llmail-inject-challenge?logo=github&label=&style=social)](https://github.com/microsoft/llmail-inject-challenge)
+- **[prompt-injection-attack-dataset](https://huggingface.co/datasets/xxz224/prompt-injection-attack-dataset)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fxxz224%2Fprompt-injection-attack-dataset&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/xxz224/prompt-injection-attack-dataset) 3.7k+ rows combining benign task prompts with multiple attack variants (naive, escape, ignore, fake-completion, combined). Includes fields for both target and injected tasks with binary labels.
+- **[prompt-injections-benchmark](https://huggingface.co/datasets/qualifire/prompt-injections-benchmark)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fqualifire%2Fprompt-injections-benchmark&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/qualifire/prompt-injections-benchmark) 5,000 prompts labeled `jailbreak` or `benign` for evaluating model robustness to adversarial instructions.
+- **[prompt-injections](https://huggingface.co/datasets/deepset/prompt-injections)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fdeepset%2Fprompt-injections&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/deepset/prompt-injections)  
+  Curated collection of prompt-injection examples gathered by deepset for red-teaming and safety testing.
+- **[prompt-injection](https://huggingface.co/datasets/jayavibhav/prompt-injection)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fjayavibhav%2Fprompt-injection&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/jayavibhav/prompt-injection)  
+  Lightweight set of injection prompts with labels for quick experimentation and baseline detection.
+- **[gentelbench-v1](https://huggingface.co/datasets/GenTelLab/gentelbench-v1)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FGenTelLab%2Fgentelbench-v1&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/GenTelLab/gentelbench-v1)  
+  General safety/robustness benchmark including jailbreak-style prompts and benign controls to test instruction-following and guardrail behavior.
 
 ---
 
