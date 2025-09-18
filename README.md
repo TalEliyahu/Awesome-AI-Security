@@ -366,10 +366,10 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 - **[prompt-injection-attack-dataset](https://huggingface.co/datasets/xxz224/prompt-injection-attack-dataset)**[![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fxxz224%2Fprompt-injection-attack-dataset&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/xxz224/prompt-injection-attack-dataset) 3.7k rows pairing benign task prompts with attack variants (naive / escape / ignore / fake-completion / combined). Columns for both target and injected tasks; train split only.
 - **[prompt-injections-benchmark](https://huggingface.co/datasets/qualifire/prompt-injections-benchmark)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fqualifire%2Fprompt-injections-benchmark&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/qualifire/prompt-injections-benchmark) 5,000 prompts labeled `jailbreak` / `benign` for robustness evals. 
-- **[prompt-injections](https://huggingface.co/datasets/deepset/prompt-injections)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fdeepset%2Fprompt-injections&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/deepset/prompt-injections) Curated collection (662 rows, `train/test`) for injection vs. benign classification. 
+- **[prompt_injections](https://huggingface.co/datasets/yanismiraoui/prompt_injections)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fyanismiraoui%2Fprompt_injections&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/yanismiraoui/prompt_injections) ~1k short injection prompts; multilingual (EN, FR, DE, ES, IT, PT, RO); single `train` split; CSV/Parquet.
 - **[prompt-injection](https://huggingface.co/datasets/jayavibhav/prompt-injection)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fjayavibhav%2Fprompt-injection&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/jayavibhav/prompt-injection) Large-scale injection/benign corpus (~327k rows, `train/test`) for training baselines and detectors.
 - **[prompt-injection-safety](https://huggingface.co/datasets/jayavibhav/prompt-injection-safety)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fjayavibhav%2Fprompt-injection-safety&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/jayavibhav/prompt-injection-safety) 60k rows (`train` 50k / `test` 10k); 3-way labels: benign `0`, injection `1`, harmful request `2`; Parquet.
-- **[prompt_injections](https://huggingface.co/datasets/yanismiraoui/prompt_injections)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fyanismiraoui%2Fprompt_injections&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/yanismiraoui/prompt_injections) ~1k short injection prompts; multilingual (EN, FR, DE, ES, IT, PT, RO); single `train` split; CSV/Parquet.
+
 
   
 ---
@@ -448,7 +448,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 ### **Categories of AI Security Benchmarks**
 
-#### **Robustness & Adversarial Resilience**  
+#### **Adversarial Resilience**  
 **Purpose**: Evaluates how AI systems withstand adversarial attacks, including evasion, poisoning, and model extraction. Ensures AI remains functional under manipulation.  
 **NIST AI RMF Alignment**: **Measure, Manage**  
 - **Measure**: Identify risks related to adversarial attacks.  
@@ -462,6 +462,11 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 **[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/NYU_CTF_Bench?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) - 200 dockerized CSAW challenges (web, pwn, rev, forensics, crypto, misc.) for skill-granular agent evaluation. [arXiv](https://arxiv.org/abs/2406.05590) • **Best for:** CTF-style, per-skill assessment and tool-use drills.
 
+#### **Prompt Injection & Jailbreak Detection**
+**Purpose**: Evaluates resistance to prompt-injection and jailbreak attempts in chat/RAG/agent contexts.  
+**NIST AI RMF Alignment**: **Measure, Manage**
+
+- **[Lakera PINT Benchmark](https://github.com/lakeraai/pint-benchmark)** [![GitHub Repo stars](https://img.shields.io/github/stars/lakeraai/pint-benchmark?logo=github&label=&style=social)](https://github.com/lakeraai/pint-benchmark) Prompt-injection benchmark with a curated multilingual test suite, explicit categories (injections, jailbreaks, hard negatives, benign chats/docs), and a reproducible scoring harness (PINT score + notebooks) for fair detector comparison and regression tracking.
 
 #### **Model & Data Integrity**  
 **Purpose**: Assesses AI models for unauthorized modifications, including backdoors and dataset poisoning. Supports trustworthiness and security of model outputs.  
