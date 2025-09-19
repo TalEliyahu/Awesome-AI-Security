@@ -370,8 +370,18 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - **[prompt-injection](https://huggingface.co/datasets/jayavibhav/prompt-injection)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fjayavibhav%2Fprompt-injection&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/jayavibhav/prompt-injection) Large-scale injection/benign corpus (~327k rows, `train/test`) for training baselines and detectors.
 - **[prompt-injection-safety](https://huggingface.co/datasets/jayavibhav/prompt-injection-safety)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fjayavibhav%2Fprompt-injection-safety&query=downloads&label=HF%20downloads)](https://huggingface.co/datasets/jayavibhav/prompt-injection-safety) 60k rows (`train` 50k / `test` 10k); 3-way labels: benign `0`, injection `1`, harmful request `2`; Parquet.
 
+## System Prompts
+> Collections of leaked, official, and synthetic system prompts and paired responses used to study guardrails and spot system prompt exposure. **Used to** build leakage detectors, craft targeted guardrail tests (consent gates, tool use rules, safety policies), and reproduce vendor behaviors for evaluation.
 
-  
+- [**Official_LLM_System_Prompts**](https://huggingface.co/datasets/Nymbo/Official_LLM_System_Prompts) ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/datasets/Nymbo/Official_LLM_System_Prompts&query=downloads&label=downloads%20(last%20month)) - leaked and date-stamped prompts from proprietary assistants (OpenAI, Anthropic, MS Copilot, GitHub Copilot, Grok, Perplexity); 29 rows.
+- [**system-prompt-leakage**](https://huggingface.co/datasets/gabrielchua/system-prompt-leakage) ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/datasets/gabrielchua/system-prompt-leakage&query=downloads&label=downloads%20(last%20month)) - synthetic prompts + responses for leakage detection; train 283,353 / test 71,351 (binary leakage labels).
+- [**system-prompts-and-models-of-ai-tools**](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social) - community collection of prompts and internal tool configs for code/IDE agents and apps (Cursor, VSCode Copilot Agent, Windsurf, Devin, v0, etc.); includes a security notice.
+- [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) ![GitHub stars](https://img.shields.io/github/stars/asgeirtj/system_prompts_leaks?style=social) - leaked prompt dumps for major chatbots; open to PRs; curated index in README.
+- [**leaked-system-prompts**](https://github.com/jujumilk3/leaked-system-prompts) ![GitHub stars](https://img.shields.io/github/stars/jujumilk3/leaked-system-prompts?style=social) - leaked prompts across many services; requires verifiable sources or reproducible prompts for PRs.
+- [**CL4R1T4S**](https://github.com/elder-plinius/CL4R1T4S) ![GitHub stars](https://img.shields.io/github/stars/elder-plinius/CL4R1T4S?style=social) - extracted/leaked prompts, guidelines, and tooling references spanning major assistants and agents (OpenAI, Google, Anthropic, xAI, Perplexity, Cursor, Devin, etc.).
+- [**grok-prompts**](https://github.com/xai-org/grok-prompts) ![GitHub stars](https://img.shields.io/github/stars/xai-org/grok-prompts?style=social) - official xAI repository publishing Grok’s system prompts for chat/X features (DeepSearch, Ask Grok, Explain, etc.).
+
+
 ---
 
 ## [↑](#table-of-contents)Courses & Certifications <a name="courses--certifications"></a>
