@@ -381,7 +381,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - [**chatgpt_system_prompt**](https://github.com/LouisShark/chatgpt_system_prompt) ![GitHub stars](https://img.shields.io/github/stars/LouisShark/chatgpt_system_prompt?style=social) - community collection of GPT system prompts, prompt-injection/leak techniques, and protection prompts.
 - [**CL4R1T4S**](https://github.com/elder-plinius/CL4R1T4S) ![GitHub stars](https://img.shields.io/github/stars/elder-plinius/CL4R1T4S?style=social) - extracted/leaked prompts, guidelines, and tooling references spanning major assistants and agents (OpenAI, Google, Anthropic, xAI, Perplexity, Cursor, Devin, etc.).
 - [**grok-prompts**](https://github.com/xai-org/grok-prompts) ![GitHub stars](https://img.shields.io/github/stars/xai-org/grok-prompts?style=social) - official xAI repository publishing Grok’s system prompts for chat/X features (DeepSearch, Ask Grok, Explain, etc.).
-- [**Prompt-Leakage Finetune**](https://github.com/salesforce/prompt-leakage) ![GitHub stars](https://img.shields.io/github/stars/salesforce/prompt-leakage?style=social) - adversarial attack prompts (~1,300) used to instruction-tune refusal to system-prompt extraction (synthetic + Gandalf subset).
+- [**Prompt-Leakage Finetune**](https://github.com/salesforce/prompt-leakage/tree/master/safetyfinetuning) ![GitHub stars](https://img.shields.io/github/stars/salesforce/prompt-leakage?style=social) - adversarial attack prompts (~1,300) used to instruction-tune refusal to system-prompt extraction (synthetic + [Gandalf subset](https://huggingface.co/datasets/Lakera/gandalf_ignore_instructions)).
 
 ---
 
