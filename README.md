@@ -289,14 +289,13 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 
 ## [↑](#table-of-contents)Datasets <a name="datasets"></a>
 
-### Meta-lists
-- [Awesome Cybersecurity Datasets)](https://github.com/shramos/Awesome-Cybersecurity-Datasets) [![GitHub Repo stars](https://img.shields.io/github/stars/shramos/Awesome-Cybersecurity-Datasets?logo=github&label=&style=social)](https://github.com/shramos/Awesome-Cybersecurity-Datasets)
-
 ### Dataset indexes & portals
 
 - **[Kaggle](https://www.kaggle.com/datasets?search=cybersecurity)** - Community-contributed datasets (IDS, phishing, malware URLs, incidents).
 - **[Hugging Face](https://huggingface.co/datasets?search=cybersecurity)** - Search HF datasets tagged/related to cybersecurity and threat intel.
 - **[SafetyPrompts](https://safetyprompts.com/)** - living index of LLM safety datasets & evals (jailbreak, prompt injection, toxicity, privacy), with filters and a maintained sheet.
+- **[Awesome Cybersecurity Datasets)](https://github.com/shramos/Awesome-Cybersecurity-Datasets)** [![GitHub Repo stars](https://img.shields.io/github/stars/shramos/Awesome-Cybersecurity-Datasets?logo=github&label=&style=social)](https://github.com/shramos/Awesome-Cybersecurity-Datasets)
+
 
 ### Cybersecurity Skills 
 Interactive CTFs and self-contained labs for hands-on security skills (web, pwn, crypto, forensics, reversing). **Used to** assess practical reasoning, tool use, and end-to-end task execution.
