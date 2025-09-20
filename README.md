@@ -318,6 +318,8 @@ Interactive CTFs and self-contained labs for hands-on security skills (web, pwn,
 - **[DiverseVul](https://github.com/wagner-group/diversevul)** [![GitHub Repo stars](https://img.shields.io/github/stars/wagner-group/diversevul?logo=github&label=&style=social)](https://github.com/wagner-group/diversevul) - multi-CWE function-level detection (C/C++). [Dataset]
 - **[Big-Vul](https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset)** [![GitHub Repo stars](https://img.shields.io/github/stars/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset?logo=github&label=&style=social)](https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset) - real-world C/C++ detection (often with localization). [Dataset]
 
+- **Py150k** ([Hugging Face](https://huggingface.co/datasets/AISE-TUDelft/PY150k)) -≈150k Python snippets (GitHub). Static analysis with Bandit, Semgrep, Snyk identified 42,753 vulnerabilities across 26,147 snippets; common CWEs: XSS (18%), SQLi (15%), Improper Input Validation (12%), OS Command Injection (10%), Information Exposure (8%). Collected from GitHub with dedup/fork removal, only parsable code (AST checks, ≤30k nodes), and permissive licenses. Used for: training and fine-tuning (e.g., CodeGen, CodeGen2/2.5, CodeLlama, CrystalCoder, CodeT5+).
+
 ##### Repair & Patch Mining
 - **[CVEfixes](https://github.com/secureIT-project/CVEfixes)** [![GitHub Repo stars](https://img.shields.io/github/stars/secureIT-project/CVEfixes?logo=github&label=&style=social)](https://github.com/secureIT-project/CVEfixes) - CVE-linked fix commits for security repair. [Dataset]
 - Also used for repair: Big-Vul (generate minimal diffs, then build + scan).
@@ -348,6 +350,8 @@ Structured Q&A datasets assessing security knowledge and terminology. **Used to*
 Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Common Weakness Enumeration). **Used to** evaluate the model’s ability to recognize insecure code patterns and suggest secure fixes.
 
 - **[SecCodePLT](https://huggingface.co/datasets/Virtue-AI-HUB/SecCodePLT)** [![HF Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FVirtue-AI-HUB%2FSecCodePLT&query=downloads&label=HF%20downloads&logo=huggingface)](https://huggingface.co/datasets/Virtue-AI-HUB/SecCodePLT)
+
+- **[Py150k](https://huggingface.co/datasets/AISE-TUDelft/PY150k)** [![HF Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FAISE-TUDelft%2FPY150k&query=downloads&label=HF%20downloads&logo=huggingface)](https://huggingface.co/datasets/AISE-TUDelft/PY150k) — ≈150k Python files from GitHub (deduped/fork-removed); Static analysis with Bandit, Semgrep, Snyk identified 42,753 vulnerabilities across 26,147 snippets; common CWEs: XSS (18%), SQLi (15%), Improper Input Validation (12%), OS Command Injection (10%), Information Exposure (8%). Collected from GitHub with dedup/fork removal, only parsable code (AST checks, ≤30k nodes), and permissive licenses. Used for: training and fine-tuning (e.g., CodeGen, CodeGen2/2.5, CodeLlama, CrystalCoder, CodeT5+).
 
 ### Deepfake
 
