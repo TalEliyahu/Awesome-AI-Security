@@ -162,6 +162,8 @@ Curated resources, research, and tools for securing AI systems.
 
 - **[E2B](https://github.com/e2b-dev/E2B)** [![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/E2B?logo=github&label=&style=social)](https://github.com/e2b-dev/E2B) - SDK + self-hostable infra to run untrusted, LLM-generated code in isolated cloud sandboxes (Firecracker microVMs).
 
+**[microsandbox](https://github.com/microsandbox/microsandbox)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsandbox/microsandbox?logo=github&label=&style=social)](https://github.com/e2b-dev/E2B) — self-hosted microVM (libkrun) sandbox for untrusted AI/user code; ~sub-200ms boot, OCI image support, per-sandbox CPU/mem limits, SDKs (Python/JS/Rust), and native MCP server integration. Best for: strong kernel-level isolation for agent code execution at near-container speed.
+
 ### Gateways & Policy Proxies
 *Centralize auth, quotas/rate limits, cost caps, egress/DLP filters, and guardrail orchestration across all model/providers.*
 
