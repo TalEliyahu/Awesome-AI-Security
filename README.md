@@ -466,7 +466,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 ### **Code Security (Generated Code)**
 **Purpose**: Evaluates the security of model-generated code using CWE-tagged prompts and static analysis.
 
-- **LLMSecEval** ([GitHub](https://github.com/tuhh-softsec/LLMSecEval)) — Prompt-based, CWE-mapped security benchmark for code-generation models; generate from each prompt and score with static analysis (e.g., CodeQL / Semgrep / Bandit) to label outputs secure vs. vulnerable and compute per-CWE metrics. **Used for:** benchmarking generated-code security. [arXiv](https://arxiv.org/abs/2303.09384)
+- **LLMSecEval** ([GitHub](https://github.com/tuhh-softsec/LLMSecEval) [![GitHub Repo stars](https://img.shields.io/github/stars/tuhh-softsec/LLMSecEval?logo=github&label=&style=social)](https://github.com/tuhh-softsec/LLMSecEval)) - Prompt-based, CWE-mapped security benchmark for code-generation models; generate from each prompt and score with static analysis (e.g., CodeQL / Semgrep / Bandit) to label outputs secure vs. vulnerable and compute per-CWE metrics. **Used for:** benchmarking generated-code security. [arXiv](https://arxiv.org/abs/2303.09384)
 
 ### **Adversarial Resilience**  
 **Purpose**: Evaluates how AI systems withstand adversarial attacks, including evasion, poisoning, and model extraction. Ensures AI remains functional under manipulation.  
