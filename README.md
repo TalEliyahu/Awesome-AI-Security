@@ -458,22 +458,17 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 ---
 
-## [↑](#table-of-contents)Benchmarking <a name="benchmarking"></a>
+## [↑](#table-of-contents)Benchmarks <a name="benchmarking"></a>
 
-### Benchmarks
+## **Categories of AI Security Benchmarks**
 
-- **[Purple Llama - CyberSecEval](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
-- **[JailbreakBench](https://github.com/JailbreakBench/jailbreakbench)** [![GitHub Repo stars](https://img.shields.io/github/stars/JailbreakBench/jailbreakbench?logo=github&label=&style=social)](https://github.com/JailbreakBench/jailbreakbench)
-
-### **Categories of AI Security Benchmarks**
-
-#### **Adversarial Resilience**  
+### **Adversarial Resilience**  
 **Purpose**: Evaluates how AI systems withstand adversarial attacks, including evasion, poisoning, and model extraction. Ensures AI remains functional under manipulation.  
 **NIST AI RMF Alignment**: **Measure, Manage**  
 - **Measure**: Identify risks related to adversarial attacks.  
 - **Manage**: Implement mitigation strategies to ensure resilience.
 
-##### Autonomous Pentesting & Exploit Generation
+#### Autonomous Pentesting & Exploit Generation
 
 **[AutoPenBench](https://github.com/lucagioacchini/auto-pen-bench)** [![GitHub Repo stars](https://img.shields.io/github/stars/lucagioacchini/auto-pen-bench?logo=github&label=&style=social)](https://github.com/lucagioacchini/auto-pen-bench) - 33 tasks: 22 in-vitro fundamentals (incl. 4 crypto) + 11 real-world CVEs for autonomous pentesting evaluation. [arXiv](https://arxiv.org/abs/2410.03225) • **Best for:** controlled, task-based coverage across fundamentals and known CVEs (repeatable, fine-grained scoring).
 
@@ -483,18 +478,22 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 **[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/NYU_CTF_Bench?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) - 200 dockerized CSAW challenges (web, pwn, rev, forensics, crypto, misc.) for skill-granular agent evaluation. [arXiv](https://arxiv.org/abs/2406.05590) • **Best for:** CTF-style, per-skill assessment and tool-use drills.
 
-##### Agent Misuse & Harm InductioN
+#### Agent Misuse & Harm InductioN
 
 **[AgentHarm](https://huggingface.co/datasets/ai-safety-institute/AgentHarm)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fai-safety-institute%2FAgentHarm&query=downloads&label=HF%20downloads&logo=huggingface)](https://huggingface.co/datasets/ai-safety-institute/AgentHarm) human-authored harmful agent tasks for tool-using agents with benign counterparts, synthetic proxy tools, and a reproducible scoring harness; 110 base tasks (440 with augmentation), 11 categories, 104 tools. [arXiv](https://arxiv.org/abs/2410.09024) • **Best for:** measuring refusal vs completion on multi-step tool use and the impact of jailbreaks.
 
+**[Purple Llama – CyberSecEval](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama) — evaluates models’ propensity to assist cyber-offense (exploit/malware) and to generate insecure code; graded-risk tasks with a reproducible harness. **Best for:** dangerous-capability / misuse-risk scoring (text/IDE, non-agent).
 
-#### **Prompt Injection & Jailbreak Detection**
+
+### **Prompt Injection & Jailbreak Detection**
 **Purpose**: Evaluates resistance to prompt-injection and jailbreak attempts in chat/RAG/agent contexts.  
 **NIST AI RMF Alignment**: **Measure, Manage**
 
 - **[Lakera PINT Benchmark](https://github.com/lakeraai/pint-benchmark)** [![GitHub Repo stars](https://img.shields.io/github/stars/lakeraai/pint-benchmark?logo=github&label=&style=social)](https://github.com/lakeraai/pint-benchmark) Prompt-injection benchmark with a curated multilingual test suite, explicit categories (injections, jailbreaks, hard negatives, benign chats/docs), and a reproducible scoring harness (PINT score + notebooks) for fair detector comparison and regression tracking.
 
-#### **Model & Data Integrity**  
+- **[JailbreakBench](https://github.com/JailbreakBench/jailbreakbench)** [![GitHub Repo stars](https://img.shields.io/github/stars/JailbreakBench/jailbreakbench?logo=github&label=&style=social)](https://github.com/JailbreakBench/jailbreakbench) standardized jailbreak prompts + scoring harness; measures refusal/compliance and jailbreak success across models and settings.
+
+### **Model & Data Integrity**  
 **Purpose**: Assesses AI models for unauthorized modifications, including backdoors and dataset poisoning. Supports trustworthiness and security of model outputs.  
 **NIST AI RMF Alignment**: **Map, Measure**  
 - **Map**: Understand and identify risks to model/data integrity.  
@@ -502,18 +501,18 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 - **[CVE-Bench - @uiuc-kang-lab](https://github.com/uiuc-kang-lab/cve-bench)** [![GitHub Repo stars](https://img.shields.io/github/stars/uiuc-kang-lab/cve-bench?logo=github&label=&style=social)](https://github.com/uiuc-kang-lab/cve-bench) - How well AI agents can exploit real-world software vulnerabilities that are listed in the CVE database.
 
-#### **Governance & Compliance**  
+### **Governance & Compliance**  
 **Purpose**: Ensures AI security aligns with governance frameworks, industry regulations, and security policies. Supports auditability and risk management.  
 **NIST AI RMF Alignment**: **Govern**  
 - **Govern**: Establish policies, accountability structures, and compliance controls.  
 
-#### **Privacy & Data Protection**  
+### **Privacy & Data Protection**  
 **Purpose**: Evaluates AI for risks like data leakage, membership inference, and model inversion. Helps ensure privacy preservation and compliance.  
 **NIST AI RMF Alignment**: **Measure, Manage**  
 - **Measure**: Identify and assess AI-related privacy risks.  
 - **Manage**: Implement security controls to mitigate privacy threats.  
 
-#### **Explainability & Trustworthiness**  
+### **Explainability & Trustworthiness**  
 **Purpose**: Assesses AI for transparency, fairness, and bias mitigation. Ensures AI operates in an interpretable and ethical manner.  
 **NIST AI RMF Alignment**: **Govern, Map, Measure**  
 - **Govern**: Establish policies for fairness, bias mitigation, and transparency.  
