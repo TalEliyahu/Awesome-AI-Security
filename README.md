@@ -347,8 +347,6 @@ Structured Q&A datasets assessing security knowledge and terminology. **Used to*
 ### Secure Coding & Vulnerability Detection
 Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Common Weakness Enumeration). **Used to** evaluate the model’s ability to recognize insecure code patterns and suggest secure fixes.
 
-- **[LLMSecEval](https://github.com/tuhh-softsec/LLMSecEval)** [![GitHub Repo stars](https://img.shields.io/github/stars/tuhh-softsec/LLMSecEval?logo=github&label=&style=social)](https://github.com/tuhh-softsec/LLMSecEval)
-
 - **[SecCodePLT](https://huggingface.co/datasets/Virtue-AI-HUB/SecCodePLT)** [![HF Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FVirtue-AI-HUB%2FSecCodePLT&query=downloads&label=HF%20downloads&logo=huggingface)](https://huggingface.co/datasets/Virtue-AI-HUB/SecCodePLT)
 
 ### Deepfake
@@ -463,6 +461,12 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 ---
 
 ## [↑](#table-of-contents)Benchmarks <a name="benchmarking"></a>
+
+
+### **Code Security (Generated Code)**
+**Purpose**: Evaluates the security of model-generated code using CWE-tagged prompts and static analysis.
+
+- **LLMSecEval** ([GitHub](https://github.com/tuhh-softsec/LLMSecEval)) — Prompt-based, CWE-mapped security benchmark for code-generation models; generate from each prompt and score with static analysis (e.g., CodeQL / Semgrep / Bandit) to label outputs secure vs. vulnerable and compute per-CWE metrics. **Used for:** benchmarking generated-code security. [arXiv](https://arxiv.org/abs/2303.09384)
 
 ### **Adversarial Resilience**  
 **Purpose**: Evaluates how AI systems withstand adversarial attacks, including evasion, poisoning, and model extraction. Ensures AI remains functional under manipulation.  
