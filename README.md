@@ -460,8 +460,6 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 ## [↑](#table-of-contents)Benchmarks <a name="benchmarking"></a>
 
-## **Categories of AI Security Benchmarks**
-
 ### **Adversarial Resilience**  
 **Purpose**: Evaluates how AI systems withstand adversarial attacks, including evasion, poisoning, and model extraction. Ensures AI remains functional under manipulation.  
 **NIST AI RMF Alignment**: **Measure, Manage**  
