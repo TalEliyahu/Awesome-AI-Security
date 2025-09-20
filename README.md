@@ -473,6 +473,8 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - **Measure**: Identify risks related to adversarial attacks.  
 - **Manage**: Implement mitigation strategies to ensure resilience.
 
+##### Autonomous Pentesting & Exploit Generation
+
 **[AutoPenBench](https://github.com/lucagioacchini/auto-pen-bench)** [![GitHub Repo stars](https://img.shields.io/github/stars/lucagioacchini/auto-pen-bench?logo=github&label=&style=social)](https://github.com/lucagioacchini/auto-pen-bench) - 33 tasks: 22 in-vitro fundamentals (incl. 4 crypto) + 11 real-world CVEs for autonomous pentesting evaluation. [arXiv](https://arxiv.org/abs/2410.03225) • **Best for:** controlled, task-based coverage across fundamentals and known CVEs (repeatable, fine-grained scoring).
 
 **[AI-Pentest-Benchmark](https://github.com/isamu-isozaki/AI-Pentest-Benchmark)** [![GitHub Repo stars](https://img.shields.io/github/stars/isamu-isozaki/AI-Pentest-Benchmark?logo=github&label=&style=social)](https://github.com/isamu-isozaki/AI-Pentest-Benchmark) -  13 full vulnerable VMs (from VulnHub), 152 subtasks across Recon (72), Exploit (44), PrivEsc (22), and General (14), for end-to-end recon → exploit → privesc benchmarking. [arXiv](https://arxiv.org/abs/2410.17141) • **Best for:** realistic, end-to-end machine takeovers stressing planning, tool use, and multi-step reasoning.
@@ -480,6 +482,11 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 **[CVE-Bench](https://github.com/uiuc-kang-lab/cve-bench)** [![GitHub Repo stars](https://img.shields.io/github/stars/uiuc-kang-lab/cve-bench?logo=github&label=&style=social)](https://github.com/uiuc-kang-lab/cve-bench) - 40 real-world web CVEs in dockerized apps; evaluates agent-driven exploit generation/execution. [arXiv](https://arxiv.org/abs/2503.17332) • **Best for:** focused testing of exploitability against real CVEs (web).
 
 **[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/NYU_CTF_Bench?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) - 200 dockerized CSAW challenges (web, pwn, rev, forensics, crypto, misc.) for skill-granular agent evaluation. [arXiv](https://arxiv.org/abs/2406.05590) • **Best for:** CTF-style, per-skill assessment and tool-use drills.
+
+##### Agent Misuse & Harm InductioN
+
+**[AgentHarm](https://huggingface.co/datasets/ai-safety-institute/AgentHarm)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fai-safety-institute%2FAgentHarm&query=downloads&label=HF%20downloads&logo=huggingface)](https://huggingface.co/datasets/ai-safety-institute/AgentHarm) human-authored harmful agent tasks for tool-using agents with benign counterparts, synthetic proxy tools, and a reproducible scoring harness; 110 base tasks (440 with augmentation), 11 categories, 104 tools. [arXiv](https://arxiv.org/abs/2410.09024) • **Best for:** measuring refusal vs completion on multi-step tool use and the impact of jailbreaks.
+
 
 #### **Prompt Injection & Jailbreak Detection**
 **Purpose**: Evaluates resistance to prompt-injection and jailbreak attempts in chat/RAG/agent contexts.  
