@@ -13,6 +13,7 @@
 
 #### Attacks/Defenses
 - [2025/05] **A Survey of Attacks on Large Language Models** - [arXiv](https://arxiv.org/abs/2505.12567)
+- [2025/06] **From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem** - [arXiv](https://arxiv.org/abs/2506.15170)
 
 #### Threats & Misuse
 - [2025/05] **Security Concerns for Large Language Models: A Survey** - [arXiv](https://arxiv.org/abs/2505.18889)
@@ -25,6 +26,7 @@
 
 #### Agent Threat Model
 - [2025/06] **From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows** - [arXiv](https://arxiv.org/abs/2506.23260)
+- [2025/05] **Forewarned is Forearmed: A Survey on Large Language Model-based Agents in Autonomous Cyberattacks** - [arXiv](https://arxiv.org/abs/2505.12786)
 
 #### Data Security
 - [2025/08] **A Survey on Data Security in Large Language Models** - [arXiv](https://arxiv.org/abs/2508.02312)
@@ -35,4 +37,5 @@
 #### Prompt Injection (Multimodal)
 
 #### Cybersecurity Survey
+- [2025/04] **Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey** - [arXiv](https://arxiv.org/abs/2504.15622)
 - [2025/09] **Large Language Models in Cybersecurity: A Survey of Applications, Vulnerabilities, and Defense Techniques** - [MDPI](https://www.mdpi.com/2673-2688/6/9/216)
