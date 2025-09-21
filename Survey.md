@@ -6,7 +6,6 @@
 #### Red Teaming
 - [2025/03] **Building Safe GenAI Applications: An End-to-End Overview of Red Teaming for Large Language Models** - [arXiv](https://arxiv.org/abs/2503.01742)
 - [2025/04] **Against The Achilles’ Heel: A Survey on Red Teaming for Generative Models** - [JAIR](https://www.jair.org/index.php/jair/article/view/17654)
-- [2025/11] **Red Teaming Large Language Models: A Comprehensive Review and Critical Analysis** - [DOI](https://doi.org/10.1016/j.ipm.2025.104239)
 
 #### LLM Security
 - [2025/05] **LLM Security: Vulnerabilities, Attacks, Defenses, and Countermeasures** - [arXiv](https://arxiv.org/abs/2505.01177)
