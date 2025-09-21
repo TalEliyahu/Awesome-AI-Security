@@ -6,6 +6,7 @@
 #### Red Teaming
 - [2025/03] **Building Safe GenAI Applications: An End-to-End Overview of Red Teaming for Large Language Models** - [arXiv](https://arxiv.org/abs/2503.01742)
 - [2025/04] **Against The Achilles’ Heel: A Survey on Red Teaming for Generative Models** - [JAIR](https://www.jair.org/index.php/jair/article/view/17654)
+- [2025/11] **Red Teaming Large Language Models: A Comprehensive Review and Critical Analysis** - [DOI](https://doi.org/10.1016/j.ipm.2025.104239)
 
 #### LLM Security
 - [2025/05] **LLM Security: Vulnerabilities, Attacks, Defenses, and Countermeasures** - [arXiv](https://arxiv.org/abs/2505.01177)
@@ -25,8 +26,9 @@
 - [2025/06] **A Survey on Model Extraction Attacks and Defenses for Large Language Models** - [arXiv](https://arxiv.org/abs/2506.22521)
 
 #### Agent Threat Model
-- [2025/06] **From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows** - [arXiv](https://arxiv.org/abs/2506.23260)
 - [2025/05] **Forewarned is Forearmed: A Survey on Large Language Model-based Agents in Autonomous Cyberattacks** - [arXiv](https://arxiv.org/abs/2505.12786)
+- [2025/06] **From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows** - [arXiv](https://arxiv.org/abs/2506.23260)
+- [2025/06] **A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures** - [arXiv](https://arxiv.org/abs/2506.19676)
 
 #### Data Security
 - [2025/08] **A Survey on Data Security in Large Language Models** - [arXiv](https://arxiv.org/abs/2508.02312)
@@ -34,8 +36,11 @@
 #### Prompt Injection Threat Model
 - [2025/09] **A Threat Model of Prompt-Based Attacks for Securing LLMs** - [arXiv](https://arxiv.org/abs/2509.04615)
 
-#### Prompt Injection (Multimodal)
-
-#### Cybersecurity Survey
+#### Cross-Domain Overviews
 - [2025/04] **Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey** - [arXiv](https://arxiv.org/abs/2504.15622)
 - [2025/09] **Large Language Models in Cybersecurity: A Survey of Applications, Vulnerabilities, and Defense Techniques** - [MDPI](https://www.mdpi.com/2673-2688/6/9/216)
+
+#### SoK (Systematization of Knowledge)
+- [2025/05] **SoK: Large Language Models in Security Code Review and Testing** - [OpenReview](https://openreview.net/forum?id=hMkoe4C44D)
+- [2025/06] **SoK: Evaluating Jailbreak Guardrails for Large Language Models** - [arXiv](https://arxiv.org/abs/2506.10597)
+- [2025/08] **SoK: Large Language Model-Generated Textual Phishing** - [arXiv](https://arxiv.org/abs/2508.21457)
