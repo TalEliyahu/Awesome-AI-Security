@@ -670,16 +670,30 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 #### Augment & Fine-Tune Data
 *Sanitize/trace data and reasoning; validate alignment; protect sensitive memory with privacy controls before deployment.*
-- [Skyflow](https://www.skyflow.com/blog) [![GitHub followers](https://img.shields.io/github/followers/skyflowapi?style=social)](https://github.com/skyflowapi) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SkyflowAPI?style=social&logo=x)](https://x.com/SkyflowAPI)
+- [Skyflow](https://www.skyflow.com/blog)
+  [![GitHub followers](https://img.shields.io/github/followers/skyflowapi?style=social&label=)](https://github.com/skyflowapi)
+  [![X followers](https://img.shields.io/twitter/follow/SkyflowAPI?style=social&logo=x&label=%20)](https://x.com/SkyflowAPI)
 
 #### Test & Evaluate
 *Adversarial testing for goal drift, prompt injection, and tool misuse; red-team sims; sandboxed calls; decision validation.*
-- [Citadel AI](https://citadel-ai.com/blog/) [![GitHub followers](https://img.shields.io/github/followers/citadel-ai?style=social)](https://github.com/citadel-ai) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/citadel_ai?style=social&logo=x)](https://x.com/citadel_ai)
-- [Mindgard](https://www.mindgard.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/Mindgard?style=social)](https://github.com/Mindgard) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mindgard?style=social&logo=x)](https://x.com/mindgard)
-- [Troj.ai](https://www.troj.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/trojai?style=social)](https://github.com/trojai) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/trojaisec?style=social&logo=x)](https://x.com/trojaisec)
-- [SPLX AI](https://splx.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/splx-ai?style=social)](https://github.com/splx-ai) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SplxAI?style=social&logo=x)](https://x.com/SplxAI)
-- [Octomind](https://octomind.dev/blog) [![GitHub followers](https://img.shields.io/github/followers/OctoMind-dev?style=social)](https://github.com/OctoMind-dev) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/octominddotdev?style=social&logo=x)](https://x.com/octominddotdev)
-- [Patronus AI](https://www.patronus.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/patronus-ai?style=social)](https://github.com/patronus-ai) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/patronusai?style=social&logo=x)](https://x.com/patronusai)
+- [Citadel AI](https://citadel-ai.com/blog/)
+  [![GitHub followers](https://img.shields.io/github/followers/citadel-ai?style=social&label=)](https://github.com/citadel-ai)
+  [![X followers](https://img.shields.io/twitter/follow/CitadelAI?style=social&logo=x&label=%20)](https://x.com/CitadelAI)
+- [Mindgard](https://www.mindgard.ai/blog)
+  [![GitHub followers](https://img.shields.io/github/followers/Mindgard?style=social&label=)](https://github.com/Mindgard)
+  [![X followers](https://img.shields.io/twitter/follow/mindgard?style=social&logo=x&label=%20)](https://x.com/mindgard)
+- [Troj.ai](https://www.troj.ai/blog)
+  [![GitHub followers](https://img.shields.io/github/followers/trojai?style=social&label=)](https://github.com/trojai)
+  [![X followers](https://img.shields.io/twitter/follow/TrojAISec?style=social&logo=x&label=%20)](https://x.com/TrojAISec)
+- [SPLX AI](https://splx.ai/blog)
+  [![GitHub followers](https://img.shields.io/github/followers/splx-ai?style=social&label=)](https://github.com/splx-ai)
+  [![X followers](https://img.shields.io/twitter/follow/SplxAI?style=social&logo=x&label=%20)](https://x.com/SplxAI)
+- [Octomind](https://octomind.dev/blog)
+  [![GitHub followers](https://img.shields.io/github/followers/OctoMind-dev?style=social&label=)](https://github.com/OctoMind-dev)
+  [![X followers](https://img.shields.io/twitter/follow/octominddotdev?style=social&logo=x&label=%20)](https://x.com/octominddotdev)
+- [Patronus AI](https://www.patronus.ai/blog)
+  [![GitHub followers](https://img.shields.io/github/followers/patronus-ai?style=social&label=)](https://github.com/patronus-ai)
+  [![X followers](https://img.shields.io/twitter/follow/patronusai?style=social&logo=x&label=%20)](https://x.com/patronusai)
 
 #### Release
 *Sign models/plugins/memory; verify SBOMs; enforce cryptographically validated policies; register agents/capabilities.*
@@ -688,20 +702,29 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 #### Deploy
 *Zero-trust activation: rotate ephemeral creds, apply allowlists/LLM firewalls, and fine-grained least-privilege authorization.*
-- [Pomerium](https://www.pomerium.com/blog) [![GitHub followers](https://img.shields.io/github/followers/pomerium?style=social)](https://github.com/pomerium) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/pomerium_io?style=social&logo=x)](https://x.com/pomerium_io)
+- [Pomerium](https://www.pomerium.com/blog)
+  [![GitHub followers](https://img.shields.io/github/followers/pomerium?style=social&label=)](https://github.com/pomerium)
+  [![X followers](https://img.shields.io/twitter/follow/pomerium_io?style=social&logo=x&label=%20)](https://x.com/pomerium_io)
 
 #### Operate
 *Monitor memory mutations for drift/poisoning, detect abnormal loops/misuse, enforce HITL overrides, and scan plugins—continuous, real-time vigilance for resilient operations as systems scale and self-orchestrate.*
-- [Lasso Security](https://www.lasso.security/blog) [![GitHub followers](https://img.shields.io/github/followers/lasso-security?style=social)](https://github.com/lasso-security) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/LassoSecurity?style=social&logo=x)](https://x.com/LassoSecurity)
+- [Lasso Security](https://www.lasso.security/blog)
+  [![GitHub followers](https://img.shields.io/github/followers/lasso-security?style=social&label=)](https://github.com/lasso-security)
+  [![X followers](https://img.shields.io/twitter/follow/LassoSecurity?style=social&logo=x&label=%20)](https://x.com/LassoSecurity)
 
 #### Monitor
 *Correlate agent steps/tools/comms; detect anomalies (e.g., goal reversal); keep immutable logs for auditability.*
-- [Fiddler](https://www.fiddler.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/fiddler-labs?style=social)](https://github.com/fiddler-labs) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/fiddler_ai?style=social&logo=x)](https://x.com/fiddler_ai)
+- [Fiddler](https://www.fiddler.ai/blog)
+  [![GitHub followers](https://img.shields.io/github/followers/fiddler-labs?style=social&label=)](https://github.com/fiddler-labs)
+  [![X followers](https://img.shields.io/twitter/follow/fiddler_ai?style=social&logo=x&label=%20)](https://x.com/fiddler_ai)
 
 #### Govern
 *Enforce role/task policies, version/retire agents, prevent privilege creep, and align evidence with AI regulations.*
-- [GuardionAI](https://guardion.ai/blog) [![GitHub followers](https://img.shields.io/github/followers/GuardionAI?style=social)](https://github.com/GuardionAI)
-- [Zenity](https://zenity.io/blog) [![GitHub followers](https://img.shields.io/github/followers/zenitysec?style=social)](https://github.com/zenitysec) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/zenitysec?style=social&logo=x)](https://x.com/zenitysec)
+- [GuardionAI](https://guardion.ai/blog)
+  [![GitHub followers](https://img.shields.io/github/followers/GuardionAI?style=social&label=)](https://github.com/GuardionAI)
+- [Zenity](https://zenity.io/blog)
+  [![GitHub followers](https://img.shields.io/github/followers/zenitysec?style=social&label=)](https://github.com/zenitysec)
+  [![X followers](https://img.shields.io/twitter/follow/zenitysec?style=social&logo=x&label=%20)](https://x.com/zenitysec)
 
 ---
 
