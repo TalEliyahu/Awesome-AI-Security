@@ -441,6 +441,37 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 ---
 
+## [↑](#table-of-contents)Models <a name="models"></a>
+
+### Domain-Adapted Text LMs (Cyber Threat Intel, CTI NLP)
+- **[CySecBERT](https://huggingface.co/markusbayer/CySecBERT)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fmarkusbayer%2FCySecBERT&query=downloads&label=HF%20downloads&logo=huggingface) — BERT further pre-trained on cybersecurity text to produce domain-aware representations for CTI tasks (logs, IOCs, reports). — [arXiv](https://arxiv.org/abs/2212.02974)
+- **[SecureBERT](https://huggingface.co/ehsanaghaei/SecureBERT)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fehsanaghaei%2FSecureBERT&query=downloads&label=HF%20downloads&logo=huggingface) — RoBERTa-based, domain-specific LM trained on a large cybersecurity corpus with a custom tokenizer for CTI and automation tasks. — [arXiv](https://arxiv.org/abs/2204.02685)
+- **[SecBERT](https://huggingface.co/jackaduma/SecBERT)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fjackaduma%2FSecBERT&query=downloads&label=HF%20downloads&logo=huggingface) — BERT trained on security corpora (APTnotes, CASIE, Stucco) to capture cybersecurity terminology and entities.
+- **[CTI-BERT (IBM Research)](https://huggingface.co/ibm-research/CTI-BERT)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fibm-research%2FCTI-BERT&query=downloads&label=HF%20downloads&logo=huggingface) — BERT tuned on large security text for CTI extraction and security text understanding. — [paper](https://aclanthology.org/2023.emnlp-industry.12.pdf)
+
+### Safety / Policy Classifiers (Guardrails & Moderation)
+- **[Llama Guard 4 (12B)](https://huggingface.co/meta-llama/Llama-Guard-4-12B)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fmeta-llama%2FLlama-Guard-4-12B&query=downloads&label=HF%20downloads&logo=huggingface) — multimodal safety classifier (text+images, multi-image) for prompt/response moderation.
+- **[ShieldGemma 2 (Text) — 2B](https://huggingface.co/google/shieldgemma-2b)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fgoogle%2Fshieldgemma-2b&query=downloads&label=HF%20downloads&logo=huggingface) — open-weights text safety classifier across sexual content, dangerous content, hate, and harassment.
+- **[ShieldGemma 2 (Image safety) — 4B-IT](https://huggingface.co/google/shieldgemma-2-4b-it)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fgoogle%2Fshieldgemma-2-4b-it&query=downloads&label=HF%20downloads&logo=huggingface) — image+text safety classifier for screening natural & synthetic images.
+
+### Prompt-Injection & Jailbreak Detection (Classifiers)
+- **[Llama Prompt-Guard 2 — 86M](https://huggingface.co/meta-llama/Llama-Prompt-Guard-2-86M)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fmeta-llama%2FLlama-Prompt-Guard-2-86M&query=downloads&label=HF%20downloads&logo=huggingface) — multi-label detection (benign / injection / jailbreak), lightweight.
+- **[Llama Prompt-Guard 2 — 22M](https://huggingface.co/meta-llama/Llama-Prompt-Guard-2-22M)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fmeta-llama%2FLlama-Prompt-Guard-2-22M&query=downloads&label=HF%20downloads&logo=huggingface) — ultra-small variant for low-latency gating.
+- **[protectai/deberta-v3-base-prompt-injection-v2](https://huggingface.co/protectai/deberta-v3-base-prompt-injection-v2)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fprotectai%2Fdeberta-v3-base-prompt-injection-v2&query=downloads&label=HF%20downloads&logo=huggingface) — DeBERTa-based binary prompt-injection detector.
+- **[qualifire/prompt-injection-sentinel](https://huggingface.co/qualifire/prompt-injection-sentinel)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fqualifire%2Fprompt-injection-sentinel&query=downloads&label=HF%20downloads&logo=huggingface) — ModernBERT-large PI/jailbreak classifier tuned for app-gatekeeping.
+
+### Code Security (Vulnerability Detection)
+- **[VulBERTa](https://github.com/ICL-ml4csec/VulBERTa)** [![GitHub Repo stars](https://img.shields.io/github/stars/ICL-ml4csec/VulBERTa?logo=github&label=&style=social)](https://github.com/ICL-ml4csec/VulBERTa) — RoBERTa pre-trained on real-world C/C++ and used to train vulnerability detectors. — [arXiv](https://arxiv.org/abs/2205.12424)
+- **[CodeBERT (base)](https://huggingface.co/microsoft/codebert-base)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fmicrosoft%2Fcodebert-base&query=downloads&label=HF%20downloads&logo=huggingface) — bimodal code+NL pretraining; baseline for vuln-detection/repair tasks.
+- **[GraphCodeBERT (base)](https://huggingface.co/microsoft/graphcodebert-base)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fmicrosoft%2Fgraphcodebert-base&query=downloads&label=HF%20downloads&logo=huggingface) — adds data-flow edges; strong baseline for code understanding.
+
+### Deepfake / Anti-Spoofing (Audio)
+- **[AASIST](https://github.com/clovaai/aasist)** [![GitHub Repo stars](https://img.shields.io/github/stars/clovaai/aasist?logo=github&label=&style=social)](https://github.com/clovaai/aasist) — PyTorch anti-spoofing / speech deepfake detection (graph-attention based). — [arXiv](https://arxiv.org/abs/2110.01200)
+- **[RawNet3](https://huggingface.co/jungjee/RawNet3)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fjungjee%2FRawNet3&query=downloads&label=HF%20downloads&logo=huggingface) — raw-waveform anti-spoofing backbone widely used alongside AASIST.
+- **[AASIST3](https://huggingface.co/MTUCI/AASIST3)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FMTUCI%2FAASIST3&query=downloads&label=HF%20downloads&logo=huggingface) — enhanced AASIST for ASVspoof-style tasks (KAN + SSL features).
+
+---
+
 ## [↑](#table-of-contents)Research Working Groups <a name="research-working-groups"></a>
 
 - [Cloud Security Alliance (CSA) AI Security Working Groups](https://cloudsecurityalliance.org/research/working-groups) - Collaborative research groups focused on AI security, cloud security, and emerging threats in AI-driven systems.
