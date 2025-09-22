@@ -15,6 +15,7 @@ Curated resources, research, and tools for securing AI systems.
   - [Threat Modeling](#threat-modeling)
   - [Critical Infrastructure](#critical-infrastructure)
 - [Tools](#tools)
+- [Models](#models)
 - [Attack & Defense Matrices](#attack--defense-matrices)
 - [Checklists](#checklists)
 - [Newsletter](#newsletter)
