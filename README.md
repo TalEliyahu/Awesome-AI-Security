@@ -467,8 +467,6 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - **[qualifire/prompt-injection-sentinel](https://huggingface.co/qualifire/prompt-injection-sentinel)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fqualifire%2Fprompt-injection-sentinel&query=downloads&label=HF%20downloads&logo=huggingface) — ModernBERT-large PI/jailbreak classifier. — [arXiv](https://arxiv.org/abs/2506.05446)
 
 ### Code Security (Code understanding & vuln detection)
-- **[microsoft/codebert-base](https://huggingface.co/microsoft/codebert-base)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fmicrosoft%2Fcodebert-base&query=downloads&label=HF%20downloads&logo=huggingface) — code+NL pretraining baseline. — [arXiv](https://arxiv.org/abs/2002.08155)
-- **[microsoft/graphcodebert-base](https://huggingface.co/microsoft/graphcodebert-base)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fmicrosoft%2Fgraphcodebert-base&query=downloads&label=HF%20downloads&logo=huggingface) — adds data-flow edges. — [arXiv](https://arxiv.org/abs/2009.08366)
 - **[ICL-ml4csec/VulBERTa](https://github.com/ICL-ml4csec/VulBERTa)** [![GitHub Repo stars](https://img.shields.io/github/stars/ICL-ml4csec/VulBERTa?logo=github&label=&style=social)](https://github.com/ICL-ml4csec/VulBERTa) — RoBERTa pre-trained on real-world C/C++; used for vuln detectors. — [arXiv](https://arxiv.org/abs/2205.12424)
 
 ### Deepfake / Anti-Spoofing (Speech)
