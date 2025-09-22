@@ -467,7 +467,6 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 ### Deepfake / Anti-Spoofing (Audio)
 - **[AASIST](https://github.com/clovaai/aasist)** [![GitHub Repo stars](https://img.shields.io/github/stars/clovaai/aasist?logo=github&label=&style=social)](https://github.com/clovaai/aasist) — PyTorch anti-spoofing / speech deepfake detection (graph-attention based). — [arXiv](https://arxiv.org/abs/2110.01200)
-- **[RawNet3](https://huggingface.co/jungjee/RawNet3)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fjungjee%2FRawNet3&query=downloads&label=HF%20downloads&logo=huggingface) — raw-waveform anti-spoofing backbone widely used alongside AASIST.
 - **[AASIST3](https://huggingface.co/MTUCI/AASIST3)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FMTUCI%2FAASIST3&query=downloads&label=HF%20downloads&logo=huggingface) — enhanced AASIST for ASVspoof-style tasks (KAN + SSL features).
 
 ---
