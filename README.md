@@ -448,6 +448,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - **[segolilylabs/Lily-Cybersecurity-7B-v0.2-GGUF](https://huggingface.co/segolilylabs/Lily-Cybersecurity-7B-v0.2-GGUF)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fsegolilylabs%2FLily-Cybersecurity-7B-v0.2-GGUF&query=downloads&label=HF%20downloads&logo=huggingface) — quantized GGUF build of a 7B cybersecurity-tuned chat model.
 - **[DeepHat/DeepHat-V1-7B](https://huggingface.co/DeepHat/DeepHat-V1-7B)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FDeepHat%2FDeepHat-V1-7B&query=downloads&label=HF%20downloads&logo=huggingface) — 7B cybersecurity-oriented text-generation model.
 - **[clouditera/secgpt](https://huggingface.co/clouditera/secgpt)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fclouditera%2Fsecgpt&query=downloads&label=HF%20downloads&logo=huggingface) — cybersecurity-tuned instruction model (CN/EN) with released weights (variants incl. 1.5B/7B/14B); built on Qwen2.5-Instruct/DeepSeek-R1, Apache-2.0, supports vLLM deployment. [![GitHub Repo stars](https://img.shields.io/github/stars/Clouditera/secgpt?logo=github&label=&style=social)](https://github.com/Clouditera/secgpt)
+- **[ZySec-AI/SecurityLLM](https://huggingface.co/ZySec-AI/SecurityLLM)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FZySec-AI%2FSecurityLLM&query=downloads&label=HF%20downloads&logo=huggingface) — cybersecurity-focused chat model (“ZySec-7B”); weights available. Community GGUF quantization exists for llama.cpp.
 
 ### Domain-Adapted Text LMs (Security / CTI)
 - **[jackaduma/SecRoBERTa](https://huggingface.co/jackaduma/SecRoBERTa)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fjackaduma%2FSecRoBERTa&query=downloads&label=HF%20downloads&logo=huggingface) — RoBERTa trained on cybersecurity corpora for fill-mask tasks.
@@ -471,7 +472,6 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 ### Deepfake / Anti-Spoofing (Speech)
 - **[MTUCI/AASIST3](https://huggingface.co/MTUCI/AASIST3)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FMTUCI%2FAASIST3&query=downloads&label=HF%20downloads&logo=huggingface) — enhanced AASIST (KAN + SSL features).
-- **[clovaai/aasist](https://github.com/clovaai/aasist)** [![GitHub Repo stars](https://img.shields.io/github/stars/clovaai/aasist?logo=github&label=&style=social)](https://github.com/clovaai/aasist) — PyTorch anti-spoofing / speech deepfake detection. — [arXiv](https://arxiv.org/abs/2110.01200)
 
 ---
 
