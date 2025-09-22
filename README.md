@@ -443,9 +443,10 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 ## [↑](#table-of-contents)Models <a name="models"></a>
 
-### Cybersecurity-Tuned Text Generation (7B)
+### Cybersecurity-Tuned Text Generation 
 - **[segolilylabs/Lily-Cybersecurity-7B-v0.2-GGUF](https://huggingface.co/segolilylabs/Lily-Cybersecurity-7B-v0.2-GGUF)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fsegolilylabs%2FLily-Cybersecurity-7B-v0.2-GGUF&query=downloads&label=HF%20downloads&logo=huggingface) — quantized GGUF build of a 7B cybersecurity-tuned chat model.
 - **[DeepHat/DeepHat-V1-7B](https://huggingface.co/DeepHat/DeepHat-V1-7B)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FDeepHat%2FDeepHat-V1-7B&query=downloads&label=HF%20downloads&logo=huggingface) — 7B cybersecurity-oriented text-generation model.
+- **[clouditera/secgpt](https://huggingface.co/clouditera/secgpt)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fclouditera%2Fsecgpt&query=downloads&label=HF%20downloads&logo=huggingface) — cybersecurity-tuned instruction model (CN/EN) with released weights (variants incl. 1.5B/7B/14B); built on Qwen2.5-Instruct/DeepSeek-R1, Apache-2.0, supports vLLM deployment. [![GitHub Repo stars](https://img.shields.io/github/stars/Clouditera/secgpt?logo=github&label=&style=social)](https://github.com/Clouditera/secgpt)
 
 ### Domain-Adapted Text LMs (Security / CTI)
 - **[jackaduma/SecRoBERTa](https://huggingface.co/jackaduma/SecRoBERTa)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fjackaduma%2FSecRoBERTa&query=downloads&label=HF%20downloads&logo=huggingface) — RoBERTa trained on cybersecurity corpora for fill-mask tasks.
