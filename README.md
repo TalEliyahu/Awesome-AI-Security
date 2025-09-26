@@ -652,7 +652,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 ## [↑](#table-of-contents)Podcasts <a name="podcasts"></a>
 
 - [**The MLSecOps Podcast**](https://podcasts.apple.com/us/podcast/the-mlsecops-podcast/id1679667447) - Insightful conversations with industry leaders and AI experts, exploring the fascinating world of machine learning security operations.
-
+- **[Embrace The Red](https://embracethered.com/blog/)** - Red teaming & AI security research (prompt injection, agent exploits, MCP). - — wunderwuzzi (Johann Rehberger) —
 ---
 
 ## [↑](#table-of-contents)Market Landscape <a name="market-landscape"></a>
