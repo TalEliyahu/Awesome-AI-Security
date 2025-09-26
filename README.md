@@ -670,7 +670,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 ### Industry Leaders <a name="industry-leaders"></a>
 
-- [**Ken Huang — Agentic AI**](https://kenhuangus.substack.com/) — Analysis and commentary on agentic AI and AI security.
+- [**Agentic AI**](https://kenhuangus.substack.com/) — Analysis and commentary on agentic AI and AI security - Ken Huang 
 
 ### Startup Blogs <a name="startup-blogs"></a>
 *A curated list of startups securing agentic AI applications, organized by the OWASP Agentic AI lifecycle (Scope & Plan → Govern). Each company appears once in its best-fit stage based on public positioning, and links point to blog/insights for deeper context. Some startups span multiple stages; placements reflect primary focus.*
