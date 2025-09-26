@@ -625,7 +625,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 ## [↑](#table-of-contents)Books <a name="books"></a>
 
-- **Generative AI Security: Theories and Practices** — [Amazon](https://www.amazon.com/Generative-AI-Security-Theories-Practices/dp/3031542517), [Springer](https://link.springer.com/book/10.1007/978-3-031-54252-7) (2024)
+- **Generative AI Security: Theories and Practices** - [Amazon](https://www.amazon.com/Generative-AI-Security-Theories-Practices/dp/3031542517), [Springer](https://link.springer.com/book/10.1007/978-3-031-54252-7) (2024)
   
 --- 
 
@@ -670,11 +670,11 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 ### Industry Leaders <a name="industry-leaders"></a>
 
-- **[Agentic AI](https://kenhuangus.substack.com/)** — Analysis and commentary on agentic AI and AI security - [Ken Huang](https://www.linkedin.com/in/kenhuang8) [![X](https://img.shields.io/twitter/follow/kenhuangus?style=social&logo=x&label=)](https://x.com/kenhuangus)
-- **[Embrace The Red](https://embracethered.com/blog/)** — Red teaming & AI security research - [Johann Rehberger](https://www.linkedin.com/in/johannrehberger/) [![X](https://img.shields.io/twitter/follow/wunderwuzzi23?style=social&logo=x&label=)](https://x.com/wunderwuzzi23)
-- **[Pliny.gg](https://pliny.gg/)** — AI jailbreak research & red-teaming - [![X](https://img.shields.io/twitter/follow/elder_plinius?style=social&logo=x&label=)](https://x.com/elder_plinius)
-- **[Joseph Thacker](https://josephthacker.com/)** — AI appsec, agent hacking & jailbreaks — [Joseph Thacker](https://www.linkedin.com/in/josephthacker) [![X](https://img.shields.io/twitter/follow/rez0__?style=social&logo=x&label=)](https://x.com/rez0__)
-- **[Simon Willison’s Weblog](https://simonwillison.net/)** — Prompt injection, data exfiltration & practical LLM security — [Simon Willison](https://www.linkedin.com/in/simonwillison/) [![X](https://img.shields.io/twitter/follow/simonw?style=social&logo=x&label=)](https://x.com/simonw)
+- **[Agentic AI](https://kenhuangus.substack.com/)** - Analysis and commentary on agentic AI and AI security - [Ken Huang](https://www.linkedin.com/in/kenhuang8) [![X](https://img.shields.io/twitter/follow/kenhuangus?style=social&logo=x&label=)](https://x.com/kenhuangus)
+- **[Embrace The Red](https://embracethered.com/blog/)** - Red teaming & AI security research - [Johann Rehberger](https://www.linkedin.com/in/johannrehberger/) [![X](https://img.shields.io/twitter/follow/wunderwuzzi23?style=social&logo=x&label=)](https://x.com/wunderwuzzi23)
+- **[Pliny.gg](https://pliny.gg/)** - AI jailbreak research & red-teaming - [![X](https://img.shields.io/twitter/follow/elder_plinius?style=social&logo=x&label=)](https://x.com/elder_plinius)
+- **[Joseph Thacker](https://josephthacker.com/)** - AI appsec, agent hacking & jailbreaks - [Joseph Thacker](https://www.linkedin.com/in/josephthacker) [![X](https://img.shields.io/twitter/follow/rez0__?style=social&logo=x&label=)](https://x.com/rez0__)
+- **[Simon Willison’s Weblog](https://simonwillison.net/)** - Prompt injection, data exfiltration & practical LLM security - [Simon Willison](https://www.linkedin.com/in/simonwillison/) [![X](https://img.shields.io/twitter/follow/simonw?style=social&logo=x&label=)](https://x.com/simonw)
 
 
 
