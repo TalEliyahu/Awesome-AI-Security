@@ -46,7 +46,9 @@ Curated resources, research, and tools for securing AI systems.
 - [Foundations: Glossary, SoK/Surveys & Taxonomies](#foundations-glossary-soksurveys--taxonomies)
 - [Podcasts](#podcasts)
 - [Market Landscape](#market-landscape)
-- [Startups Blogs](#startups-blogs)
+- [Blogs](#blogs)
+  - [Industry Leaders](#industry-leaders)
+  - [Startup Blogs](#startup-blogs)
 - [Related Awesome Lists](#related-awesome-lists)
 - [Common Acronyms](#common-acronyms)
 
@@ -664,7 +666,13 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 ---
 
-## [↑](#table-of-contents)Startups Blogs <a name="startups-blogs"></a>
+## [↑](#table-of-contents)Blogs <a name="blogs"></a>
+
+### Industry Leaders <a name="industry-leaders"></a>
+
+- [**Ken Huang — Agentic AI**](https://kenhuangus.substack.com/) — Analysis and commentary on agentic AI and AI security.
+
+### Startup Blogs <a name="startup-blogs"></a>
 *A curated list of startups securing agentic AI applications, organized by the OWASP Agentic AI lifecycle (Scope & Plan → Govern). Each company appears once in its best-fit stage based on public positioning, and links point to blog/insights for deeper context. Some startups span multiple stages; placements reflect primary focus.*
 
 **Inclusion criteria**
