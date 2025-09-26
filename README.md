@@ -670,8 +670,8 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 ### Industry Leaders <a name="industry-leaders"></a>
 
-- [**Agentic AI**](https://kenhuangus.substack.com/) — Analysis and commentary on agentic AI and AI security - Ken Huang
-- **[Embrace The Red](https://embracethered.com/blog/)** - Red teaming & AI security research (prompt injection, agent exploits, MCP) - wunderwuzzi (Johann Rehberger)
+- **[Agentic AI](https://kenhuangus.substack.com/)** — Analysis and commentary on agentic AI and AI security - [Ken Huang](https://www.linkedin.com/in/kenhuang8)
+- **[Embrace The Red](https://embracethered.com/blog/)** — Red teaming & AI security research (prompt injection, agent exploits, MCP) - [Johann Rehberger](https://www.linkedin.com/in/johannrehberger/)
 
 
 ### Startup Blogs <a name="startup-blogs"></a>
