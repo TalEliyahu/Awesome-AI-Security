@@ -34,6 +34,7 @@ Curated resources, research, and tools for securing AI systems.
   - [Research Papers](#research-papers)
   - [Research Feed](#research-feed)
   - [Reports](Reports.md)
+- [Books](#books)
 - [Communities & Social Groups](#communities--social-groups)
 - [Benchmarking](#benchmarking)
 - [Incident Response](#incident-response)
@@ -618,6 +619,13 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 📌 *(More to be added - A collection of AI security reports, white papers, and academic studies.)*
 
+--- 
+
+## [↑](#table-of-contents)Books <a name="books"></a>
+
+- **Generative AI Security: Theories and Practices** — [Amazon](https://www.amazon.com/Generative-AI-Security-Theories-Practices/dp/3031542517), [Springer](https://link.springer.com/book/10.1007/978-3-031-54252-7)  
+  *Publication date:* April 6, 2024
+  
 --- 
 
 ## [↑](#table-of-contents)Foundations: Glossary, SoK/Surveys & Taxonomies <a name="foundations-glossary-soksurveys--taxonomies"></a>
