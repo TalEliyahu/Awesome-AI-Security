@@ -623,7 +623,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 ## [↑](#table-of-contents)Books <a name="books"></a>
 
-- **Generative AI Security: Theories and Practices** — [Amazon](https://www.amazon.com/Generative-AI-Security-Theories-Practices/dp/3031542517), [Springer](https://link.springer.com/book/10.1007/978-3-031-54252-7) *Publication date:* April 6, 2024
+- **Generative AI Security: Theories and Practices** — [Amazon](https://www.amazon.com/Generative-AI-Security-Theories-Practices/dp/3031542517), [Springer](https://link.springer.com/book/10.1007/978-3-031-54252-7) (2024)
   
 --- 
 
