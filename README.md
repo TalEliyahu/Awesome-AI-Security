@@ -652,7 +652,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 ## [↑](#table-of-contents)Podcasts <a name="podcasts"></a>
 
 - [**The MLSecOps Podcast**](https://podcasts.apple.com/us/podcast/the-mlsecops-podcast/id1679667447) - Insightful conversations with industry leaders and AI experts, exploring the fascinating world of machine learning security operations.
-- **[Embrace The Red](https://embracethered.com/blog/)** - Red teaming & AI security research (prompt injection, agent exploits, MCP). - — wunderwuzzi (Johann Rehberger) —
+
 ---
 
 ## [↑](#table-of-contents)Market Landscape <a name="market-landscape"></a>
@@ -670,7 +670,9 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 ### Industry Leaders <a name="industry-leaders"></a>
 
-- [**Agentic AI**](https://kenhuangus.substack.com/) — Analysis and commentary on agentic AI and AI security - Ken Huang 
+- [**Agentic AI**](https://kenhuangus.substack.com/) — Analysis and commentary on agentic AI and AI security - Ken Huang
+- **[Embrace The Red](https://embracethered.com/blog/)** - Red teaming & AI security research (prompt injection, agent exploits, MCP) - wunderwuzzi (Johann Rehberger)
+
 
 ### Startup Blogs <a name="startup-blogs"></a>
 *A curated list of startups securing agentic AI applications, organized by the OWASP Agentic AI lifecycle (Scope & Plan → Govern). Each company appears once in its best-fit stage based on public positioning, and links point to blog/insights for deeper context. Some startups span multiple stages; placements reflect primary focus.*
