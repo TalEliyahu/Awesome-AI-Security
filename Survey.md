@@ -3,7 +3,7 @@
 #### LLM Backdoors
 - [2025/02] **A Survey on Backdoor Threats in Large Language Models (LLMs): Attacks, Defenses, and Evaluations** - [arXiv](https://arxiv.org/abs/2502.05224)
 - [2024/06] **A Survey of Recent Backdoor Attacks and Defenses in Large Language Models** - [arXiv](https://arxiv.org/abs/2406.06852)
-- [2025/12] **Backdoor Attacks and Countermeasures in Natural Language Processing Models: A Comprehensive Security Review (IEEE TNNLS)** - [arXiv](https://arxiv.org/abs/2309.06055)
+- [2025/12] **Backdoor Attacks and Countermeasures in Natural Language Processing Models: A Comprehensive Security Review** - [arXiv](https://arxiv.org/abs/2309.06055)
 
 
 #### Red Teaming
