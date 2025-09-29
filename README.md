@@ -3,7 +3,7 @@ Curated resources, research, and tools for securing AI systems.
 
 <p align="center">
   <a href="https://www.linkedin.com/groups/14545517/">
-    <img src="AISecHub.jpg" alt="AISecHub" width="320">
+    <img src="AISecHub.svg" alt="AISecHub" width="320">
   </a>
 </p>
 
