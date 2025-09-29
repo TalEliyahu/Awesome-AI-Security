@@ -324,12 +324,13 @@ Interactive CTFs and self-contained labs for hands-on security skills (web, pwn,
 
 #### Secure Code
 
-##### Detection (classify vulnerable code)
+##### Detection 
 - **[Devign / CodeXGLUE-Vul](https://github.com/saikat107/Devign)** [![GitHub Repo stars](https://img.shields.io/github/stars/saikat107/Devign?logo=github&label=&style=social)](https://github.com/saikat107/Devign) - function-level C vuln detection. [Dataset+Benchmark]
 - **[DiverseVul](https://github.com/wagner-group/diversevul)** [![GitHub Repo stars](https://img.shields.io/github/stars/wagner-group/diversevul?logo=github&label=&style=social)](https://github.com/wagner-group/diversevul) - multi-CWE function-level detection (C/C++). [Dataset]
 - **[Big-Vul](https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset)** [![GitHub Repo stars](https://img.shields.io/github/stars/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset?logo=github&label=&style=social)](https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset) - real-world C/C++ detection (often with localization). [Dataset]
-
 - **[Py150k](https://huggingface.co/datasets/AISE-TUDelft/PY150k)** [![HF Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FAISE-TUDelft%2FPY150k&query=downloads&label=HF%20downloads&logo=huggingface)](https://huggingface.co/datasets/AISE-TUDelft/PY150k) - ≈150k Python snippets (GitHub). Static analysis with Bandit, Semgrep, Snyk identified 42,753 vulnerabilities across 26,147 snippets; common CWEs: XSS (18%), SQLi (15%), Improper Input Validation (12%), OS Command Injection (10%), Information Exposure (8%). Collected from GitHub with dedup/fork removal, only parsable code (AST checks, ≤30k nodes), and permissive licenses. Used for: training and fine-tuning (e.g., CodeGen, CodeGen2/2.5, CodeLlama, CrystalCoder, CodeT5+).
+- **[LLMSecEval](https://github.com/tuhh-softsec/LLMSecEval)** [![GitHub Repo stars](https://img.shields.io/github/stars/tuhh-softsec/LLMSecEval?logo=github&label=&style=social)](https://github.com/tuhh-softsec/LLMSecEval) - Prompt-based, CWE-mapped security benchmark for code-generation models; generate from each prompt and score with static analysis (e.g., CodeQL / Semgrep / Bandit) to label outputs secure vs. vulnerable and compute per-CWE metrics. **Used for:** benchmarking generated-code security. [arXiv](https://arxiv.org/abs/2303.09384)
+
 
 ##### Repair & Patch Mining
 - **[CVEfixes](https://github.com/secureIT-project/CVEfixes)** [![GitHub Repo stars](https://img.shields.io/github/stars/secureIT-project/CVEfixes?logo=github&label=&style=social)](https://github.com/secureIT-project/CVEfixes) - CVE-linked fix commits for security repair. [Dataset]
@@ -520,7 +521,6 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 ### **Code Security (Generated Code)**
 **Purpose**: Evaluates the security of model-generated code using CWE-tagged prompts and static analysis.
 
-- **[LLMSecEval](https://github.com/tuhh-softsec/LLMSecEval)** [![GitHub Repo stars](https://img.shields.io/github/stars/tuhh-softsec/LLMSecEval?logo=github&label=&style=social)](https://github.com/tuhh-softsec/LLMSecEval) - Prompt-based, CWE-mapped security benchmark for code-generation models; generate from each prompt and score with static analysis (e.g., CodeQL / Semgrep / Bandit) to label outputs secure vs. vulnerable and compute per-CWE metrics. **Used for:** benchmarking generated-code security. [arXiv](https://arxiv.org/abs/2303.09384)
 
 ### **Adversarial Resilience**  
 **Purpose**: Evaluates how AI systems withstand adversarial attacks, including evasion, poisoning, and model extraction. Ensures AI remains functional under manipulation.  
@@ -538,7 +538,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 **[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/NYU_CTF_Bench?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) - 200 dockerized CSAW challenges (web, pwn, rev, forensics, crypto, misc.) for skill-granular agent evaluation. [arXiv](https://arxiv.org/abs/2406.05590) • **Best for:** CTF-style, per-skill assessment and tool-use drills.
 
-#### Agent Misuse & Harm InductioN
+#### Agent Misuse & Harm Induction
 
 **[AgentHarm](https://huggingface.co/datasets/ai-safety-institute/AgentHarm)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fai-safety-institute%2FAgentHarm&query=downloads&label=HF%20downloads&logo=huggingface)](https://huggingface.co/datasets/ai-safety-institute/AgentHarm) human-authored harmful agent tasks for tool-using agents with benign counterparts, synthetic proxy tools, and a reproducible scoring harness; 110 base tasks (440 with augmentation), 11 categories, 104 tools. [arXiv](https://arxiv.org/abs/2410.09024) • **Best for:** measuring refusal vs completion on multi-step tool use and the impact of jailbreaks.
 
