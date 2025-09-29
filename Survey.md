@@ -2,6 +2,9 @@
 
 #### LLM Backdoors
 - [2025/02] **A Survey on Backdoor Threats in Large Language Models (LLMs): Attacks, Defenses, and Evaluations** - [arXiv](https://arxiv.org/abs/2502.05224)
+- [2024/06] **A Survey of Recent Backdoor Attacks and Defenses in Large Language Models** - [arXiv](https://arxiv.org/abs/2406.06852)
+- [2025/12] **Backdoor Attacks and Countermeasures in Natural Language Processing Models: A Comprehensive Security Review (IEEE TNNLS)** - [arXiv](https://arxiv.org/abs/2309.06055)
+
 
 #### Red Teaming
 - [2025/03] **Building Safe GenAI Applications: An End-to-End Overview of Red Teaming for Large Language Models** - [arXiv](https://arxiv.org/abs/2503.01742)
@@ -28,6 +31,7 @@
 - [2025/05] **Forewarned is Forearmed: A Survey on Large Language Model-based Agents in Autonomous Cyberattacks** - [arXiv](https://arxiv.org/abs/2505.12786)
 - [2025/06] **From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows** - [arXiv](https://arxiv.org/abs/2506.23260)
 - [2025/06] **A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures** - [arXiv](https://arxiv.org/abs/2506.19676)
+- [2025/03] **A Survey on Trustworthy LLM Agents: Threats and Countermeasures** - [arXiv](https://arxiv.org/abs/2503.09648)
 
 #### Data Security
 - [2025/08] **A Survey on Data Security in Large Language Models** - [arXiv](https://arxiv.org/abs/2508.02312)
