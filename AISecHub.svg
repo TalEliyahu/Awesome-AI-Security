@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <circle cx="512" cy="512" r="512" fill="#0b0b0b"></circle>
+  <text x="50%" y="54%" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="220" font-weight="800">
+    <tspan fill="#06aed5">AI</tspan><tspan fill="#22c55e">Sec</tspan><tspan fill="#93c5fd">Hub</tspan>
+  </text>
+</svg>
