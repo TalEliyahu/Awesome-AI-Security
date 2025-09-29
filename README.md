@@ -521,8 +521,13 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 
 ### **Code Security (Generated Code)**
-**Purpose**: Evaluates the security of model-generated code using CWE-tagged prompts and static analysis.
+**Purpose**: Evaluates the correctness and security of model-generated code in realistic, production-like settings.
 
+- **[SecCodeBench](https://github.com/alibaba/sec-code-bench)** [![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/sec-code-bench?logo=github&label=&style=social)](https://github.com/alibaba/sec-code-bench) — 37 test cases / 16 CWEs; functionality-first pipeline; dynamic PoC exploits + static checks; includes LLM-as-a-Judge; Gen & Fix modes.
+- **[AICGSecEval](https://github.com/Tencent/AICGSecEval)** [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AICGSecEval?logo=github&label=&style=social)](https://github.com/Tencent/AICGSecEval) — repository-level, CVE-grounded tasks; multi-language; run scripts + leaderboard. [arXiv](https://arxiv.org/abs/2508.18106)
+- **[BaxBench](https://github.com/logic-star-ai/baxbench)** [![GitHub Repo stars](https://img.shields.io/github/stars/logic-star-ai/baxbench?logo=github&label=&style=social)](https://github.com/logic-star-ai/baxbench) — 392 backend tasks (28 scenarios × 14 frameworks × 6 languages); validates functionality and executes end-to-end exploits. [arXiv](https://arxiv.org/abs/2502.11844)
+- **[CWEval](https://github.com/Co1lin/CWEval)** [![GitHub Repo stars](https://img.shields.io/github/stars/Co1lin/CWEval?logo=github&label=&style=social)](https://github.com/Co1lin/CWEval) — simultaneous functionality+security evaluation with secure/functional oracles; Dockerized runner. [arXiv](https://arxiv.org/abs/2501.08200)
+- **[CodeGuard+](https://github.com/CodeGuardPlus/CodeGuardPlus)** [![GitHub Repo stars](https://img.shields.io/github/stars/CodeGuardPlus/CodeGuardPlus?logo=github&label=&style=social)](https://github.com/CodeGuardPlus/CodeGuardPlus) — 91 prompts / 34 CWEs; unit tests + CodeQL; introduces secure@k / secure-pass@k metrics. [arXiv](https://arxiv.org/abs/2405.00218)
 
 ### **Adversarial Resilience**  
 **Purpose**: Evaluates how AI systems withstand adversarial attacks, including evasion, poisoning, and model extraction. Ensures AI remains functional under manipulation.  
