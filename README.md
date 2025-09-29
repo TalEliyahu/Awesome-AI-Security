@@ -520,7 +520,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 ## [↑](#table-of-contents)Benchmarks <a name="benchmarking"></a>
 
 
-### **Code Security (Generated Code)**
+### **Code Security**
 **Purpose**: Evaluates the correctness and security of model-generated code in realistic, production-like settings.
 
 - **[SecCodeBench](https://github.com/alibaba/sec-code-bench)** [![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/sec-code-bench?logo=github&label=&style=social)](https://github.com/alibaba/sec-code-bench) — 37 test cases / 16 CWEs; functionality-first pipeline; dynamic PoC exploits + static checks; includes LLM-as-a-Judge; Gen & Fix modes.
