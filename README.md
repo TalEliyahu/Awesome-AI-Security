@@ -527,7 +527,6 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - **[CWEval](https://github.com/Co1lin/CWEval)** [![GitHub Repo stars](https://img.shields.io/github/stars/Co1lin/CWEval?logo=github&label=&style=social)](https://github.com/Co1lin/CWEval) — simultaneous functionality+security evaluation with secure/functional oracles; Dockerized runner. [arXiv](https://arxiv.org/abs/2501.08200)
 - **[PrimeVul](https://github.com/DLVulDet/PrimeVul)** [![GitHub Repo stars](https://img.shields.io/github/stars/DLVulDet/PrimeVul?logo=github&label=&style=social)](https://github.com/DLVulDet/PrimeVul) – ICSE 2025 benchmark that combines [BigVul](https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset), [CrossVul](https://zenodo.org/records/4734050), [CVEfixes](https://github.com/secureIT-project/CVEfixes), and [DiverseVul](https://github.com/wagner-group/diversevul); de-duplicated and commit-filtered for high-quality labels; temporal train/val/test split by commit time. 224,533 functions from 755 open-source projects; 6,062 vulnerable; broad CWE coverage. ([arXiv](https://arxiv.org/abs/2403.18624))
 
-  
 ### **Adversarial Resilience**  
 **Purpose**: Evaluates how AI systems withstand adversarial attacks, including evasion, poisoning, and model extraction. Ensures AI remains functional under manipulation.  
 **NIST AI RMF Alignment**: **Measure, Manage**  
@@ -547,7 +546,6 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 #### Agent Misuse & Harm Induction
 
 **[AgentHarm](https://huggingface.co/datasets/ai-safety-institute/AgentHarm)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fai-safety-institute%2FAgentHarm&query=downloads&label=HF%20downloads&logo=huggingface)](https://huggingface.co/datasets/ai-safety-institute/AgentHarm) human-authored harmful agent tasks for tool-using agents with benign counterparts, synthetic proxy tools, and a reproducible scoring harness; 110 base tasks (440 with augmentation), 11 categories, 104 tools. [arXiv](https://arxiv.org/abs/2410.09024) • **Best for:** measuring refusal vs completion on multi-step tool use and the impact of jailbreaks.
-
 **[Purple Llama – CyberSecEval](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama) - evaluates models’ propensity to assist cyber-offense (exploit/malware) and to generate insecure code; graded-risk tasks with a reproducible harness. **Best for:** dangerous-capability / misuse-risk scoring (text/IDE, non-agent).
 
 
