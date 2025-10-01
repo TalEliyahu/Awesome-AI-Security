@@ -65,6 +65,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Governance & Management Frameworks
 - [NIST - AI Risk Management Framework (AI RMF)](https://www.nist.gov/itl/ai-risk-management-framework)
 - [ISO/IEC 42001 (AI Management System)](https://www.iso.org/standard/81230.html)
+- [AI Security Shared Responsibility Model](https://github.com/mikeprivette/ai-security-shared-responsibility) [![GitHub Repo stars](https://img.shields.io/github/stars/mikeprivette/ai-security-shared-responsibility?logo=github&label=&style=social)](https://github.com/mikeprivette/ai-security-shared-responsibility) -  Maps security ownership across 8 AI deployment models and 16 security domains to clarify customer vs. provider vs. shared responsibilities.
 - [OWASP - AI Maturity Assessment (AIMA)](https://github.com/OWASP/www-project-ai-maturity-assessment) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-ai-maturity-assessment?logo=github&label=&style=social)](https://github.com/OWASP/www-project-ai-maturity-assessment)
 - [Google - Secure AI Framework (SAIF)](https://saif.google/)
 - [OWASP - LLM & GenAI Security Center of Excellence (CoE) Guide](https://genai.owasp.org/resource/llm-and-generative-ai-security-center-of-excellence-guide/)
