@@ -146,13 +146,18 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[Code Shield](https://github.com/meta-llama/PurpleLlama/tree/main/CodeShield)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
 - **[Guardrails](https://github.com/guardrails-ai/guardrails)** [![GitHub Repo stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?logo=github&label=&style=social)](https://github.com/guardrails-ai/guardrails) - Runtime policy enforcement for LLM apps: compose input/output validators (PII, toxicity, jailbreak/PI, regex, competitor checks), then block/redact/rewrite/retry on fail; optional server mode; also supports structured outputs (Pydantic/function-calling).
 
-
 ### Model Artifact Scanners
 *Analyze serialized model files for unsafe deserialization and embedded code; verify integrity/metadata and block or quarantine on fail.*
 
 - **[ModelScan](https://github.com/protectai/modelscan)** [![GitHub Repo stars](https://img.shields.io/github/stars/protectai/modelscan?logo=github&label=&style=social)](https://github.com/protectai/modelscan)
 - **[Fickling](https://github.com/trailofbits/fickling)** [![GitHub Repo stars](https://img.shields.io/github/stars/trailofbits/fickling?logo=github&label=&style=social)](https://github.com/trailofbits/fickling)
 - **[picklescan](https://github.com/mmaitre314/picklescan)** [![GitHub Repo stars](https://img.shields.io/github/stars/mmaitre314/picklescan?logo=github&label=&style=social)](https://github.com/mmaitre314/picklescan)
+
+### Model Identification & Provenance (Fingerprinting)
+*Black-box fingerprinting to identify the underlying LLM/version behind an application or API and to support provenance verification—useful for model discovery, access control (allowlists), vendor due diligence, incident response, and audits.*
+
+- **[LLMmap](https://github.com/pasquini-dario/LLMmap)** [![GitHub Repo stars](https://img.shields.io/github/stars/pasquini-dario/LLMmap?logo=github&label=&style=social)](https://github.com/pasquini-dario/LLMmap) – Active, black-box LLM fingerprinting: sends crafted probes to a target and classifies the underlying model/version; includes CLI and scripts.
+- **[TRAP (Targeted Random Adversarial Prompt)](https://github.com/parameterlab/trap)** [![GitHub Repo stars](https://img.shields.io/github/stars/parameterlab/trap?logo=github&label=&style=social)](https://github.com/parameterlab/trap) – Black-box identification using targeted adversarial prompts to elicit model-specific behaviors; reference implementation from the paper.
 
 ### Agent Tooling and MCP Security
 *Scan/audit MCP servers & client configs; detect tool poisoning, unsafe flows; constrain tool access with least-privilege and audit trails.*
