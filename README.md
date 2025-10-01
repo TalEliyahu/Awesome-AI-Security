@@ -154,7 +154,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[picklescan](https://github.com/mmaitre314/picklescan)** [![GitHub Repo stars](https://img.shields.io/github/stars/mmaitre314/picklescan?logo=github&label=&style=social)](https://github.com/mmaitre314/picklescan)
 
 ### Model Identification & Provenance (Fingerprinting)
-*Black-box fingerprinting to identify the underlying LLM/version behind an application or API and to support provenance verification—useful for model discovery, access control (allowlists), vendor due diligence, incident response, and audits.*
+*Black-box fingerprinting to identify the underlying LLM/version behind an application or API and to support provenance verification, useful for model discovery, access control (allowlists), vendor due diligence, incident response, and audits.*
 
 - **[LLMmap](https://github.com/pasquini-dario/LLMmap)** [![GitHub Repo stars](https://img.shields.io/github/stars/pasquini-dario/LLMmap?logo=github&label=&style=social)](https://github.com/pasquini-dario/LLMmap) – Active, black-box LLM fingerprinting: sends crafted probes to a target and classifies the underlying model/version; includes CLI and scripts.
 - **[TRAP (Targeted Random Adversarial Prompt)](https://github.com/parameterlab/trap)** [![GitHub Repo stars](https://img.shields.io/github/stars/parameterlab/trap?logo=github&label=&style=social)](https://github.com/parameterlab/trap) – Black-box identification using targeted adversarial prompts to elicit model-specific behaviors; reference implementation from the paper.
