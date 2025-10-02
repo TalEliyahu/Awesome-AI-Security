@@ -147,6 +147,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[Code Shield](https://github.com/meta-llama/PurpleLlama/tree/main/CodeShield)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
 - **[Guardrails](https://github.com/guardrails-ai/guardrails)** [![GitHub Repo stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?logo=github&label=&style=social)](https://github.com/guardrails-ai/guardrails) - Runtime policy enforcement for LLM apps: compose input/output validators (PII, toxicity, jailbreak/PI, regex, competitor checks), then block/redact/rewrite/retry on fail; optional server mode; also supports structured outputs (Pydantic/function-calling).
 
+
 ### Model Artifact Scanners
 *Analyze serialized model files for unsafe deserialization and embedded code; verify integrity/metadata and block or quarantine on fail.*
 
@@ -159,6 +160,11 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 - **[LLMmap](https://github.com/pasquini-dario/LLMmap)** [![GitHub Repo stars](https://img.shields.io/github/stars/pasquini-dario/LLMmap?logo=github&label=&style=social)](https://github.com/pasquini-dario/LLMmap) – Active, black-box LLM fingerprinting: sends crafted probes to a target and classifies the underlying model/version; includes CLI and scripts.
 - **[TRAP (Targeted Random Adversarial Prompt)](https://github.com/parameterlab/trap)** [![GitHub Repo stars](https://img.shields.io/github/stars/parameterlab/trap?logo=github&label=&style=social)](https://github.com/parameterlab/trap) – Black-box identification using targeted adversarial prompts to elicit model-specific behaviors; reference implementation from the paper.
+
+### Reverse Engineering
+*LLM-assisted decompilation and reconstruction for security analysis (malware triage, DFIR, vuln research).*
+
+- **[LLM4Decompile](https://github.com/albertan017/LLM4Decompile)** [![GitHub Repo stars](https://img.shields.io/github/stars/albertan017/LLM4Decompile?logo=github&label=&style=social)](https://github.com/albertan017/LLM4Decompile)  Its current version supports decompiling Linux x86_64 binaries, ranging from GCC's O0 to O3 optimization levels, into human-readable C source code. Our team is committed to expanding this tool's capabilities, with ongoing efforts to incorporate a broader range of architectures and configurations.
 
 ### Agent Tooling and MCP Security
 *Scan/audit MCP servers & client configs; detect tool poisoning, unsafe flows; constrain tool access with least-privilege and audit trails.*
