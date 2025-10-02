@@ -164,7 +164,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Reverse Engineering
 *LLM-assisted decompilation and reconstruction for security analysis (malware triage, DFIR, vuln research).*
 
-- **[LLM4Decompile](https://github.com/albertan017/LLM4Decompile)** [![GitHub Repo stars](https://img.shields.io/github/stars/albertan017/LLM4Decompile?logo=github&label=&style=social)](https://github.com/albertan017/LLM4Decompile)  Its current version supports decompiling Linux x86_64 binaries, ranging from GCC's O0 to O3 optimization levels, into human-readable C source code. Our team is committed to expanding this tool's capabilities, with ongoing efforts to incorporate a broader range of architectures and configurations.
+- **[LLM4Decompile](https://github.com/albertan017/LLM4Decompile)** [![GitHub Repo stars](https://img.shields.io/github/stars/albertan017/LLM4Decompile?logo=github&label=&style=social)](https://github.com/albertan017/LLM4Decompile)  Its current version supports decompiling Linux x86_64 binaries, ranging from GCC's O0 to O3 optimization levels, into human-readable C source code. Our team is committed to expanding this tool's capabilities, with ongoing efforts to incorporate a broader range of architectures and configurations. ([blog](https://www.joshuamckiddy.com/blog/using-llms-for-reverse-engineering-and-malware-analysis), [arxiv](https://arxiv.org/html/2403.05286v2)).
 
 ### Agent Tooling and MCP Security
 *Scan/audit MCP servers & client configs; detect tool poisoning, unsafe flows; constrain tool access with least-privilege and audit trails.*
