@@ -19,6 +19,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
   - [Testing, Evaluation & Red Teaming](#testing-evaluation--red-teaming)
   - [Agentic Systems - (Standards, Governance & Patterns](#agentic-systems-standards-governance--patterns)
   - [Threat Modeling](#threat-modeling)
+  - [Policy Templates](#policy-templates)
   - [Critical Infrastructure](#critical-infrastructure)
 - [Tools](#tools)
 - [Models](#models)
@@ -103,11 +104,13 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - [SANS – Critical AI Security Guidelines](https://github.com/sans-community/ai-guidelines) [![GitHub Repo stars](https://img.shields.io/github/stars/sans-community/ai-guidelines?logo=github&label=&style=social)](https://github.com/sans-community/ai-guidelines) - Control-focused guidance for securing AI/LLM systems across six domains (e.g., access controls, data protection, inference security, monitoring, GRC).
 - [BSI – Security of AI Systems: Fundamentals](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Security-of-AI-systems_fundamentals.pdf) - Sector-agnostic fundamentals: lifecycle threat model (data/model/pipeline/runtime), adversarial ML attacks (poisoning, evasion, inversion, extraction, backdoors), and baseline controls for design→deploy→operate, plus assurance/certification guidance.
 - [MITRE – SAFE-AI: A Framework for Securing AI-Enabled Systems](https://www.compliancehub.wiki/content/files/2025/07/mitresafeAI.pdf) - Threat-informed RMF overlay for AI: maps AI/ATLAS tactics to NIST SP 800-53 controls, lists ~100 AI-affected controls, and includes assessor interview Q&A sets to plan SCAs.
+
 - **NSA - Artificial Intelligence Security Center (AISC)**
   - [Deploying AI Systems Securely (CSI)](https://media.defense.gov/2024/Apr/15/2003439257/-1/-1/0/CSI-DEPLOYING-AI-SYSTEMS-SECURELY.PDF) - Practical, ops-focused guidance for deploying/operating externally developed AI systems (with CISA, FBI & international partners); complements NCSC’s secure-AI dev guidelines.
   - [AI Data Security: Best Practices for Securing Data Used to Train & Operate AI Systems (CSI)](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4192332/nsas-aisc-releases-joint-guidance-on-the-risks-and-best-practices-in-ai-data-se/) - Joint guidance on securing data across the AI lifecycle.
   - [Content Credentials: Strengthening Multimedia Integrity in the Generative AI Era (CSI)](https://media.defense.gov/2025/Jan/23/2003639157/-1/-1/0/CSI-CONTENT-CREDENTIALS-STRENGTHENING-MULTIMEDIA-INTEGRITY.PDF) - Provenance and Durable Content Credentials for transparent media.
   - [Contextualizing Deepfake Threats to Organizations (CSI)](https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF) - Risks, impacts, and mitigations for synthetic media targeting orgs.
+- **FS-ISAC — Framework of an Acceptable Use Policy for External Generative AI** — framework-style guidance (not a template) with *permissive vs. stringent* clause options for inputs/outputs, access control, monitoring, and representation. [PDF](https://www.fsisac.com/hubfs/Knowledge/FrameworkOfAnAcceptableUsePolicyForExternalGenerativeAI.pdf)  
 
 ### Agentic Systems (Standards, Governance & Patterns)
 - [OWASP - Agent Observability Standard (AOS)](https://github.com/OWASP/www-project-agent-observability-standard) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-agent-observability-standard?logo=github&label=&style=social)](https://github.com/OWASP/www-project-agent-observability-standard)
@@ -123,6 +126,16 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[OWASP - Multi-Agentic System Threat Modeling Guide](https://genai.owasp.org/resource/multi-agentic-system-threat-modeling-guide-v1-0/)** - Applies OWASP’s agentic threat taxonomy to multi-agent systems and demonstrates modeling using the MAESTRO framework with worked examples.
 - **[AWS - Threat modeling your generative AI workload to evaluate security risk](https://aws.amazon.com/blogs/security/threat-modeling-your-generative-ai-workload-to-evaluate-security-risk/)** - Practical, four-question approach (what are we working on; what can go wrong; what are we going to do about it; did we do a good enough job) with concrete deliverables: DFDs and assumptions, threat statements using AWS’s threat grammar, mapped mitigations, and validation; includes worked examples and AWS Threat Composer templates.
 - **[Microsoft - Threat Modeling AI/ML Systems and Dependencies](https://learn.microsoft.com/en-us/security/engineering/threat-modeling-aiml)** - Practical guidance for threat modeling AI/ML: “Key New Considerations” questions plus a threats→mitigations catalog (adversarial perturbation, data poisoning, model inversion, membership inference, model stealing) based on “Failure Modes in Machine Learning”; meant for security design reviews of products that use or depend on AI/ML.
+
+### Policy Templates
+
+#### Acceptable Use
+*Org-facing, ready-to-adapt policies for secure, responsible AI (e.g., acceptable use, data classification & handling, privacy/PII & retention, model/tool approvals, human-in-the-loop, attribution & content provenance, evaluation/red teaming, incident response, and third-party/vendor risk).*
+
+- [data.org — Generative AI Use Policy Template (PDF)](https://data.org/wp-content/uploads/2024/11/Generative-AI-Policy-Template.pdf)
+- [ISACA — AI Acceptable Use Policy Template](https://www.isaca.org/resources/artificial-intelligence-acceptable-use-policy-template)
+- [Fisher Phillips — Acceptable Use of Generative AI Tools (PDF)](https://www.fisherphillips.com/a/web/du6wach1kmRuPCgDcMLJ5Z/ai-policy.pdf)
+- [FRSecure — AI Acceptable Use Policy Template](https://frsecure.com/ai-acceptable-use-policy-template/)
 
 ### Critical Infrastructure
 - [DHS/CISA - Safety & Security Guidelines for Critical Infrastructure AI](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators) - Cross-lifecycle guidance for owners/operators (govern, design, develop, deploy, operate); developed with SRMAs and informed by CISA’s cross-sector risk analysis.
