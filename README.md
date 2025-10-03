@@ -134,10 +134,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 - [data.org — Generative AI Use Policy Template (PDF)](https://data.org/wp-content/uploads/2024/11/Generative-AI-Policy-Template.pdf)
 - [ISACA — AI Acceptable Use Policy Template](https://www.isaca.org/resources/artificial-intelligence-acceptable-use-policy-template)
-- [Fisher Phillips — Acceptable Use of Generative AI Tools (PDF)](https://www.fisherphillips.com/a/web/du6wach1kmRuPCgDcMLJ5Z/ai-policy.pdf)
-- [FRSecure — AI Acceptable Use Policy Template](https://frsecure.com/ai-acceptable-use-policy-template/)
 
-### Critical Infrastructure
+### Critical Infrastructure 
 - [DHS/CISA - Safety & Security Guidelines for Critical Infrastructure AI](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators) - Cross-lifecycle guidance for owners/operators (govern, design, develop, deploy, operate); developed with SRMAs and informed by CISA’s cross-sector risk analysis.
   
 ---
