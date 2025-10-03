@@ -570,27 +570,25 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - **Manage**: Implement mitigation strategies to ensure resilience.
 
 #### Autonomous Pentesting & Exploit Generation
-
-### Autonomous Pentesting & Exploit Generation
 *Used for: evaluating agents on exploit generation and patch-validated vulnerability triggering across four subtypes with containerized runners and pass/fail scoring.*
 
-#### CTF / Challenge Suites
+##### CTF / Challenge Suites
 *Used for: time-boxed flag-capture tasks that isolate skills (web/pwn/rev/crypto/etc.) with containerized scoring.*
 
 - [NYU CTF Bench](https://nyu-llm-ctf.github.io/) [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/NYU_CTF_Bench?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) — 200 dockerized CSAW challenges across web/pwn/rev/forensics/crypto/misc; success = flag capture. [arXiv](https://arxiv.org/abs/2406.05590)
 
-#### VM-Based End-to-End Pentest
+##### VM-Based End-to-End Pentest
 *Used for: full host compromise across recon→exploit→privesc on realistic VMs with scripted scoring.*
 
 - [AI-Pentest-Benchmark](https://github.com/isamu-isozaki/AI-Pentest-Benchmark) [![GitHub Repo stars](https://img.shields.io/github/stars/isamu-isozaki/AI-Pentest-Benchmark?logo=github&label=&style=social)](https://github.com/isamu-isozaki/AI-Pentest-Benchmark) — 13 vulnerable VMs (VulnHub), 152 subtasks (Recon 72 / Exploit 44 / PrivEsc 22 / General 14). [arXiv](https://arxiv.org/abs/2410.17141)
 
-#### CVE App Suites / Task-Based
+##### CVE App Suites / Task-Based
 *Used for: targeted exploit generation/execution against apps with known CVEs; measures live-system interaction.*
 
 - [CVE-Bench](https://github.com/uiuc-kang-lab/cve-bench) [![GitHub Repo stars](https://img.shields.io/github/stars/uiuc-kang-lab/cve-bench?logo=github&label=&style=social)](https://github.com/uiuc-kang-lab/cve-bench) — 40 dockerized web CVEs; success = expected impact triggered. [arXiv](https://arxiv.org/abs/2503.17332)
 - [AutoPenBench](https://github.com/lucagioacchini/auto-pen-bench) [![GitHub Repo stars](https://img.shields.io/github/stars/lucagioacchini/auto-pen-bench?logo=github&label=&style=social)](https://github.com/lucagioacchini/auto-pen-bench) — 33 tasks: 22 fundamentals + 11 CVEs; controlled runner with repeatable, fine-grained scoring. [arXiv](https://arxiv.org/abs/2410.03225)
 
-#### Patch-differential Vulnerability Triggering (sanitizer oracle)
+##### Patch-differential Vulnerability Triggering (sanitizer oracle)
 *Used for: generating PoC inputs that crash the vulnerable build and do not crash the patched build under fixed time/memory budgets.*
 
 - [CyberGym](https://github.com/sunblaze-ucb/cybergym) [![GitHub Repo stars](https://img.shields.io/github/stars/sunblaze-ucb/cybergym?logo=github&label=&style=social)](https://github.com/sunblaze-ucb/cybergym) — 1,507 instances from 188 OSS projects (via OSS-Fuzz); pre/post-patch builds with ASan/UBSan; input channels: stdin/file/argv; difficulty 0–3; pass/fail oracle. [Dataset](https://huggingface.co/datasets/sunblaze-ucb/cybergym) • [arXiv](https://arxiv.org/abs/2506.02548)
@@ -599,7 +597,6 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 **[AgentHarm](https://huggingface.co/datasets/ai-safety-institute/AgentHarm)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fai-safety-institute%2FAgentHarm&query=downloads&label=HF%20downloads&logo=huggingface)](https://huggingface.co/datasets/ai-safety-institute/AgentHarm) human-authored harmful agent tasks for tool-using agents with benign counterparts, synthetic proxy tools, and a reproducible scoring harness; 110 base tasks (440 with augmentation), 11 categories, 104 tools. [arXiv](https://arxiv.org/abs/2410.09024) • **Best for:** measuring refusal vs completion on multi-step tool use and the impact of jailbreaks.
 **[Purple Llama – CyberSecEval](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama) - evaluates models’ propensity to assist cyber-offense (exploit/malware) and to generate insecure code; graded-risk tasks with a reproducible harness. **Best for:** dangerous-capability / misuse-risk scoring (text/IDE, non-agent).
-
 
 ### **Prompt Injection & Jailbreak Detection**
 **Purpose**: Evaluates resistance to prompt-injection and jailbreak attempts in chat/RAG/agent contexts.  
