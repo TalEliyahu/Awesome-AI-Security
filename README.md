@@ -20,7 +20,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
   - [Agentic Systems - (Standards, Governance & Patterns](#agentic-systems-standards-governance--patterns)
   - [Threat Modeling](#threat-modeling)
   - [Policy Templates](#policy-templates)
-  - [Risk Toolkits & Self-Assessments](#risk-toolkits--self-assessments)
+  - [Toolkits & Self-Assessments](#toolkits--self-assessments)
   - [Critical Infrastructure](#critical-infrastructure)
 - [Tools](#tools)
 - [Models](#models)
@@ -136,8 +136,15 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - [data.org — Generative AI Use Policy Template (PDF)](https://data.org/wp-content/uploads/2024/11/Generative-AI-Policy-Template.pdf)
 - [ISACA — AI Acceptable Use Policy Template](https://www.isaca.org/resources/artificial-intelligence-acceptable-use-policy-template)
 
-### Risk Toolkits & Self-Assessments
-*Practical workbooks, questionnaires, and checklists you can copy/adapt to run AI risk reviews.*
+### Toolkits & Self-Assessments
+*Practical workbooks and self-assessments to baseline AI risk, evaluate third parties, and plan improvements.*
+
+- **[OWASP — AI Maturity Assessment (AIMA)](https://owasp.org/www-project-ai-maturity-assessment/)** — organization-level maturity model and self-assessment covering governance, security, privacy, and lifecycle practices. Helps baseline current capability, capture evidence, and build a prioritized improvement roadmap. ([Toolkit](https://raw.githubusercontent.com/OWASP/www-project-ai-maturity-assessment/main/releases/V1/OWASP-AIMA-Toolkit_V1.xlsx) • [Guide](https://github.com/OWASP/www-project-ai-maturity-assessment/blob/main/releases/V1/OWASP-AIMA_V1.pdf))
+
+- **[FS-ISAC — Generative AI Vendor Evaluation & Qualitative Risk Assessment](https://www.fsisac.com/)** — third-party due-diligence for GenAI providers: risk tiering by use case and data sensitivity, questionnaires across security, privacy, model development/validation, integration, and legal/compliance, with an auto-generated report for stakeholders. ([Toolkit](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessmentTool.xlsx) • [Guide](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessment.pdf))
+
+- **[OWASP — Threat & Defense Compass](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-1-0/)** — threat-informed risk review toolkit for LLM/GenAI systems that maps common risks to concrete mitigations and controls. Useful for design reviews, pre-deployment checks, and red-teaming prep. ([Toolkit](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-1-0/) • [Guide](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-runbook/))
+
 
 - **FS-ISAC — Generative AI Vendor Evaluation & Qualitative Risk Assessment** — vendor due-diligence toolkit for GenAI (risk tiering + questionnaires; auto-generated report). [Assessment Tool XLSX](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessmentTool.xlsx) • [Guide PDF](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessment.pdf) [Supply Chain Security]
 
