@@ -403,6 +403,9 @@ Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Commo
 
 - **[Py150k](https://huggingface.co/datasets/AISE-TUDelft/PY150k)** [![HF Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FAISE-TUDelft%2FPY150k&query=downloads&label=HF%20downloads&logo=huggingface)](https://huggingface.co/datasets/AISE-TUDelft/PY150k) - ≈150k Python files from GitHub (deduped/fork-removed); Static analysis with Bandit, Semgrep, Snyk identified 42,753 vulnerabilities across 26,147 snippets; common CWEs: XSS (18%), SQLi (15%), Improper Input Validation (12%), OS Command Injection (10%), Information Exposure (8%). Collected from GitHub with dedup/fork removal, only parsable code (AST checks, ≤30k nodes), and permissive licenses. Used for: training and fine-tuning (e.g., CodeGen, CodeGen2/2.5, CodeLlama, CrystalCoder, CodeT5+).
 
+- **[PrimeVul](https://github.com/DLVulDet/PrimeVul)** [![GitHub Repo stars](https://img.shields.io/github/stars/DLVulDet/PrimeVul?logo=github&label=&style=social)](https://github.com/DLVulDet/PrimeVul) – Combines [BigVul](https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset), [CrossVul](https://zenodo.org/records/4734050), [CVEfixes](https://github.com/secureIT-project/CVEfixes), and [DiverseVul](https://github.com/wagner-group/diversevul); de-duplicated and commit-filtered for high-quality labels; temporal train/val/test split by commit time. 224,533 functions from 755 open-source projects; 6,062 vulnerable; broad CWE coverage. ([arXiv](https://arxiv.org/abs/2403.18624))
+
+
 ### Malware Behavior & Dynamic Analysis
 
 - **[Avast–CTU Public CAPEv2 Dataset](https://github.com/avast/avast-ctu-cape-dataset)** [![GitHub Repo stars](https://img.shields.io/github/stars/avast/avast-ctu-cape-dataset?logo=github&label=&style=social)](https://github.com/avast/avast-ctu-cape-dataset) - 48,976 sandbox JSON reports (CAPEv2) across 10 families (Adload, Emotet, HarHar, Lokibot, njRAT, Qakbot, Swisyn, Trickbot, Ursnif, Zeus); per-sample metadata: `sha256`, family, type (`banker`, `trojan`, `pws`, `coinminer`, `rat`, `keylogger`), detection date. Two versions: Full (~13 GB) and Reduced (~566 MB) keeping `behavior.summary` + `static.pe` (avoids label leakage). **Used for:** behavior-based malware classification & concept-drift studies. - [arXiv](https://arxiv.org/abs/2209.03188)
@@ -561,10 +564,9 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - **[AICGSecEval](https://github.com/Tencent/AICGSecEval)** [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AICGSecEval?logo=github&label=&style=social)](https://github.com/Tencent/AICGSecEval) — repository-level, CVE-grounded tasks; multi-language; run scripts + leaderboard. [arXiv](https://arxiv.org/abs/2508.18106)
 - **[BaxBench](https://github.com/logic-star-ai/baxbench)** [![GitHub Repo stars](https://img.shields.io/github/stars/logic-star-ai/baxbench?logo=github&label=&style=social)](https://github.com/logic-star-ai/baxbench) — 392 backend tasks (28 scenarios × 14 frameworks × 6 languages); validates functionality and executes end-to-end exploits. [arXiv](https://arxiv.org/abs/2502.11844)
 - **[CWEval](https://github.com/Co1lin/CWEval)** [![GitHub Repo stars](https://img.shields.io/github/stars/Co1lin/CWEval?logo=github&label=&style=social)](https://github.com/Co1lin/CWEval) — simultaneous functionality+security evaluation with secure/functional oracles; Dockerized runner. [arXiv](https://arxiv.org/abs/2501.08200)
-- **[PrimeVul](https://github.com/DLVulDet/PrimeVul)** [![GitHub Repo stars](https://img.shields.io/github/stars/DLVulDet/PrimeVul?logo=github&label=&style=social)](https://github.com/DLVulDet/PrimeVul) – ICSE 2025 benchmark that combines [BigVul](https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset), [CrossVul](https://zenodo.org/records/4734050), [CVEfixes](https://github.com/secureIT-project/CVEfixes), and [DiverseVul](https://github.com/wagner-group/diversevul); de-duplicated and commit-filtered for high-quality labels; temporal train/val/test split by commit time. 224,533 functions from 755 open-source projects; 6,062 vulnerable; broad CWE coverage. ([arXiv](https://arxiv.org/abs/2403.18624))
 
 ### **Adversarial Resilience**  
-**Purpose**: Evaluates how AI systems withstand adversarial attacks, including evasion, poisoning, and model extraction. Ensures AI remains functional under manipulation.  
+**Purpose**: Evaluates agent performance on offensive-security tasks (pentesting, exploitation, and misuse resistance) with containerized runners and reproducible scoring.
 **NIST AI RMF Alignment**: **Measure, Manage**  
 - **Measure**: Identify risks related to adversarial attacks.  
 - **Manage**: Implement mitigation strategies to ensure resilience.
@@ -588,8 +590,8 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - [CVE-Bench](https://github.com/uiuc-kang-lab/cve-bench) [![GitHub Repo stars](https://img.shields.io/github/stars/uiuc-kang-lab/cve-bench?logo=github&label=&style=social)](https://github.com/uiuc-kang-lab/cve-bench) — 40 dockerized web CVEs; success = expected impact triggered. [arXiv](https://arxiv.org/abs/2503.17332)
 - [AutoPenBench](https://github.com/lucagioacchini/auto-pen-bench) [![GitHub Repo stars](https://img.shields.io/github/stars/lucagioacchini/auto-pen-bench?logo=github&label=&style=social)](https://github.com/lucagioacchini/auto-pen-bench) — 33 tasks: 22 fundamentals + 11 CVEs; controlled runner with repeatable, fine-grained scoring. [arXiv](https://arxiv.org/abs/2410.03225)
 
-##### Patch-differential Vulnerability Triggering (sanitizer oracle)
-*Used for: generating PoC inputs that crash the vulnerable build and do not crash the patched build under fixed time/memory budgets.*
+##### Patch-Validated Triggering
+*Used for: PoC inputs that crash the vulnerable build and not the patched build under fixed time/memory; sanitizer oracle.*
 
 - [CyberGym](https://github.com/sunblaze-ucb/cybergym) [![GitHub Repo stars](https://img.shields.io/github/stars/sunblaze-ucb/cybergym?logo=github&label=&style=social)](https://github.com/sunblaze-ucb/cybergym) — 1,507 instances from 188 OSS projects (via OSS-Fuzz); pre/post-patch builds with ASan/UBSan; input channels: stdin/file/argv; difficulty 0–3; pass/fail oracle. [Dataset](https://huggingface.co/datasets/sunblaze-ucb/cybergym) • [arXiv](https://arxiv.org/abs/2506.02548)
 
@@ -612,7 +614,6 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - **Map**: Understand and identify risks to model/data integrity.  
 - **Measure**: Evaluate and mitigate risks through validation techniques.
 
-- **[CVE-Bench - @uiuc-kang-lab](https://github.com/uiuc-kang-lab/cve-bench)** [![GitHub Repo stars](https://img.shields.io/github/stars/uiuc-kang-lab/cve-bench?logo=github&label=&style=social)](https://github.com/uiuc-kang-lab/cve-bench) - How well AI agents can exploit real-world software vulnerabilities that are listed in the CVE database.
 
 ### **Governance & Compliance**  
 **Purpose**: Ensures AI security aligns with governance frameworks, industry regulations, and security policies. Supports auditability and risk management.  
