@@ -145,9 +145,6 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 - **[OWASP — Threat & Defense Compass](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-1-0/)** — threat-informed risk review toolkit for LLM/GenAI systems that maps common risks to concrete mitigations and controls. Useful for design reviews, pre-deployment checks, and red-teaming prep. ([Toolkit](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-1-0/) • [Guide](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-runbook/))
 
-
-- **FS-ISAC — Generative AI Vendor Evaluation & Qualitative Risk Assessment** — vendor due-diligence toolkit for GenAI (risk tiering + questionnaires; auto-generated report). [Assessment Tool XLSX](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessmentTool.xlsx) • [Guide PDF](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessment.pdf) [Supply Chain Security]
-
 ### Critical Infrastructure 
 - [DHS/CISA - Safety & Security Guidelines for Critical Infrastructure AI](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators) - Cross-lifecycle guidance for owners/operators (govern, design, develop, deploy, operate); developed with SRMAs and informed by CISA’s cross-sector risk analysis.
   
