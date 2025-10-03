@@ -20,6 +20,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
   - [Agentic Systems - (Standards, Governance & Patterns](#agentic-systems-standards-governance--patterns)
   - [Threat Modeling](#threat-modeling)
   - [Policy Templates](#policy-templates)
+  - [Risk Toolkits & Self-Assessments](#risk-toolkits--self-assessments)
   - [Critical Infrastructure](#critical-infrastructure)
 - [Tools](#tools)
 - [Models](#models)
@@ -130,10 +131,13 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Policy Templates
 
 #### Acceptable Use
-*Org-facing, ready-to-adapt policies for secure, responsible AI (e.g., acceptable use, data classification & handling, privacy/PII & retention, model/tool approvals, human-in-the-loop, attribution & content provenance, evaluation/red teaming, incident response, and third-party/vendor risk).*
+*Org-facing, ready-to-adapt/adjust policies for secure, responsible AI (e.g., acceptable use, data classification & handling, privacy/PII & retention, model/tool approvals, human-in-the-loop, attribution & content provenance, evaluation/red teaming, incident response, and third-party/vendor risk).*
 
 - [data.org — Generative AI Use Policy Template (PDF)](https://data.org/wp-content/uploads/2024/11/Generative-AI-Policy-Template.pdf)
 - [ISACA — AI Acceptable Use Policy Template](https://www.isaca.org/resources/artificial-intelligence-acceptable-use-policy-template)
+
+### Risk Toolkits & Self-Assessments
+*Practical workbooks, questionnaires, and checklists you can copy/adapt to run AI risk reviews.*
 
 ### Critical Infrastructure 
 - [DHS/CISA - Safety & Security Guidelines for Critical Infrastructure AI](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators) - Cross-lifecycle guidance for owners/operators (govern, design, develop, deploy, operate); developed with SRMAs and informed by CISA’s cross-sector risk analysis.
