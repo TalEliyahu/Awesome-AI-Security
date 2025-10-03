@@ -101,10 +101,7 @@ Collapse exact duplicate records that appear across multiple sources.
 Normalize all kept items into a unified JSON record format to provide a single interface for downstream use.
 
 ### Relation Mining
-Derive links across records (CVEs ↔ advisories ↔ exploits ↔ patches ↔ products ↔ taxonomies).  
-Expected relationships to include:
-- CVE ↔ CPE, CVE ↔ CWE, CVE ↔ CVSS, CVE ↔ KEV, CVE ↔ AttackerKB, CVE ↔ Exploit-DB (PoC), CVE ↔ Mail, CVE ↔ Patch
-- CWE ↔ CAPEC, CAPEC ↔ ATT&CK, ATT&CK ↔ D3FEND
+Derive links across records (CVEs ↔ advisories ↔ exploits ↔ patches ↔ products ↔ taxonomies). 
 
 ### Statistical Analysis
 Compute summary counts/metrics over the unified dataset after relation mining.
