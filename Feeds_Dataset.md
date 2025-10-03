@@ -1,6 +1,6 @@
 ### Vulnerability & Threat Intelligence (Live Feeds → Unified Dataset Spec) <a name="vulnerability--threat-intelligence-live-feeds--unified-dataset-spec"></a>
 
-> These are **live sources** (not static dumps). Use the schema below to build a **single, de-duplicated dataset** (CSV/Parquet/JSONL) consumable for AI security research, curation, and dashboards.
+> These are **live sources** (not static dumps). Use the schema below to build a single, de-duplicated dataset (CSV/Parquet/JSONL) consumable for AI security research, curation, and dashboards.
 
 ### Normalized schema (recommended)
 | Field | Type | Description |
