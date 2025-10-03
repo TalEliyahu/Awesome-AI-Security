@@ -571,15 +571,29 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 #### Autonomous Pentesting & Exploit Generation
 
-**[AutoPenBench](https://github.com/lucagioacchini/auto-pen-bench)** [![GitHub Repo stars](https://img.shields.io/github/stars/lucagioacchini/auto-pen-bench?logo=github&label=&style=social)](https://github.com/lucagioacchini/auto-pen-bench) - 33 tasks: 22 in-vitro fundamentals (incl. 4 crypto) + 11 real-world CVEs for autonomous pentesting evaluation. [arXiv](https://arxiv.org/abs/2410.03225) • **Best for:** controlled, task-based coverage across fundamentals and known CVEs (repeatable, fine-grained scoring).
+### Autonomous Pentesting & Exploit Generation
+*Used for: evaluating agents on exploit generation and patch-validated vulnerability triggering across four subtypes with containerized runners and pass/fail scoring.*
 
-**[AI-Pentest-Benchmark](https://github.com/isamu-isozaki/AI-Pentest-Benchmark)** [![GitHub Repo stars](https://img.shields.io/github/stars/isamu-isozaki/AI-Pentest-Benchmark?logo=github&label=&style=social)](https://github.com/isamu-isozaki/AI-Pentest-Benchmark) -  13 full vulnerable VMs (from VulnHub), 152 subtasks across Recon (72), Exploit (44), PrivEsc (22), and General (14), for end-to-end recon → exploit → privesc benchmarking. [arXiv](https://arxiv.org/abs/2410.17141) • **Best for:** realistic, end-to-end machine takeovers stressing planning, tool use, and multi-step reasoning.
+#### CTF / Challenge Suites
+*Used for: time-boxed flag-capture tasks that isolate skills (web/pwn/rev/crypto/etc.) with containerized scoring.*
 
-**[CVE-Bench](https://github.com/uiuc-kang-lab/cve-bench)** [![GitHub Repo stars](https://img.shields.io/github/stars/uiuc-kang-lab/cve-bench?logo=github&label=&style=social)](https://github.com/uiuc-kang-lab/cve-bench) - 40 real-world web CVEs in dockerized apps; evaluates agent-driven exploit generation/execution. [arXiv](https://arxiv.org/abs/2503.17332) • **Best for:** focused testing of exploitability against real CVEs (web).
+- [NYU CTF Bench](https://nyu-llm-ctf.github.io/) [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/NYU_CTF_Bench?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) — 200 dockerized CSAW challenges across web/pwn/rev/forensics/crypto/misc; success = flag capture. [arXiv](https://arxiv.org/abs/2406.05590)
 
-**[NYU CTF Bench](https://nyu-llm-ctf.github.io/)** [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/NYU_CTF_Bench?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) - 200 dockerized CSAW challenges (web, pwn, rev, forensics, crypto, misc.) for skill-granular agent evaluation. [arXiv](https://arxiv.org/abs/2406.05590) • **Best for:** CTF-style, per-skill assessment and tool-use drills.
+#### VM-Based End-to-End Pentest
+*Used for: full host compromise across recon→exploit→privesc on realistic VMs with scripted scoring.*
 
-**[CyberGym](https://github.com/sunblaze-ucb/cybergym)** [![GitHub Repo stars](https://img.shields.io/github/stars/sunblaze-ucb/cybergym?logo=github&label=&style=social)](https://github.com/sunblaze-ucb/cybergym) — CyberGym is a cybersecurity evaluation framework for assessing AI agents on vulnerability analysis tasks. Vulnerability reproduction benchmark with a containerized evaluation runner. 1,507 instances from 188 OSS projects (sourced via OSS-Fuzz). Each instance includes pre- and post-patch builds instrumented with sanitizers (e.g., ASan/UBSan). Task: provide a proof-of-concept input (stdin/file/argv) that triggers a sanitizer crash on the vulnerable build and does not crash on the patched build. Scoring is pass/fail per instance with difficulty levels 0–3 and fixed time/memory limits. [Dataset](https://huggingface.co/datasets/sunblaze-ucb/cybergym) • [arXiv](https://arxiv.org/abs/2506.02548)
+- [AI-Pentest-Benchmark](https://github.com/isamu-isozaki/AI-Pentest-Benchmark) [![GitHub Repo stars](https://img.shields.io/github/stars/isamu-isozaki/AI-Pentest-Benchmark?logo=github&label=&style=social)](https://github.com/isamu-isozaki/AI-Pentest-Benchmark) — 13 vulnerable VMs (VulnHub), 152 subtasks (Recon 72 / Exploit 44 / PrivEsc 22 / General 14). [arXiv](https://arxiv.org/abs/2410.17141)
+
+#### CVE App Suites / Task-Based
+*Used for: targeted exploit generation/execution against apps with known CVEs; measures live-system interaction.*
+
+- [CVE-Bench](https://github.com/uiuc-kang-lab/cve-bench) [![GitHub Repo stars](https://img.shields.io/github/stars/uiuc-kang-lab/cve-bench?logo=github&label=&style=social)](https://github.com/uiuc-kang-lab/cve-bench) — 40 dockerized web CVEs; success = expected impact triggered. [arXiv](https://arxiv.org/abs/2503.17332)
+- [AutoPenBench](https://github.com/lucagioacchini/auto-pen-bench) [![GitHub Repo stars](https://img.shields.io/github/stars/lucagioacchini/auto-pen-bench?logo=github&label=&style=social)](https://github.com/lucagioacchini/auto-pen-bench) — 33 tasks: 22 fundamentals + 11 CVEs; controlled runner with repeatable, fine-grained scoring. [arXiv](https://arxiv.org/abs/2410.03225)
+
+#### Patch-differential Vulnerability Triggering (sanitizer oracle)
+*Used for: generating PoC inputs that crash the vulnerable build and do not crash the patched build under fixed time/memory budgets.*
+
+- [CyberGym](https://github.com/sunblaze-ucb/cybergym) [![GitHub Repo stars](https://img.shields.io/github/stars/sunblaze-ucb/cybergym?logo=github&label=&style=social)](https://github.com/sunblaze-ucb/cybergym) — 1,507 instances from 188 OSS projects (via OSS-Fuzz); pre/post-patch builds with ASan/UBSan; input channels: stdin/file/argv; difficulty 0–3; pass/fail oracle. [Dataset](https://huggingface.co/datasets/sunblaze-ucb/cybergym) • [arXiv](https://arxiv.org/abs/2506.02548)
 
 #### Agent Misuse & Harm Induction
 
