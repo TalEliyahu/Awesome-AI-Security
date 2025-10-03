@@ -139,6 +139,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Risk Toolkits & Self-Assessments
 *Practical workbooks, questionnaires, and checklists you can copy/adapt to run AI risk reviews.*
 
+- **FS-ISAC — Generative AI Vendor Evaluation & Qualitative Risk Assessment** — vendor due-diligence toolkit for GenAI (risk tiering + questionnaires; auto-generated report). [Assessment Tool XLSX](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessmentTool.xlsx) • [Guide PDF](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessment.pdf) [Supply Chain Security]
+
 ### Critical Infrastructure 
 - [DHS/CISA - Safety & Security Guidelines for Critical Infrastructure AI](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators) - Cross-lifecycle guidance for owners/operators (govern, design, develop, deploy, operate); developed with SRMAs and informed by CISA’s cross-sector risk analysis.
   
