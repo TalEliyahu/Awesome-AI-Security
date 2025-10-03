@@ -59,6 +59,17 @@
 
 ## Implementation
 
+### Pipeline schema (stages)
+| Stage | Purpose | Inputs (examples) | Actions | Outputs |
+|---|---|---|---|---|
+| Source Validation | verify links and availability | all sources | check URL/status before processing | valid source list |
+| Data Fetching | incremental fetch of new/changed data | validated sources | pull only deltas (since last run) | raw payloads |
+| Data Filtering | remove non-vuln noise | raw payloads | drop README/CHANGELOG/etc. | filtered set |
+| Data Deduplication | collapse duplicates | filtered set | exact-match dedup across sources | unique items |
+| Format Unification | single interface | unique items | normalize to JSON records | unified JSON |
+| Relation Mining | connect entities | unified JSON | derive links (CVEs ↔ advisories ↔ exploits ↔ patches ↔ products ↔ taxonomies) | relations JSON |
+| Statistical Analysis | summarize dataset | unified JSON | compute counts/metrics | stats JSON/CSV |
+
 ### Crawling strategies
 - Git-based sources: configure as git submodules for incremental sync (MITRE CVE, NVD, ZDI Advisory, GitHub Advisory, MITRE ATT&CK, OffSec Exploit-DB, Linux-CVE-Announce).
 - Stable downloadable files: direct download (NVD CPE dictionary, CISA KEV, CWE, CAPEC, D3FEND).
