@@ -59,6 +59,12 @@
 
 ## Implementation
 
+### Crawling strategies
+- Git-based sources: configure as git submodules for incremental sync (MITRE CVE, NVD, ZDI Advisory, GitHub Advisory, MITRE ATT&CK, OffSec Exploit-DB, Linux-CVE-Announce).
+- Stable downloadable files: direct download (NVD CPE dictionary, CISA KEV, CWE, CAPEC, D3FEND).
+- Mailing lists: build a mail crawler to enumerate archive links and download each message (Bugtraq, Full-Disclosure, oss-security).
+- Patch harvesting: detect patch-tagged links in NVD and fetch patch contents from GitHub and git.kernel.org.
+
 ### Pipeline schema (stages)
 | Stage | Purpose | Inputs (examples) | Actions | Outputs |
 |---|---|---|---|---|
@@ -70,26 +76,25 @@
 | Relation Mining | connect entities | unified JSON | derive links (CVEs ↔ advisories ↔ exploits ↔ patches ↔ products ↔ taxonomies) | relations JSON |
 | Statistical Analysis | summarize dataset | unified JSON | compute counts/metrics | stats JSON/CSV |
 
-### Crawling strategies
-- Git-based sources: configure as git submodules for incremental sync (MITRE CVE, NVD, ZDI Advisory, GitHub Advisory, MITRE ATT&CK, OffSec Exploit-DB, Linux-CVE-Announce).
-- Stable downloadable files: direct download (NVD CPE dictionary, CISA KEV, CWE, CAPEC, D3FEND).
-- Mailing lists: build a mail crawler to enumerate archive links and download each message (Bugtraq, Full-Disclosure, oss-security).
-- Patch harvesting: detect patch-tagged links in NVD and fetch patch contents from GitHub and git.kernel.org.
 
-### Source validation
-- Link validation: many links in mailing lists and NVD are invalid; verify availability before processing.
+### Source Validation
+Validate that referenced links resolve before processing. Mailing lists and NVD references often include invalid or unreachable URLs; discard those early.
 
-### Data filtering & deduplication
-- Keep only vulnerability-related files; drop READMEs/CHANGELOGs and other noise.
-- Deduplicate exact duplicate records across sources.
+### Data Fetching
+Fetch only new or changed items since the last run from each source to avoid reprocessing historical data.
 
-### Format unification
-- Normalize structural data to JSON as a unified interface.
+### Data Filtering
+Remove non-vulnerability noise (e.g., README/CHANGELOG and other unrelated files) and keep only vulnerability-related content.
 
-### Relationship mining & statistics
-- Mine relationships across the data (e.g., CVEs ↔ advisories ↔ exploits ↔ patches ↔ products ↔ taxonomies) and generate summary statistics.
+### Data Deduplication
+Collapse exact duplicate records that appear across multiple sources.
 
-### Scripts
-- Data synchronization and cleaning
-- Relationship mining
-- Statistics generation
+### Format Unification
+Normalize all kept items into a unified JSON record format to provide a single interface for downstream use.
+
+### Relation Mining
+Derive links across records (CVEs ↔ advisories ↔ exploits ↔ patches ↔ products ↔ taxonomies).
+
+### Statistical Analysis
+Compute summary counts/metrics over the unified dataset after relation mining.
+
