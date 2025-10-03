@@ -5,7 +5,7 @@
 ### Normalized schema (recommended)
 | Field | Type | Description |
 |---|---|---|
-| `source` | string | Feed/system name, e.g., `MITRE_CVE`, `NVD`, `GHSA`, `ZDI`, `KEV`, `CWE`, `CAPEC`, `ATTACK`, `D3FEND`, `AttackerKB`, `ExploitDB`, `Bugtraq`, `FullDisclosure`, `oss-security`, `Linux-CVE-Announce`, `GitHub`, `git.kernel.org` |
+| `source` | string | Feed/system name, e.g., `MITRE_CVE`, `NVD`, `GHSA`, `ZDI`, `KEV`, `CWE`, `CAPEC`, `MITRE_ATTCK`, `D3FEND`, `AttackerKB`, `ExploitDB`, `Bugtraq`, `FullDisclosure`, `oss-security`, `Linux-CVE-Announce`, `GitHub`, `git.kernel.org` |
 | `source_id` | string | Primary ID within the source (e.g., CVE-ID, GHSA-ID, ZDI-ID, message URL, commit hash) |
 | `title` | string | Title/subject of the record |
 | `description` | string | Short summary (markdown or plain) |
@@ -55,7 +55,7 @@
 ### JSONL (2 generic examples)
 ```jsonl
 {"source":"NVD","source_id":"CVE-2024-0001","title":"Example vuln in XYZ","description":"Buffer overflow in XYZ component allows RCE.","published_at":"2024-02-10T09:00:00Z","modified_at":"2024-02-12T12:30:00Z","cve_ids":["CVE-2024-0001"],"cwe_ids":["CWE-120"],"cvss_base":9.8,"cvss_vector":"CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H","severity":"CRITICAL","affected_products":["cpe:2.3:a:vendor:xyz:1.2:*:*:*:*:*:*:*"],"exploited_in_the_wild":false,"exploit_refs":["https://www.exploit-db.com/exploits/00000"],"patch_refs":["https://github.com/vendor/xyz/commit/abc123"],"references":["https://nvd.nist.gov/vuln/detail/CVE-2024-0001"],"tags":["overflow","rce"],"license":"See source","retrieved_at":"2025-10-02T00:00:00Z"}
-{"source":"GHSA","source_id":"GHSA-aaaa-bbbb","title":"Example package vuln","description":"Improper input validation in package `foo`.","published_at":"2025-03-05T14:00:00Z","modified_at":null,"cve_ids":["CVE-2025-1111"],"cwe_ids":["CWE-20"],"cvss_base":7.5,"cvss_vector":"CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:N","severity":"HIGH","affected_products":["pkg:npm/foo@2.3.1"],"exploited_in_the_wild":false,"exploit_refs":[],"patch_refs":["https://github.com/org/foo/commit/def456"],"references":["https://github.com/advisories/GHSA-aaaa-bbbb"],"tags":["input-validation"],"license":"See source","retrieved_at":"2025-10-02T00:00:00Z"}
+{"source":"GHSA","source_id":"GHSA-aaaa-bbbb","title":"Example package vuln","description":"Improper input validation in package `foo`.","published_at":"2025-03-05T14:00:00Z","modified_at":null,"cve_ids":["CVE-2025-1111"],"cwe_ids":["CWE-20"],"cvss_base":7.5,"cvss_vector":"CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:N","severity":"HIGH","affected_products":["pkg:npm/foo@2.3.1"],"exploited_in_the_wild":false,"exploit_refs":[],"patch_refs":["https://github.com/org/foo/commit/def456"],"references":["https://github.com/advisories/GHSA-aaaa-bbbb"],"tags":["input-validation"],"license":"See source","retrieved_at":"2025-10-02T00:00:00Z"}```
 
 ## Implementation
 
