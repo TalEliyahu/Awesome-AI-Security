@@ -60,16 +60,19 @@
 - **[git.kernel.org](https://git.kernel.org/)** — fetch patch content when the NVD entry includes a reference tagged **patch** that points to kernel.org.
 
 ### JSONL (2 generic examples)
+
+```
 {"source":"NVD","source_id":"CVE-2024-0001","title":"Example vuln in XYZ","description":"Buffer overflow in XYZ component allows RCE.","published_at":"2024-02-10T09:00:00Z","modified_at":"2024-02-12T12:30:00Z","cve_ids":["CVE-2024-0001"],"cwe_ids":["CWE-120"],"cvss_base":9.8,"cvss_vector":"CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H","severity":"CRITICAL","affected_products":["cpe:2.3:a:vendor:xyz:1.2:*:*:*:*:*:*:*"],"exploited_in_the_wild":false,"exploit_refs":["https://www.exploit-db.com/exploits/00000"],"patch_refs":["https://github.com/vendor/xyz/commit/abc123"],"references":["https://nvd.nist.gov/vuln/detail/CVE-2024-0001"],"tags":["overflow","rce"],"license":"See source","retrieved_at":"2025-10-02T00:00:00Z"}
 {"source":"GHSA","source_id":"GHSA-aaaa-bbbb","title":"Example package vuln","description":"Improper input validation in package `foo`.","published_at":"2025-03-05T14:00:00Z","modified_at":null,"cve_ids":["CVE-2025-1111"],"cwe_ids":["CWE-20"],"cvss_base":7.5,"cvss_vector":"CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:N","severity":"HIGH","affected_products":["pkg:npm/foo@2.3.1"],"exploited_in_the_wild":false,"exploit_refs":[],"patch_refs":["https://github.com/org/foo/commit/def456"],"references":["https://github.com/advisories/GHSA-aaaa-bbbb"],"tags":["input-validation"],"license":"See source","retrieved_at":"2025-10-02T00:00:00Z"}
+```
 
 ## Implementation
 
 ### Crawling strategies
-- Git-based sources: configure as git submodules for incremental sync (MITRE CVE, NVD, ZDI Advisory, GitHub Advisory, MITRE ATT&CK, OffSec Exploit-DB, Linux-CVE-Announce).
-- Stable downloadable files: direct download (NVD CPE dictionary, CISA KEV, CWE, CAPEC, D3FEND).
-- Mailing lists: build a mail crawler to enumerate archive links and download each message (Bugtraq, Full-Disclosure, OSS-Security).
-- Patch harvesting: detect patch-tagged links in NVD and fetch patch contents from GitHub and git.kernel.org.
+- Use official feeds and mailing-list archives; fetch updates incrementally (deltas) instead of reprocessing history.
+- Schedule periodic downloads for stable catalogs (e.g., CPE dictionary, KEV, CWE, CAPEC, D3FEND).
+- For mailing lists, traverse archive indexes and fetch each message for processing.
+- Extract referenced advisories/patches from vulnerability records for downstream relation mining.
 
 ### Pipeline schema (stages)
 | Stage | Purpose | Inputs (examples) | Actions | Outputs |
@@ -105,5 +108,3 @@ Expected relationships to include:
 
 ### Statistical Analysis
 Compute summary counts/metrics over the unified dataset after relation mining.
-
-
