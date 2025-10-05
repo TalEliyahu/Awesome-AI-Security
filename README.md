@@ -140,20 +140,31 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 *Practical workbooks and self-assessments to baseline AI risk, evaluate third parties, and plan improvements.*
 
 #### Organizational Maturity & Governance
-- **[OWASP — AI Maturity Assessment (AIMA)](https://owasp.org/www-project-ai-maturity-assessment/)** — organization-level maturity model and self-assessment covering governance, security, privacy, and lifecycle practices. Helps baseline capability, capture evidence, and build a prioritized roadmap. ([Toolkit](https://raw.githubusercontent.com/OWASP/www-project-ai-maturity-assessment/main/releases/V1/OWASP-AIMA-Toolkit_V1.xlsx) • [Guide](https://github.com/OWASP/www-project-ai-maturity-assessment/blob/main/releases/V1/OWASP-AIMA_V1.pdf))
+- **[OWASP — AI Maturity Assessment (AIMA)](https://owasp.org/www-project-ai-maturity-assessment/)** — org-level maturity model and self-assessment across governance, security, privacy, and lifecycle. ([Toolkit](https://raw.githubusercontent.com/OWASP/www-project-ai-maturity-assessment/main/releases/V1/OWASP-AIMA-Toolkit_V1.xlsx) • [Guide](https://github.com/OWASP/www-project-ai-maturity-assessment/blob/main/releases/V1/OWASP-AIMA_V1.pdf))
+- **[NIST — AI RMF Playbook](https://www.nist.gov/itl/ai-risk-management-framework/nist-ai-rmf-playbook)** — actionable checklists and suggested actions mapped to Govern/Map/Measure/Manage outcomes. ([Playbook](https://airc.nist.gov/airmf-resources/playbook/))
 
 #### Vendor & Third-Party Risk
-- **[FS-ISAC — Generative AI Vendor Evaluation & Qualitative Risk Assessment](https://www.fsisac.com/)** — third-party due diligence for GenAI providers: risk tiering by use case and data sensitivity, questionnaires across security, privacy, model development/validation, integration, and legal/compliance, with an auto-generated stakeholder report. ([Toolkit](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessmentTool.xlsx) • [Guide](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessment.pdf))
+- **[FS-ISAC — GenAI Vendor Evaluation & Qualitative Risk Assessment](https://www.fsisac.com/)** — due-diligence toolkit with risk tiering, questionnaires, and auto-generated reports. ([Toolkit](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessmentTool.xlsx) • [Guide](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessment.pdf))
+
+#### Privacy & Data Protection
+- **[UK ICO — AI & Data Protection Risk Toolkit](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/ai-and-data-protection-risk-toolkit/)** — Excel workbook to assess risks to individuals’ rights/freedoms from your AI system. ([Toolkit — XLSX](https://ico.org.uk/media2/kr3mveig/ai_and_data_protection_risk_toolkit_v11.xlsx))
 
 #### Threat-Informed Design Reviews
-- **[OWASP — Threat & Defense Compass](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-1-0/)** — threat-informed risk review toolkit for LLM/GenAI systems that maps common risks to concrete mitigations and controls. Useful for design reviews, pre-deployment checks, and red-teaming prep. ([Toolkit](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-1-0/) • [Guide](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-runbook/))
+- **[OWASP — Threat & Defense Compass](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-1-0/)** — maps GenAI risks to concrete mitigations for design reviews and pre-deployment checks. ([Toolkit](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-1-0/) • [Guide](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-runbook/))
 
-#### Impact Assessments
-- **[Microsoft — Responsible AI Impact Assessment](https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf)** — guidance and template for assessing potential impacts on people, organizations, and society. ([Guide](https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf) • [Template](https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Template.pdf))
+#### Regulatory & Compliance Assessments
+- **[EU — ALTAI Self-Assessment](https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment)** — checklist translating EU Trustworthy-AI principles into practice. ([Checklist — PDF](https://data.europa.eu/doi/10.2759/002360))
+- **[Canada — Algorithmic Impact Assessment (AIA)](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)** — mandatory questionnaire for Canadian federal use of automated decision systems; determines impact level and mitigations.  
+- **[Singapore — AI Verify](https://www.imda.gov.sg/about-imda/emerging-technologies-and-research/artificial-intelligence)** — governance testing framework + software toolkit for self-assessment and reporting. ([Repo](https://github.com/aiverify-foundation/aiverify))
+- **[OECD — AI System Classification Framework](https://oecd.ai/en/classification)** — tool to characterise systems across policy-relevant dimensions to surface risks and controls. ([Guide — PDF](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/02/oecd-framework-for-the-classification-of-ai-systems_336a8b57/cb6d9eca-en.pdf))
 
-#### Risk Assessments
-- **[TrustArc — AI Risk Assessment](https://trustarc.com/resource/ai-risk-assessment/)** — self-assessment template to kick off trustworthy AI evaluations, covering ethical, safety, security, and societal considerations.
+#### Control Catalogues & Mappings (use for gap-assessments)
+- **[CSA — AI Controls Matrix (AICM)](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix)** — 243 control objectives across 18 domains, mapped to ISO/IEC 42001, NIST AI RMF, etc.
+- **[BSI — AIC4 (AI Cloud Service Compliance Criteria Catalogue)](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/AIC4/AI-Cloud-Service-Compliance-Criteria-Catalogue_AIC4.pdf?__blob=publicationFile&v=4)** — criteria to evaluate security/robustness, performance, reliability, data quality/management, explainability, and bias for AI cloud services.
 
+#### Impact Assessments (Project/System Level)
+- **[Microsoft — Responsible AI Impact Assessment](https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf)** — guidance and template for assessing potential impacts on people, orgs, and society. ([Guide](https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf) • [Template](https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Template.pdf))
+- **[TrustArc — AI Risk Assessment](https://trustarc.com/resource/ai-risk-assessment/)** — self-assessment to kick off trustworthy-AI evaluations across ethics, safety, security, and societal considerations.
 
 ### Critical Infrastructure 
 - [DHS/CISA - Safety & Security Guidelines for Critical Infrastructure AI](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators) - Cross-lifecycle guidance for owners/operators (govern, design, develop, deploy, operate); developed with SRMAs and informed by CISA’s cross-sector risk analysis.
