@@ -133,7 +133,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Acceptable Use
 *Org-facing, ready-to-adapt/adjust policies for secure, responsible AI (e.g., acceptable use, data classification & handling, privacy/PII & retention, model/tool approvals, human-in-the-loop, attribution & content provenance, evaluation/red teaming, incident response, and third-party/vendor risk).*
 
-- [Responsible Artificial Intelligence Institute — AI Policy Template (PDF) ](https://www.aigl.blog/content/files/2025/05/AI-POLICY-TEMPLATE.pdf)
+- [Responsible Artificial Intelligence Institute — AI Policy Template](https://www.aigl.blog/content/files/2025/05/AI-POLICY-TEMPLATE.pdf)
 - [ISACA — AI Acceptable Use Policy Template](https://www.isaca.org/resources/artificial-intelligence-acceptable-use-policy-template)
 
 ### Risk Assessments
