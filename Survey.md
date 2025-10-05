@@ -32,7 +32,8 @@
 - [2025/06] **From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows** - [arXiv](https://arxiv.org/abs/2506.23260)
 - [2025/06] **A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures** - [arXiv](https://arxiv.org/abs/2506.19676)
 - [2025/03] **A Survey on Trustworthy LLM Agents: Threats and Countermeasures** - [arXiv](https://arxiv.org/abs/2503.09648)
-
+- [2024/09] **AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways** - [arXiv](https://arxiv.org/abs/2406.02630)
+  
 #### Data Security
 - [2025/08] **A Survey on Data Security in Large Language Models** - [arXiv](https://arxiv.org/abs/2508.02312)
 
