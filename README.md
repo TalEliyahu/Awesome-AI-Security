@@ -140,7 +140,6 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 *Risk assessment templates and scoring parameter to surface AI vulnerabilities, prioritize threats, and guide remediation.*
 
 - **[Trusted Arc AI Risk Assessment](https://trustarc.com/resource/ai-risk-assessment/)** — This template is a form of self-assessment intended to provide an initial approach to the evaluation of a trustworthy AI. It serves as a comprehensive guide for organizations and researchers to proactively address ethical, safety, security, and societal concerns related to AI technologies.
-- **[NSW Government’s AI Assurance Framework Risk Assessment (DOCX)](https://cmsassets.ombo.nsw.gov.au/assets/Resources/Policies/Appendix-A-Generative-AI-Risk-Assessment-Tool-Template-1.docx)** — This Risk Assessment tool is based off the New South Wales Government’s AI Assurance Framework Risk Assessment which is used for all future use-cases that involve generative AI.
 
 ### Impact Assessments
 *Impact assessment templates and evaluation guides to identify AI risks, assess system behavior, and inform mitigation strategies.*
