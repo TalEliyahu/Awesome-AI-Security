@@ -111,7 +111,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
   - [AI Data Security: Best Practices for Securing Data Used to Train & Operate AI Systems (CSI)](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4192332/nsas-aisc-releases-joint-guidance-on-the-risks-and-best-practices-in-ai-data-se/) - Joint guidance on securing data across the AI lifecycle.
   - [Content Credentials: Strengthening Multimedia Integrity in the Generative AI Era (CSI)](https://media.defense.gov/2025/Jan/23/2003639157/-1/-1/0/CSI-CONTENT-CREDENTIALS-STRENGTHENING-MULTIMEDIA-INTEGRITY.PDF) - Provenance and Durable Content Credentials for transparent media.
   - [Contextualizing Deepfake Threats to Organizations (CSI)](https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF) - Risks, impacts, and mitigations for synthetic media targeting orgs.
-- **FS-ISAC — Framework of an Acceptable Use Policy for External Generative AI** — framework-style guidance (not a template) with *permissive vs. stringent* clause options for inputs/outputs, access control, monitoring, and representation. [PDF](https://www.fsisac.com/hubfs/Knowledge/FrameworkOfAnAcceptableUsePolicyForExternalGenerativeAI.pdf)  
+- **FS-ISAC - Framework of an Acceptable Use Policy for External Generative AI** - framework-style guidance (not a template) with *permissive vs. stringent* clause options for inputs/outputs, access control, monitoring, and representation. [PDF](https://www.fsisac.com/hubfs/Knowledge/FrameworkOfAnAcceptableUsePolicyForExternalGenerativeAI.pdf)  
 
 ### Agentic Systems (Standards, Governance & Patterns)
 - [OWASP - Agent Observability Standard (AOS)](https://github.com/OWASP/www-project-agent-observability-standard) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-agent-observability-standard?logo=github&label=&style=social)](https://github.com/OWASP/www-project-agent-observability-standard)
@@ -133,40 +133,40 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Acceptable Use
 *Org-facing, ready-to-adapt/adjust policies for secure, responsible AI (e.g., acceptable use, data classification & handling, privacy/PII & retention, model/tool approvals, human-in-the-loop, attribution & content provenance, evaluation/red teaming, incident response, and third-party/vendor risk).*
 
-- [Responsible Artificial Intelligence Institute — AI Policy Template](https://www.aigl.blog/content/files/2025/05/AI-POLICY-TEMPLATE.pdf)
-- [ISACA — AI Acceptable Use Policy Template](https://www.isaca.org/resources/artificial-intelligence-acceptable-use-policy-template)
+- [Responsible Artificial Intelligence Institute - AI Policy Template](https://www.aigl.blog/content/files/2025/05/AI-POLICY-TEMPLATE.pdf)
+- [ISACA - AI Acceptable Use Policy Template](https://www.isaca.org/resources/artificial-intelligence-acceptable-use-policy-template)
 
 ### Toolkits & Self-Assessments  
 *Practical workbooks and self-assessments to baseline AI risk, evaluate third parties, and plan improvements.*
 
 #### Organizational Maturity & Governance
-- **[OWASP — AI Maturity Assessment (AIMA)](https://owasp.org/www-project-ai-maturity-assessment/)** — org-level maturity model and self-assessment across governance, security, privacy, and lifecycle. ([Toolkit](https://raw.githubusercontent.com/OWASP/www-project-ai-maturity-assessment/main/releases/V1/OWASP-AIMA-Toolkit_V1.xlsx) • [Guide](https://github.com/OWASP/www-project-ai-maturity-assessment/blob/main/releases/V1/OWASP-AIMA_V1.pdf))
-- **[NIST — AI RMF Playbook](https://www.nist.gov/itl/ai-risk-management-framework/nist-ai-rmf-playbook)** — actionable checklists and suggested actions mapped to Govern/Map/Measure/Manage outcomes. ([Playbook](https://airc.nist.gov/airmf-resources/playbook/))
-- **[DoD CDAO — Responsible AI Toolkit (RAI)](https://rai.acqbot.com/executive-summary)** — self-evaluation toolkit for AI projects across the lifecycle (Intake → Use). Includes the SHIELD assessment, Statements of Concern worksheet, RASCI guidance, and a curated “RAI Tools List.” ([RAI Toolkit](https://rai.acqbot.com/) • [Overview](https://www.ai.mil/Latest/Blog/Article-Display/Article/3940314/responsible-ai-toolkit/))
-  > **Use with:** **[DoD CIO — AI Cybersecurity Risk Management Tailoring Guide (2025)](https://dodcio.defense.gov/Portals/0/Documents/Library/AI-CybersecurityRMTailoringGuide.pdf)** — the CIO guide says to accompany the CDAO RAI Toolkit.
+- **[OWASP - AI Maturity Assessment (AIMA)](https://owasp.org/www-project-ai-maturity-assessment/)** - org-level maturity model and self-assessment across governance, security, privacy, and lifecycle. ([Toolkit](https://raw.githubusercontent.com/OWASP/www-project-ai-maturity-assessment/main/releases/V1/OWASP-AIMA-Toolkit_V1.xlsx) • [Guide](https://github.com/OWASP/www-project-ai-maturity-assessment/blob/main/releases/V1/OWASP-AIMA_V1.pdf))
+- **[NIST - AI RMF Playbook](https://www.nist.gov/itl/ai-risk-management-framework/nist-ai-rmf-playbook)** - actionable checklists and suggested actions mapped to Govern/Map/Measure/Manage outcomes. ([Playbook](https://airc.nist.gov/airmf-resources/playbook/))
+- **[DoD CDAO - Responsible AI Toolkit (RAI)](https://rai.acqbot.com/executive-summary)** - self-evaluation toolkit for AI projects across the lifecycle (Intake → Use). Includes the SHIELD assessment, Statements of Concern worksheet, RASCI guidance, and a curated “RAI Tools List.” ([RAI Toolkit](https://rai.acqbot.com/) • [Overview](https://www.ai.mil/Latest/Blog/Article-Display/Article/3940314/responsible-ai-toolkit/))
+  > **Use with:** **[DoD CIO - AI Cybersecurity Risk Management Tailoring Guide (2025)](https://dodcio.defense.gov/Portals/0/Documents/Library/AI-CybersecurityRMTailoringGuide.pdf)** - the CIO guide says to accompany the CDAO RAI Toolkit.
 
 #### Vendor & Third-Party Risk
-- **[FS-ISAC — GenAI Vendor Evaluation & Qualitative Risk Assessment](https://www.fsisac.com/)** — due-diligence toolkit with risk tiering, questionnaires, and auto-generated reports. ([Toolkit](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessmentTool.xlsx) • [Guide](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessment.pdf))
+- **[FS-ISAC - GenAI Vendor Evaluation & Qualitative Risk Assessment](https://www.fsisac.com/)** - due-diligence toolkit with risk tiering, questionnaires, and auto-generated reports. ([Toolkit](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessmentTool.xlsx) • [Guide](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessment.pdf))
 
 #### Privacy & Data Protection
-- **[UK ICO — AI & Data Protection Risk Toolkit](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/ai-and-data-protection-risk-toolkit/)** — Excel workbook to assess risks to individuals’ rights/freedoms from your AI system. ([Toolkit — XLSX](https://ico.org.uk/media2/kr3mveig/ai_and_data_protection_risk_toolkit_v11.xlsx))
+- **[UK ICO - AI & Data Protection Risk Toolkit](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/ai-and-data-protection-risk-toolkit/)** - Excel workbook to assess risks to individuals’ rights/freedoms from your AI system. ([Toolkit - XLSX](https://ico.org.uk/media2/kr3mveig/ai_and_data_protection_risk_toolkit_v11.xlsx))
 
 #### Threat-Informed Design Reviews
-- **[OWASP — Threat & Defense Compass](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-1-0/)** — maps GenAI risks to concrete mitigations for design reviews and pre-deployment checks. ([Toolkit](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-1-0/) • [Guide](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-runbook/))
+- **[OWASP - Threat & Defense Compass](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-1-0/)** - maps GenAI risks to concrete mitigations for design reviews and pre-deployment checks. ([Toolkit](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-1-0/) • [Guide](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-runbook/))
 
 #### Regulatory & Compliance Assessments
-- **[EU — ALTAI Self-Assessment](https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment)** — checklist translating EU Trustworthy-AI principles into practice. ([Checklist — PDF](https://data.europa.eu/doi/10.2759/002360))
-- **[Canada — Algorithmic Impact Assessment (AIA)](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)** — mandatory questionnaire for Canadian federal use of automated decision systems; determines impact level and mitigations.  
-- **[Singapore — AI Verify](https://www.imda.gov.sg/about-imda/emerging-technologies-and-research/artificial-intelligence)** — governance testing framework + software toolkit for self-assessment and reporting. ([Repo](https://github.com/aiverify-foundation/aiverify))
-- **[OECD — AI System Classification Framework](https://oecd.ai/en/classification)** — tool to characterise systems across policy-relevant dimensions to surface risks and controls. ([Guide — PDF](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/02/oecd-framework-for-the-classification-of-ai-systems_336a8b57/cb6d9eca-en.pdf))
+- **[EU - ALTAI Self-Assessment](https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment)** - checklist translating EU Trustworthy-AI principles into practice. ([Checklist - PDF](https://data.europa.eu/doi/10.2759/002360))
+- **[Canada - Algorithmic Impact Assessment (AIA)](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)** - mandatory questionnaire for Canadian federal use of automated decision systems; determines impact level and mitigations.  
+- **[Singapore - AI Verify](https://www.imda.gov.sg/about-imda/emerging-technologies-and-research/artificial-intelligence)** - governance testing framework + software toolkit for self-assessment and reporting. ([Repo](https://github.com/aiverify-foundation/aiverify))
+- **[OECD - AI System Classification Framework](https://oecd.ai/en/classification)** - tool to characterise systems across policy-relevant dimensions to surface risks and controls. ([Guide - PDF](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/02/oecd-framework-for-the-classification-of-ai-systems_336a8b57/cb6d9eca-en.pdf))
 
 #### Control Catalogues & Mappings (use for gap-assessments)
-- **[CSA — AI Controls Matrix (AICM)](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix)** — 243 control objectives across 18 domains, mapped to ISO/IEC 42001, NIST AI RMF, etc.
-- **[BSI — AIC4 (AI Cloud Service Compliance Criteria Catalogue)](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/AIC4/AI-Cloud-Service-Compliance-Criteria-Catalogue_AIC4.pdf?__blob=publicationFile&v=4)** — criteria to evaluate security/robustness, performance, reliability, data quality/management, explainability, and bias for AI cloud services.
+- **[CSA - AI Controls Matrix (AICM)](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix)** - 243 control objectives across 18 domains, mapped to ISO/IEC 42001, NIST AI RMF, etc.
+- **[BSI - AIC4 (AI Cloud Service Compliance Criteria Catalogue)](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/AIC4/AI-Cloud-Service-Compliance-Criteria-Catalogue_AIC4.pdf?__blob=publicationFile&v=4)** - criteria to evaluate security/robustness, performance, reliability, data quality/management, explainability, and bias for AI cloud services.
 
 #### Impact Assessments (Project/System Level)
-- **[Microsoft — Responsible AI Impact Assessment](https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf)** — guidance and template for assessing potential impacts on people, orgs, and society. ([Guide](https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf) • [Template](https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Template.pdf))
-- **[TrustArc — AI Risk Assessment](https://trustarc.com/resource/ai-risk-assessment/)** — self-assessment to kick off trustworthy-AI evaluations across ethics, safety, security, and societal considerations.
+- **[Microsoft - Responsible AI Impact Assessment](https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf)** - guidance and template for assessing potential impacts on people, orgs, and society. ([Guide](https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf) • [Template](https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Template.pdf))
+- **[TrustArc - AI Risk Assessment](https://trustarc.com/resource/ai-risk-assessment/)** - self-assessment to kick off trustworthy-AI evaluations across ethics, safety, security, and societal considerations.
 
 ### Critical Infrastructure 
 - [DHS/CISA - Safety & Security Guidelines for Critical Infrastructure AI](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators) - Cross-lifecycle guidance for owners/operators (govern, design, develop, deploy, operate); developed with SRMAs and informed by CISA’s cross-sector risk analysis.
@@ -245,7 +245,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 *Automate attack suites (prompt-injection, leakage, jailbreak, goal-based tasks) in CI; score results and produce regression evidence.*
 
 #### Integrated platforms
-- **[AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)** [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?logo=github&label=&style=social)](https://github.com/Tencent/AI-Infra-Guard) — AI red-teaming platform: AI infra vulnerability scan (30+ components, ~400 CVEs), MCP server risk scan (9 categories), and jailbreak evaluation; web UI + Docker quick start.
+- **[AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)** [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?logo=github&label=&style=social)](https://github.com/Tencent/AI-Infra-Guard) - AI red-teaming platform: AI infra vulnerability scan (30+ components, ~400 CVEs), MCP server risk scan (9 categories), and jailbreak evaluation; web UI + Docker quick start.
 
 #### Prompt-injection test suites
 - **[Promptmap](https://github.com/utkusen/promptmap)** [![GitHub Repo stars](https://img.shields.io/github/stars/utkusen/promptmap?logo=github&label=&style=social)](https://github.com/utkusen/promptmap)
@@ -400,7 +400,7 @@ Interactive CTFs and self-contained labs for hands-on security skills (web, pwn,
 - **[OWASP Benchmark (Java)](https://github.com/OWASP-Benchmark/BenchmarkJava)** [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP-Benchmark/BenchmarkJava?logo=github&label=&style=social)](https://github.com/OWASP-Benchmark/BenchmarkJava) - runnable Java app with seeded vulns; supports SAST/DAST/IAST evaluation and scoring. [Dataset+Benchmark]
 - **[Juliet Test Suite (C/C++)](https://github.com/arichardson/juliet-test-suite-c)** [![GitHub Repo stars](https://img.shields.io/github/stars/arichardson/juliet-test-suite-c?logo=github&label=&style=social)](https://github.com/arichardson/juliet-test-suite-c) - runnable CWE cases for detect → fix → re-test. [Test Suite (benchmark-ready)]
 - **[Juliet Test Suite (Java)](https://github.com/UnitTestBot/juliet-java-test-suite)** [![GitHub Repo stars](https://img.shields.io/github/stars/UnitTestBot/juliet-java-test-suite?logo=github&label=&style=social)](https://github.com/UnitTestBot/juliet-java-test-suite) - runnable CWE cases for detect → fix → re-test. [Test Suite (benchmark-ready)]
-- **[NIST SARD — Software Assurance Reference Dataset](https://samate.nist.gov/SARD/)** - Labeled vulnerable/benign code datasets: >450k test cases (C/C++/Java/PHP/C#), 150+ CWEs; includes Juliet v1.3 (C/C++ 64,099 · Java 28,881 · C# 28,942 cases).
+- **[NIST SARD - Software Assurance Reference Dataset](https://samate.nist.gov/SARD/)** - Labeled vulnerable/benign code datasets: >450k test cases (C/C++/Java/PHP/C#), 150+ CWEs; includes Juliet v1.3 (C/C++ 64,099 · Java 28,881 · C# 28,942 cases).
 
 ### Phishing
 > Phishing dataset gap: there isn’t a public corpus that, per page, stores the URL plus full HTML/CSS/JS, images, favicon, and a screenshot. Most sources are just URL feeds; pages vanish quickly; older benchmarks drift, so models don’t generalize well. Collect a per-URL archive of all page resources, with caveats that screenshots are viewport-only and some assets may be blocked by browser safety.
@@ -583,10 +583,10 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 ### **Code Security**
 **Purpose**: Evaluates the correctness and security of model-generated code in realistic, production-like settings.
 
-- **[SecCodeBench](https://github.com/alibaba/sec-code-bench)** [![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/sec-code-bench?logo=github&label=&style=social)](https://github.com/alibaba/sec-code-bench) — 37 test cases / 16 CWEs; functionality-first pipeline; dynamic PoC exploits + static checks; includes LLM-as-a-Judge; Gen & Fix modes.
-- **[AICGSecEval](https://github.com/Tencent/AICGSecEval)** [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AICGSecEval?logo=github&label=&style=social)](https://github.com/Tencent/AICGSecEval) — repository-level, CVE-grounded tasks; multi-language; run scripts + leaderboard. [arXiv](https://arxiv.org/abs/2508.18106)
-- **[BaxBench](https://github.com/logic-star-ai/baxbench)** [![GitHub Repo stars](https://img.shields.io/github/stars/logic-star-ai/baxbench?logo=github&label=&style=social)](https://github.com/logic-star-ai/baxbench) — 392 backend tasks (28 scenarios × 14 frameworks × 6 languages); validates functionality and executes end-to-end exploits. [arXiv](https://arxiv.org/abs/2502.11844)
-- **[CWEval](https://github.com/Co1lin/CWEval)** [![GitHub Repo stars](https://img.shields.io/github/stars/Co1lin/CWEval?logo=github&label=&style=social)](https://github.com/Co1lin/CWEval) — simultaneous functionality+security evaluation with secure/functional oracles; Dockerized runner. [arXiv](https://arxiv.org/abs/2501.08200)
+- **[SecCodeBench](https://github.com/alibaba/sec-code-bench)** [![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/sec-code-bench?logo=github&label=&style=social)](https://github.com/alibaba/sec-code-bench) - 37 test cases / 16 CWEs; functionality-first pipeline; dynamic PoC exploits + static checks; includes LLM-as-a-Judge; Gen & Fix modes.
+- **[AICGSecEval](https://github.com/Tencent/AICGSecEval)** [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AICGSecEval?logo=github&label=&style=social)](https://github.com/Tencent/AICGSecEval) - repository-level, CVE-grounded tasks; multi-language; run scripts + leaderboard. [arXiv](https://arxiv.org/abs/2508.18106)
+- **[BaxBench](https://github.com/logic-star-ai/baxbench)** [![GitHub Repo stars](https://img.shields.io/github/stars/logic-star-ai/baxbench?logo=github&label=&style=social)](https://github.com/logic-star-ai/baxbench) - 392 backend tasks (28 scenarios × 14 frameworks × 6 languages); validates functionality and executes end-to-end exploits. [arXiv](https://arxiv.org/abs/2502.11844)
+- **[CWEval](https://github.com/Co1lin/CWEval)** [![GitHub Repo stars](https://img.shields.io/github/stars/Co1lin/CWEval?logo=github&label=&style=social)](https://github.com/Co1lin/CWEval) - simultaneous functionality+security evaluation with secure/functional oracles; Dockerized runner. [arXiv](https://arxiv.org/abs/2501.08200)
 
 ### **Adversarial Resilience**  
 **Purpose**: Evaluates agent performance on offensive-security tasks (pentesting, exploitation, and misuse resistance) with containerized runners and reproducible scoring.
@@ -600,23 +600,23 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 ##### CTF / Challenge Suites
 *Used for: time-boxed flag-capture tasks that isolate skills (web/pwn/rev/crypto/etc.) with containerized scoring.*
 
-- [NYU CTF Bench](https://nyu-llm-ctf.github.io/) [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/NYU_CTF_Bench?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) — 200 dockerized CSAW challenges across web/pwn/rev/forensics/crypto/misc; success = flag capture. [arXiv](https://arxiv.org/abs/2406.05590)
+- [NYU CTF Bench](https://nyu-llm-ctf.github.io/) [![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/NYU_CTF_Bench?logo=github&label=&style=social)](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) - 200 dockerized CSAW challenges across web/pwn/rev/forensics/crypto/misc; success = flag capture. [arXiv](https://arxiv.org/abs/2406.05590)
 
 ##### VM-Based End-to-End Pentest
 *Used for: full host compromise across recon→exploit→privesc on realistic VMs with scripted scoring.*
 
-- [AI-Pentest-Benchmark](https://github.com/isamu-isozaki/AI-Pentest-Benchmark) [![GitHub Repo stars](https://img.shields.io/github/stars/isamu-isozaki/AI-Pentest-Benchmark?logo=github&label=&style=social)](https://github.com/isamu-isozaki/AI-Pentest-Benchmark) — 13 vulnerable VMs (VulnHub), 152 subtasks (Recon 72 / Exploit 44 / PrivEsc 22 / General 14). [arXiv](https://arxiv.org/abs/2410.17141)
+- [AI-Pentest-Benchmark](https://github.com/isamu-isozaki/AI-Pentest-Benchmark) [![GitHub Repo stars](https://img.shields.io/github/stars/isamu-isozaki/AI-Pentest-Benchmark?logo=github&label=&style=social)](https://github.com/isamu-isozaki/AI-Pentest-Benchmark) - 13 vulnerable VMs (VulnHub), 152 subtasks (Recon 72 / Exploit 44 / PrivEsc 22 / General 14). [arXiv](https://arxiv.org/abs/2410.17141)
 
 ##### CVE App Suites / Task-Based
 *Used for: targeted exploit generation/execution against apps with known CVEs; measures live-system interaction.*
 
-- [CVE-Bench](https://github.com/uiuc-kang-lab/cve-bench) [![GitHub Repo stars](https://img.shields.io/github/stars/uiuc-kang-lab/cve-bench?logo=github&label=&style=social)](https://github.com/uiuc-kang-lab/cve-bench) — 40 dockerized web CVEs; success = expected impact triggered. [arXiv](https://arxiv.org/abs/2503.17332)
-- [AutoPenBench](https://github.com/lucagioacchini/auto-pen-bench) [![GitHub Repo stars](https://img.shields.io/github/stars/lucagioacchini/auto-pen-bench?logo=github&label=&style=social)](https://github.com/lucagioacchini/auto-pen-bench) — 33 tasks: 22 fundamentals + 11 CVEs; controlled runner with repeatable, fine-grained scoring. [arXiv](https://arxiv.org/abs/2410.03225)
+- [CVE-Bench](https://github.com/uiuc-kang-lab/cve-bench) [![GitHub Repo stars](https://img.shields.io/github/stars/uiuc-kang-lab/cve-bench?logo=github&label=&style=social)](https://github.com/uiuc-kang-lab/cve-bench) - 40 dockerized web CVEs; success = expected impact triggered. [arXiv](https://arxiv.org/abs/2503.17332)
+- [AutoPenBench](https://github.com/lucagioacchini/auto-pen-bench) [![GitHub Repo stars](https://img.shields.io/github/stars/lucagioacchini/auto-pen-bench?logo=github&label=&style=social)](https://github.com/lucagioacchini/auto-pen-bench) - 33 tasks: 22 fundamentals + 11 CVEs; controlled runner with repeatable, fine-grained scoring. [arXiv](https://arxiv.org/abs/2410.03225)
 
 ##### Patch-Validated Triggering
 *Used for: PoC inputs that crash the vulnerable build and not the patched build under fixed time/memory; sanitizer oracle.*
 
-- [CyberGym](https://github.com/sunblaze-ucb/cybergym) [![GitHub Repo stars](https://img.shields.io/github/stars/sunblaze-ucb/cybergym?logo=github&label=&style=social)](https://github.com/sunblaze-ucb/cybergym) — 1,507 instances from 188 OSS projects (via OSS-Fuzz); pre/post-patch builds with ASan/UBSan; input channels: stdin/file/argv; difficulty 0–3; pass/fail oracle. [Dataset](https://huggingface.co/datasets/sunblaze-ucb/cybergym) • [arXiv](https://arxiv.org/abs/2506.02548)
+- [CyberGym](https://github.com/sunblaze-ucb/cybergym) [![GitHub Repo stars](https://img.shields.io/github/stars/sunblaze-ucb/cybergym?logo=github&label=&style=social)](https://github.com/sunblaze-ucb/cybergym) - 1,507 instances from 188 OSS projects (via OSS-Fuzz); pre/post-patch builds with ASan/UBSan; input channels: stdin/file/argv; difficulty 0–3; pass/fail oracle. [Dataset](https://huggingface.co/datasets/sunblaze-ucb/cybergym) • [arXiv](https://arxiv.org/abs/2506.02548)
 
 #### Agent Misuse & Harm Induction
 
