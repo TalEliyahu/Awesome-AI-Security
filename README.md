@@ -134,7 +134,21 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 *Org-facing, ready-to-adapt/adjust policies for secure, responsible AI (e.g., acceptable use, data classification & handling, privacy/PII & retention, model/tool approvals, human-in-the-loop, attribution & content provenance, evaluation/red teaming, incident response, and third-party/vendor risk).*
 
 - [data.org — Generative AI Use Policy Template (PDF)](https://data.org/wp-content/uploads/2024/11/Generative-AI-Policy-Template.pdf)
+- [Responsible Artificial Intelligence Institute — AI Policy Template (PDF) ](https://www.aigl.blog/content/files/2025/05/AI-POLICY-TEMPLATE.pdf)
 - [ISACA — AI Acceptable Use Policy Template](https://www.isaca.org/resources/artificial-intelligence-acceptable-use-policy-template)
+
+### Risk Assessments
+*Risk assessment templates and scoring parameter to surface AI vulnerabilities, prioritize threats, and guide remediation.*
+
+- **[Trusted Arc AI Risk Assessment](https://trustarc.com/resource/ai-risk-assessment/)** — Use this AI Risk Assessment Template by Trusted Arc to identify, evaluate, and mitigate AI risks, use it to ensure compliance, security, and responsible AI deployment today.
+- **[NSW Government’s AI Assurance Framework Risk Assessment (DOCX)](https://cmsassets.ombo.nsw.gov.au/assets/Resources/Policies/Appendix-A-Generative-AI-Risk-Assessment-Tool-Template-1.docx)** — This Risk Assessment tool is based off the New South Wales Government’s AI Assurance Framework Risk Assessment which is used for all future use-cases that involve generative AI.
+
+### Impact Assessments
+*Impact assessment templates and evaluation guides to identify AI risks, assess system behavior, and inform mitigation strategies.*
+
+- **[Microsoft Responsible AI Impact Assessment Guide (PDF) ](https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf)** — This resource is intended to support in performing Responsible AI Impact Assessment.
+- **[Microsoft  Responsible AI Impact Assessment Template (PDF) ](https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Template.pdf)** — The Responsible AI Impact Assessment Template is the product of a multi-year effort of Microsoft to define a process for assessing the impact an AI system may have on people, organizations, and society.
+
 
 ### Toolkits & Self-Assessments
 *Practical workbooks and self-assessments to baseline AI risk, evaluate third parties, and plan improvements.*
@@ -886,6 +900,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 | LRM      | Large Reasoning Model                                                     |
 | MCTS     | Monte-Carlo Tree Search                                                   |
 | MIA      | Membership Inference Attack                                               |
+| MCP      | Modern Context Protocol                                                   |
 | MDP      | Masking-Differential Prompting                                            |
 | MLM      | Masked Language Model                                                     |
 | MLLM     | Multimodal Large Language Model                                           |
