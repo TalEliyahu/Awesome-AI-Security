@@ -534,7 +534,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - **[ehsanaghaei/SecureBERT](https://huggingface.co/ehsanaghaei/SecureBERT)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fehsanaghaei%2FSecureBERT&query=downloads&label=HF%20downloads&logo=huggingface) - RoBERTa-based domain LM for CTI/automation. - [arXiv](https://arxiv.org/abs/2204.02685)
 - **[markusbayer/CySecBERT](https://huggingface.co/markusbayer/CySecBERT)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fmarkusbayer%2FCySecBERT&query=downloads&label=HF%20downloads&logo=huggingface) - BERT further pre-trained on cybersecurity text for CTI tasks. - [arXiv](https://arxiv.org/abs/2212.02974)
 - **[ibm-research/CTI-BERT](https://huggingface.co/ibm-research/CTI-BERT)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fibm-research%2FCTI-BERT&query=downloads&label=HF%20downloads&logo=huggingface) - BERT tuned on large security text for CTI extraction. - [paper](https://aclanthology.org/2023.emnlp-industry.12.pdf)
-- **[basel/ATTACK-BERT](https://huggingface.co/basel/ATTACK-BERT)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fbasel%2FATTACK-BERT&query=downloads&label=HF%20downloads&logo=huggingface) - sentence-transformer for cybersecurity: maps attack-action text to embeddings; used to map free text to MITRE ATT&CK techniques (see SMET). :contentReference[oaicite:0]{index=0}
+- **[basel/ATTACK-BERT](https://huggingface.co/basel/ATTACK-BERT)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fbasel%2FATTACK-BERT&query=downloads&label=HF%20downloads&logo=huggingface) - sentence-transformer for cybersecurity: maps attack-action text to embeddings; used to map free text to MITRE ATT&CK techniques.
 
 ### Safety / Policy Classifiers (Guardrails & Moderation)
 - **[meta-llama/Llama-Prompt-Guard-2-86M](https://huggingface.co/meta-llama/Llama-Prompt-Guard-2-86M)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fmeta-llama%2FLlama-Prompt-Guard-2-86M&query=downloads&label=HF%20downloads&logo=huggingface) - multi-label prompt-injection/jailbreak detector (lightweight).
@@ -550,6 +550,11 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 ### Deepfake / Anti-Spoofing (Speech)
 - **[MTUCI/AASIST3](https://huggingface.co/MTUCI/AASIST3)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FMTUCI%2FAASIST3&query=downloads&label=HF%20downloads&logo=huggingface) - enhanced AASIST (KAN + SSL features).
+
+### Defense-Hardened
+
+- **Meta-SecAlign-8B / 70B (Meta)** — open-weight base models with built-in, model-level prompt-injection defense (SecAlign); 8B for lightweight use, 70B for higher capacity. [Paper](https://arxiv.org/abs/2507.02735) • [Code](https://github.com/facebookresearch/Meta_SecAlign) • [HF 8B](https://huggingface.co/facebook/Meta-SecAlign-8B) ![HF downloads 8B](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Ffacebook%2FMeta-SecAlign-8B&query=downloads&label=HF%20downloads&logo=huggingface) • [HF 70B](https://huggingface.co/facebook/Meta-SecAlign-70B) ![HF downloads 70B](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Ffacebook%2FMeta-SecAlign-70B&query=downloads&label=HF%20downloads&logo=huggingface)
+
 
 ---
 
