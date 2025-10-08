@@ -24,6 +24,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
   - [Critical Infrastructure](#critical-infrastructure)
 - [Tools](#tools)
 - [Models](#models)
+- [Research Working Groups](#research-working-groups)
 - [Attack & Defense Matrices](#attack--defense-matrices)
 - [Checklists](#checklists)
 - [Newsletter](#newsletter)
