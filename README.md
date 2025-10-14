@@ -1,6 +1,5 @@
 # Awesome AI Security ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-Curated resources, research, and tools for securing AI systems. Managed by [AISecHub](https://www.linkedin.com/groups/14545517/)
-
+Curated resources, research, and tools for securing AI systems. Managed by [AISecHub](https://www.linkedin.com/groups/14545517/). **Sponsored by:** [InnovGuard](https://www.innovguard.com/)
 
 <p align="center">
   <a href="https://www.innovguard.com/">
