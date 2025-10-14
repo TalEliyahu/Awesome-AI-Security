@@ -5,7 +5,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
   <a href="https://www.innovguard.com/">
     <img src="Sponsor.svg" alt="InnovGuard" width="320">
   </a><br>
-  <em>Technology Risk &amp; Cybersecurity Advisory – Innovate and Invest with Confidence, Lead with Assurance.</em>
+  <em>Technology Risk &amp; Cybersecurity Advisory - Innovate and Invest with Confidence, Lead with Assurance.</em>
 </p>
 
 ---
