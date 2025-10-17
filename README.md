@@ -419,7 +419,13 @@ Interactive CTFs and self-contained labs for hands-on security skills (web, pwn,
 ### Cybersecurity Knowledge
 Structured Q&A datasets assessing security knowledge and terminology. **Used to** evaluate factual recall and conceptual understanding.
 
-- **[CyberMetric](https://github.com/CyberMetric)** [![GitHub Repo stars](https://img.shields.io/github/stars/CyberMetric?logo=github&label=&style=social)](https://github.com/CyberMetric)
+- **[CyberMetric](https://github.com/cybermetric/CyberMetric)** [![GitHub Repo stars](https://img.shields.io/github/stars/cybermetric/CyberMetric?logo=github&label=&style=social)](https://github.com/cybermetric/CyberMetric) - 10k MCQs via RAG from standards/books/RFCs; subsets (80/500/2k/10k).
+
+- **[SecEval](https://huggingface.co/datasets/XuanwuAI/SecEval)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FXuanwuAI%2FSecEval&query=downloads&label=HF%20downloads&logo=huggingface) [![GitHub Repo stars](https://img.shields.io/github/stars/XuanwuAI/SecEval?logo=github&label=&style=social)](https://github.com/XuanwuAI/SecEval) - ~2k MCQs across 9 domains; eval kit and leaderboard on GitHub.
+
+- **[AttackQA](https://huggingface.co/datasets/sambanovasystems/attackqa)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fsambanovasystems%2Fattackqa&query=downloads&label=HF%20downloads&logo=huggingface) - 25,335 SOC/MITRE ATT&CK-grounded Q&A with rationales.
+
+- **[SECQA](https://huggingface.co/datasets/zefang-liu/secqa)** ![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fzefang-liu%2Fsecqa&query=downloads&label=HF%20downloads&logo=huggingface) - 242 MCQs (v1: 127, v2: 115), GPT-4–generated from one textbook; good for quick probes.
  
 ### Secure Coding & Vulnerability Detection
 Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Common Weakness Enumeration). **Used to** evaluate the model’s ability to recognize insecure code patterns and suggest secure fixes.
