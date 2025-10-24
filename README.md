@@ -506,6 +506,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - **[ISO/IEC 42001 - AI Management System (Lead Auditor, PECB)](https://pecb.com/en/education-and-certification-for-individuals/iso-iec-42001/iso-iec-42001-lead-auditor)** - Audit AIMS using recognized principles.
 - **[ISACA - Advanced in AI Audit (AAIA™)](https://www.isaca.org/credentialing/aaia)** - Certification for auditing AI systems and mitigating AI-related risks.
 - **[Practical DevSecOps - Certified AI Security Professional (CAISP)](https://www.practical-devsecops.com/certified-ai-security-professional/)** - Challenge-based exam certification simulating real-world AI security scenarios. 5 Challenges and 6 hours duration and report submission.
+- - **[Trusted AI Safety Expert Certificate (TAISE)](https://cloudsecurityalliance.org/education/taise)** - A 10 module based training course from CSA and Northeastern university with exam to prepare for safe, secure, and responsible development and deployment of AI systems.
 
 ---
 
