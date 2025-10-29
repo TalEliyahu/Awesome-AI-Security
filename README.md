@@ -635,6 +635,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 #### Agent Misuse & Harm Induction
 
 **[AgentHarm](https://huggingface.co/datasets/ai-safety-institute/AgentHarm)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fai-safety-institute%2FAgentHarm&query=downloads&label=HF%20downloads&logo=huggingface)](https://huggingface.co/datasets/ai-safety-institute/AgentHarm) human-authored harmful agent tasks for tool-using agents with benign counterparts, synthetic proxy tools, and a reproducible scoring harness; 110 base tasks (440 with augmentation), 11 categories, 104 tools. [arXiv](https://arxiv.org/abs/2410.09024) • **Best for:** measuring refusal vs completion on multi-step tool use and the impact of jailbreaks.
+
 **[Purple Llama – CyberSecEval](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama) - evaluates models’ propensity to assist cyber-offense (exploit/malware) and to generate insecure code; graded-risk tasks with a reproducible harness. **Best for:** dangerous-capability / misuse-risk scoring (text/IDE, non-agent).
 
 ### **Prompt Injection & Jailbreak Detection**
