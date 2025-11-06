@@ -304,6 +304,11 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 - **[Presidio](https://github.com/microsoft/presidio)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/presidio?logo=github&label=&style=social)](https://github.com/microsoft/presidio) - PII/PHI detection & redaction for text, images, and structured data; use as a pre/post-LLM DLP filter and for dataset sanitization.
 
+### Provably-Private Inference
+*Run AI models within a secure environment that guarantees, through verifiable methods like differential privacy and trusted execution, that individual data remains confidential and cannot be exposed or misused.*
+
+- **[OpenPCC](https://github.com/openpcc/openpcc)** Open standard for provably confidential AI inference, ensuring AI inputs and outputs remain securely hidden from all parties.
+
 ### Monitoring, Logging & Anomaly Detection
 *Collect AI-specific security logs/signals; detect abuse patterns (PI/jailbreak/leakage), enrich alerts, and support forensics.*
 
