@@ -234,8 +234,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 - **[microsandbox](https://github.com/microsandbox/microsandbox)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsandbox/microsandbox?logo=github&label=&style=social)](https://github.com/e2b-dev/E2B) - self-hosted microVM (libkrun) sandbox for untrusted AI/user code.
 
-
-### Provably-Private Inference
+### Confidential & Verifiable Inference (PCC/TEEs)
 *Run AI models inside attested TEEs with end-to-end encryption, auditability, and unlinkable requests so prompts and outputs never leave the secure boundary.*
 
 - **[OpenPCC](https://github.com/openpcc/openpcc) [![GitHub Repo stars](https://img.shields.io/github/stars/openpcc/openpcc?style=social)](https://github.com/openpcc/openpcc)** — Open-source framework for provably private AI inference (encrypted streaming, hardware attestation, unlinkable requests), inspired by Apple’s PCC and deployable on your own infra. 
