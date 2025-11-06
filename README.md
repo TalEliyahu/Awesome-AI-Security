@@ -234,6 +234,12 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 - **[microsandbox](https://github.com/microsandbox/microsandbox)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsandbox/microsandbox?logo=github&label=&style=social)](https://github.com/e2b-dev/E2B) - self-hosted microVM (libkrun) sandbox for untrusted AI/user code.
 
+
+### Provably-Private Inference
+*Run AI models inside attested TEEs with end-to-end encryption, auditability, and unlinkable requests so prompts and outputs never leave the secure boundary.*
+
+- **[OpenPCC](https://github.com/openpcc/openpcc) [![GitHub Repo stars](https://img.shields.io/github/stars/openpcc/openpcc?style=social)](https://github.com/openpcc/openpcc)** — Open-source framework for provably private AI inference (encrypted streaming, hardware attestation, unlinkable requests), inspired by Apple’s PCC and deployable on your own infra. 
+
 ### Gateways & Policy Proxies
 *Centralize auth, quotas/rate limits, cost caps, egress/DLP filters, and guardrail orchestration across all model/providers.*
 
@@ -303,11 +309,6 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 *Prevent secret/PII exfiltration in prompts/outputs via detection, redaction, and policy checks at I/O boundaries.*
 
 - **[Presidio](https://github.com/microsoft/presidio)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/presidio?logo=github&label=&style=social)](https://github.com/microsoft/presidio) - PII/PHI detection & redaction for text, images, and structured data; use as a pre/post-LLM DLP filter and for dataset sanitization.
-
-### Provably-Private Inference
-*Run AI models within a secure environment that guarantees, through verifiable methods like differential privacy and trusted execution, that individual data remains confidential and cannot be exposed or misused.*
-
-- **[OpenPCC](https://github.com/openpcc/openpcc)** Open standard for provably confidential AI inference, ensuring AI inputs and outputs remain securely hidden from all parties.
 
 ### Monitoring, Logging & Anomaly Detection
 *Collect AI-specific security logs/signals; detect abuse patterns (PI/jailbreak/leakage), enrich alerts, and support forensics.*
