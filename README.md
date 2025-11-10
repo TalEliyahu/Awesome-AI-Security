@@ -500,7 +500,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 #### Courses (includes labs)
 - **[SANS - SEC545: GenAI & LLM Application Security](https://www.sans.org/cyber-security-courses/genai-llm-application-security)** - Hands-on course covering prompt injection, excessive agency, model supply chain, and defensive patterns. *(Certificate of completion provided by SANS.)*
 - **[SANS - SEC495: Leveraging LLMs: Building & Securing RAG, Contextual RAG, and Agentic RAG](https://www.sans.org/cyber-security-courses/leveraging-llms-building-securing-rag)** - Practical RAG builds with threat modeling, validation, and guardrails. *(Certificate of completion provided by SANS.)*
-- **[Practical DevSecOps - Certified AI Security Professional (CAISP)](https://www.practical-devsecops.com/certified-ai-security-professional/)** - Hands-on labs covering LLM Top 10, AI Attack and Defend techniques, MITRE ATLAS Framework, AI Threat Modeling, AI supply chain attacks, Secure AI Deployment, and AI Governance. *(Certificate of completion provided by Practical DevSecOps.)*
+- **[Practical DevSecOps - Certified AI Security Professional (CAISP)](https://www.practical-devsecops.com/certified-ai-security-professional/)** - Hands-on labs covering LLM Top 10, AI Attack and Defend techniques, MITRE ATLAS Framework, AI Threat Modeling, AI supply chain attacks, Secure AI Deployment, and AI Governance. 
 
 #### Professional Certifications (exam-based)
 
