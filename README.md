@@ -503,11 +503,19 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - **[Practical DevSecOps - Certified AI Security Professional (CAISP)](https://www.practical-devsecops.com/certified-ai-security-professional/)** - Hands-on labs covering LLM Top 10, AI Attack and Defend techniques, MITRE ATLAS Framework, AI Threat Modeling, AI supply chain attacks, Secure AI Deployment, and AI Governance. *(Certificate of completion provided by Practical DevSecOps.)*
 
 #### Professional Certifications (exam-based)
+
+##### Governance & AIMS
 - **[IAPP - Artificial Intelligence Governance Professional (AIGP)](https://iapp.org/certify/aigp/)** - Governance-focused credential aligned with emerging regulations.
-- **[ISACA - Advanced in AI Security Management (AAISM™)](https://www.isaca.org/credentialing/aaism)** - AI-centric security management certification.
+- **[ISO/IEC 42001 - AI Management System (Lead Implementer, PECB)](https://pecb.com/en/education-and-certification-for-individuals/iso-iec-42001/iso-iec-42001-lead-implementer)** - Implement an AIMS per ISO/IEC 42001.
+
+##### Risk Management
 - **[NIST AI RMF 1.0 Architect - Certified Information Security](https://www.certifiedinfosec.com/services/training-courses/ai/nist-ai-rmf-1-0-architect-training)** - Credential aligned to NIST AI RMF 1.0.
 - **[ISO/IEC 23894 - AI Risk Management (AI Risk Manager, PECB)](https://pecb.com/en/education-and-certification-for-individuals/ai-risk)** - Risk identification, assessment, and mitigation aligned to ISO/IEC 23894 and NIST AI RMF.
-- **[ISO/IEC 42001 - AI Management System (Lead Implementer, PECB)](https://pecb.com/en/education-and-certification-for-individuals/iso-iec-42001/iso-iec-42001-lead-implementer)** - Implement an AIMS per ISO/IEC 42001.
+
+##### Security Management
+- **[ISACA - Advanced in AI Security Management (AAISM™)](https://www.isaca.org/credentialing/aaism)** - AI-centric security management certification.
+
+##### Audit Assurance
 - **[ISO/IEC 42001 - AI Management System (Lead Auditor, PECB)](https://pecb.com/en/education-and-certification-for-individuals/iso-iec-42001/iso-iec-42001-lead-auditor)** - Audit AIMS using recognized principles.
 - **[ISACA - Advanced in AI Audit (AAIA™)](https://www.isaca.org/credentialing/aaia)** - Certification for auditing AI systems and mitigating AI-related risks.
 
