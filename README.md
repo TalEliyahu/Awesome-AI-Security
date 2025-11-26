@@ -93,6 +93,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - [OWASP - Red Teaming Guide](https://genai.owasp.org/resource/genai-red-teaming-guide/)
 - [OWASP - LLM Exploit Generation](https://genai.owasp.org/resource/owasp-llm-exploit-generation-v1-0-pdf/)
 - [CSA - Agentic AI Red Teaming Guide](https://cloudsecurityalliance.org/artifacts/agentic-ai-red-teaming-guide)
+- [OWASP AI Testing Guide](https://github.com/OWASP/www-project-ai-testing-guide/raw/5c6d357e2290e8c81ab7e6673950e978e1b83604/PDFGenerator/V1.0/OWASP-AI-Testing-Guide-v1.pdf) – Open standard for trustworthiness testing of AI systems, providing shared terminology and a structured approach to AI testing.
 
 ### Implementation Guides & Patterns
 
