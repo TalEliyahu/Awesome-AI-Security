@@ -237,7 +237,9 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Confidential & Verifiable Inference (PCC/TEEs)
 *Run AI models inside attested TEEs with end-to-end encryption, auditability, and unlinkable requests so prompts and outputs never leave the secure boundary.*
 
-- **[OpenPCC](https://github.com/openpcc/openpcc) [![GitHub Repo stars](https://img.shields.io/github/stars/openpcc/openpcc?style=social)](https://github.com/openpcc/openpcc)** — Open-source framework for provably private AI inference (encrypted streaming, hardware attestation, unlinkable requests), inspired by Apple’s PCC and deployable on your own infra. 
+- **[Phala](https://phala.com/)** ([Docs](https://docs.phala.network/) • [GitHub](https://github.com/Phala-Network/phala-cloud)) — Confidential AI cloud platform running LLMs and AI workloads in GPU TEEs (NVIDIA H100/H200). Features hardware attestation, verifiable inference, and Docker-based deployment with zero code changes. Supports both CPU TEE (Intel TDX) and GPU TEE for confidential AI at scale.
+- **[dstack](https://github.com/dstack-TEE/dstack)** [![GitHub Repo stars](https://img.shields.io/github/stars/dstack-TEE/dstack?logo=github&label=&style=social)](https://github.com/dstack-TEE/dstack) — Open-source SDK for building TEE-based confidential applications. Provides Docker-to-TEE deployment, remote attestation, secure key management, and TLS termination inside enclaves. Works with Intel TDX and NVIDIA GPU TEEs.
+- **[OpenPCC](https://github.com/openpcc/openpcc) [![GitHub Repo stars](https://img.shields.io/github/stars/openpcc/openpcc?style=social)](https://github.com/openpcc/openpcc)** — Open-source framework for provably private AI inference (encrypted streaming, hardware attestation, unlinkable requests), inspired by Apple's PCC and deployable on your own infra. 
 
 ### Gateways & Policy Proxies
 *Centralize auth, quotas/rate limits, cost caps, egress/DLP filters, and guardrail orchestration across all model/providers.*
