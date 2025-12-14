@@ -84,6 +84,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - [OWASP - Top 10 for Large Language Model Applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-top-10-for-large-language-model-applications?logo=github&label=&style=social)](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications)
 - [CSA - MCP Client Top 10](https://modelcontextprotocol-security.io/top10/client/) 
 - [CSA - MCP Server Top 10](https://modelcontextprotocol-security.io/top10/server/)
+- [OWASP Top 10 for Agentic Applications](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/) — A globally peer-reviewed framework identifying the most critical security risks for autonomous and agentic AI systems, with practical guidance for securing AI agents across complex workflows.
+
 
 #### Scoring & Rating Systems
 - [OWASP - Artificial Intelligence Vulnerability Scoring System](https://github.com/OWASP/www-project-artificial-intelligence-vulnerability-scoring-system) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-artificial-intelligence-vulnerability-scoring-system?logo=github&label=&style=social)](https://github.com/OWASP/www-project-artificial-intelligence-vulnerability-scoring-system)
