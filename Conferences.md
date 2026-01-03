@@ -1,5 +1,35 @@
 # AI Security Conferences 
 
+## January 2026
+
+- 📅 **NHIcon 2026 — The Rise of Agentic AI Security** — **January 27, 2026** · Virtual · https://aembit.io/nhicon/ · *Organizer:* Aembit   
+- 📅 **CSA AI Summit 2026** — **January 28–29, 2026** · Virtual · https://cloudsecurityalliance.org/events/csa-ai-summit-2026 · *Organizer:* Cloud Security Alliance   
+
+## February 2026
+
+- 📅 **DiCyFor & AI Security Summit (Singapore)** — **February 10, 2026** · Singapore · https://www.dicyfor.com/singapore2026 · *Organizer:* DiCyFor   
+- 📅 **IEEE ICAIC 2026 — International Conference on AI in Cybersecurity** — **February 18–20, 2026** · University of Houston, Houston, TX, USA · https://icaic.gyancity.com/ · *Organizer:* IEEE / ICAIC   
+
+## March 2026
+
+- 📅 **[un]prompted — The AI Security Practitioner Conference** — **March 3–4, 2026** · Salesforce Tower, San Francisco, CA, USA · https://unpromptedcon.org/ · *Organizer:* [un]prompted   
+- 📅 **AI Security Summit 2026** — **March 10, 2026** · Check Point HQ, Tel Aviv, Israel · https://events.lynx.co/ai-security-summit/ · *Organizer:* Lynx Events   
+- 📅 **DiCyFor & AI Security Summit (Bangkok)** — **March 11–12, 2026** · Bangkok, Thailand · https://www.dicyfor.com/bangkok2026 · *Organizer:* DiCyFor   
+- 📅 **IEEE SaTML 2026 — Secure and Trustworthy Machine Learning** — **March 23–25, 2026** · Munich, Germany · https://satml.org/ · *Organizer:* IEEE SaTML   
+
+## April 2026
+
+- 📅 **DiCyFor & AI Security Summit (Kuala Lumpur)** — **April 15, 2026** · Kuala Lumpur, Malaysia · https://www.dicyfor.com/kualalumpur2026 · *Organizer:* DiCyFor   
+- 📅 **SANS AI Cybersecurity Summit 2026** — **April 20–21, 2026** · Arlington, VA, USA & Virtual · https://www.sans.org/cyber-security-training-events/ai-summit-2026 · *Organizer:* SANS Institute   
+- 📅 **AI Security Summit @ Black Hat Asia** — **April 22, 2026** · Marina Bay Sands, Singapore · https://www.blackhat.com/asia-26/ai-security-summit.html · *Organizer:* Black Hat   
+
+## May 2026
+
+- 📅 **AI Sec Summit 2026** — **May 7, 2026** · London, UK · https://akjassociates.com/event/ai-sec-summit-2026/ · *Organizer:* AKJ Associates
+
+  
+--------------------
+
 ## August 2025
 
 - 📅 **The AI Summit @ Black Hat USA** — **August 5, 2025** · Mandalay Bay, Las Vegas · https://www.blackhat.com/us-25/ai-summit.html · *Organizer:* Black Hat Events  
