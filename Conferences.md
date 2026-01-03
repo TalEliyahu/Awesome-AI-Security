@@ -1,4 +1,4 @@
-# AI Security Conferences 
+# AI Security Conferences - 2026
 
 ## January 2026
 
