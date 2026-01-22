@@ -344,7 +344,9 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 ## [↑](#table-of-contents)Supply Chain Security <a name="supply-chain-security"></a>
 Guidance and standards for securing the AI/ML software supply chain (models, datasets, code, pipelines). Primarily specs and frameworks; includes vetted TPRM templates.
-
+https://link.springer.com/chapter/10.1007/979-8-8688-0799-2_6
+https://link.springer.com/chapter/10.1007/979-8-8688-0799-2_3
+https://link.springer.com/chapter/10.1007/979-8-8688-0799-2_9
 ### Standards & Specs
 *Normative formats and specifications for transparency and traceability across AI components and dependencies.*
 
