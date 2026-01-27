@@ -505,7 +505,6 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - **[SANS - SEC545: GenAI & LLM Application Security](https://www.sans.org/cyber-security-courses/genai-llm-application-security)** - Hands-on course covering prompt injection, excessive agency, model supply chain, and defensive patterns. *(Certificate of completion provided by SANS.)*
 - **[SANS - SEC495: Leveraging LLMs: Building & Securing RAG, Contextual RAG, and Agentic RAG](https://www.sans.org/cyber-security-courses/leveraging-llms-building-securing-rag)** - Practical RAG builds with threat modeling, validation, and guardrails. *(Certificate of completion provided by SANS.)*
 - **[Practical DevSecOps - Certified AI Security Professional (CAISP)](https://www.practical-devsecops.com/certified-ai-security-professional/)** - Hands-on labs covering LLM Top 10, AI Attack and Defend techniques, MITRE ATLAS Framework, AI Threat Modeling, AI supply chain attacks, Secure AI Deployment, and AI Governance.
-- **[8kSec Academy - Certified AI Security Researcher (CAISR)](https://academy.8ksec.io/course/practical-ai-security)** - Hands-on AI security labs that challenge you across AI, ML, and LLM systems, focusing on real-world exploitation paths, defensive design flaws, and how modern AI actually breaks under attack.
 
 #### Professional Certifications (exam-based)
 
@@ -539,7 +538,6 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - [AI GOAT](https://github.com/dhammon/ai-goat) [![GitHub Repo stars](https://img.shields.io/github/stars/dhammon/ai-goat?logo=github&label=&style=social)](https://github.com/dhammon/ai-goat) - Vulnerable LLM CTF challenges for learning AI security.
 - [Damn Vulnerable LLM Agent](https://github.com/ReversecLabs/damn-vulnerable-llm-agent) [![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/damn-vulnerable-llm-agent?logo=github&label=&style=social)](https://github.com/ReversecLabs/damn-vulnerable-llm-agent)
 - [AI Red Teaming Playground Labs - Microsoft](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AI-Red-Teaming-Playground-Labs?logo=github&label=&style=social)](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - Self-hostable environment with 12 challenges (direct/indirect prompt injection, metaprompt extraction, Crescendo multi-turn, guardrail bypass).
-- [AI/LLM Exploitation Challenges - 8kSec](https://academy.8ksec.io/course/ai-exploitation-challenges) - A curated set of 10 AI and LLM security challenges that simulate real attack paths.
 
 ### Bespoke
 - [Trail of Bits - AI/ML Security & Safety Training](https://www.trailofbits.com/services/software-assurance/ai-ml/) - Courses on AI failure modes, adversarial attacks, data provenance, pipeline threats, and mitigation.
