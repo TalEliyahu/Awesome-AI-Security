@@ -256,6 +256,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 *Automate attack suites (prompt-injection, leakage, jailbreak, goal-based tasks) in CI; score results and produce regression evidence.*
 
 #### Integrated platforms
+- **[PwnClaw](https://pwnclaw.com)** [![GitHub Repo stars](https://img.shields.io/github/stars/ClawdeRaccoon/pwnclaw?logo=github&label=&style=social)](https://github.com/ClawdeRaccoon/pwnclaw) - AI agent security testing platform: 112 attacks across 14 categories (prompt injection, jailbreaks, MCP poisoning, data exfiltration, social engineering, agency hijacking). No API keys needed; AI-powered judge; CI/CD API and GitHub Action.
 - **[AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)** [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?logo=github&label=&style=social)](https://github.com/Tencent/AI-Infra-Guard) - AI red-teaming platform: AI infra vulnerability scan (30+ components, ~400 CVEs), MCP server risk scan (9 categories), and jailbreak evaluation; web UI + Docker quick start.
 
 #### Prompt-injection test suites
