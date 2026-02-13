@@ -815,9 +815,6 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 #### Test & Evaluate
 *Adversarial testing for goal drift, prompt injection, and tool misuse; red-team sims; sandboxed calls; decision validation.*
-- [AccuKnox AI Security](https://accuknox.com/blog)
-  [![GitHub followers](https://img.shields.io/github/followers/citadel-ai?style=social&label=)](https://github.com/AccuKnox)
-  [![X followers](https://img.shields.io/twitter/follow/CitadelAI?style=social&logo=x&label=%20)](https://x.com/AccuKnox)
 - [Citadel AI](https://citadel-ai.com/blog/)
   [![GitHub followers](https://img.shields.io/github/followers/citadel-ai?style=social&label=)](https://github.com/citadel-ai)
   [![X followers](https://img.shields.io/twitter/follow/CitadelAI?style=social&logo=x&label=%20)](https://x.com/CitadelAI)
