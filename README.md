@@ -194,6 +194,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[LlamaFirewall](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
 - **[Code Shield](https://github.com/meta-llama/PurpleLlama/tree/main/CodeShield)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
 - **[Guardrails](https://github.com/guardrails-ai/guardrails)** [![GitHub Repo stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?logo=github&label=&style=social)](https://github.com/guardrails-ai/guardrails) - Runtime policy enforcement for LLM apps: compose input/output validators (PII, toxicity, jailbreak/PI, regex, competitor checks), then block/redact/rewrite/retry on fail; optional server mode; also supports structured outputs (Pydantic/function-calling).
+- **[APort Agent Guardrails](https://github.com/aporthq/aport-agent-guardrails)** [![GitHub Repo stars](https://img.shields.io/github/stars/aporthq/aport-agent-guardrails?logo=github&label=&style=social)](https://github.com/aporthq/aport-agent-guardrails) - Pre-action authorization for OpenClaw/agent frameworks; `before_tool_call` hook, passport-driven, 40+ blocked patterns, local or API. Setup: `npx @aporthq/agent-guardrails`
 
 
 ### Model Artifact Scanners
