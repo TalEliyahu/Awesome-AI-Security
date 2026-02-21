@@ -217,8 +217,6 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Agent Tooling and MCP Security
 *Scan/audit MCP servers & client configs; detect tool poisoning, unsafe flows; constrain tool access with least-privilege and audit trails.*
 
-- **[Pipelock](https://github.com/luckyPipewrench/pipelock)** [![GitHub Repo stars](https://img.shields.io/github/stars/luckyPipewrench/pipelock?logo=github&label=&style=social)](https://github.com/luckyPipewrench/pipelock) - Application-layer firewall for AI agents: egress proxy with 9-layer scanner pipeline (DLP, SSRF, entropy), bidirectional MCP proxy with tool poisoning detection, and workspace integrity monitoring. Single Go binary, zero runtime deps.
-
 #### Honeypots & Deception (MCP/LLM)
 
 - **[Beelzebub](https://github.com/mariocandela/beelzebub)** [![GitHub Repo stars](https://img.shields.io/github/stars/mariocandela/beelzebub?logo=github&label=&style=social)](https://github.com/mariocandela/beelzebub) - Beelzebub is a honeypot framework designed to provide a secure environment for detecting and analyzing cyber attacks. It offers a low code approach for easy implementation and uses AI to mimic the behavior of a high-interaction honeypot.
