@@ -227,6 +227,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Servers & Dev tooling
 - **[PortSwigger - MCP Server](https://github.com/PortSwigger/mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?logo=github&label=&style=social)](https://github.com/PortSwigger/mcp-server)
 - **[ToolHive](https://github.com/stacklok/toolhive)** [![GitHub Repo stars](https://img.shields.io/github/stars/stacklok/toolhive?logo=github&label=&style=social)](https://github.com/stacklok/toolhive) - MCP server orchestrator for desktop, CLI, and Kubernetes Operator: discover and deploy servers in isolated containers with restricted permissions, manage secrets, use an optional egress proxy, auto-configure popular MCP clients (e.g., GitHub Copilot, Cursor), and manage at scale via CRDs/registry.
+- **[AstraCipher](https://github.com/san-techie21/astracipher)** [![GitHub Repo stars](https://img.shields.io/github/stars/san-techie21/astracipher?logo=github&label=&style=social)](https://github.com/san-techie21/astracipher) - Cryptographic identity protocol for AI agents using W3C DIDs, Verifiable Credentials, and NIST post-quantum cryptography (ML-DSA-65 FIPS 204). MCP Server provides capability-bounded tool authorization, trust chain verification, and hybrid PQC signatures for secure agent-to-tool interactions.
 
 ### Execution Sandboxing for Agent Code
 *Run untrusted or LLM-triggered code in isolated sandboxes (FS/network/process limits) to contain RCE and reduce blast radius.*
