@@ -380,7 +380,6 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 - **[SafetyPrompts](https://safetyprompts.com/)** - living index of LLM safety datasets & evals (jailbreak, prompt injection, toxicity, privacy), with filters and a maintained sheet.
 - **[Awesome Cybersecurity Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets)** [![GitHub Repo stars](https://img.shields.io/github/stars/shramos/Awesome-Cybersecurity-Datasets?logo=github&label=&style=social)](https://github.com/shramos/Awesome-Cybersecurity-Datasets)
 
-
 ### Cybersecurity Skills 
 Interactive CTFs and self-contained labs for hands-on security skills (web, pwn, crypto, forensics, reversing). **Used to** assess practical reasoning, tool use, and end-to-end task execution.
 
@@ -444,7 +443,8 @@ Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Commo
 
 - **[PrimeVul](https://github.com/DLVulDet/PrimeVul)** [![GitHub Repo stars](https://img.shields.io/github/stars/DLVulDet/PrimeVul?logo=github&label=&style=social)](https://github.com/DLVulDet/PrimeVul) – Combines [BigVul](https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset), [CrossVul](https://zenodo.org/records/4734050), [CVEfixes](https://github.com/secureIT-project/CVEfixes), and [DiverseVul](https://github.com/wagner-group/diversevul); de-duplicated and commit-filtered for high-quality labels; temporal train/val/test split by commit time. 224,533 functions from 755 open-source projects; 6,062 vulnerable; broad CWE coverage. ([arXiv](https://arxiv.org/abs/2403.18624))
 
-
+- **[CredData (Samsung)](https://github.com/Samsung/CredData)** [![GitHub Repo stars](https://img.shields.io/github/stars/Samsung/CredData?logo=github&label=&style=social)](https://github.com/Samsung/CredData) - Labeled dataset of credential-like code lines flagged by scanners, with human GroundTruth (T/F/X) + metadata for benchmarking secret scanners.
+- 
 ### Malware Behavior & Dynamic Analysis
 
 - **[Avast–CTU Public CAPEv2 Dataset](https://github.com/avast/avast-ctu-cape-dataset)** [![GitHub Repo stars](https://img.shields.io/github/stars/avast/avast-ctu-cape-dataset?logo=github&label=&style=social)](https://github.com/avast/avast-ctu-cape-dataset) - 48,976 sandbox JSON reports (CAPEv2) across 10 families (Adload, Emotet, HarHar, Lokibot, njRAT, Qakbot, Swisyn, Trickbot, Ursnif, Zeus); per-sample metadata: `sha256`, family, type (`banker`, `trojan`, `pws`, `coinminer`, `rat`, `keylogger`), detection date. Two versions: Full (~13 GB) and Reduced (~566 MB) keeping `behavior.summary` + `static.pe` (avoids label leakage). **Used for:** behavior-based malware classification & concept-drift studies. - [arXiv](https://arxiv.org/abs/2209.03188)
