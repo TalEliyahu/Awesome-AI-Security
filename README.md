@@ -125,7 +125,6 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - [OWASP - State of Agentic AI Security and Governance](https://genai.owasp.org/resource/state-of-agentic-ai-security-and-governance-1-0/)
 - [CSA - Secure Agentic System Design: A Trait-Based Approach](https://cloudsecurityalliance.org/artifacts/secure-agentic-system-design)
 - [CSA - Agentic AI Identity & Access Management](https://cloudsecurityalliance.org/artifacts/agentic-ai-identity-and-access-management-a-new-approach) - 08/25
-- [PIC Standard](https://github.com/madeinplutofabio/pic-standard) – Local-first protocol for provenance & intent verification before agent actions (fail-closed, verifiable evidence via hashes/signatures). MCP, LangGraph, OpenClaw, Cordum ready.
 
 ### Threat Modeling
 
