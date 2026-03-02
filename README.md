@@ -652,6 +652,8 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 **[Purple Llama – CyberSecEval](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama) - evaluates models’ propensity to assist cyber-offense (exploit/malware) and to generate insecure code; graded-risk tasks with a reproducible harness. **Best for:** dangerous-capability / misuse-risk scoring (text/IDE, non-agent).
 
+- **[b³ – Breaking Agent Backbones](https://arxiv.org/abs/2510.22620)** - benchmark evaluating the security of backbone LLMs powering AI agents; 194,331 crowdsourced adversarial attacks across 34 models; introduces "threat snapshots" to identify where LLM vulnerabilities propagate to agent-level risks; finds reasoning capability (not model size) correlates with security. [ICLR 2026] [arXiv](https://arxiv.org/abs/2510.22620)
+
 ### **Prompt Injection & Jailbreak Detection**
 **Purpose**: Evaluates resistance to prompt-injection and jailbreak attempts in chat/RAG/agent contexts.  
 **NIST AI RMF Alignment**: **Measure, Manage**
