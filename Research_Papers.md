@@ -3,10 +3,17 @@
 A curated list of recent research relevant to AI security.
 
 ## Table of Contents
+- [February 2026](#february-2026)
 - [August 2025](#august-2025)
 - [July 2025](#july-2025)
 - [June 2025](#june-2025)
 - [May 2025](#may-2025)
+
+## February 2026
+
+- 📖 **[Breaking Agent Backbones: Evaluating the Security of Backbone LLMs in AI Agents](https://arxiv.org/abs/2510.22620)** — Introduces "threat snapshots" to identify where backbone LLM vulnerabilities propagate to agent-level risks; the b³ benchmark evaluates 34 LLMs against 194,331 crowdsourced adversarial attacks and finds reasoning capability (not model size) correlates with security. [ICLR 2026]
+
+---
 
 ## August 2025
 
