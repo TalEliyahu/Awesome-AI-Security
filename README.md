@@ -379,7 +379,6 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 - **[Hugging Face](https://huggingface.co/datasets?search=cybersecurity)** - Search HF datasets tagged/related to cybersecurity and threat intel.
 - **[SafetyPrompts](https://safetyprompts.com/)** - living index of LLM safety datasets & evals (jailbreak, prompt injection, toxicity, privacy), with filters and a maintained sheet.
 - **[Awesome Cybersecurity Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets)** [![GitHub po ars](https://img.shields.io/github/stars/shramos/Awesome-Cybersecurity-Datasets?logo=github&label=&style=social)](https://github.com/shramos/Awesome-Cybersecurity-Datasets)
-- - **[AI TRiSM Market Index](https://github.com/alpha-one-index/ai-trism-index)** [![GitHub Repo stars](https://img.shields.io/github/stars/alpha-one-index/ai-trism-index?logo=github&label=&style=social)](https://github.com/alpha-one-index/ai-trism-index) - Open-source index of 84+ AI Trust, Risk, and Security Management (AI TRiSM) vendors with market sizing, regulatory tracker, M&A activity, and interactive dashboard. [Dataset]
 
 ### Cybersecurity Skills 
 Interactive CTFs and self-contained labs for hands-on security skills (web, pwn, crypto, forensics, reversing). **Used to** assess practical reasoning, tool use, and end-to-end task execution.
