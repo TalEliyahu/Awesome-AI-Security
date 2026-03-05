@@ -225,7 +225,6 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
 
 #### Agent Identity & Trust
-- **[AIP (Agent Identity Protocol)](https://github.com/The-Nexus-Guard/aip)** [![GitHub Repo stars](https://img.shields.io/github/stars/The-Nexus-Guard/aip?logo=github&label=&style=social)](https://github.com/The-Nexus-Guard/aip) - Decentralized identity and trust infrastructure for AI agents. Ed25519 cryptographic identity with DID-based addressing, verifiable trust vouching, end-to-end encrypted messaging (NaCl SealedBox), trust graphs, and signed artifacts. Includes MCP server for agent identity verification.
 
 #### Servers & Dev tooling
 - **[PortSwigger - MCP Server](https://github.com/PortSwigger/mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?logo=github&label=&style=social)](https://github.com/PortSwigger/mcp-server)
