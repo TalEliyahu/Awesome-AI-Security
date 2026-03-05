@@ -224,6 +224,9 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[MCP Inspector](https://github.com/modelcontextprotocol/inspector)** [![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector?logo=github&label=&style=social)](https://github.com/modelcontextprotocol/inspector)
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
 
+#### Agent Identity & Trust
+- **[AIP (Agent Identity Protocol)](https://github.com/The-Nexus-Guard/aip)** [![GitHub Repo stars](https://img.shields.io/github/stars/The-Nexus-Guard/aip?logo=github&label=&style=social)](https://github.com/The-Nexus-Guard/aip) - Decentralized identity and trust infrastructure for AI agents. Ed25519 cryptographic identity with DID-based addressing, verifiable trust vouching, end-to-end encrypted messaging (NaCl SealedBox), trust graphs, and signed artifacts. Includes MCP server for agent identity verification.
+
 #### Servers & Dev tooling
 - **[PortSwigger - MCP Server](https://github.com/PortSwigger/mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?logo=github&label=&style=social)](https://github.com/PortSwigger/mcp-server)
 - **[ToolHive](https://github.com/stacklok/toolhive)** [![GitHub Repo stars](https://img.shields.io/github/stars/stacklok/toolhive?logo=github&label=&style=social)](https://github.com/stacklok/toolhive) - MCP server orchestrator for desktop, CLI, and Kubernetes Operator: discover and deploy servers in isolated containers with restricted permissions, manage secrets, use an optional egress proxy, auto-configure popular MCP clients (e.g., GitHub Copilot, Cursor), and manage at scale via CRDs/registry.
