@@ -760,6 +760,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 - [**CSA - Large Language Model (LLM) Threats Taxonomy**](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy) - Community taxonomy of LLM-specific threats; clarifies categories/definitions for risk discussion and control mapping.
 - [**ARC - PI (Prompt Injection) Taxonomy**](https://github.com/Arcanum-Sec/arc_pi_taxonomy) - Focused taxonomy for prompt-injection behaviors/variants with practical labeling guidance for detection and defense.
+- **[WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)** - Structured taxonomy of common RAG and LLM pipeline failures (e.g., hallucination, retrieval drift, grounding errors) for diagnosing and debugging Retrieval-Augmented Generation systems.
 
 ---
 
