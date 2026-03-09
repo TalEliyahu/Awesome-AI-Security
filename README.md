@@ -223,6 +223,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Tool manifest/metadata validators
 - **[MCP Inspector](https://github.com/modelcontextprotocol/inspector)** [![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector?logo=github&label=&style=social)](https://github.com/modelcontextprotocol/inspector)
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
+- **[Firmis Scanner](https://github.com/riteshkew/firmis-scanner)** [![GitHub Repo stars](https://img.shields.io/github/stars/riteshkew/firmis-scanner?logo=github&label=&style=social)](https://github.com/riteshkew/firmis-scanner) - Full-lifecycle security scanner for AI agents: 224 rules across 8 platforms, runtime monitoring hooks (Claude Code, Gemini CLI, Cursor), behavioral anomaly scoring, auto-fix engine, CycloneDX BOM generation, and compliance mapping.
 
 #### Agent Identity & Trust
 
