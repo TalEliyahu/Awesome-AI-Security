@@ -223,6 +223,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Tool manifest/metadata validators
 - **[MCP Inspector](https://github.com/modelcontextprotocol/inspector)** [![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector?logo=github&label=&style=social)](https://github.com/modelcontextprotocol/inspector)
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
+- **[Prism Scanner](https://github.com/aidongise-cell/prism-scanner)** [![GitHub Repo stars](https://img.shields.io/github/stars/aidongise-cell/prism-scanner?logo=github&label=&style=social)](https://github.com/aidongise-cell/prism-scanner) - Security scanner for AI agent skills, plugins, and MCP servers covering full lifecycle: pre-install code analysis with taint tracking and post-uninstall residue detection. Supports ClawHub, MCP, npm, and pip.
 
 #### Agent Identity & Trust
 
