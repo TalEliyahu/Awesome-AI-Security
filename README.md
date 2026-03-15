@@ -183,7 +183,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Prompt-Injection Detection & Mitigation
 *Detect and stop prompt-injection (direct/indirect) across inputs, context, and outputs; filter hostile content before it reaches tools or models.*
 
-- **[prompt-shield](https://github.com/mthamil107/prompt-shield)** -- Self-learning prompt injection detection engine for LLM applications with 23 detectors, PII redaction, and community threat feed.
+- *(none from your current list yet)* -
 
 ### Jailbreak & Policy Enforcement (Guardrails)
 *Enforce safety policies and block jailbreaks at runtime via rules/validators/DSLs, with optional human-in-the-loop for sensitive actions.*
