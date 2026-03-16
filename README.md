@@ -225,8 +225,6 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
 
 #### Agent Identity & Trust
-- **[MCPS (MCP Secure)](https://github.com/razashariff/mcps)** [![GitHub Repo stars](https://img.shields.io/github/stars/razashariff/mcps?logo=github&label=&style=social)](https://github.com/razashariff/mcps) — Cryptographic security layer for MCP: ECDSA P-256 agent passports, per-message signing, replay protection, tool integrity verification. Zero runtime dependencies. [IETF Internet-Draft](https://datatracker.ietf.org/doc/draft-sharif-mcps-secure-mcp/) | [npm](https://www.npmjs.com/package/mcp-secure)
-- **[mcps-audit](https://github.com/razashariff/mcps-audit)** [![GitHub Repo stars](https://img.shields.io/github/stars/razashariff/mcps-audit?logo=github&label=&style=social)](https://github.com/razashariff/mcps-audit) — Security scanner for MCP servers and AI agents. Checks codebases against MCP Top 10 and Agentic AI Top 10 checklists, generates PDF audit reports with line-level findings. CLI: `npx mcps-audit ./your-project`
 
 #### Servers & Dev tooling
 - **[PortSwigger - MCP Server](https://github.com/PortSwigger/mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?logo=github&label=&style=social)](https://github.com/PortSwigger/mcp-server)
