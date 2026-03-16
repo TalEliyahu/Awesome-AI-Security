@@ -180,6 +180,11 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ## [↑](#table-of-contents)Tools <a name="tools"></a>
 *Inclusion criteria (open-source tools): must have **220+ GitHub stars**, **active maintenance in the last 12 months**, and **≥3 contributors**.*
 
+### Credential Isolation & Agent Access Control
+*Prevent credential exfiltration by ensuring AI agents never access raw API keys; inject secrets at request time via proxy gateways.*
+
+- **[OneCLI](https://github.com/onecli/onecli)** [![GitHub Repo stars](https://img.shields.io/github/stars/onecli/onecli?logo=github&label=&style=social)](https://github.com/onecli/onecli) – Open-source credential vault for AI agents. Rust HTTP gateway intercepts agent requests and injects API credentials transparently; AES-256-GCM encryption, per-agent scoped tokens, full audit trail.
+
 ### Prompt-Injection Detection & Mitigation
 *Detect and stop prompt-injection (direct/indirect) across inputs, context, and outputs; filter hostile content before it reaches tools or models.*
 
