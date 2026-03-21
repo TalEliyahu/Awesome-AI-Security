@@ -708,14 +708,14 @@ Vulnerabilities disclosed in the last 12 months, excluding attack techniques, ca
 
 | Date | Name | What it is | Source |
 |---|---|---|---|
-| 2025-05-31 | [EchoLeak](https://www.aim.security/post/echoleak-blogpost) | A zero-click vulnerability in Microsoft 365 Copilot that can expose sensitive data from Copilot context. | Aim Security |
-| 2025-08-05 | [MCPoison](https://research.checkpoint.com/2025/cursor-vulnerability-mcpoison/) | A Cursor IDE vulnerability that lets a previously trusted MCP server execute changed commands without fresh approval. | Check Point Research |
-| 2025-12-25 | [LangGrinch](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/) | A LangChain Core vulnerability tied to unsafe serialization and injection behavior that can lead to secret theft or unsafe agent actions. | Cyata |
-| 2026-01-13 | [BodySnatcher](https://appomni.com/ao-labs/bodysnatcher-agentic-ai-security-vulnerability-in-servicenow/) | A ServiceNow AI and Virtual Agent vulnerability that allowed unauthenticated user impersonation and abuse of privileged AI workflows. | AppOmni |
-| 2026-01-14 | [Reprompt](https://www.varonis.com/blog/reprompt) | A Microsoft Copilot Personal exploit chain that used prefilled prompt parameters and chained requests to exfiltrate personal data. | Varonis Threat Labs |
-| 2026-02-09 | [Clinejection](https://adnanthekhan.com/posts/clinejection/) | A vulnerability chain in Cline’s AI-assisted GitHub issue triage workflow that could lead to release-token theft and production compromise. | Adnan Khan |
-| 2026-02-16 | [RoguePilot](https://orca.security/resources/blog/roguepilot-github-copilot-vulnerability/) | A GitHub Codespaces and Copilot exploit chain where hidden prompt injection in an issue can lead to token theft and repository takeover. | Orca Security |
-| 2026-03-18 | [Claudy Day](https://www.oasis.security/blog/claude-ai-prompt-injection-data-exfiltration-vulnerability) | A three-vulnerability chain in Claude.ai that enabled invisible prompt manipulation and silent exfiltration of conversation history. | Oasis Security |
+| 2025-05-31 | [EchoLeak](https://www.aim.security/post/echoleak-blogpost) | A zero-click Microsoft 365 Copilot vulnerability that can exfiltrate sensitive data from Copilot context. | Aim Security |
+| 2025-08-05 | [MCPoison](https://research.checkpoint.com/2025/cursor-vulnerability-mcpoison/) | A Cursor IDE vulnerability where trust was bound to the MCP server name, letting a previously approved MCP entry run changed commands without a new approval prompt. | Check Point Research |
+| 2025-12-25 | [LangGrinch](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/) | A LangChain Core deserialization vulnerability in untrusted data flows that can instantiate unsafe objects and, under some conditions, lead to secret theft or arbitrary code execution. | Cyata |
+| 2026-01-13 | [BodySnatcher](https://appomni.com/ao-labs/bodysnatcher-agentic-ai-security-vulnerability-in-servicenow/) | A ServiceNow Virtual Agent and Now Assist AI Agents vulnerability that allowed unauthenticated attackers to impersonate users and trigger privileged AI workflows. | AppOmni |
+| 2026-01-14 | [Reprompt](https://www.varonis.com/blog/reprompt) | A single-click Microsoft Copilot exploit chain that abused the `q` URL parameter plus chained requests to silently exfiltrate personal data. | Varonis Threat Labs |
+| 2026-02-09 | [Clinejection](https://adnanthekhan.com/posts/clinejection/) | A vulnerability chain in Cline’s GitHub Actions-based Claude issue triage workflow that could poison CI/CD, steal release tokens, and compromise production releases. | Adnan Khan |
+| 2026-02-16 | [RoguePilot](https://orca.security/resources/blog/roguepilot-github-copilot-vulnerability/) | A GitHub Codespaces and Copilot exploit chain where hidden instructions in a GitHub issue could be processed by Copilot, leading to token theft and repository takeover. | Orca Security |
+| 2026-03-18 | [Claudy Day](https://www.oasis.security/blog/claude-ai-prompt-injection-data-exfiltration-vulnerability) | A three-vulnerability Claude.ai chain combining invisible prompt injection and silent exfiltration of conversation history. | Oasis Security |
 
 ### Guides & Playbooks
 - [OWASP - GenAI Incident Response Guide](https://genai.owasp.org/resource/genai-incident-response-guide-1-0/) 
