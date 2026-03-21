@@ -704,7 +704,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - [AVID - AI Vulnerability Database](https://avidml.org/) - Open, taxonomy-driven catalog of AI failure modes; Vulnerabilities, Reports map incidents to failure modes/lifecycle stages.
 
 ### Publicly Disclosed Vulnerabilities
-**Vulnerabilities disclosed in the last 12 months, excluding attack techniques, campaigns, malware, backdoors, and research labels**
+Vulnerabilities disclosed in the last 12 months, excluding attack techniques, campaigns, malware, backdoors, and research labels
 
 | Date | Name | What it is | Source |
 |---|---|---|---|
