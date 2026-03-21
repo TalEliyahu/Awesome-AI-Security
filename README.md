@@ -48,6 +48,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - [Benchmarking](#benchmarking)
 - [Incident Response](#incident-response)
   - [Incident Repositories, Trackers & Monitors](#incident-repositories-trackers--monitors)
+  - [Publicly Disclosed Vulnerabilities](#publicly-disclosed-vulnerabilities)
   - [Guides & Playbooks](#guides--playbooks)
 - [Supply Chain Security](#supply-chain-security)
 - [Videos & Playlists](#videos--playlists)
@@ -702,6 +703,19 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - [OECD.AI - AIM: AI Incidents and Hazards Monitor](https://oecd.ai/en/incidents)
 - [AVID - AI Vulnerability Database](https://avidml.org/) - Open, taxonomy-driven catalog of AI failure modes; Vulnerabilities, Reports map incidents to failure modes/lifecycle stages.
 
+### Publicly Disclosed Vulnerabilities
+**AI vulnerabilities disclosed in the last 12 months, excluding attack techniques, campaigns, malware, backdoors, and research labels**
+
+| Date | Name | What it is | Source |
+|---|---|---|---|
+| 2025-05-31 | [EchoLeak](https://www.aim.security/post/echoleak-blogpost) | A zero-click vulnerability in Microsoft 365 Copilot that can expose sensitive data from Copilot context. | Aim Security |
+| 2025-08-05 | [MCPoison](https://research.checkpoint.com/2025/cursor-vulnerability-mcpoison/) | A Cursor IDE vulnerability that lets a previously trusted MCP server execute changed commands without fresh approval. | Check Point Research |
+| 2025-12-25 | [LangGrinch](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/) | A LangChain Core vulnerability tied to unsafe serialization and injection behavior that can lead to secret theft or unsafe agent actions. | Cyata |
+| 2026-01-13 | [BodySnatcher](https://appomni.com/ao-labs/bodysnatcher-agentic-ai-security-vulnerability-in-servicenow/) | A ServiceNow AI and Virtual Agent vulnerability that allowed unauthenticated user impersonation and abuse of privileged AI workflows. | AppOmni |
+| 2026-01-14 | [Reprompt](https://www.varonis.com/blog/reprompt) | A Microsoft Copilot Personal exploit chain that used prefilled prompt parameters and chained requests to exfiltrate personal data. | Varonis Threat Labs |
+| 2026-02-09 | [Clinejection](https://adnanthekhan.com/posts/clinejection/) | A vulnerability chain in Cline’s AI-assisted GitHub issue triage workflow that could lead to release-token theft and production compromise. | Adnan Khan |
+| 2026-02-16 | [RoguePilot](https://orca.security/resources/blog/roguepilot-github-copilot-vulnerability/) | A GitHub Codespaces and Copilot exploit chain where hidden prompt injection in an issue can lead to token theft and repository takeover. | Orca Security |
+| 2026-03-18 | [Claudy Day](https://www.oasis.security/blog/claude-ai-prompt-injection-data-exfiltration-vulnerability) | A three-vulnerability chain in Claude.ai that enabled invisible prompt manipulation and silent exfiltration of conversation history. | Oasis Security |
 
 ### Guides & Playbooks
 - [OWASP - GenAI Incident Response Guide](https://genai.owasp.org/resource/genai-incident-response-guide-1-0/) 
