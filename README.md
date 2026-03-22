@@ -227,6 +227,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[Beelzebub](https://github.com/mariocandela/beelzebub)** [![GitHub Repo stars](https://img.shields.io/github/stars/mariocandela/beelzebub?logo=github&label=&style=social)](https://github.com/mariocandela/beelzebub) - Beelzebub is a honeypot framework designed to provide a secure environment for detecting and analyzing cyber attacks. It offers a low code approach for easy implementation and uses AI to mimic the behavior of a high-interaction honeypot.
 
 #### Tool manifest/metadata validators
+- **[ClawSec](https://clawsec.com/)** – Security audit platform for AI agent skills with 5-tier analysis (static, dynamic, behavioral, sandbox execution in Firecracker microVMs, and LLM-assisted review). Detects prompt injection vectors, tool poisoning, and unsafe patterns.
+- **[ClawSearch](https://clawsearch.com/)** – Search engine for AI agent skills with security-first indexing. Surfaces audit results, risk scores, and safe alternatives for MCP servers and agent tools.
 - **[MCP Inspector](https://github.com/modelcontextprotocol/inspector)** [![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector?logo=github&label=&style=social)](https://github.com/modelcontextprotocol/inspector)
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
 
