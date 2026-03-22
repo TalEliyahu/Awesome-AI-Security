@@ -704,7 +704,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - [AVID - AI Vulnerability Database](https://avidml.org/) - Open, taxonomy-driven catalog of AI failure modes; Vulnerabilities, Reports map incidents to failure modes/lifecycle stages.
 
 ### Publicly Disclosed Vulnerabilities
-Vulnerabilities disclosed in the last 12 months, excluding attack techniques, campaigns, malware, backdoors, and research labels
+Vulnerabilities disclosed in the last 12 months. Related attack patterns, campaigns, malware, and research items are listed separately below.
 
 ## Vulnerabilities
 Flaws or exploit chains in products, frameworks, features, or workflows that can be directly abused by an attacker.
@@ -743,7 +743,6 @@ Clusters of malicious activity or operations observed over time against specific
 | Name | Description | Source | Disclosure date | CVE(s) |
 |---|---|---|---:|---|
 | [Operation Bizarre Bazaar](https://www.pillar.security/blog/operation-bizarre-bazaar-first-attributed-llmjacking-campaign-with-commercial-marketplace-monetization) | An LLMjacking campaign focused on scanning, validating, and monetizing exposed LLM and MCP infrastructure. | Pillar Security | 2026-01-28 | — |
-| [ShadowRay](https://www.oligo.security/blog/shadowray-attack-ai-workloads-actively-exploited-in-the-wild) | A campaign exploiting exposed Ray infrastructure associated with the disputed Ray weakness. | Oligo Security | 2024-03-26 | CVE-2023-48022 |
 | [ShadowRay 2.0](https://www.oligo.security/blog/shadowray-2-0-attackers-turn-ai-against-itself-in-global-campaign-that-hijacks-ai-into-self-propagating-botnet) | A follow-on ShadowRay campaign that turned exposed Ray clusters into cryptojacking and botnet-style operations. | Oligo Security | 2025-11 | CVE-2023-48022 |
 | [ClawHavoc](https://www.koi.ai/blog/clawhavoc-341-malicious-clawedbot-skills-found-by-the-bot-they-were-targeting) | A supply chain campaign distributing malicious ClawHub and OpenClaw skills through fake prerequisites and external payloads. | Koi Research | 2026-02-01 | — |
 
@@ -755,14 +754,6 @@ Backdoors, implants, or malicious programs used to execute or support attacks.
 |---|---|---|---:|---|
 | [SesameOp](https://www.microsoft.com/en-us/security/blog/2025/11/03/sesameop-novel-backdoor-uses-openai-assistants-api-for-command-and-control/) | A backdoor that abuses the OpenAI Assistants API as a command-and-control channel. | Microsoft Incident Response | 2025-11-03 | — |
 
-## Research
-
-Study titles, umbrella labels, or research packages that group multiple findings rather than describing one specific flaw or operation.
-
-| Name | Description | Source | Disclosure date | CVE(s) |
-|---|---|---|---:|---|
-| [ToxicSkills](https://snyk.io/blog/toxicskills-malicious-ai-agent-skills-clawhub/) | A research and detection framework for malicious and vulnerable agent skills. | Snyk | 2026-02-05 | — |
-| [HackedGPT](https://www.tenable.com/blog/hackedgpt-novel-ai-vulnerabilities-open-the-door-for-private-data-leakage) | An umbrella research label covering multiple ChatGPT-related vulnerabilities and attack techniques. | Tenable Research | 2025-11-05 | — |
 
 
 ### Guides & Playbooks
