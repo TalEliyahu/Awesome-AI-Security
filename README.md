@@ -706,7 +706,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 ### Publicly Disclosed Vulnerabilities
 Vulnerabilities disclosed in the last 12 months. Related attack patterns, campaigns, malware, and research items are listed separately below.
 
-## Vulnerabilities
+#### Vulnerabilities
 Flaws or exploit chains in products, frameworks, features, or workflows that can be directly abused by an attacker.
 
 | Name | Description | Source | Disclosure date | CVE(s) |
@@ -721,7 +721,7 @@ Flaws or exploit chains in products, frameworks, features, or workflows that can
 | [RoguePilot](https://orca.security/resources/blog/roguepilot-github-copilot-vulnerability/) | A GitHub Codespaces and Copilot exploit chain that can steal `GITHUB_TOKEN` and enable repository takeover. | Orca Security | 2026-02-16 | — |
 | [Claudy Day](https://www.oasis.security/resources/blog/claudy-day-how-we-hacked-claude-and-got-away-with-it) | A Claude.ai exploit chain using invisible prompt injection, Files API abuse, and open redirects to exfiltrate chat history. | Oasis Security | 2026-03-18 | — |
 
-## Attack Patterns
+#### Attack Patterns
 
 Methods, techniques, or recurring abuse models that describe how attackers achieve their goals across one or more systems.
 
@@ -736,7 +736,7 @@ Methods, techniques, or recurring abuse models that describe how attackers achie
 | [ShadowMQ](https://www.oligo.security/blog/shadowmq-how-code-reuse-spread-critical-vulnerabilities-across-the-ai-ecosystem) | A recurring pattern where unsafe ZeroMQ plus pickle deserialization spreads RCE risk across AI systems through code reuse. | Oligo Security | 2025-11-13 | — |
 | [Living Off AI](https://www.catonetworks.com/blog/cato-ctrl-poc-attack-targeting-atlassians-mcp/) | A pattern where untrusted external input is later executed inside privileged internal AI workflows. | Cato CTRL | 2025-06-19 | — |
 
-## Campaigns
+#### Campaigns
 
 Clusters of malicious activity or operations observed over time against specific targets.
 
