@@ -227,15 +227,13 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[Beelzebub](https://github.com/mariocandela/beelzebub)** [![GitHub Repo stars](https://img.shields.io/github/stars/mariocandela/beelzebub?logo=github&label=&style=social)](https://github.com/mariocandela/beelzebub) - Beelzebub is a honeypot framework designed to provide a secure environment for detecting and analyzing cyber attacks. It offers a low code approach for easy implementation and uses AI to mimic the behavior of a high-interaction honeypot.
 
 #### Tool manifest/metadata validators
-- **[ClawSec](https://clawsec.com/)** – Security audit platform for AI agent skills with 5-tier analysis (static, dynamic, behavioral, sandbox execution in Firecracker microVMs, and LLM-assisted review). Detects prompt injection vectors, tool poisoning, and unsafe patterns.
-- **[ClawSearch](https://clawsearch.com/)** – Search engine for AI agent skills with security-first indexing. Surfaces audit results, risk scores, and safe alternatives for MCP servers and agent tools.
-- **[MCP Inspector](https://github.com/modelcontextprotocol/inspector)** [![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector?logo=github&label=&style=social)](https://github.com/modelcontextprotocol/inspector)
+
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
 
 #### Agent Identity & Trust
 
 #### Servers & Dev tooling
-- **[operant-mcp](https://github.com/operantlabs/operant-mcp)** [![GitHub Repo stars](https://img.shields.io/github/stars/operantlabs/operant-mcp?logo=github&label=&style=social)](https://github.com/operantlabs/operant-mcp) - MCP server with 51 security testing tools covering penetration testing, network forensics, memory analysis, and vulnerability assessment. Includes SQLi, XSS, command injection, SSRF, PCAP forensics, cloud recon, and more. TypeScript, MIT licensed. Install: `npx operant-mcp`
+
 - **[PortSwigger - MCP Server](https://github.com/PortSwigger/mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?logo=github&label=&style=social)](https://github.com/PortSwigger/mcp-server)
 - **[ToolHive](https://github.com/stacklok/toolhive)** [![GitHub Repo stars](https://img.shields.io/github/stars/stacklok/toolhive?logo=github&label=&style=social)](https://github.com/stacklok/toolhive) - MCP server orchestrator for desktop, CLI, and Kubernetes Operator: discover and deploy servers in isolated containers with restricted permissions, manage secrets, use an optional egress proxy, auto-configure popular MCP clients (e.g., GitHub Copilot, Cursor), and manage at scale via CRDs/registry.
 
