@@ -707,46 +707,62 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 Vulnerabilities disclosed in the last 12 months, excluding attack techniques, campaigns, malware, backdoors, and research labels
 
 ## Vulnerabilities
+Flaws or exploit chains in products, frameworks, features, or workflows that can be directly abused by an attacker.
 
-| Name | Verified short description | Disclosure date | Discoverer / credit | CVE(s) | Affected products/components | Exploitation impact | Mitigation / status | Primary sources |
-|---|---|---:|---|---|---|---|---|---|
-| EchoLeak | Zero-click M365 Copilot chain: attacker email is retrieved into context; “scope violation” enables silent data exfil. | 2025-05-31 | Aim Labs (Aim Security / Cato AI Labs) | CVE-2025-32711 | Microsoft 365 Copilot (RAG + context ingestion) | Unauthorized disclosure of Copilot context/org data | Patched/mitigated by Microsoft; no reliable pre-mitigation config workaround noted | https://www.catonetworks.com/blog/breaking-down-echoleak/ ; https://nvd.nist.gov/vuln/detail/CVE-2025-32711 |
-| CurXecute | Cursor Agent can be prompt-injection-chained to write MCP sensitive files (e.g., .cursor/mcp.json) → RCE. | 2025-08-02 | Reporters: hxofir-a, MaccariTA (GHSA credits) | CVE-2025-54135 | Cursor Agent + MCP-sensitive file approval model | Arbitrary code execution in dev environment | Patched: block agent writes to MCP-sensitive files without approval; patched version 1.3.9 | https://github.com/cursor/cursor/security/advisories/GHSA-4cxx-hrm3-49rm ; https://nvd.nist.gov/vuln/detail/CVE-2025-54135 |
-| MCPoison | Trusted MCP config can be modified post-approval without re-prompt → persistent code execution. | 2025-08-01 | Reporter: chaandrey (GHSA); Check Point Research (writeup) | CVE-2025-54136 | Cursor MCP approval/re-approval logic | Remote & persistent arbitrary code execution | Patched in 1.3: require re-approval when MCP entry is modified | https://github.com/cursor/cursor/security/advisories/GHSA-24mc-g4xr-4395 ; https://research.checkpoint.com/2025/cursor-vulnerability-mcpoison/ ; https://nvd.nist.gov/vuln/detail/CVE-2025-54136 |
-| LangGrinch | langchain-core serialization injection via unescaped `lc` dict keys; enables secret extraction and unsafe instantiation. | 2025-12-23 | Cyata | CVE-2025-68664 | langchain-core dumps()/dumpd() + loads() flows | Env secret extraction; potential code execution in certain follow-on paths | Patch: langchain-core 0.3.81 / 1.2.5; harden deserialization defaults | https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/ ; https://nvd.nist.gov/vuln/detail/CVE-2025-68664 |
-| BodySnatcher | ServiceNow AI Platform impersonation: unauth user can act as arbitrary users via VA API + Now Assist workflow linkage. | 2026-01-12 | AppOmni (Ao Labs) | CVE-2025-12420 | ServiceNow Now Assist AI Agents + Virtual Agent API | Unauth impersonation → privileged actions/tenant compromise potential | ServiceNow updates (hosted mitigations + fixed versions for packages) | https://appomni.com/ao-labs/bodysnatcher-agentic-ai-security-vulnerability-in-servicenow/ ; https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2587329 ; https://nvd.nist.gov/vuln/detail/CVE-2025-12420 |
-| Reprompt | One-click Copilot Personal attack using crafted link/URL parameters to inject instructions and exfil data. | 2026-01-15 | Varonis Threat Labs | — | Copilot Personal (consumer) session handling | Sensitive personal data exfiltration via normal Copilot traffic | Reported patched by Microsoft | https://www.varonis.com/blog/reprompt ; https://www.malwarebytes.com/blog/news/2026/01/reprompt-attack-lets-attackers-steal-data-from-microsoft-copilot |
-| Clinejection | Prompt injection in AI issue triager + GH Actions cache poisoning → steal publish tokens; supply-chain release compromise. | 2026-02-09 | Adnan Khan | — | Cline GitHub Actions workflows (issue triage + nightly publish) | Potential malware publication (VS Code Marketplace/OpenVSX/NPM tokens) | Fixed quickly; removed AI workflows and cache consumption in nightly jobs | https://adnanthekhan.com/posts/clinejection/ ; https://github.com/cline/cline/pull/9211 |
-| RoguePilot | Passive prompt injection via GitHub issue auto-fed to Copilot in Codespaces; symlink + JSON schema fetch exfiltrates GITHUB_TOKEN. | 2026-02-16 | Orca Research Pod | — | GitHub Codespaces + Copilot integration | GITHUB_TOKEN theft → repository takeover | GitHub remediated per disclosure; recommended hardening defaults | https://orca.security/resources/blog/roguepilot-github-copilot-vulnerability/ ; https://www.securityweek.com/github-issues-abused-in-copilot-attack-leading-to-repository-takeover/ |
-| Claudy Day | Chain vs Claude.ai: invisible prompt injection + Files API abuse + open redirect delivery → silent chat history exfil. | 2026-03-18 | Oasis Security | — | Claude.ai / claude.com redirect + Files API chain | Silent exfiltration of chat history | Vendor fixes described (chain breakpoints) | https://www.oasis.security/resources/blog/claudy-day-how-we-hacked-claude-and-got-away-with-it |
+| Name | Description | Source | Disclosure date | CVE(s) |
+|---|---|---|---:|---|
+| [EchoLeak](https://www.aim.security/post/echoleak-blogpost) | A zero-click Microsoft 365 Copilot vulnerability that can exfiltrate sensitive data from Copilot context. | Aim Security | 2025-05-31 | CVE-2025-32711 |
+| [CurXecute](https://github.com/cursor/cursor/security/advisories/GHSA-4cxx-hrm3-49rm) | A Cursor vulnerability that can lead to remote code execution by writing MCP-sensitive files such as `.cursor/mcp.json`. | GitHub Advisory | 2025-08-02 | CVE-2025-54135 |
+| [MCPoison](https://research.checkpoint.com/2025/cursor-vulnerability-mcpoison/) | A Cursor vulnerability where trusted MCP configurations can be modified without re-approval, enabling persistent code execution. | Check Point Research | 2025-08-01 | CVE-2025-54136 |
+| [LangGrinch](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/) | A langchain-core serialization injection flaw that can expose secrets and enable unsafe object instantiation. | Cyata | 2025-12-23 | CVE-2025-68664 |
+| [BodySnatcher](https://appomni.com/ao-labs/bodysnatcher-agentic-ai-security-vulnerability-in-servicenow/) | A ServiceNow AI Platform vulnerability that allows unauthenticated user impersonation through Virtual Agent and Now Assist flows. | AppOmni | 2026-01-13 | CVE-2025-12420 |
+| [Reprompt](https://www.varonis.com/blog/reprompt) | A single-click Copilot Personal exploit that abuses crafted URL parameters to exfiltrate data. | Varonis Threat Labs | 2026-01-15 | — |
+| [Clinejection](https://adnanthekhan.com/posts/clinejection/) | A prompt injection and GitHub Actions cache-poisoning chain that could steal publish tokens and compromise releases. | Adnan Khan | 2026-02-09 | — |
+| [RoguePilot](https://orca.security/resources/blog/roguepilot-github-copilot-vulnerability/) | A GitHub Codespaces and Copilot exploit chain that can steal `GITHUB_TOKEN` and enable repository takeover. | Orca Security | 2026-02-16 | — |
+| [Claudy Day](https://www.oasis.security/resources/blog/claudy-day-how-we-hacked-claude-and-got-away-with-it) | A Claude.ai exploit chain using invisible prompt injection, Files API abuse, and open redirects to exfiltrate chat history. | Oasis Security | 2026-03-18 | — |
 
 ## Attack Patterns
 
-| Name | Verified short description | Disclosure date | Discoverer / credit | CVE(s) | Affected products/components | Exploitation impact | Mitigation / status | Primary sources |
-|---|---|---:|---|---|---|---|---|---|
-| HashJack | URL-fragment indirect prompt injection: payload in `#...` not sent to server but ingested by AI browsing assistants. | 2025-11-25 | Cato CTRL | — | AI browsers/assistants that pass full URLs to models | Hidden instruction execution, phishing/exfil flows | Strip fragments from model context; injection hardening in browse/agent mode | https://www.catonetworks.com/blog/hashjack-indirect-prompt-injection-attacks-against-ai-browsers/ |
-| LegalPwn | Prompt injection disguised as legal/compliance text to coerce model behavior in security tooling contexts. | 2025-07 | Pangea Labs (reported) | — | Any LLM workflow that elevates legalese blocks | Misclassification/manipulation; unsafe operator decisions | Treat legal text as untrusted; enforce instruction hierarchy | https://bdtechtalks.com/2025/07/30/legalpwn-prompt-inject/ ; https://www.theregister.com/2025/07/31/legalpwn_prompt_injection/ |
-| AIKatz | Post-breach token/cookie harvesting from LLM desktop apps (ChatGPT/Claude/Copilot) via process memory scanning. | 2025-11-12 | Lumia Security Labs | — | Desktop LLM clients (Electron/WebView2/Chromium) | Impersonation → read/modify chats; stealth prompt injection | Harden app process privileges; endpoint controls vs memory scraping | https://www.lumia.security/blog/aikatz |
-| Tool Poisoning Attack | Hidden malicious instructions in MCP tool descriptions (model-visible, user-invisible) → unauthorized actions/exfil. | 2025-04-01 | Invariant | — | MCP ecosystem (clients/UIs trusting tool descriptions) | Sensitive file/secret exfil; agent hijack | Show full tool text; separate user/model fields; trust pinning | https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks |
-| MCP Rug Pull | Post-approval mutation: MCP tool descriptions change after a user approves, enabling delayed malicious behavior. | 2025-04-01 | Invariant | — | MCP clients with one-time approval and no integrity drift checks | Silent shift from benign to malicious tool behavior | Tool pinning + re-approval on changes | https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks ; https://invariantlabs.ai/blog/introducing-mcp-scan |
-| Cross-Origin Escalation | Tool shadowing across multiple MCP servers: malicious descriptions influence/redirect actions of trusted tools/servers. | 2025-04-11 | Invariant | — | Multi-server MCP clients without instruction isolation | Cross-server credential/data misuse; stealth manipulation | Detect shadowing; enforce server boundaries; pin tools | https://invariantlabs.ai/blog/introducing-mcp-scan ; https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks |
-| ShadowMQ | Pattern: unauthenticated ZMQ sockets + pickle deserialization spread via code reuse across AI inference servers → RCE risk. | 2025-11-13 | Oligo Security | (pattern) | Inference servers using pyzmq recv_pyobj()/pickle over network | RCE on clusters; lateral movement/data exfil risk | Replace pickle; auth/encrypt comms; patch affected projects | https://www.oligo.security/blog/shadowmq-how-code-reuse-spread-critical-vulnerabilities-across-the-ai-ecosystem |
+Methods, techniques, or recurring abuse models that describe how attackers achieve their goals across one or more systems.
+
+| Name | Description | Source | Disclosure date | CVE(s) |
+|---|---|---|---:|---|
+| [HashJack](https://www.catonetworks.com/blog/cato-ctrl-hashjack-first-known-indirect-prompt-injection/) | An indirect prompt injection technique that hides malicious instructions inside the URL fragment. | Cato CTRL | 2025-11-25 | — |
+| [LegalPwn](https://bdtechtalks.com/2025/07/30/legalpwn-llm-prompt-injection/) | A prompt injection technique that disguises malicious instructions as legal or compliance text. | Pangea Labs | 2025-07-30 | — |
+| [AIKatz](https://www.lumia.security/blog/aikatz) | A post-compromise technique that steals tokens and session artifacts from desktop LLM apps. | Lumia Security Labs | 2025-11-12 | — |
+| [Tool Poisoning Attack](https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks) | An MCP attack pattern where malicious instructions are hidden in tool descriptions visible to the model. | Invariant | 2025-04-01 | — |
+| [MCP Rug Pull](https://invariantlabs.ai/blog/introducing-mcp-scan) | An MCP pattern where a trusted tool or server changes after approval and becomes malicious. | Invariant | 2025-04-01 | — |
+| [Cross-Origin Escalation](https://invariantlabs.ai/blog/introducing-mcp-scan) | An MCP pattern where one malicious server influences or redirects trusted tools on another server. | Invariant | 2025-04-11 | — |
+| [ShadowMQ](https://www.oligo.security/blog/shadowmq-how-code-reuse-spread-critical-vulnerabilities-across-the-ai-ecosystem) | A recurring pattern where unsafe ZeroMQ plus pickle deserialization spreads RCE risk across AI systems through code reuse. | Oligo Security | 2025-11-13 | — |
+| [Living Off AI](https://www.catonetworks.com/blog/cato-ctrl-poc-attack-targeting-atlassians-mcp/) | A pattern where untrusted external input is later executed inside privileged internal AI workflows. | Cato CTRL | 2025-06-19 | — |
 
 ## Campaigns
 
-| Name | Verified short description | Disclosure date | Discoverer / credit | CVE(s) | Affected products/components | Exploitation impact | Mitigation / status | Primary sources |
-|---|---|---:|---|---|---|---|---|---|
-| Operation Bizarre Bazaar | LLMjacking campaign: scanning/validation/marketplace resale of unauthorized access to exposed LLM/MCP endpoints. | 2026-01-28 | Pillar Security Research | — | Exposed AI endpoints (Ollama, OpenAI-compatible APIs, MCP) | Compute theft, access resale, possible data exfil/pivot | Enforce auth; remove internet exposure; rate limit; block IOCs | https://www.pillar.security/blog/operation-bizarre-bazaar-first-attributed-llmjacking-campaign-with-commercial-marketplace-monetization |
-| ShadowRay | Campaign exploiting disputed Ray weakness (CVE-2023-48022) to compromise exposed Ray clusters. | 2024-03-26 | Oligo Security | CVE-2023-48022 | Internet-exposed Ray clusters | RCE/compute theft/data leakage potential | Restrict exposure; follow Ray security guidance | https://www.oligo.security/blog/shadowray-attack-ai-workloads-actively-exploited-in-the-wild |
-| ShadowRay 2.0 | New wave (Nov 2025): more autonomous cryptojacking/botnet-like operations abusing exposed Ray clusters. | 2025-11 | Oligo Security | CVE-2023-48022 | Internet-exposed Ray clusters | Self-propagating cryptojacking; broader botnet potential | Restrict exposure; monitor IoCs; harden stacks | https://www.oligo.security/blog/shadowray-2-0-attackers-turn-ai-against-itself-in-global-campaign-that-hijacks-ai-into-self-propagating-botnet |
-| ClawHavoc | Supply-chain campaign: malicious ClawHub/OpenClaw skills distributing malware via “prerequisites” and external payloads. | 2026-02-01 | Koi Research | — | ClawHub marketplace / OpenClaw users | Malware/credential theft through skill instructions and payloads | Audit skills; block external binaries/scripts; use IOCs | https://www.koi.ai/blog/clawhavoc-341-malicious-clawedbot-skills-found-by-the-bot-they-were-targeting |
+Clusters of malicious activity or operations observed over time against specific targets.
+
+| Name | Description | Source | Disclosure date | CVE(s) |
+|---|---|---|---:|---|
+| [Operation Bizarre Bazaar](https://www.pillar.security/blog/operation-bizarre-bazaar-first-attributed-llmjacking-campaign-with-commercial-marketplace-monetization) | An LLMjacking campaign focused on scanning, validating, and monetizing exposed LLM and MCP infrastructure. | Pillar Security | 2026-01-28 | — |
+| [ShadowRay](https://www.oligo.security/blog/shadowray-attack-ai-workloads-actively-exploited-in-the-wild) | A campaign exploiting exposed Ray infrastructure associated with the disputed Ray weakness. | Oligo Security | 2024-03-26 | CVE-2023-48022 |
+| [ShadowRay 2.0](https://www.oligo.security/blog/shadowray-2-0-attackers-turn-ai-against-itself-in-global-campaign-that-hijacks-ai-into-self-propagating-botnet) | A follow-on ShadowRay campaign that turned exposed Ray clusters into cryptojacking and botnet-style operations. | Oligo Security | 2025-11 | CVE-2023-48022 |
+| [ClawHavoc](https://www.koi.ai/blog/clawhavoc-341-malicious-clawedbot-skills-found-by-the-bot-they-were-targeting) | A supply chain campaign distributing malicious ClawHub and OpenClaw skills through fake prerequisites and external payloads. | Koi Research | 2026-02-01 | — |
 
 ## Malware
 
-| Name | Verified short description | Disclosure date | Discoverer / credit | CVE(s) | Affected products/components | Exploitation impact | Mitigation / status | Primary sources |
-|---|---|---:|---|---|---|---|---|---|
-| SesameOp | Backdoor abusing OpenAI Assistants API for C2 (store/fetch commands, post results). | 2025-11-03 | Microsoft Incident Response (DART) | — | Compromised environments; OpenAI Assistants API as C2 | Persistent command execution via legitimate API channel | Detection + mitigations; account/API key disabled per post | https://www.microsoft.com/en-us/security/blog/2025/11/03/sesameop-novel-backdoor-uses-openai-assistants-api-for-command-and-control/ |
+Backdoors, implants, or malicious programs used to execute or support attacks.
 
+| Name | Description | Source | Disclosure date | CVE(s) |
+|---|---|---|---:|---|
+| [SesameOp](https://www.microsoft.com/en-us/security/blog/2025/11/03/sesameop-novel-backdoor-uses-openai-assistants-api-for-command-and-control/) | A backdoor that abuses the OpenAI Assistants API as a command-and-control channel. | Microsoft Incident Response | 2025-11-03 | — |
+
+## Research
+
+Study titles, umbrella labels, or research packages that group multiple findings rather than describing one specific flaw or operation.
+
+| Name | Description | Source | Disclosure date | CVE(s) |
+|---|---|---|---:|---|
+| [ToxicSkills](https://snyk.io/blog/toxicskills-malicious-ai-agent-skills-clawhub/) | A research and detection framework for malicious and vulnerable agent skills. | Snyk | 2026-02-05 | — |
+| [HackedGPT](https://www.tenable.com/blog/hackedgpt-novel-ai-vulnerabilities-open-the-door-for-private-data-leakage) | An umbrella research label covering multiple ChatGPT-related vulnerabilities and attack techniques. | Tenable Research | 2025-11-05 | — |
 
 
 ### Guides & Playbooks
