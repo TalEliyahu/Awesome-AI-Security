@@ -905,8 +905,6 @@ Backdoors, implants, or malicious programs used to execute or support attacks.
   [![GitHub followers](https://img.shields.io/github/followers/pomerium?style=social&label=)](https://github.com/pomerium)
   [![X followers](https://img.shields.io/twitter/follow/pomerium_io?style=social&logo=x&label=%20)](https://x.com/pomerium_io)
 
-- [iscooked](https://github.com/dinosoup1/iscooked) [![GitHub stars](https://img.shields.io/github/stars/dinosoup1/iscooked?style=social)](https://github.com/dinosoup1/iscooked) — One-command security scanner for local AI setups (Ollama, LM Studio, Open WebUI). Checks network exposure, API auth, file permissions, Docker risks, firewall status.
-
 #### Operate
 *Monitor memory mutations for drift/poisoning, detect abnormal loops/misuse, enforce HITL overrides, and scan plugins-continuous, real-time vigilance for resilient operations as systems scale and self-orchestrate.*
 - [Lasso Security](https://www.lasso.security/blog)
