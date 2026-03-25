@@ -234,7 +234,6 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 #### Servers & Dev tooling
 
-- **[operant-mcp](https://github.com/operantlabs/operant-mcp)** [![GitHub Repo stars](https://img.shields.io/github/stars/operantlabs/operant-mcp?logo=github&label=&style=social)](https://github.com/operantlabs/operant-mcp) – Open-source MCP server providing 51 security testing tools across 19 modules (SQL injection, XSS, command injection, SSRF, path traversal, PCAP/network forensics, reconnaissance, memory forensics, malware document analysis, CloudTrail analysis, and more). Install via `npx operant-mcp`.
 - **[PortSwigger - MCP Server](https://github.com/PortSwigger/mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?logo=github&label=&style=social)](https://github.com/PortSwigger/mcp-server)
 - **[ToolHive](https://github.com/stacklok/toolhive)** [![GitHub Repo stars](https://img.shields.io/github/stars/stacklok/toolhive?logo=github&label=&style=social)](https://github.com/stacklok/toolhive) - MCP server orchestrator for desktop, CLI, and Kubernetes Operator: discover and deploy servers in isolated containers with restricted permissions, manage secrets, use an optional egress proxy, auto-configure popular MCP clients (e.g., GitHub Copilot, Cursor), and manage at scale via CRDs/registry.
 
