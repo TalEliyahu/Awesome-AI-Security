@@ -8,6 +8,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
   <a href="https://calendly.com/innovguard/meeting"><strong>Schedule a meeting</strong></a>
 </p>
 
+- [Prefactor](https://prefactor.tech/) - AI agent runtime control plane offering runtime visibility, governance, and policy enforcement for AI agents in production.
 ---
 
 ## Table of Contents
