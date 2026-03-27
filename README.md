@@ -324,6 +324,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Monitoring, Logging & Anomaly Detection
 *Collect AI-specific security logs/signals; detect abuse patterns (PI/jailbreak/leakage), enrich alerts, and support forensics.*
 
+- **[AIR Blackbox](https://github.com/airblackbox/gateway)** [![GitHub Repo stars](https://img.shields.io/github/stars/airblackbox/gateway?logo=github&label=&style=social)](https://github.com/airblackbox/gateway) - EU AI Act compliance scanner and runtime trust layer for Python AI agents: HMAC-SHA256 tamper-evident audit chains with published formal spec, PII detection, prompt injection blocking (15 weighted patterns), and risk classification (CRITICAL/HIGH/MEDIUM/LOW). Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. All records written locally.
+
 - **[LangKit](https://github.com/whylabs/langkit)** [![GitHub Repo stars](https://img.shields.io/github/stars/whylabs/langkit?logo=github&label=&style=social)](https://github.com/whylabs/langkit) - LLM observability metrics toolkit (whylogs-compatible): prompt-injection/jailbreak similarity, PII patterns, hallucination/consistency, relevance, sentiment/toxicity, readability.
 
 - **[Alibi Detect](https://github.com/SeldonIO/alibi-detect)** [![GitHub Repo stars](https://img.shields.io/github/stars/SeldonIO/alibi-detect?logo=github&label=&style=social)](https://github.com/SeldonIO/alibi-detect) - Production drift/outlier/adversarial detection for tabular, text, images, and time series; online/offline detectors with TF/PyTorch backends; returns scores, thresholds, and flags for alerting.
