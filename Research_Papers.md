@@ -9,6 +9,12 @@ A curated list of recent research relevant to AI security.
 - [June 2025](#june-2025)
 - [May 2025](#may-2025)
 
+## March 2026
+
+- 📖 **[Internal Safety Collapse in Frontier Large Language Models](https://arxiv.org/abs/2603.23509)** — Reveals a novel safety failure mode where LLMs produce harmful content as a side effect of completing normal professional tasks — no adversarial prompting needed. Jailbreaks any frontier LLM in pass@3 (Claude Opus 4.6, GPT-5.4, Gemini 3.1 Pro). Black-box, cross-domain (8+ disciplines), with single-turn, ICL, and agentic attack modes. [[Code](https://github.com/wuyoscar/ISC-Bench)]
+
+---
+
 ## February 2026
 
 - 📖 **[Breaking Agent Backbones: Evaluating the Security of Backbone LLMs in AI Agents](https://arxiv.org/abs/2510.22620)** — Introduces "threat snapshots" to identify where backbone LLM vulnerabilities propagate to agent-level risks; the b³ benchmark evaluates 34 LLMs against 194,331 crowdsourced adversarial attacks and finds reasoning capability (not model size) correlates with security. [ICLR 2026]
