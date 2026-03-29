@@ -232,8 +232,6 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 #### Agent Identity & Trust
 
-- **[SidClaw](https://github.com/sidclawhq/platform)** [![GitHub Repo stars](https://img.shields.io/github/stars/sidclawhq/platform?logo=github&label=&style=social)](https://github.com/sidclawhq/platform) - Approval and accountability layer for AI agents: identity, policy engine, human approval workflows, and tamper-proof hash-chain audit trail; integrates with MCP, LangChain, OpenAI Agents, CrewAI, and 9 more frameworks.
-
 #### Servers & Dev tooling
 
 - **[PortSwigger - MCP Server](https://github.com/PortSwigger/mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?logo=github&label=&style=social)](https://github.com/PortSwigger/mcp-server)
