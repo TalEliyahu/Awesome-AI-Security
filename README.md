@@ -892,6 +892,9 @@ Backdoors, implants, or malicious programs used to execute or support attacks.
 - [Patronus AI](https://www.patronus.ai/blog)
   [![GitHub followers](https://img.shields.io/github/followers/patronus-ai?style=social&label=)](https://github.com/patronus-ai)
   [![X followers](https://img.shields.io/twitter/follow/patronusai?style=social&logo=x&label=%20)](https://x.com/patronusai)
+- [Repello AI](https://repello.ai/blog)
+  [![GitHub followers](https://img.shields.io/github/followers/Repello-AI?style=social&label=)](https://github.com/Repello-AI)
+  [![X followers](https://img.shields.io/twitter/follow/RepelloHQ?style=social&logo=x&label=%20)](https://x.com/RepelloHQ)
 
 #### Release
 *Sign models/plugins/memory; verify SBOMs; enforce cryptographically validated policies; register agents/capabilities.*
