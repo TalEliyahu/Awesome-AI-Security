@@ -10,6 +10,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 ---
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts with security audit, penetration testing, and threat monitoring agents. MIT licensed.
 ## Table of Contents
 
 - [Best Practices, Frameworks & Controls](#best-practices-frameworks--controls)
