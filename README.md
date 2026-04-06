@@ -127,6 +127,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - [CSA - Secure Agentic System Design: A Trait-Based Approach](https://cloudsecurityalliance.org/artifacts/secure-agentic-system-design)
 - [CSA - Agentic AI Identity & Access Management](https://cloudsecurityalliance.org/artifacts/agentic-ai-identity-and-access-management-a-new-approach) - 08/25
 
+- [asqav - AI Agent Governance SDK](https://github.com/jagmarques/asqav-sdk) - Python SDK for cryptographically signed audit trails (ML-DSA post-quantum), runtime policy enforcement, and OWASP Agentic Top 10 compliance. Works with LangChain, CrewAI, MCP. [![GitHub Repo stars](https://img.shields.io/github/stars/jagmarques/asqav-sdk?logo=github&label=&style=social)](https://github.com/jagmarques/asqav-sdk)
+
 ### Threat Modeling
 
 - **[OWASP - Multi-Agentic System Threat Modeling Guide](https://genai.owasp.org/resource/multi-agentic-system-threat-modeling-guide-v1-0/)** - Applies OWASP’s agentic threat taxonomy to multi-agent systems and demonstrates modeling using the MAESTRO framework with worked examples.
