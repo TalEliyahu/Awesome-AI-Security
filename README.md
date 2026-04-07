@@ -232,6 +232,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 #### Agent Identity & Trust
 
+- **[Asqav](https://github.com/jagmarques/asqav-sdk)** - Open-source Python SDK for AI agent audit trails and governance, with quantum-safe signatures (ML-DSA-65) for tamper-proof audit chains and EU AI Act compliance.
+
 #### Servers & Dev tooling
 
 - **[PortSwigger - MCP Server](https://github.com/PortSwigger/mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?logo=github&label=&style=social)](https://github.com/PortSwigger/mcp-server)
@@ -1040,4 +1042,3 @@ This repository follows the **[Awesome Manifesto](https://github.com/sindresorhu
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 © 2025 Tal Eliyahu. Licensed under the **MIT License**. See [`LICENSE`](LICENSE).
-
