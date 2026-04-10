@@ -126,7 +126,6 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - [OWASP - State of Agentic AI Security and Governance](https://genai.owasp.org/resource/state-of-agentic-ai-security-and-governance-1-0/)
 - [CSA - Secure Agentic System Design: A Trait-Based Approach](https://cloudsecurityalliance.org/artifacts/secure-agentic-system-design)
 - [CSA - Agentic AI Identity & Access Management](https://cloudsecurityalliance.org/artifacts/agentic-ai-identity-and-access-management-a-new-approach) - 08/25
-- [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) — Open-source detection rules standard for AI agent threats (108 rules, 9 categories). Adopted by Cisco AI Defense. OWASP 10/10 coverage. MIT licensed.
 
 ### Threat Modeling
 
