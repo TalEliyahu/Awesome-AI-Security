@@ -319,8 +319,6 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Sensitive Data Leak Prevention (DLP for AI)
 *Prevent secret/PII exfiltration in prompts/outputs via detection, redaction, and policy checks at I/O boundaries.*
 
-- [OpenObscure](https://github.com/openobscure/openobscure) - On-device privacy firewall for AI agents. Encrypts PII with FF1 format-preserving encryption before it reaches the LLM, with image redaction, voice PII detection, and cognitive firewall.
-
 - **[Presidio](https://github.com/microsoft/presidio)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/presidio?logo=github&label=&style=social)](https://github.com/microsoft/presidio) - PII/PHI detection & redaction for text, images, and structured data; use as a pre/post-LLM DLP filter and for dataset sanitization.
 
 ### Monitoring, Logging & Anomaly Detection
