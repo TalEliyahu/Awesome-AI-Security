@@ -183,6 +183,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 ### Credential Isolation & Agent Access Control
 *Prevent credential exfiltration by ensuring AI agents never access raw API keys; inject secrets at request time via proxy gateways.*
+- [EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) — Browser extension + MCP server that resolves `{{PLACEHOLDER}}` references in agent prompts at submit time using an encrypted local vault. AES-256-GCM + Argon2id. Credentials never reach the LLM or any remote server. `enigmagent-mcp` available on npm and PyPI.
 
 - **[OneCLI](https://github.com/onecli/onecli)** [![GitHub Repo stars](https://img.shields.io/github/stars/onecli/onecli?logo=github&label=&style=social)](https://github.com/onecli/onecli) – Open-source credential vault for AI agents. Rust HTTP gateway intercepts agent requests and injects API credentials transparently; AES-256-GCM encryption, per-agent scoped tokens, full audit trail.
 
