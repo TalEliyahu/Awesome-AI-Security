@@ -269,6 +269,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Prompt-injection test suites
 - **[Promptmap](https://github.com/utkusen/promptmap)** [![GitHub Repo stars](https://img.shields.io/github/stars/utkusen/promptmap?logo=github&label=&style=social)](https://github.com/utkusen/promptmap)
 - **[Giskard](https://github.com/Giskard-AI/giskard)** [![GitHub Repo stars](https://img.shields.io/github/stars/Giskard-AI/giskard?logo=github&label=&style=social)](https://github.com/Giskard-AI/giskard)
+- **[tool-output-mimicry](https://github.com/314-ia/tool-output-mimicry)** [![GitHub Repo stars](https://img.shields.io/github/stars/314-ia/tool-output-mimicry?logo=github&label=&style=social)](https://github.com/314-ia/tool-output-mimicry) — Single-primitive reproducer: bypasses multi-layer agentic AI defenses by impersonating an upstream agent's task summary in a user-controlled field that a downstream agent reads. Validated end-to-end against the OWASP FinBot CTF; companion paper at [doi.org/10.5281/zenodo.19794072](https://doi.org/10.5281/zenodo.19794072).
 
 #### Data-leakage/secret-exfil test suites
 - **[garak](https://github.com/NVIDIA/garak)** [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/garak?logo=github&label=&style=social)](https://github.com/NVIDIA/garak)
