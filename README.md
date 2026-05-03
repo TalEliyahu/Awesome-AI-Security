@@ -923,6 +923,8 @@ Backdoors, implants, or malicious programs used to execute or support attacks.
 - [Zenity](https://zenity.io/blog)
   [![GitHub followers](https://img.shields.io/github/followers/zenitysec?style=social&label=)](https://github.com/zenitysec)
   [![X followers](https://img.shields.io/twitter/follow/zenitysec?style=social&logo=x&label=%20)](https://x.com/zenitysec)
+  - [Nobulex](https://github.com/arian-gogani/nobulex) — Cryptographic bilateral receipts for AI agent accountability. Pre-execution + post-execution Ed25519 signatures, hash-chained via JCS/RFC 8785. Merged into Microsoft Agent Governance Toolkit. 8 byte-match validated implementations. EU AI Act Article 12 compliance.
+  -   [![GitHub followers](https://img.shields.io/github/followers/arian-gogani?style=social&label=)](https://github.com/arian-gogani)
 
 ---
 
