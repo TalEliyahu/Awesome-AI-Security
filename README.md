@@ -189,7 +189,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Prompt-Injection Detection & Mitigation
 *Detect and stop prompt-injection (direct/indirect) across inputs, context, and outputs; filter hostile content before it reaches tools or models.*
 
-- **[prompt-defense-audit](https://github.com/ppcvote/prompt-defense-audit)** [![GitHub Repo stars](https://img.shields.io/github/stars/ppcvote/prompt-defense-audit?logo=github&label=&style=social)](https://github.com/ppcvote/prompt-defense-audit) - Deterministic LLM prompt defense scanner: checks system prompts for missing defenses against 17 attack vectors (OWASP LLM Top 10 + 5 agent-specific). Pure regex, zero deps, <5ms, 100% reproducible. Backed by empirical study of 1,646 production prompts (78.3% scored F).
+- *(none from your current list yet)* -
 
 ### Jailbreak & Policy Enforcement (Guardrails)
 *Enforce safety policies and block jailbreaks at runtime via rules/validators/DSLs, with optional human-in-the-loop for sensitive actions.*
