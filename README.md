@@ -265,7 +265,6 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 #### Integrated platforms
 - **[AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)** [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?logo=github&label=&style=social)](https://github.com/Tencent/AI-Infra-Guard) - AI red-teaming platform: AI infra vulnerability scan (30+ components, ~400 CVEs), MCP server risk scan (9 categories), and jailbreak evaluation; web UI + Docker quick start.
-- **[Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz)** [![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/Agent-Wiz?logo=github&label=&style=social)](https://github.com/Repello-AI/Agent-Wiz) - Python CLI by Repello AI that extracts agentic workflows from LangChain, LangGraph, CrewAI, and AutoGen and runs automated threat modeling against the resulting graphs.
 
 #### Prompt-injection test suites
 - **[Promptmap](https://github.com/utkusen/promptmap)** [![GitHub Repo stars](https://img.shields.io/github/stars/utkusen/promptmap?logo=github&label=&style=social)](https://github.com/utkusen/promptmap)
