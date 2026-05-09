@@ -119,6 +119,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **FS-ISAC - Framework of an Acceptable Use Policy for External Generative AI** - framework-style guidance (not a template) with *permissive vs. stringent* clause options for inputs/outputs, access control, monitoring, and representation. [PDF](https://www.fsisac.com/hubfs/Knowledge/FrameworkOfAnAcceptableUsePolicyForExternalGenerativeAI.pdf)
 
 ### Agentic Systems (Standards, Governance & Patterns)
+- [OWASP – Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) – A security framework for protecting AI agent memory from poisoning, injection, and exfiltration attacks. Provides detection middleware, sanitization hooks, and audit logging for LangChain, LlamaIndex, and custom agent pipelines.
 - [OWASP - Agent Observability Standard (AOS)](https://github.com/OWASP/www-project-agent-observability-standard) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-agent-observability-standard?logo=github&label=&style=social)](https://github.com/OWASP/www-project-agent-observability-standard)
 - [OWASP - Agent Name Service (ANS) for Secure AI Agent Discovery](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/)
 - [OWASP - Agentic AI - Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
