@@ -189,7 +189,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Prompt-Injection Detection & Mitigation
 *Detect and stop prompt-injection (direct/indirect) across inputs, context, and outputs; filter hostile content before it reaches tools or models.*
 
-- **[Aigis](https://github.com/killertcell428/aigis)** [![GitHub Repo stars](https://img.shields.io/github/stars/killertcell428/aigis?logo=github&label=&style=social)](https://github.com/killertcell428/aigis) – Zero-dependency Python firewall for AI agents. 180+ patterns across OWASP LLM Top 10 plus 7 published-paper modules (Mirror, StruQ, MI9 goal-conditioned FSM, MemoryGraft, MSB MCP scanning, RAG context filter, AdvJudge-Zero); 44 compliance templates (US/CN/JP/EU); deploys as library, Docker sidecar, or CLI.
+- *(none from your current list yet)* -
 
 ### Jailbreak & Policy Enforcement (Guardrails)
 *Enforce safety policies and block jailbreaks at runtime via rules/validators/DSLs, with optional human-in-the-loop for sensitive actions.*
