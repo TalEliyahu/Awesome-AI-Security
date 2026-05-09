@@ -189,7 +189,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Prompt-Injection Detection & Mitigation
 *Detect and stop prompt-injection (direct/indirect) across inputs, context, and outputs; filter hostile content before it reaches tools or models.*
 
-- *(none from your current list yet)* -
+- **[prompt-defense-audit](https://github.com/ppcvote/prompt-defense-audit)** [![GitHub Repo stars](https://img.shields.io/github/stars/ppcvote/prompt-defense-audit?logo=github&label=&style=social)](https://github.com/ppcvote/prompt-defense-audit) - Deterministic LLM prompt defense scanner: checks system prompts for missing defenses against 17 attack vectors (OWASP LLM Top 10 + 5 agent-specific). Pure regex, zero deps, <5ms, 100% reproducible. Backed by empirical study of 1,646 production prompts (78.3% scored F).
 
 ### Jailbreak & Policy Enforcement (Guardrails)
 *Enforce safety policies and block jailbreaks at runtime via rules/validators/DSLs, with optional human-in-the-loop for sensitive actions.*
@@ -297,6 +297,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[DeepTeam](https://github.com/confident-ai/deepteam)** [![GitHub Repo stars](https://img.shields.io/github/stars/confident-ai/deepteam?logo=github&label=&style=social)](https://github.com/confident-ai/deepteam)
 - **[Buttercup](https://github.com/trailofbits/buttercup)** [![GitHub Repo stars](https://img.shields.io/github/stars/trailofbits/buttercup?logo=github&label=&style=social)](https://github.com/trailofbits/buttercup) - Trail of Bits’ AIxCC Cyber Reasoning System: runs OSS-Fuzz-style campaigns to find vulns, then uses a multi-agent LLM patcher to generate & validate fixes for C/Java repos; ships SigNoz observability; requires at least one LLM API key.
 - **[Giskard](https://github.com/Giskard-AI/giskard-oss)** [![GitHub Repo stars](https://img.shields.io/github/stars/Giskard-AI/giskard-oss?logo=github&label=&style=social)](https://github.com/Giskard-AI/giskard-oss) - Pre-deployment/CI evaluation harness for LLM/RAG: runs scan checks (prompt injection, harmful output, sensitive-information disclosure, robustness), auto-generates RAG evaluation datasets and component scores (retriever, generator, rewriter, router), exports shareable reports, and integrates with CI for regression gates.
+- **[ultraprobe](https://github.com/ppcvote/ultralab/tree/master/ultraprobe)** [![GitHub Repo stars](https://img.shields.io/github/stars/ppcvote/ultralab?logo=github&label=&style=social)](https://github.com/ppcvote/ultralab) - Lighthouse-style CLI for AI agents: bundles prompt defense audit (17 vectors), PII detection, and SEO/AEO/AAO scanners into a single AVS Score. Pure deterministic, zero-config, MIT-licensed. Designed for CI gates and pre-deployment scoring.
 
 #### Scoring/leaderboards & evidence reports
 - *(none from your current list yet)*
