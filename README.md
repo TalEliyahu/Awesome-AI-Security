@@ -200,6 +200,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[LlamaFirewall](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
 - **[Code Shield](https://github.com/meta-llama/PurpleLlama/tree/main/CodeShield)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
 - **[Guardrails](https://github.com/guardrails-ai/guardrails)** [![GitHub Repo stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?logo=github&label=&style=social)](https://github.com/guardrails-ai/guardrails) - Runtime policy enforcement for LLM apps: compose input/output validators (PII, toxicity, jailbreak/PI, regex, competitor checks), then block/redact/rewrite/retry on fail; optional server mode; also supports structured outputs (Pydantic/function-calling).
+- **[TealTiger](https://github.com/agentguard-ai/tealtiger) ![GitHub Repo stars](https://img.shields.io/github/stars/agentguard-ai/tealtiger?style=social) – Deterministic runtime governance for AI agents. 7 parallel modules (secrets, registry, reliability, memory, audit, dashboard, evidence), 500+ secret patterns, tool allowlisting, SARIF export, Docker sidecar. No LLM in the decision path — same input + same policy = same decision.
+
 
 ### Model Artifact Scanners
 *Analyze serialized model files for unsafe deserialization and embedded code; verify integrity/metadata and block or quarantine on fail.*
