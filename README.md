@@ -189,7 +189,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Prompt-Injection Detection & Mitigation
 *Detect and stop prompt-injection (direct/indirect) across inputs, context, and outputs; filter hostile content before it reaches tools or models.*
 
-- *(none from your current list yet)* -
+- **[Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard)** [![GitHub Repo stars](https://img.shields.io/github/stars/ArmorerLabs/Armorer-Guard?logo=github&label=&style=social)](https://github.com/ArmorerLabs/Armorer-Guard) - Local Rust scanner for AI-agent prompt injection, sensitive-data requests, exfiltration-style text, safety bypass, credential redaction, and dangerous tool-call context with structured JSON verdicts.
 
 ### Jailbreak & Policy Enforcement (Guardrails)
 *Enforce safety policies and block jailbreaks at runtime via rules/validators/DSLs, with optional human-in-the-loop for sensitive actions.*
@@ -1042,4 +1042,3 @@ This repository follows the **[Awesome Manifesto](https://github.com/sindresorhu
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 © 2025 Tal Eliyahu. Licensed under the **MIT License**. See [`LICENSE`](LICENSE).
-
