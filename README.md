@@ -235,6 +235,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Servers & Dev tooling
 
 - **[PortSwigger - MCP Server](https://github.com/PortSwigger/mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?logo=github&label=&style=social)](https://github.com/PortSwigger/mcp-server)
+- **[misp-mcp-server](https://github.com/ppcvote/misp-mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/ppcvote/misp-mcp-server?logo=github&label=&style=social)](https://github.com/ppcvote/misp-mcp-server) - MISP (Malware Information Sharing Platform) MCP server with built-in prompt-injection defense via prompt-defense-audit. 8 read-only threat-intel tools; scans every MISP response for adversarial seeding before LLM exposure. Tracks [MISP/MISP#10745](https://github.com/MISP/MISP/issues/10745).
 - **[ToolHive](https://github.com/stacklok/toolhive)** [![GitHub Repo stars](https://img.shields.io/github/stars/stacklok/toolhive?logo=github&label=&style=social)](https://github.com/stacklok/toolhive) - MCP server orchestrator for desktop, CLI, and Kubernetes Operator: discover and deploy servers in isolated containers with restricted permissions, manage secrets, use an optional egress proxy, auto-configure popular MCP clients (e.g., GitHub Copilot, Cursor), and manage at scale via CRDs/registry.
 
 ### Execution Sandboxing for Agent Code
