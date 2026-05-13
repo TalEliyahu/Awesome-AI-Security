@@ -661,6 +661,8 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 **[Purple Llama – CyberSecEval](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama) - evaluates models’ propensity to assist cyber-offense (exploit/malware) and to generate insecure code; graded-risk tasks with a reproducible harness. **Best for:** dangerous-capability / misuse-risk scoring (text/IDE, non-agent).
 
+**[Agent Trust Bench](https://agent-trust-bench.algovoi.co.uk)** - 138 adversarial payment scenarios across 30 threat categories testing AI agents on autonomous payment flows: prompt injection, authority spoofing, MCP tool injection, multi-agent orchestration, financial manipulation (fee leg drain, amount mismatch, micro-drift escalation), and regulatory evasion. Fake-signing wallet, no real funds. Claude 3.7 Sonnet: 130/138 (94.2%). **Best for:** pre-deployment safety evaluation for AI agents handling real payment authorisation.
+
 ### **Prompt Injection & Jailbreak Detection**
 **Purpose**: Evaluates resistance to prompt-injection and jailbreak attempts in chat/RAG/agent contexts.  
 **NIST AI RMF Alignment**: **Measure, Manage**
