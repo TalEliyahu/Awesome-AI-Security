@@ -255,6 +255,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 *Centralize auth, quotas/rate limits, cost caps, egress/DLP filters, and guardrail orchestration across all model/providers.*
 
 - **[Cerbos](https://github.com/cerbos/cerbos)** [![GitHub Repo stars](https://img.shields.io/github/stars/cerbos/cerbos?logo=github&label=&style=social)](https://github.com/cerbos/cerbos) – open-source, policy-based authorization layer for fine-grained controls in MCP servers, RAG pipelines, and other agentic systems.
+- **[Pipelock](https://github.com/luckyPipewrench/pipelock)** [![GitHub Repo stars](https://img.shields.io/github/stars/luckyPipewrench/pipelock?logo=github&label=&style=social)](https://github.com/luckyPipewrench/pipelock) – Open-source AI agent firewall and egress proxy for MCP and HTTP traffic: DLP, SSRF, prompt-injection containment, tool-poisoning detection, workspace integrity monitoring, and signed action receipts.
 
 ### Code Review
 - **[Claude Code Security Reviewer](https://github.com/anthropics/claude-code-security-review)** [![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code-security-review?logo=github&label=&style=social)](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
@@ -1042,4 +1043,3 @@ This repository follows the **[Awesome Manifesto](https://github.com/sindresorhu
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 © 2025 Tal Eliyahu. Licensed under the **MIT License**. See [`LICENSE`](LICENSE).
-
