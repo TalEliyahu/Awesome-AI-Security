@@ -237,6 +237,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[PortSwigger - MCP Server](https://github.com/PortSwigger/mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?logo=github&label=&style=social)](https://github.com/PortSwigger/mcp-server)
 - **[ToolHive](https://github.com/stacklok/toolhive)** [![GitHub Repo stars](https://img.shields.io/github/stars/stacklok/toolhive?logo=github&label=&style=social)](https://github.com/stacklok/toolhive) - MCP server orchestrator for desktop, CLI, and Kubernetes Operator: discover and deploy servers in isolated containers with restricted permissions, manage secrets, use an optional egress proxy, auto-configure popular MCP clients (e.g., GitHub Copilot, Cursor), and manage at scale via CRDs/registry.
 
+- **[MCPProxy](https://github.com/smart-mcp-proxy/mcpproxy-go)** [![GitHub Repo stars](https://img.shields.io/github/stars/smart-mcp-proxy/mcpproxy-go?logo=github&label=&style=social)](https://github.com/smart-mcp-proxy/mcpproxy-go) - Local-first MCP proxy/gateway with per-tool SHA-256 quarantine to detect tool-poisoning and rug-pull attacks, automatic sensitive-data and secret scanning of tool calls, Docker sandbox isolation for untrusted MCP servers, and OAuth 2.1. MIT licensed, Go.
+
 ### Execution Sandboxing for Agent Code
 *Run untrusted or LLM-triggered code in isolated sandboxes (FS/network/process limits) to contain RCE and reduce blast radius.*
 
