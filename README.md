@@ -167,6 +167,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 #### Control Catalogues & Mappings (use for gap-assessments)
 - **[CSA - AI Controls Matrix (AICM)](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix)** - 243 control objectives across 18 domains, mapped to ISO/IEC 42001, NIST AI RMF, etc.
+- [ISO/IEC 42001 Visual Library](https://github.com/nelsambrose/ISO-42001-Visual-Library) - Visual learning library for ISO/IEC 42001 AI management systems, covering clauses, Annex A controls, audit readiness, AI principles, and governance concepts through professional and memory-focused infographic cards.
 - **[BSI - AIC4 (AI Cloud Service Compliance Criteria Catalogue)](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/AIC4/AI-Cloud-Service-Compliance-Criteria-Catalogue_AIC4.pdf?__blob=publicationFile&v=4)** - criteria to evaluate security/robustness, performance, reliability, data quality/management, explainability, and bias for AI cloud services.
 
 #### Impact Assessments (Project/System Level)
