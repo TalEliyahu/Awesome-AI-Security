@@ -225,6 +225,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Honeypots & Deception (MCP/LLM)
 
 - **[Beelzebub](https://github.com/mariocandela/beelzebub)** [![GitHub Repo stars](https://img.shields.io/github/stars/mariocandela/beelzebub?logo=github&label=&style=social)](https://github.com/mariocandela/beelzebub) - Beelzebub is a honeypot framework designed to provide a secure environment for detecting and analyzing cyber attacks. It offers a low code approach for easy implementation and uses AI to mimic the behavior of a high-interaction honeypot.
+- **[Krawl](https://github.com/BlessedRebuS/Krawl)** [![GitHub Repo stars](https://img.shields.io/github/stars/BlessedRebuS/Krawl?logo=github&label=&style=social)](https://github.com/BlessedRebuS/Krawl) - Krawl is a modern, customizable web honeypot and deception server designed to detect and track malicious attackers, web crawlers, and automated scanners through fake web applications, deceptive pages, and realistic decoy content.
 
 #### Tool manifest/metadata validators
 
