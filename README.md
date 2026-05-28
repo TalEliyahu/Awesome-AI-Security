@@ -119,6 +119,10 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **FS-ISAC - Framework of an Acceptable Use Policy for External Generative AI** - framework-style guidance (not a template) with *permissive vs. stringent* clause options for inputs/outputs, access control, monitoring, and representation. [PDF](https://www.fsisac.com/hubfs/Knowledge/FrameworkOfAnAcceptableUsePolicyForExternalGenerativeAI.pdf)
 
 ### Agentic Systems (Standards, Governance & Patterns)
+
+**[AgentGate](https://github.com/ElamOlame31/agentgate-public)** - Open-source pre-execution authorization layer for autonomous AI agents. 4D trust scoring, 24h kill chain detection, Merkle audit trail. MIT licensed, drop-in with LangGraph and LangChain. [![GitHub stars](https://img.shields.io/github/stars/ElamOlame31/agentgate-public?style=social)](https://github.com/ElamOlame31/agentgate-public)
+
+https://www.tryagentgate.com/
 - [OWASP - Agent Observability Standard (AOS)](https://github.com/OWASP/www-project-agent-observability-standard) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-agent-observability-standard?logo=github&label=&style=social)](https://github.com/OWASP/www-project-agent-observability-standard)
 - [OWASP - Agent Name Service (ANS) for Secure AI Agent Discovery](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/)
 - [OWASP - Agentic AI - Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
