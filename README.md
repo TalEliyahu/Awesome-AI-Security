@@ -229,6 +229,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Tool manifest/metadata validators
 
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
+- **[SkilLock](https://github.com/skills-lock/skil-lock)** [![GitHub Repo stars](https://img.shields.io/github/stars/skills-lock/skil-lock?logo=github&label=&style=social)](https://github.com/skills-lock/skil-lock) - Lockfile + GitHub Action that pins the parsed behavior surface (shell commands, URLs, file reads/writes, allowed tools) of Claude Code and Codex agent skills. Diffs the surface on every PR; catches "SKILL.md legitimately changed and now does something different" cases that hash pinning misses. Emits SARIF for GitHub Code Scanning. Apache 2.0.
 
 #### Agent Identity & Trust
 
