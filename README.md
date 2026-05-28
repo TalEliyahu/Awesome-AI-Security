@@ -119,10 +119,6 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **FS-ISAC - Framework of an Acceptable Use Policy for External Generative AI** - framework-style guidance (not a template) with *permissive vs. stringent* clause options for inputs/outputs, access control, monitoring, and representation. [PDF](https://www.fsisac.com/hubfs/Knowledge/FrameworkOfAnAcceptableUsePolicyForExternalGenerativeAI.pdf)
 
 ### Agentic Systems (Standards, Governance & Patterns)
-
-**[AgentGate](https://github.com/ElamOlame31/agentgate-public)** - Open-source pre-execution authorization layer for autonomous AI agents. 4D trust scoring, 24h kill chain detection, Merkle audit trail. MIT licensed, drop-in with LangGraph and LangChain. [![GitHub stars](https://img.shields.io/github/stars/ElamOlame31/agentgate-public?style=social)](https://github.com/ElamOlame31/agentgate-public)
-
-https://www.tryagentgate.com/
 - [OWASP - Agent Observability Standard (AOS)](https://github.com/OWASP/www-project-agent-observability-standard) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-agent-observability-standard?logo=github&label=&style=social)](https://github.com/OWASP/www-project-agent-observability-standard)
 - [OWASP - Agent Name Service (ANS) for Secure AI Agent Discovery](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/)
 - [OWASP - Agentic AI - Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
@@ -189,12 +185,11 @@ https://www.tryagentgate.com/
 *Prevent credential exfiltration by ensuring AI agents never access raw API keys; inject secrets at request time via proxy gateways.*
 
 - **[OneCLI](https://github.com/onecli/onecli)** [![GitHub Repo stars](https://img.shields.io/github/stars/onecli/onecli?logo=github&label=&style=social)](https://github.com/onecli/onecli) – Open-source credential vault for AI agents. Rust HTTP gateway intercepts agent requests and injects API credentials transparently; AES-256-GCM encryption, per-agent scoped tokens, full audit trail.
-- **[Shellgate](https://github.com/matthiastjong/shellgate)** [![GitHub Repo stars](https://img.shields.io/github/stars/matthiastjong/shellgate?logo=github&label=&style=social)](https://github.com/matthiastjong/shellgate) – A self-hosted security gateway that sits between AI agents and infrastructure — agents get scoped tokens, never see real credentials, and dangerous commands require human approval. MCP server with API gateway proxy, SSH execution guards, credential vault with blind-fill, and full audit trail.
 
 ### Prompt-Injection Detection & Mitigation
 *Detect and stop prompt-injection (direct/indirect) across inputs, context, and outputs; filter hostile content before it reaches tools or models.*
 
-- **[Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard)** [![GitHub Repo stars](https://img.shields.io/github/stars/ArmorerLabs/Armorer-Guard?logo=github&label=&style=social)](https://github.com/ArmorerLabs/Armorer-Guard) - Local Rust scanner for AI-agent prompt injection, sensitive-data requests, exfiltration-style text, safety bypass, credential redaction, and dangerous tool-call context with structured JSON verdicts.
+- *(none from your current list yet)* -
 
 ### Jailbreak & Policy Enforcement (Guardrails)
 *Enforce safety policies and block jailbreaks at runtime via rules/validators/DSLs, with optional human-in-the-loop for sensitive actions.*
@@ -234,14 +229,12 @@ https://www.tryagentgate.com/
 #### Tool manifest/metadata validators
 
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
-- **[SkilLock](https://github.com/skills-lock/skil-lock)** [![GitHub Repo stars](https://img.shields.io/github/stars/skills-lock/skil-lock?logo=github&label=&style=social)](https://github.com/skills-lock/skil-lock) - Lockfile + GitHub Action that pins the parsed behavior surface (shell commands, URLs, file reads/writes, allowed tools) of Claude Code and Codex agent skills. Diffs the surface on every PR; catches "SKILL.md legitimately changed and now does something different" cases that hash pinning misses. Emits SARIF for GitHub Code Scanning. Apache 2.0.
 
 #### Agent Identity & Trust
 
 #### Servers & Dev tooling
 
 - **[PortSwigger - MCP Server](https://github.com/PortSwigger/mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?logo=github&label=&style=social)](https://github.com/PortSwigger/mcp-server)
-- **[misp-mcp-server](https://github.com/ppcvote/misp-mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/ppcvote/misp-mcp-server?logo=github&label=&style=social)](https://github.com/ppcvote/misp-mcp-server) - MISP (Malware Information Sharing Platform) MCP server with built-in prompt-injection defense via prompt-defense-audit. 8 read-only threat-intel tools; scans every MISP response for adversarial seeding before LLM exposure. Tracks [MISP/MISP#10745](https://github.com/MISP/MISP/issues/10745).
 - **[ToolHive](https://github.com/stacklok/toolhive)** [![GitHub Repo stars](https://img.shields.io/github/stars/stacklok/toolhive?logo=github&label=&style=social)](https://github.com/stacklok/toolhive) - MCP server orchestrator for desktop, CLI, and Kubernetes Operator: discover and deploy servers in isolated containers with restricted permissions, manage secrets, use an optional egress proxy, auto-configure popular MCP clients (e.g., GitHub Copilot, Cursor), and manage at scale via CRDs/registry.
 
 ### Execution Sandboxing for Agent Code
@@ -250,8 +243,6 @@ https://www.tryagentgate.com/
 - **[E2B](https://github.com/e2b-dev/E2B)** [![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/E2B?logo=github&label=&style=social)](https://github.com/e2b-dev/E2B) - SDK + self-hostable infra to run untrusted, LLM-generated code in isolated cloud sandboxes (Firecracker microVMs).
 
 - **[microsandbox](https://github.com/microsandbox/microsandbox)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsandbox/microsandbox?logo=github&label=&style=social)](https://github.com/e2b-dev/E2B) - self-hosted microVM (libkrun) sandbox for untrusted AI/user code.
-
-- **[AgentTier](https://github.com/agenttier/agenttier)** [![GitHub Repo stars](https://img.shields.io/github/stars/agenttier/agenttier?logo=github&label=&style=social)](https://github.com/agenttier/agenttier) — Kubernetes-native sandbox runtime for AI coding agents. Each Sandbox CRD provisions a Pod + PVC + default-deny NetworkPolicy with optional gVisor RuntimeClass for kernel-level isolation, per-session ServiceAccount with no cluster permissions, and STS / per-session credential injection.
 
 ### Confidential & Verifiable Inference (PCC/TEEs)
 *Run AI models inside attested TEEs with end-to-end encryption, auditability, and unlinkable requests so prompts and outputs never leave the secure boundary.*
@@ -304,7 +295,6 @@ https://www.tryagentgate.com/
 - **[promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?logo=github&label=&style=social)](https://github.com/promptfoo/promptfoo)
 - **[Agentic Radar](https://github.com/splx-ai/agentic-radar)** [![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?logo=github&label=&style=social)](https://github.com/splx-ai/agentic-radar)
 - **[DeepTeam](https://github.com/confident-ai/deepteam)** [![GitHub Repo stars](https://img.shields.io/github/stars/confident-ai/deepteam?logo=github&label=&style=social)](https://github.com/confident-ai/deepteam)
-- **[ai-evaluation](https://github.com/future-agi/ai-evaluation)** [![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/ai-evaluation?logo=github&label=&style=social)](https://github.com/future-agi/ai-evaluation) - LLM evaluation framework with 50+ metrics, LLM-as-Judge, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support for regression gating.
 - **[Buttercup](https://github.com/trailofbits/buttercup)** [![GitHub Repo stars](https://img.shields.io/github/stars/trailofbits/buttercup?logo=github&label=&style=social)](https://github.com/trailofbits/buttercup) - Trail of Bits’ AIxCC Cyber Reasoning System: runs OSS-Fuzz-style campaigns to find vulns, then uses a multi-agent LLM patcher to generate & validate fixes for C/Java repos; ships SigNoz observability; requires at least one LLM API key.
 - **[Giskard](https://github.com/Giskard-AI/giskard-oss)** [![GitHub Repo stars](https://img.shields.io/github/stars/Giskard-AI/giskard-oss?logo=github&label=&style=social)](https://github.com/Giskard-AI/giskard-oss) - Pre-deployment/CI evaluation harness for LLM/RAG: runs scan checks (prompt injection, harmful output, sensitive-information disclosure, robustness), auto-generates RAG evaluation datasets and component scores (retriever, generator, rewriter, router), exports shareable reports, and integrates with CI for regression gates.
 - **[ultraprobe](https://github.com/ppcvote/ultralab/tree/master/ultraprobe)** [![GitHub Repo stars](https://img.shields.io/github/stars/ppcvote/ultralab?logo=github&label=&style=social)](https://github.com/ppcvote/ultralab) - Lighthouse-style CLI for AI agents: bundles prompt defense audit (17 vectors), PII detection, and SEO/AEO/AAO scanners into a single AVS Score. Pure deterministic, zero-config, MIT-licensed. Designed for CI gates and pre-deployment scoring.
@@ -670,8 +660,6 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 **[AgentHarm](https://huggingface.co/datasets/ai-safety-institute/AgentHarm)** [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fai-safety-institute%2FAgentHarm&query=downloads&label=HF%20downloads&logo=huggingface)](https://huggingface.co/datasets/ai-safety-institute/AgentHarm) human-authored harmful agent tasks for tool-using agents with benign counterparts, synthetic proxy tools, and a reproducible scoring harness; 110 base tasks (440 with augmentation), 11 categories, 104 tools. [arXiv](https://arxiv.org/abs/2410.09024) • **Best for:** measuring refusal vs completion on multi-step tool use and the impact of jailbreaks.
 
 **[Purple Llama – CyberSecEval](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama) - evaluates models’ propensity to assist cyber-offense (exploit/malware) and to generate insecure code; graded-risk tasks with a reproducible harness. **Best for:** dangerous-capability / misuse-risk scoring (text/IDE, non-agent).
-
-**[Agent Trust Bench](https://agent-trust-bench.algovoi.co.uk)** - 138 adversarial payment scenarios across 30 threat categories testing AI agents on autonomous payment flows: prompt injection, authority spoofing, MCP tool injection, multi-agent orchestration, financial manipulation (fee leg drain, amount mismatch, micro-drift escalation), and regulatory evasion. Fake-signing wallet, no real funds. Claude 3.7 Sonnet: 130/138 (94.2%). **Best for:** pre-deployment safety evaluation for AI agents handling real payment authorisation.
 
 ### **Prompt Injection & Jailbreak Detection**
 **Purpose**: Evaluates resistance to prompt-injection and jailbreak attempts in chat/RAG/agent contexts.  
@@ -1054,3 +1042,4 @@ This repository follows the **[Awesome Manifesto](https://github.com/sindresorhu
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 © 2025 Tal Eliyahu. Licensed under the **MIT License**. See [`LICENSE`](LICENSE).
+
