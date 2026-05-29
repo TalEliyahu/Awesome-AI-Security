@@ -244,6 +244,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[E2B](https://github.com/e2b-dev/E2B)** [![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/E2B?logo=github&label=&style=social)](https://github.com/e2b-dev/E2B) - SDK + self-hostable infra to run untrusted, LLM-generated code in isolated cloud sandboxes (Firecracker microVMs).
 
 - **[microsandbox](https://github.com/microsandbox/microsandbox)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsandbox/microsandbox?logo=github&label=&style=social)](https://github.com/e2b-dev/E2B) - self-hosted microVM (libkrun) sandbox for untrusted AI/user code.
+- **[AgentTier](https://github.com/agenttier/agenttier)** [![GitHub Repo stars](https://img.shields.io/github/stars/agenttier/agenttier?logo=github&label=&style=social)](https://github.com/agenttier/agenttier) — Kubernetes-native sandbox runtime for AI coding agents. Each Sandbox CRD provisions a Pod + PVC + default-deny NetworkPolicy with optional gVisor RuntimeClass for kernel-level isolation, per-session ServiceAccount with no cluster permissions, and STS / per-session credential injection.
 
 ### Confidential & Verifiable Inference (PCC/TEEs)
 *Run AI models inside attested TEEs with end-to-end encryption, auditability, and unlinkable requests so prompts and outputs never leave the secure boundary.*
