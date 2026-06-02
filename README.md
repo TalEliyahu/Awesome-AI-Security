@@ -364,6 +364,7 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 *Questionnaires and templates to assess external vendors, model providers, and integrators for security, privacy, and compliance.*
 
 - **FS-ISAC - Generative AI Vendor Evaluation & Qualitative Risk Assessment** - [Assessment Tool XLSX](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessmentTool.xlsx) • [Guide PDF](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessment.pdf) - Vendor due-diligence toolkit for GenAI: risk tiering by use case, integration and data sensitivity; questionnaires across privacy, security, model development and validation, integration, legal and compliance; auto-generated reporting.
+- **BAA Atlas - AI Vendor HIPAA BAA Tracker** - [Tracker](https://baa-atlas.vercel.app/ai/hipaa) - Reference of which AI tools (OpenAI, Anthropic, Gemini, Copilot, and ~30 others) will sign a HIPAA Business Associate Agreement and on which plan tier; each verdict cited to the vendor's own source and date-stamped. Covers the legal-and-compliance leg of AI vendor due diligence for teams handling PHI.
 
 ---
 
