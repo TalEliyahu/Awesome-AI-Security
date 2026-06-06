@@ -233,6 +233,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 #### Agent Identity & Trust
 
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — MCP server for pre-dispatch trust gating: verify agent identity, query on-chain trust scores, and validate signed trust receipts before executing transactions or API calls. Tools: `preflight_check`, `score_agent`, `resolve_agent`, `verify_trust_receipt`. Zero-install: `{"mcpServers": {"twzrd-agent-intel": {"url": "https://intel.twzrd.xyz/mcp"}}}`
+
 #### Servers & Dev tooling
 
 - **[PortSwigger - MCP Server](https://github.com/PortSwigger/mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?logo=github&label=&style=social)](https://github.com/PortSwigger/mcp-server)
