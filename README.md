@@ -270,6 +270,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 #### Prompt-injection test suites
 - **[Promptmap](https://github.com/utkusen/promptmap)** [![GitHub Repo stars](https://img.shields.io/github/stars/utkusen/promptmap?logo=github&label=&style=social)](https://github.com/utkusen/promptmap)
+- **[API Relay Audit](https://github.com/toby-bridges/api-relay-audit)** [![GitHub Repo stars](https://img.shields.io/github/stars/toby-bridges/api-relay-audit?logo=github&label=&style=social)](https://github.com/toby-bridges/api-relay-audit) - Local 14-step audit for AI API relays and LLM proxies covering prompt injection, model substitution, tool-call rewriting, error leakage, SSE anomalies, and Web3 wallet-risk probes.
 - **[Giskard](https://github.com/Giskard-AI/giskard)** [![GitHub Repo stars](https://img.shields.io/github/stars/Giskard-AI/giskard?logo=github&label=&style=social)](https://github.com/Giskard-AI/giskard)
 
 #### Data-leakage/secret-exfil test suites
