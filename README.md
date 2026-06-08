@@ -189,7 +189,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Prompt-Injection Detection & Mitigation
 *Detect and stop prompt-injection (direct/indirect) across inputs, context, and outputs; filter hostile content before it reaches tools or models.*
 
-- *(none from your current list yet)* -
+- **[EmbedGuard](https://github.com/neerazz/embedguard)** [![GitHub Repo stars](https://img.shields.io/github/stars/neerazz/embedguard?logo=github&label=&style=social)](https://github.com/neerazz/embedguard) — Cross-layer detection and provenance attestation for adversarial embedding attacks in RAG systems; defends against adversarial vectors injected into retrieval corpora. Reference implementation of IJCESEN 2026 paper (DOI 10.22399/ijcesen.4869).
 
 ### Jailbreak & Policy Enforcement (Guardrails)
 *Enforce safety policies and block jailbreaks at runtime via rules/validators/DSLs, with optional human-in-the-loop for sensitive actions.*
