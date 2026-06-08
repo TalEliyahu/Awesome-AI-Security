@@ -185,7 +185,6 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 *Prevent credential exfiltration by ensuring AI agents never access raw API keys; inject secrets at request time via proxy gateways.*
 
 - **[OneCLI](https://github.com/onecli/onecli)** [![GitHub Repo stars](https://img.shields.io/github/stars/onecli/onecli?logo=github&label=&style=social)](https://github.com/onecli/onecli) – Open-source credential vault for AI agents. Rust HTTP gateway intercepts agent requests and injects API credentials transparently; AES-256-GCM encryption, per-agent scoped tokens, full audit trail.
-- **[authsome](https://github.com/agentrhq/authsome)** [![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/authsome?logo=github&label=&style=social)](https://github.com/agentrhq/authsome) – Local credential broker for AI agents. Python CLI with encrypted local vault and a local HTTPS proxy on loopback that injects OAuth2 access tokens and API keys at request time so the agent's process env never holds raw secrets. 45 providers bundled (14 OAuth2, 31 API key), browser PKCE / device code flows, background token refresh, no SaaS dependency.
 
 ### Prompt-Injection Detection & Mitigation
 *Detect and stop prompt-injection (direct/indirect) across inputs, context, and outputs; filter hostile content before it reaches tools or models.*
