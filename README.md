@@ -246,8 +246,6 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 - **[microsandbox](https://github.com/microsandbox/microsandbox)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsandbox/microsandbox?logo=github&label=&style=social)](https://github.com/e2b-dev/E2B) - self-hosted microVM (libkrun) sandbox for untrusted AI/user code.
 
-- **[ActPlane](https://github.com/eunomia-bpf/ActPlane)** [![GitHub Repo stars](https://img.shields.io/github/stars/eunomia-bpf/ActPlane?logo=github&label=&style=social)](https://github.com/eunomia-bpf/ActPlane) - OS-level agent harness that compiles a policy DSL to an in-kernel eBPF engine for labeled information-flow control at the syscall boundary. Enforces constraints below the tool layer across any subprocess or direct syscall, with corrective feedback on policy violations.
-
 ### Confidential & Verifiable Inference (PCC/TEEs)
 *Run AI models inside attested TEEs with end-to-end encryption, auditability, and unlinkable requests so prompts and outputs never leave the secure boundary.*
 
