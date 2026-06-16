@@ -516,6 +516,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 #### Courses (includes labs)
 - **[SANS - SEC545: GenAI & LLM Application Security](https://www.sans.org/cyber-security-courses/genai-llm-application-security)** - Hands-on course covering prompt injection, excessive agency, model supply chain, and defensive patterns. *(Certificate of completion provided by SANS.)*
 - **[SANS - SEC495: Leveraging LLMs: Building & Securing RAG, Contextual RAG, and Agentic RAG](https://www.sans.org/cyber-security-courses/leveraging-llms-building-securing-rag)** - Practical RAG builds with threat modeling, validation, and guardrails. *(Certificate of completion provided by SANS.)*
+- **[Practical DevSecOps - Certified AI Security Professional (CAISP)](https://www.practical-devsecops.com/certified-ai-security-professional/)** - Hands-on AI security certification covering the full attack surface of AI systems: LLM vulnerabilities, supply chain risks, and governance. Includes 3 years of video access, 60 days of browser-based labs, 30+ guided exercises, 24/7 Mattermost support, and one exam attempt. No local setup required.
 
 #### Professional Certifications (exam-based)
 
@@ -541,6 +542,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 ### Provider Training Portals
 - [Microsoft AI Security Learning Path](https://learn.microsoft.com/en-us/training/browse/?filter-roles=ai%20&roles=ai-engineer&subjects=security) - Free, self-paced Microsoft content on secure AI model development, risk management, and threat mitigation.
 - [AWS AI Security Training](https://skillbuilder.aws/search?page=1&domain=artificial_intelligence&searchText=security) - Free AWS portal with courses on securing AI applications, risk management, and AI/ML security best practices.
+- [Practical DevSecOps AI Security Training Portal](https://portal.practical-devsecops.training) - Hands-on learning platform for enrolled students with browser-based cloud labs built around practical scenarios. No local environment setup required.
 
 ### Guided Tracks
 - [PortSwigger - Web Security Academy: Web LLM attacks](https://portswigger.net/web-security/llm-attacks) - Structured, guided track on LLM issues (prompt injection, insecure output handling, excessive agency) with walkthrough-style exercises.
@@ -789,6 +791,9 @@ Backdoors, implants, or malicious programs used to execute or support attacks.
 - [AI Security Research Feed](https://research.pwnedby.me/?category=cs.AI&tag=ai) - Continuously updated feed of AI security-related academic papers, preprints, and research indexed from arXiv.
 - [AI Security Portal - Literature Database](https://aisecurity-portal.org/en/section/literature-database/) - Categorized database of AI security literature, taxonomy, and related resources.
 
+### Industry Reports
+- [Practical DevSecOps - AI Security Statistics 2026 Research Report](https://www.practical-devsecops.com/ai-security-statistics-2026-research-report/) - Annual research report covering AI security trends, statistics, and insights for 2026.
+
 ### Industry Alliance & Nonprofit Reports
 - [CSA - Principles to Practice: Responsible AI in a Dynamic Regulatory Environment](https://cloudsecurityalliance.org/artifacts/principles-to-practice-responsible-ai-in-a-dynamic-regulatory-environment)
 - [CSA - AI Resilience: A Revolutionary Benchmarking Model for AI Safety](https://cloudsecurityalliance.org/artifacts/ai-resilience-a-revolutionary-benchmarking-model-for-ai-safety) - Governance & compliance benchmarking model.
@@ -802,6 +807,7 @@ Backdoors, implants, or malicious programs used to execute or support attacks.
 ## [↑](#table-of-contents)Books <a name="books"></a>
 
 - **Generative AI Security: Theories and Practices** - [Amazon](https://www.amazon.com/Generative-AI-Security-Theories-Practices/dp/3031542517), [Springer](https://link.springer.com/book/10.1007/978-3-031-54252-7) (2024)
+- **[Best AI Security Books - Practical DevSecOps](https://www.practical-devsecops.com/best-ai-security-books/)** - Curated reading list of top AI security books covering LLM security, adversarial ML, AI governance, and related topics.
   
 --- 
 
