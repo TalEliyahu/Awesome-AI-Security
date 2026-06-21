@@ -126,6 +126,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - [OWASP - State of Agentic AI Security and Governance](https://genai.owasp.org/resource/state-of-agentic-ai-security-and-governance-1-0/)
 - [CSA - Secure Agentic System Design: A Trait-Based Approach](https://cloudsecurityalliance.org/artifacts/secure-agentic-system-design)
 - [CSA - Agentic AI Identity & Access Management](https://cloudsecurityalliance.org/artifacts/agentic-ai-identity-and-access-management-a-new-approach) - 08/25
+- **[Shani](https://github.com/kmori-source/shani)** [![GitHub Repo stars](https://img.shields.io/github/stars/kmori-source/shani?logo=github&label=&style=social)](https://github.com/kmori-source/shani) — Open-source decision governance layer for autonomous AI agents. Signed ADO (Authorized Decision Object) with HMAC-SHA256, nonce-based replay prevention, HITL approval (Slack/webhook/CLI), tamper-evident audit trail. Works with LangGraph, AutoGen, nanoclaw. Apache 2.0.
 
 ### Threat Modeling
 
