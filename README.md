@@ -552,6 +552,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 ### Bespoke
 - [Trail of Bits - AI/ML Security & Safety Training](https://www.trailofbits.com/services/software-assurance/ai-ml/) - Courses on AI failure modes, adversarial attacks, data provenance, pipeline threats, and mitigation.
+- [GTK Cyber - AI Red-Teaming & AI Security Training](https://gtkcyber.com/courses) - Hands-on, instructor-led courses on AI red-teaming, prompt injection, adversarial ML, and applying AI to detection and threat hunting; taught at Black Hat USA and delivered as private on-site training.
 
 ---
 
