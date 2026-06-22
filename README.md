@@ -96,6 +96,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - [OWASP - LLM Exploit Generation](https://genai.owasp.org/resource/owasp-llm-exploit-generation-v1-0-pdf/)
 - [CSA - Agentic AI Red Teaming Guide](https://cloudsecurityalliance.org/artifacts/agentic-ai-red-teaming-guide)
 - [OWASP AI Testing Guide](https://github.com/OWASP/www-project-ai-testing-guide) [![GitHub stars](https://img.shields.io/github/stars/OWASP/www-project-ai-testing-guide?style=social)](https://github.com/OWASP/www-project-ai-testing-guide) – Guide that provides comprehensive, structured methodologies and best practices for testing artificial intelligence systems.
+- [hego.red](https://hego.red/) - Practical, hands-on AI/LLM red teaming guide: prompt injection, jailbreaks, indirect injection, RAG, agents, methodology, and worked labs.
 
 ### Implementation Guides & Patterns
 
