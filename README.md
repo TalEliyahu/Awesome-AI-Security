@@ -325,6 +325,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 - **[Presidio](https://github.com/microsoft/presidio)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/presidio?logo=github&label=&style=social)](https://github.com/microsoft/presidio) - PII/PHI detection & redaction for text, images, and structured data; use as a pre/post-LLM DLP filter and for dataset sanitization.
 
+- **[SecuredAI](https://securedai.com/)** - Client-side prompt DLP: detects and masks PII/PHI in prompts before they reach the model (OpenAI/DeepSeek) and restores originals locally via a zero-knowledge vault; commercial.
+
 ### Monitoring, Logging & Anomaly Detection
 *Collect AI-specific security logs/signals; detect abuse patterns (PI/jailbreak/leakage), enrich alerts, and support forensics.*
 
