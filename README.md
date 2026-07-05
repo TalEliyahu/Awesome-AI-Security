@@ -189,8 +189,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Prompt-Injection Detection & Mitigation
 *Detect and stop prompt-injection (direct/indirect) across inputs, context, and outputs; filter hostile content before it reaches tools or models.*
 
-- *(none from your current list yet)* -
-- 
+- **[Guard Bands](https://github.com/Cryptix-Security/guard-bands)** [![GitHub Repo stars](https://img.shields.io/github/stars/Cryptix-Security/guard-bands?logo=github&label=&style=social)](https://github.com/Cryptix-Security/guard-bands) - Cryptographic boundaries that separate untrusted content from trusted instructions: input is wrapped in HMAC-signed markers and verified server-side before it can reach a tool call — a structural boundary rather than a content classifier; tamper, replay, and expiry fail closed.
+
 ### Jailbreak & Policy Enforcement (Guardrails)
 *Enforce safety policies and block jailbreaks at runtime via rules/validators/DSLs, with optional human-in-the-loop for sensitive actions.*
 
