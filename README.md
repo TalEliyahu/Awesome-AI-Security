@@ -802,13 +802,13 @@ Backdoors, implants, or malicious programs used to execute or support attacks.
 
 ## [↑](#table-of-contents)Books <a name="books"></a>
 
-- **CompTIA SecAI+ Study Guide: Comprehensive Exam-Focused AI Security Reference** — ⭐ 4.8/5 (137 ratings) · [View listing](https://www.amazon.com/dp/B0F6YQZ3XK) (2026)
-- **AI Security: Three Towers to Protect the Castle: Breach-Proof AI** — ⭐ 4.8/5 (81 ratings) · [View listing](https://www.amazon.com/dp/B0DJ9H3K2P) (2025)
-- **Data Security in the Age of AI: A Guide to Protecting Data and Reducing Risk in an AI-Driven World** — ⭐ 4.3/5 (56 ratings) · [View listing](https://www.amazon.com/dp/B0DZQ7X8LM) (2025)
-- **AI Red Teaming: Volume 1: Foundations and Methodology** — ⭐ 4.8/5 (34 ratings) · [View listing](https://www.amazon.com/dp/B0F8K2N5QR) (2026)
-- **Generative AI Security: Theories and Practices** — ⭐ 4.6/5 (33 ratings) · [Amazon](https://www.amazon.com/Generative-AI-Security-Theories-Practices/dp/3031542517), [Springer](https://link.springer.com/book/10.1007/978-3-031-54252-7) (2024)
-- **CompTIA SecAI+ CY0-001 Study Guide: Complete Reference with Practice Tests** — ⭐ 4.6/5 (32 ratings) · [View listing](https://www.amazon.com/dp/B0F7L3M8ST) (2026)
-- **The AI Cybersecurity Handbook** — ⭐ 4.0/5 (10 ratings) · [View listing](https://www.amazon.com/dp/B0DZK4P7UV) (2025)
+- **[CompTIA SecAI+ Study Guide: Comprehensive Exam-Focused AI Security Reference](https://www.amazon.com/dp/B0F6YQZ3XK)** — ⭐ 4.8/5 (137 ratings) (2026)
+- **[AI Security: Three Towers to Protect the Castle: Breach-Proof AI](https://www.amazon.com/dp/B0DJ9H3K2P)** — ⭐ 4.8/5 (81 ratings) (2025)
+- **[Data Security in the Age of AI: A Guide to Protecting Data and Reducing Risk in an AI-Driven World](https://www.amazon.com/dp/B0DZQ7X8LM)** — ⭐ 4.3/5 (56 ratings) (2025)
+- **[AI Red Teaming: Volume 1: Foundations and Methodology](https://www.amazon.com/dp/B0F8K2N5QR)** — ⭐ 4.8/5 (34 ratings) (2026)
+- **[Generative AI Security: Theories and Practices](https://www.amazon.com/Generative-AI-Security-Theories-Practices/dp/3031542517)** — ⭐ 4.6/5 (33 ratings) (2024)
+- **[CompTIA SecAI+ CY0-001 Study Guide: Complete Reference with Practice Tests](https://www.amazon.com/dp/B0F7L3M8ST)** — ⭐ 4.6/5 (32 ratings) (2026)
+- **[The AI Cybersecurity Handbook](https://www.amazon.com/dp/B0DZK4P7UV)** — ⭐ 4.0/5 (10 ratings) (2025)
   
 --- 
 
