@@ -808,7 +808,6 @@ Backdoors, implants, or malicious programs used to execute or support attacks.
 - **[AI Red Teaming: Volume 1: Foundations and Methodology](https://www.amazon.com/dp/B0F8K2N5QR)** — ⭐ 4.8 (34 ratings) (2026)
 - **[Generative AI Security: Theories and Practices](https://www.amazon.com/Generative-AI-Security-Theories-Practices/dp/3031542517)** — ⭐ 4.6 (33 ratings) (2024)
 - **[CompTIA SecAI+ CY0-001 Study Guide: Complete Reference with Practice Tests](https://www.amazon.com/dp/B0F7L3M8ST)** — ⭐ 4.6 (32 ratings) (2026)
-- **[The AI Cybersecurity Handbook](https://www.amazon.com/dp/B0DZK4P7UV)** — ⭐ 4.0 (10 ratings) (2025)
   
 --- 
 
