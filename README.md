@@ -58,7 +58,6 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - [Market Landscape](#market-landscape)
 - [Blogs](#blogs)
   - [Industry Leaders](#industry-leaders)
-  - [Startup Blogs](#startup-blogs)
 - [Related Awesome Lists](#related-awesome-lists)
 - [Common Acronyms](#common-acronyms)
 
@@ -858,83 +857,6 @@ Backdoors, implants, or malicious programs used to execute or support attacks.
 - **[Joseph Thacker](https://josephthacker.com/)** - AI appsec, agent hacking & jailbreaks - [![LinkedIn](https://badgen.net/badge/icon/linkedin?icon=linkedin&label&color=0A66C2)](https://www.linkedin.com/in/josephthacker) [![X](https://img.shields.io/twitter/follow/rez0__?style=social&logo=x&label=)](https://x.com/rez0__)
 - **[Simon Willison’s Weblog](https://simonwillison.net/)** - Prompt injection, data exfiltration & practical LLM security - [![LinkedIn](https://badgen.net/badge/icon/linkedin?icon=linkedin&label&color=0A66C2)](https://www.linkedin.com/in/simonwillison/) [![X](https://img.shields.io/twitter/follow/simonw?style=social&logo=x&label=)](https://x.com/simonw)
 
-### Startup Blogs <a name="startup-blogs"></a>
-*A curated list of startups securing agentic AI applications, organized by the OWASP Agentic AI lifecycle (Scope & Plan → Govern). Each company appears once in its best-fit stage based on public positioning, and links point to blog/insights for deeper context. Some startups span multiple stages; placements reflect primary focus.*
-
-**Inclusion criteria**
-1. Startup has **not been acquired**
-2. Has an **active blog**
-3. Has an **active GitHub** organization/repository
-
-#### Scope & Plan
-*Design-time security: non-human identities, agent threat modeling, privilege boundaries/authn, and memory scoping/isolation.*
-
-> no startups here with active blog and active GitHub account
-
-#### Develop & Experiment
-*Secure agent loops and tool use; validate I/O contracts; embed policy hooks; test resilience during co-engineering.*
-
-> no startups here with active blog and active GitHub account
-
-#### Augment & Fine-Tune Data
-*Sanitize/trace data and reasoning; validate alignment; protect sensitive memory with privacy controls before deployment.*
-- [Skyflow](https://www.skyflow.com/blog)
-  [![GitHub followers](https://img.shields.io/github/followers/skyflowapi?style=social&label=)](https://github.com/skyflowapi)
-  [![X followers](https://img.shields.io/twitter/follow/SkyflowAPI?style=social&logo=x&label=%20)](https://x.com/SkyflowAPI)
-
-#### Test & Evaluate
-*Adversarial testing for goal drift, prompt injection, and tool misuse; red-team sims; sandboxed calls; decision validation.*
-- [Citadel AI](https://citadel-ai.com/blog/)
-  [![GitHub followers](https://img.shields.io/github/followers/citadel-ai?style=social&label=)](https://github.com/citadel-ai)
-  [![X followers](https://img.shields.io/twitter/follow/CitadelAI?style=social&logo=x&label=%20)](https://x.com/CitadelAI)
-- [Mindgard](https://www.mindgard.ai/blog)
-  [![GitHub followers](https://img.shields.io/github/followers/Mindgard?style=social&label=)](https://github.com/Mindgard)
-  [![X followers](https://img.shields.io/twitter/follow/mindgard?style=social&logo=x&label=%20)](https://x.com/mindgard)
-- [Troj.ai](https://www.troj.ai/blog)
-  [![GitHub followers](https://img.shields.io/github/followers/trojai?style=social&label=)](https://github.com/trojai)
-  [![X followers](https://img.shields.io/twitter/follow/TrojAISec?style=social&logo=x&label=%20)](https://x.com/TrojAISec)
-- [SPLX AI](https://splx.ai/blog)
-  [![GitHub followers](https://img.shields.io/github/followers/splx-ai?style=social&label=)](https://github.com/splx-ai)
-  [![X followers](https://img.shields.io/twitter/follow/SplxAI?style=social&logo=x&label=%20)](https://x.com/SplxAI)
-- [Octomind](https://octomind.dev/blog)
-  [![GitHub followers](https://img.shields.io/github/followers/OctoMind-dev?style=social&label=)](https://github.com/OctoMind-dev)
-  [![X followers](https://img.shields.io/twitter/follow/octominddotdev?style=social&logo=x&label=%20)](https://x.com/octominddotdev)
-- [Patronus AI](https://www.patronus.ai/blog)
-  [![GitHub followers](https://img.shields.io/github/followers/patronus-ai?style=social&label=)](https://github.com/patronus-ai)
-  [![X followers](https://img.shields.io/twitter/follow/patronusai?style=social&logo=x&label=%20)](https://x.com/patronusai)
-
-#### Release
-*Sign models/plugins/memory; verify SBOMs; enforce cryptographically validated policies; register agents/capabilities.*
-
-> no startups here with active blog and active GitHub account
-
-#### Deploy
-*Zero-trust activation: rotate ephemeral creds, apply allowlists/LLM firewalls, and fine-grained least-privilege authorization.*
-- [Pomerium](https://www.pomerium.com/blog)
-  [![GitHub followers](https://img.shields.io/github/followers/pomerium?style=social&label=)](https://github.com/pomerium)
-  [![X followers](https://img.shields.io/twitter/follow/pomerium_io?style=social&logo=x&label=%20)](https://x.com/pomerium_io)
-
-#### Operate
-*Monitor memory mutations for drift/poisoning, detect abnormal loops/misuse, enforce HITL overrides, and scan plugins-continuous, real-time vigilance for resilient operations as systems scale and self-orchestrate.*
-- [Lasso Security](https://www.lasso.security/blog)
-  [![GitHub followers](https://img.shields.io/github/followers/lasso-security?style=social&label=)](https://github.com/lasso-security)
-  [![X followers](https://img.shields.io/twitter/follow/LassoSecurity?style=social&logo=x&label=%20)](https://x.com/LassoSecurity)
-
-#### Monitor
-*Correlate agent steps/tools/comms; detect anomalies (e.g., goal reversal); keep immutable logs for auditability.*
-- [Fiddler](https://www.fiddler.ai/blog)
-  [![GitHub followers](https://img.shields.io/github/followers/fiddler-labs?style=social&label=)](https://github.com/fiddler-labs)
-  [![X followers](https://img.shields.io/twitter/follow/fiddler_ai?style=social&logo=x&label=%20)](https://x.com/fiddler_ai)
-
-#### Govern
-*Enforce role/task policies, version/retire agents, prevent privilege creep, and align evidence with AI regulations.*
-- [GuardionAI](https://guardion.ai/blog)
-  [![GitHub followers](https://img.shields.io/github/followers/GuardionAI?style=social&label=)](https://github.com/GuardionAI)
-- [Zenity](https://zenity.io/blog)
-  [![GitHub followers](https://img.shields.io/github/followers/zenitysec?style=social&label=)](https://github.com/zenitysec)
-  [![X followers](https://img.shields.io/twitter/follow/zenitysec?style=social&logo=x&label=%20)](https://x.com/zenitysec)
-- [![GitHub followers](https://img.shields.io/github/followers/arian-gogani?style=social&label=)](https://github.com/arian-gogani)
-
 ---
 
 ## [↑](#table-of-contents)Related Awesome Lists <a name="related-awesome-lists"></a>
@@ -1051,4 +973,3 @@ This repository follows the **[Awesome Manifesto](https://github.com/sindresorhu
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 © 2025 Tal Eliyahu. Licensed under the **MIT License**. See [`LICENSE`](LICENSE).
-
