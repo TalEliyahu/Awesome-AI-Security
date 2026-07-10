@@ -95,6 +95,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - [OWASP - LLM Exploit Generation](https://genai.owasp.org/resource/owasp-llm-exploit-generation-v1-0-pdf/)
 - [CSA - Agentic AI Red Teaming Guide](https://cloudsecurityalliance.org/artifacts/agentic-ai-red-teaming-guide)
 - [OWASP AI Testing Guide](https://github.com/OWASP/www-project-ai-testing-guide) [![GitHub stars](https://img.shields.io/github/stars/OWASP/www-project-ai-testing-guide?style=social)](https://github.com/OWASP/www-project-ai-testing-guide) – Guide that provides comprehensive, structured methodologies and best practices for testing artificial intelligence systems.
+- **[agentest](https://github.com/alvabillwu/agentest)** - Lightweight test framework for AI agents (pass/fail reports).
+- **[judgekit](https://github.com/alvabillwu/judgekit)** - Reusable LLM-as-judge harness with rubrics, ensembling, and calibration.
 
 ### Implementation Guides & Patterns
 
@@ -125,6 +127,9 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - [OWASP - State of Agentic AI Security and Governance](https://genai.owasp.org/resource/state-of-agentic-ai-security-and-governance-1-0/)
 - [CSA - Secure Agentic System Design: A Trait-Based Approach](https://cloudsecurityalliance.org/artifacts/secure-agentic-system-design)
 - [CSA - Agentic AI Identity & Access Management](https://cloudsecurityalliance.org/artifacts/agentic-ai-identity-and-access-management-a-new-approach) - 08/25
+- **[agentguard](https://github.com/alvabillwu/agentguard)** - Shell-command safety gate for AI agents with block/review/pass verdicts.
+- **[ai-supply-guard](https://github.com/alvabillwu/ai-supply-guard)** - Audit npm dependencies for AI-specific supply-chain attacks.
+- **[skill-audit](https://github.com/alvabillwu/skill-audit)** - Security audit CLI for agent Skills with 12 rules across 4 categories.
 
 ### Threat Modeling
 
@@ -237,6 +242,9 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[PortSwigger - MCP Server](https://github.com/PortSwigger/mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?logo=github&label=&style=social)](https://github.com/PortSwigger/mcp-server)
 - **[ToolHive](https://github.com/stacklok/toolhive)** [![GitHub Repo stars](https://img.shields.io/github/stars/stacklok/toolhive?logo=github&label=&style=social)](https://github.com/stacklok/toolhive) - MCP server orchestrator for desktop, CLI, and Kubernetes Operator: discover and deploy servers in isolated containers with restricted permissions, manage secrets, use an optional egress proxy, auto-configure popular MCP clients (e.g., GitHub Copilot, Cursor), and manage at scale via CRDs/registry.
 - **[Polaxis MCP Server](https://github.com/nishant6118/Polaxis-SDK-MCP)** [![GitHub Repo stars](https://img.shields.io/github/stars/nishant6118/Polaxis-SDK-MCP?logo=github&label=&style=social)](https://github.com/nishant6118/Polaxis-SDK-MCP) - MCP server that wraps any Model Context Protocol agent with a 7-layer AI security firewall. Stops prompt injection, PII leakage, secret exfiltration, memory poisoning, and authority impersonation at the tool-call layer — before tools run. 99.4% avg detection rate, 0% false-block rate. [[Benchmark](https://polaxis.io/benchmark)] [[polaxis.io](https://polaxis.io)]
+- **[mcp-guard](https://github.com/alvabillwu/mcp-guard)** - Security scanner for MCP tools with 10 built-in rules and risk scoring.
+- **[mcp-compliance-lite](https://github.com/alvabillwu/mcp-compliance-lite)** - MCP spec conformance tester with 14 checks across 4 categories.
+- **[mcp-probe](https://github.com/alvabillwu/mcp-probe)** - CLI tool to probe and inspect any MCP server.
 
 ### Execution Sandboxing for Agent Code
 *Run untrusted or LLM-triggered code in isolated sandboxes (FS/network/process limits) to contain RCE and reduce blast radius.*
