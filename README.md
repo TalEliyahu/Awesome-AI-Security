@@ -255,6 +255,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Gateways & Policy Proxies
 *Centralize auth, quotas/rate limits, cost caps, egress/DLP filters, and guardrail orchestration across all model/providers.*
 
+- **[AgentSentry Gateway](https://github.com/akav-labs/agentsentry-gateway)** [![GitHub Repo stars](https://img.shields.io/github/stars/akav-labs/agentsentry-gateway?logo=github&label=&style=social)](https://github.com/akav-labs/agentsentry-gateway) – open-source (Apache-2.0) OpenAI-compatible proxy in Rust that scans requests and responses (including streaming) for secret/PII leakage, prompt injection, and jailbreaks; blocks at the egress and folds Unicode homoglyphs to resist look-alike evasion.
 - **[Cerbos](https://github.com/cerbos/cerbos)** [![GitHub Repo stars](https://img.shields.io/github/stars/cerbos/cerbos?logo=github&label=&style=social)](https://github.com/cerbos/cerbos) – open-source, policy-based authorization layer for fine-grained controls in MCP servers, RAG pipelines, and other agentic systems.
 
 ### Code Review
