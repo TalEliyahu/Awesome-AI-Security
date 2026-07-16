@@ -184,6 +184,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 *Prevent credential exfiltration by ensuring AI agents never access raw API keys; inject secrets at request time via proxy gateways.*
 
 - **[OneCLI](https://github.com/onecli/onecli)** [![GitHub Repo stars](https://img.shields.io/github/stars/onecli/onecli?logo=github&label=&style=social)](https://github.com/onecli/onecli) – Open-source credential vault for AI agents. Rust HTTP gateway intercepts agent requests and injects API credentials transparently; AES-256-GCM encryption, per-agent scoped tokens, full audit trail.
+- **[Cynative](https://github.com/cynative/cynative)** [![GitHub Repo stars](https://img.shields.io/github/stars/cynative/cynative?logo=github&label=&style=social)](https://github.com/cynative/cynative) – Read-only by construction deep research agent for AWS, GCP, Azure, K8s, GitHub and GitLab.
 
 ### Prompt-Injection Detection & Mitigation
 *Detect and stop prompt-injection (direct/indirect) across inputs, context, and outputs; filter hostile content before it reaches tools or models.*
