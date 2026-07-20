@@ -17,7 +17,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
   - [Controls & Verification Standards](#controls--verification-standards)
   - [Implementation Guides & Patterns](#implementation-guides--patterns)
   - [Testing, Evaluation & Red Teaming](#testing-evaluation--red-teaming)
-  - [Agentic Systems - (Standards, Governance & Patterns](#agentic-systems-standards-governance--patterns)
+  - [Agentic Systems (Standards, Governance & Patterns)](#agentic-systems-standards-governance--patterns)
   - [Threat Modeling](#threat-modeling)
   - [Policy Templates](#policy-templates)
   - [Toolkits & Self-Assessments](#toolkits--self-assessments)
@@ -74,12 +74,12 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - [CSA - AI Model Risk Management Framework](https://cloudsecurityalliance.org/artifacts/ai-model-risk-management-framework)
 - [NIST - Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf)
 - [AI Security Shared Responsibility Model](https://github.com/mikeprivette/ai-security-shared-responsibility) [![GitHub Repo stars](https://img.shields.io/github/stars/mikeprivette/ai-security-shared-responsibility?logo=github&label=&style=social)](https://github.com/mikeprivette/ai-security-shared-responsibility)
-- [Deployer AI Risk Register (DARR)](https://www.airiskdeployer.org) - Canonical AI risks for organizations that deploy AI systems, consolidated from the MIT AI Risk Repository and crosswalked to ISO/IEC 42001, the EU AI Act, and MITRE ATLAS. Open data (CC BY 4.0); [source on GitHub](https://github.com/Myr-Aya/darr-deployer-ai-risk-register).
+- [Deployer AI Risk Register (DARR)](https://www.airiskdeployer.org) — Canonical AI risks for organizations that deploy AI systems, consolidated from the MIT AI Risk Repository and crosswalked to ISO/IEC 42001, the EU AI Act, and MITRE ATLAS. Open data (CC BY 4.0); [source on GitHub](https://github.com/Myr-Aya/darr-deployer-ai-risk-register).
 
 ### Controls & Verification Standards
 - [OWASP - LLM Security Verification Standard (LLMSVS)](https://github.com/OWASP/www-project-llm-verification-standard) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-llm-verification-standard?logo=github&label=&style=social)](https://github.com/OWASP/www-project-llm-verification-standard)
 - [OWASP - Artificial Intelligence Security Verification Standard (AISVS)](https://github.com/OWASP/AISVS) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/AISVS?logo=github&label=&style=social)](https://github.com/OWASP/AISVS)
-- [CSA - AI Controls Matrix (AICM)](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix) - The AICM contains 243 control objectives across 18 domains and maps to ISO 42001, ISO 27001, NIST AI RMF 1.0, and BSI AIC4. Freely downloadable.
+- [CSA - AI Controls Matrix (AICM)](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix) — The AICM contains 243 control objectives across 18 domains and maps to ISO 42001, ISO 27001, NIST AI RMF 1.0, and BSI AIC4. Freely downloadable.
 
 #### Top 10s
 - [OWASP - Top 10 for Large Language Model Applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-top-10-for-large-language-model-applications?logo=github&label=&style=social)](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications)
@@ -104,18 +104,18 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
   - [OWASP - LLM and Gen AI Data Security Best Practices](https://genai.owasp.org/resource/llm-and-gen-ai-data-security-best-practices/)
 - [CSA - Secure LLM Systems: Essential Authorization Practices](https://cloudsecurityalliance.org/artifacts/securing-llm-backed-systems-essential-authorization-practices)
 - [OASIS CoSAI - Preparing Defenders of AI Systems](https://github.com/cosai-oasis/ws2-defenders/blob/main/preparing-defenders-of-ai-systems.md) [![GitHub Repo stars](https://img.shields.io/github/stars/cosai-oasis/ws2-defenders?logo=github&label=&style=social)](https://github.com/cosai-oasis/ws2-defenders)
-- [DoD CIO - AI Cybersecurity Risk Management Tailoring Guide (2025)](https://dodcio.defense.gov/Portals/0/Documents/Library/AI-CybersecurityRMTailoringGuide.pdf) - Practical RMF tailoring for AI systems across the lifecycle; complements CDAO’s RAI toolkit.
-- [NCSC (UK) - Guidelines for Secure AI System Development](https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development) - End-to-end secure AI SDLC (secure design, development, deployment, and secure operation & maintenance), including logging/monitoring and update management.
+- [DoD CIO - AI Cybersecurity Risk Management Tailoring Guide (2025)](https://dodcio.defense.gov/Portals/0/Documents/Library/AI-CybersecurityRMTailoringGuide.pdf) — Practical RMF tailoring for AI systems across the lifecycle; complements CDAO’s RAI toolkit.
+- [NCSC (UK) - Guidelines for Secure AI System Development](https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development) — End-to-end secure AI SDLC (secure design, development, deployment, and secure operation & maintenance), including logging/monitoring and update management.
 - [SANS – Critical AI Security Guidelines](https://github.com/sans-community/ai-guidelines) [![GitHub Repo stars](https://img.shields.io/github/stars/sans-community/ai-guidelines?logo=github&label=&style=social)](https://github.com/sans-community/ai-guidelines) - Control-focused guidance for securing AI/LLM systems across six domains (e.g., access controls, data protection, inference security, monitoring, GRC).
-- [BSI – Security of AI Systems: Fundamentals](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Security-of-AI-systems_fundamentals.pdf) - Sector-agnostic fundamentals: lifecycle threat model (data/model/pipeline/runtime), adversarial ML attacks (poisoning, evasion, inversion, extraction, backdoors), and baseline controls for design→deploy→operate, plus assurance/certification guidance.
-- [MITRE – SAFE-AI: A Framework for Securing AI-Enabled Systems](https://www.compliancehub.wiki/content/files/2025/07/mitresafeAI.pdf) - Threat-informed RMF overlay for AI: maps AI/ATLAS tactics to NIST SP 800-53 controls, lists ~100 AI-affected controls, and includes assessor interview Q&A sets to plan SCAs.
-- [NIST - SP 800-218A: Secure Software Development Practices for Generative AI & Dual-Use Foundation Models (SSDF Community Profile)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218A.pdf) - Community profile of NIST’s SSDF tailored to generative AI and dual-use foundation models; adds AI-specific tasks across the lifecycle (data/model provenance, evaluation & red teaming, supply chain assurance, incident response).
+- [BSI – Security of AI Systems: Fundamentals](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Security-of-AI-systems_fundamentals.pdf) — Sector-agnostic fundamentals: lifecycle threat model (data/model/pipeline/runtime), adversarial ML attacks (poisoning, evasion, inversion, extraction, backdoors), and baseline controls for design→deploy→operate, plus assurance/certification guidance.
+- [MITRE – SAFE-AI: A Framework for Securing AI-Enabled Systems](https://www.compliancehub.wiki/content/files/2025/07/mitresafeAI.pdf) — Threat-informed RMF overlay for AI: maps AI/ATLAS tactics to NIST SP 800-53 controls, lists ~100 AI-affected controls, and includes assessor interview Q&A sets to plan SCAs.
+- [NIST - SP 800-218A: Secure Software Development Practices for Generative AI & Dual-Use Foundation Models (SSDF Community Profile)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218A.pdf) — Community profile of NIST’s SSDF tailored to generative AI and dual-use foundation models; adds AI-specific tasks across the lifecycle (data/model provenance, evaluation & red teaming, supply chain assurance, incident response).
  
 - **NSA - Artificial Intelligence Security Center (AISC)**
-  - [Deploying AI Systems Securely (CSI)](https://media.defense.gov/2024/Apr/15/2003439257/-1/-1/0/CSI-DEPLOYING-AI-SYSTEMS-SECURELY.PDF) - Practical, ops-focused guidance for deploying/operating externally developed AI systems (with CISA, FBI & international partners); complements NCSC’s secure-AI dev guidelines.
-  - [AI Data Security: Best Practices for Securing Data Used to Train & Operate AI Systems (CSI)](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4192332/nsas-aisc-releases-joint-guidance-on-the-risks-and-best-practices-in-ai-data-se/) - Joint guidance on securing data across the AI lifecycle.
-  - [Content Credentials: Strengthening Multimedia Integrity in the Generative AI Era (CSI)](https://media.defense.gov/2025/Jan/23/2003639157/-1/-1/0/CSI-CONTENT-CREDENTIALS-STRENGTHENING-MULTIMEDIA-INTEGRITY.PDF) - Provenance and Durable Content Credentials for transparent media.
-  - [Contextualizing Deepfake Threats to Organizations (CSI)](https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF) - Risks, impacts, and mitigations for synthetic media targeting orgs.
+  - [Deploying AI Systems Securely (CSI)](https://media.defense.gov/2024/Apr/15/2003439257/-1/-1/0/CSI-DEPLOYING-AI-SYSTEMS-SECURELY.PDF) — Practical, ops-focused guidance for deploying/operating externally developed AI systems (with CISA, FBI & international partners); complements NCSC’s secure-AI dev guidelines.
+  - [AI Data Security: Best Practices for Securing Data Used to Train & Operate AI Systems (CSI)](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4192332/nsas-aisc-releases-joint-guidance-on-the-risks-and-best-practices-in-ai-data-se/) — Joint guidance on securing data across the AI lifecycle.
+  - [Content Credentials: Strengthening Multimedia Integrity in the Generative AI Era (CSI)](https://media.defense.gov/2025/Jan/23/2003639157/-1/-1/0/CSI-CONTENT-CREDENTIALS-STRENGTHENING-MULTIMEDIA-INTEGRITY.PDF) — Provenance and Durable Content Credentials for transparent media.
+  - [Contextualizing Deepfake Threats to Organizations (CSI)](https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF) — Risks, impacts, and mitigations for synthetic media targeting orgs.
 - **FS-ISAC - Framework of an Acceptable Use Policy for External Generative AI** - framework-style guidance (not a template) with *permissive vs. stringent* clause options for inputs/outputs, access control, monitoring, and representation. [PDF](https://www.fsisac.com/hubfs/Knowledge/FrameworkOfAnAcceptableUsePolicyForExternalGenerativeAI.pdf)
 
 ### Agentic Systems (Standards, Governance & Patterns)
@@ -125,7 +125,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - [OWASP - Securing Agentic Applications Guide](https://genai.owasp.org/resource/securing-agentic-applications-guide-1-0/)
 - [OWASP - State of Agentic AI Security and Governance](https://genai.owasp.org/resource/state-of-agentic-ai-security-and-governance-1-0/)
 - [CSA - Secure Agentic System Design: A Trait-Based Approach](https://cloudsecurityalliance.org/artifacts/secure-agentic-system-design)
-- [CSA - Agentic AI Identity & Access Management](https://cloudsecurityalliance.org/artifacts/agentic-ai-identity-and-access-management-a-new-approach) - 08/25
+- [CSA - Agentic AI Identity & Access Management](https://cloudsecurityalliance.org/artifacts/agentic-ai-identity-and-access-management-a-new-approach) — 08/25
 
 ### Threat Modeling
 
@@ -174,7 +174,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[TrustArc - AI Risk Assessment](https://trustarc.com/resource/ai-risk-assessment/)** - self-assessment to kick off trustworthy-AI evaluations across ethics, safety, security, and societal considerations.
 
 ### Critical Infrastructure 
-- [DHS/CISA - Safety & Security Guidelines for Critical Infrastructure AI](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators) - Cross-lifecycle guidance for owners/operators (govern, design, develop, deploy, operate); developed with SRMAs and informed by CISA’s cross-sector risk analysis.
+- [DHS/CISA - Safety & Security Guidelines for Critical Infrastructure AI](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators) — Cross-lifecycle guidance for owners/operators (govern, design, develop, deploy, operate); developed with SRMAs and informed by CISA’s cross-sector risk analysis.
   
 ---
 
@@ -339,8 +339,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 *Matrix-style resources covering adversarial TTPs and curated defensive techniques for AI systems.*
 
 ### Attack
-- [MITRE ATLAS](https://atlas.mitre.org) - Adversarial TTP matrix and knowledge base for threats to AI systems.
-- [GenAI Attacks Matrix](https://ttps.ai/matrix.html#genai-attacks-matrix) - Matrix of TTPs targeting GenAI apps, copilots, and agents.
+- [MITRE ATLAS](https://atlas.mitre.org) — Adversarial TTP matrix and knowledge base for threats to AI systems.
+- [GenAI Attacks Matrix](https://ttps.ai/matrix.html#genai-attacks-matrix) — Matrix of TTPs targeting GenAI apps, copilots, and agents.
 - [MCP Security Tactics, Techniques, and Procedures (TTPs)](https://modelcontextprotocol-security.io/ttps/)
 
 ### Defense
@@ -381,7 +381,7 @@ Guidance and standards for securing the AI/ML software supply chain (models, dat
 ---
 
 ## [↑](#table-of-contents)Newsletter <a name="newsletter"></a>
-- [Adversarial AI Digest](https://www.linkedin.com/newsletters/adversarial-ai-digest-7298813894498598912/) - A digest of AI security research, threats, governance challenges, and best practices for securing AI systems.
+- [Adversarial AI Digest](https://www.linkedin.com/newsletters/adversarial-ai-digest-7298813894498598912/) — A digest of AI security research, threats, governance challenges, and best practices for securing AI systems.
 
 ---
 
@@ -467,12 +467,12 @@ Code snippet datasets labeled as vulnerable or secure, often tied to CWEs (Commo
 
 #### Audio (Speech) Deepfakes
 
-- [**ASVspoof 5 - train / dev / eva**l](https://doi.org/10.5281/zenodo.14498691) - Train: 8 TTS attacks; Dev: 8 unseen (validation/fusion); Eval: 16 unseen incl. adversarial/codec. Labels: `bona-fide` / `spoofed`. [arXiv](https://www.asvspoof.org/)
-- [**In-the-Wild (ITW)**](https://deepfake-total.com/in_the_wild) - 58 politicians/celebrities with per-speaker pairing; ≈20.7 h `bona-fide` + 17.2 h `spoofed`, scraped from social/video platforms. Labels: `bona-fide` / `spoofed`. [arXiv](https://arxiv.org/abs/2203.16263)
-- [**MLAAD (+M-AILABS)**](https://deepfake-total.com/mlaad) - Multilingual synthetic TTS corpus (hundreds of hours; many models/languages). Labels: `bona-fide` (M-AILABS) / `spoof` (MLAAD). [arXiv](https://arxiv.org/abs/2401.09512)
-- [**LlamaPartialSpoof**](https://zenodo.org/records/14214149) - LLM-driven attacker styles; includes full and partial (spliced) spoofs. Labels: `bona-fide` / `fully-spoofed` / `partially-spoofed`. [arXiv](https://arxiv.org/abs/2409.14743)
-- [**Fake-or-Real (FoR)**](https://bil.eecs.yorku.ca/datasets/) - >195k utterances; four variants: `for-original`, `for-norm`, `for-2sec`, `for-rerec`. Labels: `real` / `synthetic`.
-- [**CodecFake**](https://codecfake.github.io/) - codec-based deepfake audio dataset (Interspeech 2024); Labels: `real` / `codec-generated fake`. [arXiv](https://arxiv.org/abs/2405.04880)
+- [**ASVspoof 5 - train / dev / eva**l](https://doi.org/10.5281/zenodo.14498691) — Train: 8 TTS attacks; Dev: 8 unseen (validation/fusion); Eval: 16 unseen incl. adversarial/codec. Labels: `bona-fide` / `spoofed`. [arXiv](https://www.asvspoof.org/)
+- [**In-the-Wild (ITW)**](https://deepfake-total.com/in_the_wild) — 58 politicians/celebrities with per-speaker pairing; ≈20.7 h `bona-fide` + 17.2 h `spoofed`, scraped from social/video platforms. Labels: `bona-fide` / `spoofed`. [arXiv](https://arxiv.org/abs/2203.16263)
+- [**MLAAD (+M-AILABS)**](https://deepfake-total.com/mlaad) — Multilingual synthetic TTS corpus (hundreds of hours; many models/languages). Labels: `bona-fide` (M-AILABS) / `spoof` (MLAAD). [arXiv](https://arxiv.org/abs/2401.09512)
+- [**LlamaPartialSpoof**](https://zenodo.org/records/14214149) — LLM-driven attacker styles; includes full and partial (spliced) spoofs. Labels: `bona-fide` / `fully-spoofed` / `partially-spoofed`. [arXiv](https://arxiv.org/abs/2409.14743)
+- [**Fake-or-Real (FoR)**](https://bil.eecs.yorku.ca/datasets/) — >195k utterances; four variants: `for-original`, `for-norm`, `for-2sec`, `for-rerec`. Labels: `real` / `synthetic`.
+- [**CodecFake**](https://codecfake.github.io/) — codec-based deepfake audio dataset (Interspeech 2024); Labels: `real` / `codec-generated fake`. [arXiv](https://arxiv.org/abs/2405.04880)
 
 #### Video Deepfakes
 
@@ -540,11 +540,11 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 ## [↑](#table-of-contents)Training <a name="training"></a>
 
 ### Provider Training Portals
-- [Microsoft AI Security Learning Path](https://learn.microsoft.com/en-us/training/browse/?filter-roles=ai%20&roles=ai-engineer&subjects=security) - Free, self-paced Microsoft content on secure AI model development, risk management, and threat mitigation.
-- [AWS AI Security Training](https://skillbuilder.aws/search?page=1&domain=artificial_intelligence&searchText=security) - Free AWS portal with courses on securing AI applications, risk management, and AI/ML security best practices.
+- [Microsoft AI Security Learning Path](https://learn.microsoft.com/en-us/training/browse/?filter-roles=ai%20&roles=ai-engineer&subjects=security) — Free, self-paced Microsoft content on secure AI model development, risk management, and threat mitigation.
+- [AWS AI Security Training](https://skillbuilder.aws/search?page=1&domain=artificial_intelligence&searchText=security) — Free AWS portal with courses on securing AI applications, risk management, and AI/ML security best practices.
 
 ### Guided Tracks
-- [PortSwigger - Web Security Academy: Web LLM attacks](https://portswigger.net/web-security/llm-attacks) - Structured, guided track on LLM issues (prompt injection, insecure output handling, excessive agency) with walkthrough-style exercises.
+- [PortSwigger - Web Security Academy: Web LLM attacks](https://portswigger.net/web-security/llm-attacks) — Structured, guided track on LLM issues (prompt injection, insecure output handling, excessive agency) with walkthrough-style exercises.
 
 ### CTFs & Challenges
 - [AI GOAT](https://github.com/dhammon/ai-goat) [![GitHub Repo stars](https://img.shields.io/github/stars/dhammon/ai-goat?logo=github&label=&style=social)](https://github.com/dhammon/ai-goat) - Vulnerable LLM CTF challenges for learning AI security.
@@ -552,7 +552,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - [AI Red Teaming Playground Labs - Microsoft](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AI-Red-Teaming-Playground-Labs?logo=github&label=&style=social)](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - Self-hostable environment with 12 challenges (direct/indirect prompt injection, metaprompt extraction, Crescendo multi-turn, guardrail bypass).
 
 ### Bespoke
-- [Trail of Bits - AI/ML Security & Safety Training](https://www.trailofbits.com/services/software-assurance/ai-ml/) - Courses on AI failure modes, adversarial attacks, data provenance, pipeline threats, and mitigation.
+- [Trail of Bits - AI/ML Security & Safety Training](https://www.trailofbits.com/services/software-assurance/ai-ml/) — Courses on AI failure modes, adversarial attacks, data provenance, pipeline threats, and mitigation.
 
 ---
 
@@ -596,12 +596,12 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 ## [↑](#table-of-contents)Research Working Groups <a name="research-working-groups"></a>
 
-- [Cloud Security Alliance (CSA) AI Security Working Groups](https://cloudsecurityalliance.org/research/working-groups) - Collaborative research groups focused on AI security, cloud security, and emerging threats in AI-driven systems.
-- [OWASP Top 10 for LLM & Generative AI Security Risks Project](https://genai.owasp.org/contribute/) - An open-source initiative addressing critical security risks in Large Language Models (LLMs) and Generative AI applications, offering resources and guidelines to mitigate emerging threats.
-- [CWE Artificial Intelligence Working Group (AI WG)](https://cwe.mitre.org/community/working_groups.html) - The AI WG was established by CWE™ and CVE® community stakeholders to identify and address gaps in the CWE corpus where AI-related weaknesses are not adequately covered, and work collaboratively to fix them.
-- [NIST - SP 800-53 Control Overlays for Securing AI Systems (COSAiS)](https://csrc.nist.gov/projects/cosais) - Public collaboration to develop AI security control overlays with NIST principal investigators and the community.
-- [OpenSSF - AI/ML Security Working Group](https://github.com/ossf/ai-ml-security) - Cross-org WG on “security for AI” and “AI for security”
-- [CoSAI - Coalition for Secure AI (OASIS Open Project)](https://github.com/cosai-oasis) - Open, cross-industry initiative advancing secure-by-design AI through shared frameworks, tooling, and guidance.
+- [Cloud Security Alliance (CSA) AI Security Working Groups](https://cloudsecurityalliance.org/research/working-groups) — Collaborative research groups focused on AI security, cloud security, and emerging threats in AI-driven systems.
+- [OWASP Top 10 for LLM & Generative AI Security Risks Project](https://genai.owasp.org/contribute/) — An open-source initiative addressing critical security risks in Large Language Models (LLMs) and Generative AI applications, offering resources and guidelines to mitigate emerging threats.
+- [CWE Artificial Intelligence Working Group (AI WG)](https://cwe.mitre.org/community/working_groups.html) — The AI WG was established by CWE™ and CVE® community stakeholders to identify and address gaps in the CWE corpus where AI-related weaknesses are not adequately covered, and work collaboratively to fix them.
+- [NIST - SP 800-53 Control Overlays for Securing AI Systems (COSAiS)](https://csrc.nist.gov/projects/cosais) — Public collaboration to develop AI security control overlays with NIST principal investigators and the community.
+- [OpenSSF - AI/ML Security Working Group](https://github.com/ossf/ai-ml-security) — Cross-org WG on “security for AI” and “AI for security”
+- [CoSAI - Coalition for Secure AI (OASIS Open Project)](https://github.com/cosai-oasis) — Open, cross-industry initiative advancing secure-by-design AI through shared frameworks, tooling, and guidance.
   - **WS1: Software Supply Chain Security for AI Systems** - Extends SSDF/SLSA principles to AI; provenance, model risks, and pipeline security.https://github.com/cosai-oasis/ws1-supply-chain
   - **WS2: Preparing Defenders for a Changing Cybersecurity Landscape** - Defender-focused framework aligning threats, mitigations, and investments for AI-driven ops. https://github.com/cosai-oasis/ws2-defenders  
     • Reference doc: “Preparing Defenders of AI Systems” https://github.com/cosai-oasis/ws2-defenders/blob/main/preparing-defenders-of-ai-systems.md
@@ -706,7 +706,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - [MIT AI Risk Repository - Incident Tracker](https://airisk.mit.edu/ai-incident-tracker) 
 - [AIAAIC Repository](https://www.aiaaic.org/aiaaic-repository/ai-algorithmic-and-automation-incidents)
 - [OECD.AI - AIM: AI Incidents and Hazards Monitor](https://oecd.ai/en/incidents)
-- [AVID - AI Vulnerability Database](https://avidml.org/) - Open, taxonomy-driven catalog of AI failure modes; Vulnerabilities, Reports map incidents to failure modes/lifecycle stages.
+- [AVID - AI Vulnerability Database](https://avidml.org/) — Open, taxonomy-driven catalog of AI failure modes; Vulnerabilities, Reports map incidents to failure modes/lifecycle stages.
 
 ### Publicly Disclosed Vulnerabilities
 Vulnerabilities disclosed in the last 12 months. Related attack patterns, campaigns, malware, and research items are listed separately below.
@@ -764,13 +764,13 @@ Backdoors, implants, or malicious programs used to execute or support attacks.
 ### Guides & Playbooks
 - [OWASP - GenAI Incident Response Guide](https://genai.owasp.org/resource/genai-incident-response-guide-1-0/) 
 - [OWASP - Guide for Preparing & Responding to Deepfake Events](https://genai.owasp.org/resource/guide-for-preparing-and-responding-to-deepfake-events/)
-- [CISA - JCDC AI Cybersecurity Collaboration Playbook](https://www.cisa.gov/news-events/alerts/2025/01/14/cisa-releases-jcdc-ai-cybersecurity-collaboration-playbook-and-fact-sheet) - Info-sharing & coordination procedures for AI incidents.
-- [eSafety Commissioner - Guide to responding to image-based abuse involving AI deepfakes (PDF)](https://www.esafety.gov.au/sites/default/files/2025-06/Respond%203A%20-%20Guide%20to%20responding%20to%20image-based%20abuse%20involving%20AI%20deepfakes.pdf) - Practical, step-by-step playbook (school-focused but adaptable) covering reporting/takedown, evidence preservation, and support.
+- [CISA - JCDC AI Cybersecurity Collaboration Playbook](https://www.cisa.gov/news-events/alerts/2025/01/14/cisa-releases-jcdc-ai-cybersecurity-collaboration-playbook-and-fact-sheet) — Info-sharing & coordination procedures for AI incidents.
+- [eSafety Commissioner - Guide to responding to image-based abuse involving AI deepfakes (PDF)](https://www.esafety.gov.au/sites/default/files/2025-06/Respond%203A%20-%20Guide%20to%20responding%20to%20image-based%20abuse%20involving%20AI%20deepfakes.pdf) — Practical, step-by-step playbook (school-focused but adaptable) covering reporting/takedown, evidence preservation, and support.
 
 
 
 ### Regulatory Incident Reporting
-- [EU AI Act - Article 73: Reporting of Serious Incidents](https://artificialintelligenceact.eu/article/73/) - Providers of high-risk AI systems need to report serious incidents to national authorities.
+- [EU AI Act - Article 73: Reporting of Serious Incidents](https://artificialintelligenceact.eu/article/73/) — Providers of high-risk AI systems need to report serious incidents to national authorities.
 
 ---
 
@@ -787,12 +787,12 @@ Backdoors, implants, or malicious programs used to execute or support attacks.
 
 ### Research Feed
 
-- [AI Security Research Feed](https://research.pwnedby.me/?category=cs.AI&tag=ai) - Continuously updated feed of AI security-related academic papers, preprints, and research indexed from arXiv.
-- [AI Security Portal - Literature Database](https://aisecurity-portal.org/en/section/literature-database/) - Categorized database of AI security literature, taxonomy, and related resources.
+- [AI Security Research Feed](https://research.pwnedby.me/?category=cs.AI&tag=ai) — Continuously updated feed of AI security-related academic papers, preprints, and research indexed from arXiv.
+- [AI Security Portal - Literature Database](https://aisecurity-portal.org/en/section/literature-database/) — Categorized database of AI security literature, taxonomy, and related resources.
 
 ### Industry Alliance & Nonprofit Reports
 - [CSA - Principles to Practice: Responsible AI in a Dynamic Regulatory Environment](https://cloudsecurityalliance.org/artifacts/principles-to-practice-responsible-ai-in-a-dynamic-regulatory-environment)
-- [CSA - AI Resilience: A Revolutionary Benchmarking Model for AI Safety](https://cloudsecurityalliance.org/artifacts/ai-resilience-a-revolutionary-benchmarking-model-for-ai-safety) - Governance & compliance benchmarking model.
+- [CSA - AI Resilience: A Revolutionary Benchmarking Model for AI Safety](https://cloudsecurityalliance.org/artifacts/ai-resilience-a-revolutionary-benchmarking-model-for-ai-safety) — Governance & compliance benchmarking model.
 - [CSA - Using AI for Offensive Security](https://cloudsecurityalliance.org/artifacts/using-ai-for-offensive-security)
 
 
@@ -817,8 +817,8 @@ Backdoors, implants, or malicious programs used to execute or support attacks.
 ### Glossary
 *(Authoritative definitions for AI/ML security, governance, and risk-use to align terminology across docs and reviews.)*
 
-- [**NIST - “The Language of Trustworthy AI: An In-Depth Glossary of Terms.”**](https://airc.nist.gov/glossary/) - Authoritative cross-org terminology aligned to NIST AI RMF; useful for standardizing terms across teams.
-- [**ISO/IEC 22989:2022 - *Artificial intelligence - Concepts and terminology***](https://www.iso.org/standard/74296.html) - International standard that formalizes core AI concepts and vocabulary used in policy and engineering.
+- [**NIST - “The Language of Trustworthy AI: An In-Depth Glossary of Terms.”**](https://airc.nist.gov/glossary/) — Authoritative cross-org terminology aligned to NIST AI RMF; useful for standardizing terms across teams.
+- [**ISO/IEC 22989:2022 - *Artificial intelligence - Concepts and terminology***](https://www.iso.org/standard/74296.html) — International standard that formalizes core AI concepts and vocabulary used in policy and engineering.
 
 ### SoK & Surveys
 *(Systematizations of Knowledge (SoK), surveys, systematic reviews, and mapping studies.)*
@@ -826,14 +826,14 @@ Backdoors, implants, or malicious programs used to execute or support attacks.
 ### Taxonomy
 *(Reusable classification schemes-clear dimensions, categories, and labeling rules for attacks, defenses, datasets, and risks.)*
 
-- [**CSA - Large Language Model (LLM) Threats Taxonomy**](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy) - Community taxonomy of LLM-specific threats; clarifies categories/definitions for risk discussion and control mapping.
-- [**ARC - PI (Prompt Injection) Taxonomy**](https://github.com/Arcanum-Sec/arc_pi_taxonomy) - Focused taxonomy for prompt-injection behaviors/variants with practical labeling guidance for detection and defense.
+- [**CSA - Large Language Model (LLM) Threats Taxonomy**](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy) — Community taxonomy of LLM-specific threats; clarifies categories/definitions for risk discussion and control mapping.
+- [**ARC - PI (Prompt Injection) Taxonomy**](https://github.com/Arcanum-Sec/arc_pi_taxonomy) — Focused taxonomy for prompt-injection behaviors/variants with practical labeling guidance for detection and defense.
 
 ---
 
 ## [↑](#table-of-contents)Podcasts <a name="podcasts"></a>
 
-- [**The MLSecOps Podcast**](https://podcasts.apple.com/us/podcast/the-mlsecops-podcast/id1679667447) - Insightful conversations with industry leaders and AI experts, exploring the fascinating world of machine learning security operations.
+- [**The MLSecOps Podcast**](https://podcasts.apple.com/us/podcast/the-mlsecops-podcast/id1679667447) — Insightful conversations with industry leaders and AI experts, exploring the fascinating world of machine learning security operations.
 
 ---
 
