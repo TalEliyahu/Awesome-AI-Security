@@ -302,6 +302,9 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[Buttercup](https://github.com/trailofbits/buttercup)** [![GitHub Repo stars](https://img.shields.io/github/stars/trailofbits/buttercup?logo=github&label=&style=social)](https://github.com/trailofbits/buttercup) - Trail of Bits’ AIxCC Cyber Reasoning System: runs OSS-Fuzz-style campaigns to find vulns, then uses a multi-agent LLM patcher to generate & validate fixes for C/Java repos; ships SigNoz observability; requires at least one LLM API key.
 - **[Giskard](https://github.com/Giskard-AI/giskard-oss)** [![GitHub Repo stars](https://img.shields.io/github/stars/Giskard-AI/giskard-oss?logo=github&label=&style=social)](https://github.com/Giskard-AI/giskard-oss) - Pre-deployment/CI evaluation harness for LLM/RAG: runs scan checks (prompt injection, harmful output, sensitive-information disclosure, robustness), auto-generates RAG evaluation datasets and component scores (retriever, generator, rewriter, router), exports shareable reports, and integrates with CI for regression gates.
 - **[ultraprobe](https://github.com/ppcvote/ultralab/tree/master/ultraprobe)** [![GitHub Repo stars](https://img.shields.io/github/stars/ppcvote/ultralab?logo=github&label=&style=social)](https://github.com/ppcvote/ultralab) - Lighthouse-style CLI for AI agents: bundles prompt defense audit (17 vectors), PII detection, and SEO/AEO/AAO scanners into a single AVS Score. Pure deterministic, zero-config, MIT-licensed. Designed for CI gates and pre-deployment scoring.
+- - **[Humanbound](https://github.com/humanbound/humanbound)** - Open source adversarial testing engine, SDK, and CLI for AI agents. Runs live-endpoint, multi-turn, and tool-abuse tests against your agent, then converts findings straight into deployable guardrail rules.
+
+
 
 #### Scoring/leaderboards & evidence reports
 - *(none from your current list yet)*
