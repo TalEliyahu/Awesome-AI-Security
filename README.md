@@ -190,6 +190,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 *Detect and stop prompt-injection (direct/indirect) across inputs, context, and outputs; filter hostile content before it reaches tools or models.*
 
 - **[Adrian](https://github.com/secureagentics/Adrian)** [![GitHub Repo stars](https://img.shields.io/github/stars/secureagentics/Adrian?logo=github&label=&style=social)](https://github.com/secureagentics/Adrian) - Open-source, AARM-aligned runtime detection/mitigation: analyzes agent tool calls and reasoning traces to catch prompt injection and out-of-remit behavior, with in-flight block mode. LangChain/LangGraph/OpenAI Agents SDK; self-hostable offline.
+- **[CrossGuard AI](https://github.com/crossguard-ai/crossguard-py)** [![GitHub Repo stars](https://img.shields.io/github/stars/crossguard-ai/crossguard-py?logo=github&label=&style=social)](https://github.com/crossguard-ai/crossguard-py) - Image sanitizer for the multimodal ingest path: destroys steganographic prompt-injection payloads carried in LSB, DCT coefficients, or EXIF metadata instead of detecting them, so coverage does not depend on the encoding an attacker picks. 99.84% destroyed across 108,015 samples at mean SSIM 0.925, with per-sample results and reproduction steps published; adversarial pixel perturbations explicitly out of scope.
 
 ### Jailbreak & Policy Enforcement (Guardrails)
 *Enforce safety policies and block jailbreaks at runtime via rules/validators/DSLs, with optional human-in-the-loop for sensitive actions.*
