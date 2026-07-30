@@ -257,6 +257,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 *Centralize auth, quotas/rate limits, cost caps, egress/DLP filters, and guardrail orchestration across all model/providers.*
 
 - **[Cerbos](https://github.com/cerbos/cerbos)** [![GitHub Repo stars](https://img.shields.io/github/stars/cerbos/cerbos?logo=github&label=&style=social)](https://github.com/cerbos/cerbos) – open-source, policy-based authorization layer for fine-grained controls in MCP servers, RAG pipelines, and other agentic systems.
+- **[SourceryKit](https://github.com/ProvablyAI/sourcerykit)** [![GitHub Repo stars](https://img.shields.io/github/stars/ProvablyAI/sourcerykit?logo=github&label=&style=social)](https://github.com/ProvablyAI/sourcerykit) – Verifies every outbound HTTP and MCP call against a source of truth using zero-knowledge proofs, so a call only goes out if the agent's claims check out. Works as an egress policy layer: blocks anything off the trusted-endpoint allow-list and logs each call. Python SDK, source-available (BSL 1.1).
 
 ### Code Review
 - **[Claude Code Security Reviewer](https://github.com/anthropics/claude-code-security-review)** [![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code-security-review?logo=github&label=&style=social)](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
