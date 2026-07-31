@@ -229,6 +229,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 #### Tool manifest/metadata validators
 
+- **[agentsurface](https://github.com/Northbeams-Labs/agentsurface)** [![GitHub Repo stars](https://img.shields.io/github/stars/Northbeams-Labs/agentsurface?logo=github&label=&style=social)](https://github.com/Northbeams-Labs/agentsurface) - Local CLI that inventories installed AI agent machinery (MCP servers, extensions, plugins, skills, connectors, scheduled tasks, instruction files) and what each declares it can reach. No network calls; inventory only, not a detector.
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
 
 #### Agent Identity & Trust
