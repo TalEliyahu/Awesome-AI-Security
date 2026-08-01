@@ -230,6 +230,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Tool manifest/metadata validators
 
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
+- **[mcpaudit](https://github.com/AndrewXuTurtle/mcpaudit)** [![GitHub Repo stars](https://img.shields.io/github/stars/AndrewXuTurtle/mcpaudit?logo=github&label=&style=social)](https://github.com/AndrewXuTurtle/mcpaudit) - Zero-dependency auditor for MCP client configs across Claude Desktop/Code, Cursor, Windsurf and VS Code. Analyses provenance as well as content: homoglyph publisher scopes, typosquats, unpinned versions and install hooks, alongside tool poisoning (including zero-width/bidi characters), credential blast radius and privilege scope. Nothing is installed or executed. Also publishes a continuously-updated [MCP Package Trust Index](https://andrewxuturtle.github.io/mcpaudit/trust/).
 
 #### Agent Identity & Trust
 
