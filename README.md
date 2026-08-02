@@ -221,7 +221,6 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 ### Agent Tooling and MCP Security
 *Scan/audit MCP servers & client configs; detect tool poisoning, unsafe flows; constrain tool access with least-privilege and audit trails.*
-**[trentclaw](https://github.com/trnt-ai/trent-openclaw-security-assessment)** [![GitHub Repo stars](https://img.shields.io/github/stars/trnt-ai/trent-openclaw-security-assessment?logo=github&label=&style=social)](https://github.com/trnt-ai/trent-openclaw-security-assessment) - Apache-2.0 scanner for OpenClaw agent environments: audits installed skills, MCP servers, and agent configuration for prompt-injection payloads, credential exfiltration, and unsafe tool flows. 
 
 #### Honeypots & Deception (MCP/LLM)
 
@@ -231,6 +230,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Tool manifest/metadata validators
 
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
+- **[trentclaw](https://github.com/trnt-ai/trent-openclaw-security-assessment)** [![GitHub Repo stars](https://img.shields.io/github/stars/trnt-ai/trent-openclaw-security-assessment?logo=github&label=&style=social)](https://github.com/trnt-ai/trent-openclaw-security-assessment) - Apache-2.0 scanner for OpenClaw agent environments: audits installed skills, MCP servers, and agent configuration for prompt-injection payloads, credential exfiltration, and unsafe tool flows. 
 
 #### Agent Identity & Trust
 
