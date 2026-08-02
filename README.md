@@ -221,6 +221,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 ### Agent Tooling and MCP Security
 *Scan/audit MCP servers & client configs; detect tool poisoning, unsafe flows; constrain tool access with least-privilege and audit trails.*
+**[trentclaw](https://github.com/trnt-ai/trent-openclaw-security-assessment)** [![GitHub Repo stars](https://img.shields.io/github/stars/trnt-ai/trent-openclaw-security-assessment?logo=github&label=&style=social)](https://github.com/trnt-ai/trent-openclaw-security-assessment) - Apache-2.0 scanner for OpenClaw agent environments: audits installed skills, MCP servers, and agent configuration for prompt-injection payloads, credential exfiltration, and unsafe tool flows. 
 
 #### Honeypots & Deception (MCP/LLM)
 
@@ -267,6 +268,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 #### Integrated platforms
 - **[AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)** [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?logo=github&label=&style=social)](https://github.com/Tencent/AI-Infra-Guard) - AI red-teaming platform: AI infra vulnerability scan (30+ components, ~400 CVEs), MCP server risk scan (9 categories), and jailbreak evaluation; web UI + Docker quick start.
+- **[Trent AI](https://trent.ai)** - Agentic AI security platform that continuously assesses AI agents, MCP servers, and AI-native applications, and code shipped with AI coding tools, traces attack chains, and verifies proposed fixes landed.
 
 #### Prompt-injection test suites
 - **[Promptmap](https://github.com/utkusen/promptmap)** [![GitHub Repo stars](https://img.shields.io/github/stars/utkusen/promptmap?logo=github&label=&style=social)](https://github.com/utkusen/promptmap)
