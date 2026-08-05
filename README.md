@@ -673,6 +673,8 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 - **[JailbreakBench](https://github.com/JailbreakBench/jailbreakbench)** [![GitHub Repo stars](https://img.shields.io/github/stars/JailbreakBench/jailbreakbench?logo=github&label=&style=social)](https://github.com/JailbreakBench/jailbreakbench) standardized jailbreak prompts + scoring harness; measures refusal/compliance and jailbreak success across models and settings.
 
+- **[hermes-jailbench](https://github.com/hermes-labs-ai/hermes-jailbench)** [![GitHub Repo stars](https://img.shields.io/github/stars/hermes-labs-ai/hermes-jailbench?logo=github&label=&style=social)](https://github.com/hermes-labs-ai/hermes-jailbench) zero-LLM deterministic jailbreak regression benchmark; runs a repeatable battery of known-pattern attacks against an LLM endpoint and scores refusal/partial/compliance across runs, for catching when a model or prompt update silently regresses against attacks it once refused. Single-turn, responsible-use.
+
 ### **Model & Data Integrity**  
 **Purpose**: Assesses AI models for unauthorized modifications, including backdoors and dataset poisoning. Supports trustworthiness and security of model outputs.  
 **NIST AI RMF Alignment**: **Map, Measure**  
