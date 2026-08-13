@@ -294,6 +294,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[HexStrike AI](https://github.com/0x4m4/hexstrike-ai)** [![GitHub Repo stars](https://img.shields.io/github/stars/0x4m4/hexstrike-ai?logo=github&label=&style=social)](https://github.com/0x4m4/hexstrike-ai)
 - **[Darkmoon](https://github.com/ASCIT31/Dark-Moon)** [![GitHub Repo stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon?logo=github&label=&style=social)](https://github.com/ASCIT31/Dark-Moon) - Open source engine for autonomous AI penetration testing that orchestrates 80+ offensive tools through Markdown playbooks and agentic reasoning over MCP, with a command and raw output evidence trail for every finding across web, cloud, Active Directory, Kubernetes and API.
 - **[Nebula](https://github.com/berylliumsec/nebula)** [![GitHub Repo stars](https://img.shields.io/github/stars/berylliumsec/nebula?logo=github&label=&style=social)](https://github.com/berylliumsec/nebula)
+- **[HunterX](https://github.com/nullc0d30/HunterX)** [![GitHub Repo stars](https://img.shields.io/github/stars/nullc0d30/HunterX?logo=github&label=&style=social)](https://github.com/nullc0d30/HunterX) - Open source AI-assisted vulnerability discovery, validation, and proof engine for security testing and red-team workflows.
 
 #### CI pipelines & regression gates
 - **[promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?logo=github&label=&style=social)](https://github.com/promptfoo/promptfoo)
