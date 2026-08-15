@@ -194,7 +194,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Jailbreak & Policy Enforcement (Guardrails)
 *Enforce safety policies and block jailbreaks at runtime via rules/validators/DSLs, with optional human-in-the-loop for sensitive actions.*
 
-- **[NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)** [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?logo=github&label=&style=social)](https://github.com/NVIDIA/NeMo-Guardrails)
+- **[NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails)** [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?logo=github&label=&style=social)](https://github.com/NVIDIA/NeMo-Guardrails)
 - **[LLM Guard](https://github.com/protectai/llm-guard)** [![GitHub Repo stars](https://img.shields.io/github/stars/protectai/llm-guard?logo=github&label=&style=social)](https://github.com/protectai/llm-guard)
 - **[Llama Guard](https://github.com/meta-llama/PurpleLlama/tree/main/Llama-Guard4)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
 - **[LlamaFirewall](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
@@ -226,6 +226,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 - **[Beelzebub](https://github.com/mariocandela/beelzebub)** [![GitHub Repo stars](https://img.shields.io/github/stars/mariocandela/beelzebub?logo=github&label=&style=social)](https://github.com/mariocandela/beelzebub) - Beelzebub is a honeypot framework designed to provide a secure environment for detecting and analyzing cyber attacks. It offers a low code approach for easy implementation and uses AI to mimic the behavior of a high-interaction honeypot.
 - **[Krawl](https://github.com/BlessedRebuS/Krawl)** [![GitHub Repo stars](https://img.shields.io/github/stars/BlessedRebuS/Krawl?logo=github&label=&style=social)](https://github.com/BlessedRebuS/Krawl) - Krawl is a modern, customizable web honeypot and deception server designed to detect and track malicious attackers, web crawlers, and automated scanners through fake web applications, deceptive pages, and realistic decoy content.
+- **[Xquik](https://github.com/Xquik-dev/x-twitter-scraper)** - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 #### Tool manifest/metadata validators
 
