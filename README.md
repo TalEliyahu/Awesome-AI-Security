@@ -190,6 +190,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 *Detect and stop prompt-injection (direct/indirect) across inputs, context, and outputs; filter hostile content before it reaches tools or models.*
 
 - **[Adrian](https://github.com/secureagentics/Adrian)** [![GitHub Repo stars](https://img.shields.io/github/stars/secureagentics/Adrian?logo=github&label=&style=social)](https://github.com/secureagentics/Adrian) - Open-source, AARM-aligned runtime detection/mitigation: analyzes agent tool calls and reasoning traces to catch prompt injection and out-of-remit behavior, with in-flight block mode. LangChain/LangGraph/OpenAI Agents SDK; self-hostable offline.
+- **[Sentinel Scan CLI](https://github.com/Ventrova/sentinel-scan-cli)** [![GitHub Repo stars](https://img.shields.io/github/stars/Ventrova/sentinel-scan-cli?logo=github&label=&style=social)](https://github.com/Ventrova/sentinel-scan-cli) - Free CLI that runs a 15-attack prompt-injection and jailbreak suite against your own LLM-backed endpoint in about a minute. No signup, no telemetry, no API key required (`--demo` mode is fully offline).
 
 ### Jailbreak & Policy Enforcement (Guardrails)
 *Enforce safety policies and block jailbreaks at runtime via rules/validators/DSLs, with optional human-in-the-loop for sensitive actions.*
