@@ -230,6 +230,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Tool manifest/metadata validators
 
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
+- **[SkillTotal](https://github.com/pezhik/skilltotal)** [![GitHub Repo stars](https://img.shields.io/github/stars/pezhik/skilltotal?logo=github&label=&style=social)](https://github.com/pezhik/skilltotal) - Static scanner for MCP servers, agent skills/plugins and npm/PyPI packages. Deterministic regex + AST; the component is not executed and no LLM is involved, so a scan runs offline and reproduces. Detects tool poisoning and shadowing, prompt-injection surfaces and exfiltration paths; each finding carries file/line evidence. JSON and SARIF 2.1.0 output, GitHub Action and pre-commit hook. Apache-2.0.
 
 #### Agent Identity & Trust
 
