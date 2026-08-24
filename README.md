@@ -272,6 +272,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[Promptmap](https://github.com/utkusen/promptmap)** [![GitHub Repo stars](https://img.shields.io/github/stars/utkusen/promptmap?logo=github&label=&style=social)](https://github.com/utkusen/promptmap)
 - **[API Relay Audit](https://github.com/toby-bridges/api-relay-audit)** [![GitHub Repo stars](https://img.shields.io/github/stars/toby-bridges/api-relay-audit?logo=github&label=&style=social)](https://github.com/toby-bridges/api-relay-audit) - Local 14-step audit for AI API relays and LLM proxies covering prompt injection, model substitution, tool-call rewriting, error leakage, SSE anomalies, and Web3 wallet-risk probes.
 - **[Giskard](https://github.com/Giskard-AI/giskard)** [![GitHub Repo stars](https://img.shields.io/github/stars/Giskard-AI/giskard?logo=github&label=&style=social)](https://github.com/Giskard-AI/giskard)
+- **[Sentinel Scan CLI](https://github.com/Ventrova/sentinel-scan-cli)** [![GitHub Repo stars](https://img.shields.io/github/stars/Ventrova/sentinel-scan-cli?logo=github&label=&style=social)](https://github.com/Ventrova/sentinel-scan-cli) — Free CLI, 15-attack prompt-injection and jailbreak suite against your own LLM endpoint, scored report with real findings.
 
 #### Data-leakage/secret-exfil test suites
 - **[garak](https://github.com/NVIDIA/garak)** [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/garak?logo=github&label=&style=social)](https://github.com/NVIDIA/garak)
