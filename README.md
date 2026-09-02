@@ -256,6 +256,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Gateways & Policy Proxies
 *Centralize auth, quotas/rate limits, cost caps, egress/DLP filters, and guardrail orchestration across all model/providers.*
 
+- **[Bifrost](https://github.com/maximhq/bifrost)** [![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?logo=github&label=&style=social)](https://github.com/maximhq/bifrost) - Open-source AI gateway with provider routing, automatic failover, load balancing, observability, and MCP support.
 - **[Cerbos](https://github.com/cerbos/cerbos)** [![GitHub Repo stars](https://img.shields.io/github/stars/cerbos/cerbos?logo=github&label=&style=social)](https://github.com/cerbos/cerbos) – open-source, policy-based authorization layer for fine-grained controls in MCP servers, RAG pipelines, and other agentic systems.
 
 ### Code Review
