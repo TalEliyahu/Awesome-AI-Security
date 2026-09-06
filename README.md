@@ -545,6 +545,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 
 ### Guided Tracks
 - [PortSwigger - Web Security Academy: Web LLM attacks](https://portswigger.net/web-security/llm-attacks) - Structured, guided track on LLM issues (prompt injection, insecure output handling, excessive agency) with walkthrough-style exercises.
+- [RansomLeak - AI Security Training](https://ransomleak.com/catalogue/ai-security/) - Guided browser-based track through the OWASP LLM, Agentic, and MCP Top 10 with an exploit-then-fix exercise per risk.
 
 ### CTFs & Challenges
 - [AI GOAT](https://github.com/dhammon/ai-goat) [![GitHub Repo stars](https://img.shields.io/github/stars/dhammon/ai-goat?logo=github&label=&style=social)](https://github.com/dhammon/ai-goat) - Vulnerable LLM CTF challenges for learning AI security.
