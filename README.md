@@ -325,6 +325,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 *Prevent secret/PII exfiltration in prompts/outputs via detection, redaction, and policy checks at I/O boundaries.*
 
 - **[Presidio](https://github.com/microsoft/presidio)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/presidio?logo=github&label=&style=social)](https://github.com/microsoft/presidio) - PII/PHI detection & redaction for text, images, and structured data; use as a pre/post-LLM DLP filter and for dataset sanitization.
+- **[PrivacyScrubber](https://github.com/moxno/privacyscrubber-mcp)** [![GitHub Repo stars](https://img.shields.io/github/stars/moxno/privacyscrubber-mcp?logo=github&label=&style=social)](https://github.com/moxno/privacyscrubber-mcp) - Zero-trust, 100% in-memory PII and secrets sanitizer for LLM prompts, MCP servers, and AI IDEs (Cursor, Claude Code, Windsurf) with sub-millisecond local processing and zero data egress.
 
 ### Monitoring, Logging & Anomaly Detection
 *Collect AI-specific security logs/signals; detect abuse patterns (PI/jailbreak/leakage), enrich alerts, and support forensics.*
