@@ -309,7 +309,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 ### Supply Chain: AI/ML BOM and Attestation
 *Generate and verify AI/ML BOMs, signatures, and provenance for models/datasets/dependencies; enforce allow/deny policies.*
 
-- *(none from your current list yet)*
+- **[agent-evidence-vectors](https://github.com/astrogilda/agent-evidence-vectors)** [![GitHub Repo stars](https://img.shields.io/github/stars/astrogilda/agent-evidence-vectors?logo=github&label=&style=social)](https://github.com/astrogilda/agent-evidence-vectors) - Conformance vectors and a reference verifier for agent execution evidence: 461 vectors across eight corpora at v0.10.1 over the in-toto adversarial-execution-evidence and ai-agent-action predicates and SCITT/COSE carriage, judged by one Go verifier that recomputes each outcome from the bytes an attestation carries. Apache-2.0; Zenodo DOI 10.5281/zenodo.22758687.
+- **[agent-evidence-admission](https://github.com/astrogilda/agent-evidence-admission)** [![GitHub Repo stars](https://img.shields.io/github/stars/astrogilda/agent-evidence-admission?logo=github&label=&style=social)](https://github.com/astrogilda/agent-evidence-admission) - Admission rails that allow or deny a Kubernetes workload on the agent execution evidence attached to its image: Rego, Kyverno (JMESPath and CEL), and sigstore policy-controller CUE, each declaring per obligation what it enforces, approximates, or cannot reach, measured against the same conformance corpus. Apache-2.0.
 
 ### Vector/Memory Store Security
 *Harden RAG memory: isolate namespaces, sanitize queries/content, detect poisoning/outliers, and prevent secret/PII retention.*
