@@ -190,6 +190,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 *Detect and stop prompt-injection (direct/indirect) across inputs, context, and outputs; filter hostile content before it reaches tools or models.*
 
 - **[Adrian](https://github.com/secureagentics/Adrian)** [![GitHub Repo stars](https://img.shields.io/github/stars/secureagentics/Adrian?logo=github&label=&style=social)](https://github.com/secureagentics/Adrian) - Open-source, AARM-aligned runtime detection/mitigation: analyzes agent tool calls and reasoning traces to catch prompt injection and out-of-remit behavior, with in-flight block mode. LangChain/LangGraph/OpenAI Agents SDK; self-hostable offline.
+- **[prompt-protection](https://github.com/mughalhere/prompt-protection)** [![GitHub Repo stars](https://img.shields.io/github/stars/mughalhere/prompt-protection?logo=github&label=&style=social)](https://github.com/mughalhere/prompt-protection) - Zero-dependency TypeScript runtime for JS agents that labels tool results as untrusted and blocks flows from them into network, email, exec, file-write and payment sinks, with spotlighting, canary leak detection, an Agent Threat Rules loader, and a published benchmark that includes its own false-positive rate.
 
 ### Jailbreak & Policy Enforcement (Guardrails)
 *Enforce safety policies and block jailbreaks at runtime via rules/validators/DSLs, with optional human-in-the-loop for sensitive actions.*
