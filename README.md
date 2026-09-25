@@ -229,6 +229,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 #### Tool manifest/metadata validators
 
+- **[MCP Drift Check](https://github.com/tomelias10/mcp-drift-check)** [![GitHub Repo stars](https://img.shields.io/github/stars/tomelias10/mcp-drift-check?logo=github&label=&style=social)](https://github.com/tomelias10/mcp-drift-check) - Zero-execution MCP configuration preflight and GitHub Action that flags mutable npm/npx package references before agents run them; emits Markdown and SARIF for CI without starting discovered MCP servers, downloading packages, requiring an API token, or uploading configuration data.
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
 
 #### Agent Identity & Trust
