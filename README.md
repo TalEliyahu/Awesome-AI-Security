@@ -230,6 +230,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Tool manifest/metadata validators
 
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
+- [Small Print](https://smallprint.dev) — Public record of the tool descriptions, schemas and skill instructions MCP servers give agents, kept per version, with each change diffed and graded.
 
 #### Agent Identity & Trust
 
