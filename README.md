@@ -75,6 +75,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - [NIST - Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf)
 - [AI Security Shared Responsibility Model](https://github.com/mikeprivette/ai-security-shared-responsibility) [![GitHub Repo stars](https://img.shields.io/github/stars/mikeprivette/ai-security-shared-responsibility?logo=github&label=&style=social)](https://github.com/mikeprivette/ai-security-shared-responsibility)
 - [Deployer AI Risk Register (DARR)](https://www.airiskdeployer.org) - Canonical AI risks for organizations that deploy AI systems, consolidated from the MIT AI Risk Repository and crosswalked to ISO/IEC 42001, the EU AI Act, and MITRE ATLAS. Open data (CC BY 4.0); [source on GitHub](https://github.com/Myr-Aya/darr-deployer-ai-risk-register).
+- [FAIAS — Financial AI Independent Assurance Standard](https://github.com/attahwonder/faias-standard) - Open review baseline for generative, agentic and predictive AI in financial institutions (109 review questions with non-production test procedures; CC BY 4.0).
 
 ### Controls & Verification Standards
 - [OWASP - LLM Security Verification Standard (LLMSVS)](https://github.com/OWASP/www-project-llm-verification-standard) [![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/www-project-llm-verification-standard?logo=github&label=&style=social)](https://github.com/OWASP/www-project-llm-verification-standard)
