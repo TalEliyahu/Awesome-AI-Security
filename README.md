@@ -257,6 +257,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 *Centralize auth, quotas/rate limits, cost caps, egress/DLP filters, and guardrail orchestration across all model/providers.*
 
 - **[Cerbos](https://github.com/cerbos/cerbos)** [![GitHub Repo stars](https://img.shields.io/github/stars/cerbos/cerbos?logo=github&label=&style=social)](https://github.com/cerbos/cerbos) – open-source, policy-based authorization layer for fine-grained controls in MCP servers, RAG pipelines, and other agentic systems.
+- **[Prismor](https://github.com/PrismorSec/prismor)** [![GitHub Repo stars](https://img.shields.io/github/stars/PrismorSec/prismor?logo=github&label=&style=social)](https://github.com/PrismorSec/prismor) – open-source runtime policy layer for AI agents; hooks into coding agents (Claude Code, Codex, Gemini CLI, Cursor) and agent frameworks to allow, block, or require approval for each tool call, plus an MCP gateway and an LLM proxy that apply the same policy.
 
 ### Code Review
 - **[Claude Code Security Reviewer](https://github.com/anthropics/claude-code-security-review)** [![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code-security-review?logo=github&label=&style=social)](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
