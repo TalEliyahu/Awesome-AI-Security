@@ -230,6 +230,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Tool manifest/metadata validators
 
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
+- **[mcpsum](https://github.com/niravpatidar37/mcpsum)** [![GitHub Repo stars](https://img.shields.io/github/stars/niravpatidar37/mcpsum?logo=github&label=&style=social)](https://github.com/niravpatidar37/mcpsum) — Stdio proxy serving MCP tool definitions from a reviewed lockfile; quarantines servers whose definitions change, checks calls against locked schemas, hash-chained audit log.
 
 #### Agent Identity & Trust
 
