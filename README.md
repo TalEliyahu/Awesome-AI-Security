@@ -707,6 +707,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - [AIAAIC Repository](https://www.aiaaic.org/aiaaic-repository/ai-algorithmic-and-automation-incidents)
 - [OECD.AI - AIM: AI Incidents and Hazards Monitor](https://oecd.ai/en/incidents)
 - [AVID - AI Vulnerability Database](https://avidml.org/) - Open, taxonomy-driven catalog of AI failure modes; Vulnerabilities, Reports map incidents to failure modes/lifecycle stages.
+- [AI Sec Watch](https://aisecwatch.com/) - Open vulnerability database for AI software; advisories for LLM SDKs, agent frameworks and MCP servers by version, with a versioned dataset (DOI).
 
 ### Publicly Disclosed Vulnerabilities
 Vulnerabilities disclosed in the last 12 months. Related attack patterns, campaigns, malware, and research items are listed separately below.
