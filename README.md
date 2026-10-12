@@ -229,6 +229,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 #### Tool manifest/metadata validators
 
+- [Ironheights — @Frank-Masciopinto](https://github.com/Frank-Masciopinto/ironheights) [![GitHub Repo stars](https://img.shields.io/github/stars/Frank-Masciopinto/ironheights?logo=github&label=&style=social)](https://github.com/Frank-Masciopinto/ironheights) — Pre-install static scanner for OpenClaw/ClawHub agent skills (SKILL.md); flags instruction override, hidden text, exfiltration and persistence, with integrity pinning.
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
 
 #### Agent Identity & Trust
