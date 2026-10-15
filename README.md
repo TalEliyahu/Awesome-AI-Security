@@ -186,6 +186,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 - **[OneCLI](https://github.com/onecli/onecli)** [![GitHub Repo stars](https://img.shields.io/github/stars/onecli/onecli?logo=github&label=&style=social)](https://github.com/onecli/onecli) – Open-source credential vault for AI agents. Rust HTTP gateway intercepts agent requests and injects API credentials transparently; AES-256-GCM encryption, per-agent scoped tokens, full audit trail.
 
+- **[Phantom Secrets](https://github.com/ashlrai/phantom-secrets)** [![GitHub Repo stars](https://img.shields.io/github/stars/ashlrai/phantom-secrets?logo=github&label=&style=social)](https://github.com/ashlrai/phantom-secrets) – Open-source local proxy and MCP server for coding agents (Claude Code, Cursor, Windsurf, Codex). Swaps real API keys for phm_ tokens so the agent can use the key without ever seeing it. MIT, Rust.
+
 ### Prompt-Injection Detection & Mitigation
 *Detect and stop prompt-injection (direct/indirect) across inputs, context, and outputs; filter hostile content before it reaches tools or models.*
 
