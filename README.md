@@ -304,7 +304,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[ultraprobe](https://github.com/ppcvote/ultralab/tree/master/ultraprobe)** [![GitHub Repo stars](https://img.shields.io/github/stars/ppcvote/ultralab?logo=github&label=&style=social)](https://github.com/ppcvote/ultralab) - Lighthouse-style CLI for AI agents: bundles prompt defense audit (17 vectors), PII detection, and SEO/AEO/AAO scanners into a single AVS Score. Pure deterministic, zero-config, MIT-licensed. Designed for CI gates and pre-deployment scoring.
 
 #### Scoring/leaderboards & evidence reports
-- *(none from your current list yet)*
+- **[Decision Models as Guardrails](https://github.com/raxITlabs/decision-models-as-guardrails)** [![GitHub Repo stars](https://img.shields.io/github/stars/raxITlabs/decision-models-as-guardrails?logo=github&label=&style=social)](https://github.com/raxITlabs/decision-models-as-guardrails) — Open benchmark scoring 18 decision models and Amazon Bedrock Guardrails on 9,975 labelled guardrail checks for balanced accuracy, false-block rate and cost per 1,000 checks.
 
 ### Supply Chain: AI/ML BOM and Attestation
 *Generate and verify AI/ML BOMs, signatures, and provenance for models/datasets/dependencies; enforce allow/deny policies.*
