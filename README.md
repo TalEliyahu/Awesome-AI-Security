@@ -190,6 +190,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 *Detect and stop prompt-injection (direct/indirect) across inputs, context, and outputs; filter hostile content before it reaches tools or models.*
 
 - **[Adrian](https://github.com/secureagentics/Adrian)** [![GitHub Repo stars](https://img.shields.io/github/stars/secureagentics/Adrian?logo=github&label=&style=social)](https://github.com/secureagentics/Adrian) - Open-source, AARM-aligned runtime detection/mitigation: analyzes agent tool calls and reasoning traces to catch prompt injection and out-of-remit behavior, with in-flight block mode. LangChain/LangGraph/OpenAI Agents SDK; self-hostable offline.
+- **[Decision Model Guard](https://github.com/patronus-protect/decision-model-guard)** [![GitHub Repo stars](https://img.shields.io/github/stars/patronus-protect/decision-model-guard?logo=github&label=&style=social)](https://github.com/patronus-protect/decision-model-guard) - Guardrails for decision models (classifiers, Jev-like models, LLM judges) and extraction models: model-agnostic erase-and-check so claims planted in untrusted content cannot steer the verdict, claim and prompt-injection scanners, long-content coverage, conformal abstention and a robustness audit. ONNX Runtime, no torch; MIT.
 
 ### Jailbreak & Policy Enforcement (Guardrails)
 *Enforce safety policies and block jailbreaks at runtime via rules/validators/DSLs, with optional human-in-the-loop for sensitive actions.*
