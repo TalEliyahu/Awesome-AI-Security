@@ -230,6 +230,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Tool manifest/metadata validators
 
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
+- **[MCPWatch](https://mcpwatch-zeta.vercel.app)** - Free site that scores and monitors the top 500 MCP servers from the official MCP Registry nightly (OSV advisories, maintenance, transparency, stability, adoption) and alerts on real changes such as a new domain, package, command or required secret. RSS feed and README badges.
 
 #### Agent Identity & Trust
 
