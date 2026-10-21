@@ -707,6 +707,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - [AIAAIC Repository](https://www.aiaaic.org/aiaaic-repository/ai-algorithmic-and-automation-incidents)
 - [OECD.AI - AIM: AI Incidents and Hazards Monitor](https://oecd.ai/en/incidents)
 - [AVID - AI Vulnerability Database](https://avidml.org/) - Open, taxonomy-driven catalog of AI failure modes; Vulnerabilities, Reports map incidents to failure modes/lifecycle stages.
+- [VibeVulns](https://vibevulns.com) — Free, open tracker of security advisories and malicious packages in AI coding tools, agent frameworks and MCP servers, with a plain-language check and fix for each.
 
 ### Publicly Disclosed Vulnerabilities
 Vulnerabilities disclosed in the last 12 months. Related attack patterns, campaigns, malware, and research items are listed separately below.
