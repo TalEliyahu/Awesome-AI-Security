@@ -233,6 +233,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 #### Agent Identity & Trust
 
+- [Speakeasy control plane](https://github.com/speakeasy-api/gram) [![GitHub Repo stars](https://img.shields.io/github/stars/speakeasy-api/gram?logo=github&label=&style=social)](https://github.com/speakeasy-api/gram) — MCP gateway enforcing identity-based agent tool access, per-action security policies, and audit logs.
+
 #### Servers & Dev tooling
 
 - **[PortSwigger - MCP Server](https://github.com/PortSwigger/mcp-server)** [![GitHub Repo stars](https://img.shields.io/github/stars/PortSwigger/mcp-server?logo=github&label=&style=social)](https://github.com/PortSwigger/mcp-server)
