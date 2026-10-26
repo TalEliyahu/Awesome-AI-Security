@@ -140,6 +140,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 - [Responsible Artificial Intelligence Institute - AI Policy Template](https://www.aigl.blog/content/files/2025/05/AI-POLICY-TEMPLATE.pdf)
 - [ISACA - AI Acceptable Use Policy Template](https://www.isaca.org/resources/artificial-intelligence-acceptable-use-policy-template)
+- [AI use policy builder](https://checkableai.com/ai-policy/) - Free browser tool that drafts an AI use policy from the AI tools you list. Its sections line up with the AI policy template in the National AI Centre's Guidance for AI Adoption. By Checkable AI (disclosure: our tool).
 
 ### Toolkits & Self-Assessments  
 *Practical workbooks and self-assessments to baseline AI risk, evaluate third parties, and plan improvements.*
@@ -152,6 +153,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 #### Vendor & Third-Party Risk
 - **[FS-ISAC - GenAI Vendor Evaluation & Qualitative Risk Assessment](https://www.fsisac.com/)** - due-diligence toolkit with risk tiering, questionnaires, and auto-generated reports. ([Toolkit](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessmentTool.xlsx) • [Guide](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessment.pdf))
+- **[AI Stack Check](https://checkableai.com/stack-check/)** - free browser tool showing what 116 AI platforms publicly document against 46 AI security controls, each finding quoted from the vendor's page with the date checked. By Checkable AI (disclosure: our tool).
 
 #### Privacy & Data Protection
 - **[UK ICO - AI & Data Protection Risk Toolkit](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/ai-and-data-protection-risk-toolkit/)** - Excel workbook to assess risks to individuals’ rights/freedoms from your AI system. ([Toolkit - XLSX](https://ico.org.uk/media2/kr3mveig/ai_and_data_protection_risk_toolkit_v11.xlsx))
@@ -164,6 +166,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[Canada - Algorithmic Impact Assessment (AIA)](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)** - mandatory questionnaire for Canadian federal use of automated decision systems; determines impact level and mitigations.  
 - **[Singapore - AI Verify](https://www.imda.gov.sg/about-imda/emerging-technologies-and-research/artificial-intelligence)** - governance testing framework + software toolkit for self-assessment and reporting. ([Repo](https://github.com/aiverify-foundation/aiverify))
 - **[OECD - AI System Classification Framework](https://oecd.ai/en/classification)** - tool to characterise systems across policy-relevant dimensions to surface risks and controls. ([Guide - PDF](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/02/oecd-framework-for-the-classification-of-ai-systems_336a8b57/cb6d9eca-en.pdf))
+- **[AU Frameworks Check](https://checkableai.com/readiness-check/)** - free questionnaire of about 15 to 20 questions on which Australian AI and data rules (including the Privacy Act and APRA CPS 234) may apply to an organisation, with a readiness score and a 180-day plan. By Checkable AI (disclosure: our tool).
 
 #### Control Catalogues & Mappings (use for gap-assessments)
 - **[CSA - AI Controls Matrix (AICM)](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix)** - 243 control objectives across 18 domains, mapped to ISO/IEC 42001, NIST AI RMF, etc.
