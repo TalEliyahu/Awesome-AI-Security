@@ -333,6 +333,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 - **[Alibi Detect](https://github.com/SeldonIO/alibi-detect)** [![GitHub Repo stars](https://img.shields.io/github/stars/SeldonIO/alibi-detect?logo=github&label=&style=social)](https://github.com/SeldonIO/alibi-detect) - Production drift/outlier/adversarial detection for tabular, text, images, and time series; online/offline detectors with TF/PyTorch backends; returns scores, thresholds, and flags for alerting.
 
+- **[Agentmetry](https://github.com/blitzcrieg1/agentmetry)** [![GitHub Repo stars](https://img.shields.io/github/stars/blitzcrieg1/agentmetry?logo=github&label=&style=social)](https://github.com/blitzcrieg1/agentmetry) - Records AI coding agent tool calls into a local hash-chained log, runs MITRE ATT&CK-tagged sequence detections, and forwards to Splunk, Elastic or Google SecOps.
+
 ---
 
 ## [↑](#table-of-contents)Attack & Defense Matrices <a name="attack--defense-matrices"></a>
