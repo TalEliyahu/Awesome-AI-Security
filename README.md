@@ -272,6 +272,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[Promptmap](https://github.com/utkusen/promptmap)** [![GitHub Repo stars](https://img.shields.io/github/stars/utkusen/promptmap?logo=github&label=&style=social)](https://github.com/utkusen/promptmap)
 - **[API Relay Audit](https://github.com/toby-bridges/api-relay-audit)** [![GitHub Repo stars](https://img.shields.io/github/stars/toby-bridges/api-relay-audit?logo=github&label=&style=social)](https://github.com/toby-bridges/api-relay-audit) - Local 14-step audit for AI API relays and LLM proxies covering prompt injection, model substitution, tool-call rewriting, error leakage, SSE anomalies, and Web3 wallet-risk probes.
 - **[Giskard](https://github.com/Giskard-AI/giskard)** [![GitHub Repo stars](https://img.shields.io/github/stars/Giskard-AI/giskard?logo=github&label=&style=social)](https://github.com/Giskard-AI/giskard)
+- **[prompt-injection-test-payloads](https://github.com/elaysuu/prompt-injection-test-payloads)** [![GitHub Repo stars](https://img.shields.io/github/stars/elaysuu/prompt-injection-test-payloads?logo=github&label=&style=social)](https://github.com/elaysuu/prompt-injection-test-payloads) - 20 canary-graded prompt-injection test cases (direct, indirect via web/email/RAG, tool hijack, exfiltration) with a minimal harness.
 
 #### Data-leakage/secret-exfil test suites
 - **[garak](https://github.com/NVIDIA/garak)** [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/garak?logo=github&label=&style=social)](https://github.com/NVIDIA/garak)
