@@ -325,6 +325,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 *Prevent secret/PII exfiltration in prompts/outputs via detection, redaction, and policy checks at I/O boundaries.*
 
 - **[Presidio](https://github.com/microsoft/presidio)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/presidio?logo=github&label=&style=social)](https://github.com/microsoft/presidio) - PII/PHI detection & redaction for text, images, and structured data; use as a pre/post-LLM DLP filter and for dataset sanitization.
+- [Redaxa](https://redaxa.getcertsprint.com/) — Flags potential personal data and secrets in prompts and provides a redacted copy for review; free web checks are limited.
 
 ### Monitoring, Logging & Anomaly Detection
 *Collect AI-specific security logs/signals; detect abuse patterns (PI/jailbreak/leakage), enrich alerts, and support forensics.*
