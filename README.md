@@ -326,6 +326,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 - **[Presidio](https://github.com/microsoft/presidio)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/presidio?logo=github&label=&style=social)](https://github.com/microsoft/presidio) - PII/PHI detection & redaction for text, images, and structured data; use as a pre/post-LLM DLP filter and for dataset sanitization.
 
+- **[Nonimo](https://nonimo.ai/)** - Desktop app for Mac and Windows that pseudonymises names, emails, IBANs and other personal data locally before a prompt reaches ChatGPT, Claude or Copilot, then restores the real values in the reply; Word, Excel and PDF redaction before upload. Commercial, free beta until 31 December 2026.
+
 ### Monitoring, Logging & Anomaly Detection
 *Collect AI-specific security logs/signals; detect abuse patterns (PI/jailbreak/leakage), enrich alerts, and support forensics.*
 
