@@ -230,6 +230,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Tool manifest/metadata validators
 
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
+- [HOL Guard](https://hol.org/guard) — Apache-2.0 local-first protection for supported AI agent and coding-tool actions, including shell commands, package installs, skill changes, and MCP tools, with policy-based approvals and recorded decisions.
 
 #### Agent Identity & Trust
 
