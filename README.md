@@ -230,6 +230,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Tool manifest/metadata validators
 
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
+- **[agent-bom](https://github.com/koda-ai-studio/agent-bom)** [![GitHub Repo stars](https://img.shields.io/github/stars/koda-ai-studio/agent-bom?logo=github&label=&style=social)](https://github.com/koda-ai-studio/agent-bom) — Scans MCP client configs and tool descriptions for poisoning and risky launchers, and maps vulnerable packages to the agents that can reach them.
 
 #### Agent Identity & Trust
 
