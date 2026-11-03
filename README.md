@@ -126,6 +126,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - [OWASP - State of Agentic AI Security and Governance](https://genai.owasp.org/resource/state-of-agentic-ai-security-and-governance-1-0/)
 - [CSA - Secure Agentic System Design: A Trait-Based Approach](https://cloudsecurityalliance.org/artifacts/secure-agentic-system-design)
 - [CSA - Agentic AI Identity & Access Management](https://cloudsecurityalliance.org/artifacts/agentic-ai-identity-and-access-management-a-new-approach) - 08/25
+- [Alyria - Agentic SDLC Kit](https://github.com/alyriaai/agentic-sdlc-kit) [![GitHub Repo stars](https://img.shields.io/github/stars/alyriaai/agentic-sdlc-kit?logo=github&label=&style=social)](https://github.com/alyriaai/agentic-sdlc-kit) - 14 reference agents for the software lifecycle, each scoped by a guardrail and gate, with 8 sample Rego policies for coding agent tool calls.
 
 ### Threat Modeling
 
