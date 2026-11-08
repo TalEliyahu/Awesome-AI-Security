@@ -707,6 +707,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - [AIAAIC Repository](https://www.aiaaic.org/aiaaic-repository/ai-algorithmic-and-automation-incidents)
 - [OECD.AI - AIM: AI Incidents and Hazards Monitor](https://oecd.ai/en/incidents)
 - [AVID - AI Vulnerability Database](https://avidml.org/) - Open, taxonomy-driven catalog of AI failure modes; Vulnerabilities, Reports map incidents to failure modes/lifecycle stages.
+- [Prompt Injection Threat Index](https://promptinjections.de/threat-index/) - Monthly index of prompt injection incidents, CVEs and research, each item checked against its primary source (German, open data under CC BY 4.0).
 
 ### Publicly Disclosed Vulnerabilities
 Vulnerabilities disclosed in the last 12 months. Related attack patterns, campaigns, malware, and research items are listed separately below.
