@@ -230,6 +230,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Tool manifest/metadata validators
 
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
+- **[Centurion Cloud Security](https://cloud.trycenturion.com/)** - GitHub App that checks every pull request for leaked secrets, risky GitHub Actions workflows, vulnerable dependencies and AI agent configuration problems (hidden Unicode, credentials in MCP configs, agents running on untrusted triggers).
 
 #### Agent Identity & Trust
 
