@@ -787,6 +787,7 @@ Backdoors, implants, or malicious programs used to execute or support attacks.
 
 ### Research Feed
 
+- [Agent Security Index](https://agentsecurityindex.com/) - Vendor-neutral directory of 102 AI agent security tools across guardrails, MCP gateways, runtime security, red teaming, agent identity and audit, checked against vendor sources.
 - [AI Security Research Feed](https://research.pwnedby.me/?category=cs.AI&tag=ai) - Continuously updated feed of AI security-related academic papers, preprints, and research indexed from arXiv.
 - [AI Security Portal - Literature Database](https://aisecurity-portal.org/en/section/literature-database/) - Categorized database of AI security literature, taxonomy, and related resources.
 
