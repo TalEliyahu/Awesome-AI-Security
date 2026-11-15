@@ -230,6 +230,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Tool manifest/metadata validators
 
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
+- **[hexbane](https://github.com/juw12/hexbane)** [![GitHub Repo stars](https://img.shields.io/github/stars/juw12/hexbane?logo=github&label=&style=social)](https://github.com/juw12/hexbane) - Offline scanner for agent skills, MCP configs and tool lists: finds hidden instructions, tool poisoning and risky MCP settings, and locks tool definitions against rug pulls.
 
 #### Agent Identity & Trust
 
