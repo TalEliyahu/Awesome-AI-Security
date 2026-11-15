@@ -974,3 +974,4 @@ This repository follows the **[Awesome Manifesto](https://github.com/sindresorhu
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 © 2025 Tal Eliyahu. Licensed under the **MIT License**. See [`LICENSE`](LICENSE).
+- [CleanSlate](https://github.com/devshield-tech/botox-android) - Remotely wipe your Android device if it is lost or stolen.
