@@ -221,6 +221,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 ### Agent Tooling and MCP Security
 *Scan/audit MCP servers & client configs; detect tool poisoning, unsafe flows; constrain tool access with least-privilege and audit trails.*
+- **PAARA Connector Audit Kit** - Documentation-layer audit for MCP connectors: codes vendor documentation on 7 risk factors (data reach, credentials, logging, injection exposure, write actions) and scores a Critical-Low band before deployment. Python scanner, 13-connector open dataset, DPIA template. [GitHub](https://github.com/vkktask/paara-connector-audit-kit)
 
 #### Honeypots & Deception (MCP/LLM)
 
