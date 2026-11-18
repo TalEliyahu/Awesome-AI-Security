@@ -550,6 +550,7 @@ Adversarial prompt datasets-both text-only and multimodal-designed to bypass saf
 - [AI GOAT](https://github.com/dhammon/ai-goat) [![GitHub Repo stars](https://img.shields.io/github/stars/dhammon/ai-goat?logo=github&label=&style=social)](https://github.com/dhammon/ai-goat) - Vulnerable LLM CTF challenges for learning AI security.
 - [Damn Vulnerable LLM Agent](https://github.com/ReversecLabs/damn-vulnerable-llm-agent) [![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/damn-vulnerable-llm-agent?logo=github&label=&style=social)](https://github.com/ReversecLabs/damn-vulnerable-llm-agent)
 - [AI Red Teaming Playground Labs - Microsoft](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/AI-Red-Teaming-Playground-Labs?logo=github&label=&style=social)](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - Self-hostable environment with 12 challenges (direct/indirect prompt injection, metaprompt extraction, Crescendo multi-turn, guardrail bypass).
+- [Memory Poison Lab](https://github.com/RishabhPande/memory-poison-lab) - Synthetic Python exercises for agent-memory poisoning, provenance-aware defenses and conflict-scoped repair with a scripted agent.
 
 ### Bespoke
 - [Trail of Bits - AI/ML Security & Safety Training](https://www.trailofbits.com/services/software-assurance/ai-ml/) - Courses on AI failure modes, adversarial attacks, data provenance, pipeline threats, and mitigation.
