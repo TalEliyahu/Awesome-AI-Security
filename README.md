@@ -230,6 +230,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Tool manifest/metadata validators
 
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
+- **[mcp-agent-security-auditor](https://github.com/jashory/mcp-agent-security-auditor)** [![GitHub Repo stars](https://img.shields.io/github/stars/jashory/mcp-agent-security-auditor?logo=github&label=&style=social)](https://github.com/jashory/mcp-agent-security-auditor) - Zero-dependency Python static AST and CWE-mapped pre-audit scanner (CLI & GitHub Action) for MCP servers, coding-agent hooks, and Firebase rules (MIT).
 
 #### Agent Identity & Trust
 
