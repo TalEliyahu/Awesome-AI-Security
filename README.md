@@ -140,6 +140,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 - [Responsible Artificial Intelligence Institute - AI Policy Template](https://www.aigl.blog/content/files/2025/05/AI-POLICY-TEMPLATE.pdf)
 - [ISACA - AI Acceptable Use Policy Template](https://www.isaca.org/resources/artificial-intelligence-acceptable-use-policy-template)
+- [NosisTech - AI Governance Templates](https://github.com/nosistech/governance-templates) — AI acceptable-use policy, AI tool register, AI vendor questionnaire and AI incident response playbook, in Word and Excel, each with a generic version and three industry versions (CC BY 4.0).
 
 ### Toolkits & Self-Assessments  
 *Practical workbooks and self-assessments to baseline AI risk, evaluate third parties, and plan improvements.*
