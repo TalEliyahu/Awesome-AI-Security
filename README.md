@@ -200,6 +200,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[LlamaFirewall](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
 - **[Code Shield](https://github.com/meta-llama/PurpleLlama/tree/main/CodeShield)** [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?logo=github&label=&style=social)](https://github.com/meta-llama/PurpleLlama)
 - **[Guardrails](https://github.com/guardrails-ai/guardrails)** [![GitHub Repo stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?logo=github&label=&style=social)](https://github.com/guardrails-ai/guardrails) - Runtime policy enforcement for LLM apps: compose input/output validators (PII, toxicity, jailbreak/PI, regex, competitor checks), then block/redact/rewrite/retry on fail; optional server mode; also supports structured outputs (Pydantic/function-calling).
+- **[ai-tool-guard](https://github.com/dortort/ai-tool-guard)** [![GitHub Repo stars](https://img.shields.io/github/stars/dortort/ai-tool-guard?logo=github&label=&style=social)](https://github.com/dortort/ai-tool-guard) — Policy enforcement middleware for Vercel AI SDK tool calls with rule/OPA/Cedar policies, approvals, argument guards, output redaction, and MCP drift detection.
 
 ### Model Artifact Scanners
 *Analyze serialized model files for unsafe deserialization and embedded code; verify integrity/metadata and block or quarantine on fail.*
@@ -230,6 +231,7 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 #### Tool manifest/metadata validators
 
 - **[mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)** [![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan?logo=github&label=&style=social)](https://github.com/invariantlabs-ai/mcp-scan)
+- **[agent-bound](https://github.com/dortort/agent-bound)** [![GitHub Repo stars](https://img.shields.io/github/stars/dortort/agent-bound?logo=github&label=&style=social)](https://github.com/dortort/agent-bound) — Access control framework for MCP servers with Android-style declarative permission manifests, static manifest generation, and runtime enforcement.
 
 #### Agent Identity & Trust
 
