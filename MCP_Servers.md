@@ -26,6 +26,7 @@
 ## Threat Intel & Attack Surface
 
 - [CVE Intelligence Server](https://github.com/gnlds/mcp-cve-intelligence-server-lite) [![](https://img.shields.io/github/stars/gnlds/mcp-cve-intelligence-server-lite?label=)](https://github.com/gnlds/mcp-cve-intelligence-server-lite)
+- [cvENGINE](https://github.com/hevnsnt/CVEngine) [![](https://img.shields.io/github/stars/hevnsnt/CVEngine?label=)](https://github.com/hevnsnt/CVEngine)
 - [Domain Tools](https://github.com/deshabhishek007/domain-tools-mcp-server) [![](https://img.shields.io/github/stars/deshabhishek007/domain-tools-mcp-server?label=)](https://github.com/deshabhishek007/domain-tools-mcp-server)
 - [MalwareBazaar_MCP](https://github.com/mytechnotalent/MalwareBazaar_MCP) [![](https://img.shields.io/github/stars/mytechnotalent/MalwareBazaar_MCP?label=)](https://github.com/mytechnotalent/MalwareBazaar_MCP)
 - [OpenCTI](https://github.com/Spathodea-Network/opencti-mcp) [![](https://img.shields.io/github/stars/Spathodea-Network/opencti-mcp?label=)](https://github.com/Spathodea-Network/opencti-mcp)
