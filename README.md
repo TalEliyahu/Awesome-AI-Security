@@ -246,6 +246,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 
 - **[microsandbox](https://github.com/microsandbox/microsandbox)** [![GitHub Repo stars](https://img.shields.io/github/stars/microsandbox/microsandbox?logo=github&label=&style=social)](https://github.com/e2b-dev/E2B) - self-hosted microVM (libkrun) sandbox for untrusted AI/user code.
 
+- **[Sandscale](https://sandscale.dev/)** ([Docs](https://sandscale.dev/docs) • [Security](https://sandscale.dev/security)) - Hosted Firecracker microVM sandboxes for AI coding agents, one per run, with policy controls, human approvals, DLP, a secrets vault and an audit log; driven over a REST API, SDK, CLI or remote MCP server.
+
 ### Confidential & Verifiable Inference (PCC/TEEs)
 *Run AI models inside attested TEEs with end-to-end encryption, auditability, and unlinkable requests so prompts and outputs never leave the secure boundary.*
 
