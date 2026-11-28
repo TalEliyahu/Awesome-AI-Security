@@ -893,6 +893,7 @@ Backdoors, implants, or malicious programs used to execute or support attacks.
 - [Awesome LRMs Safety - WangCheng0116](https://github.com/WangCheng0116/Awesome-LRMs-Safety) [![GitHub Repo stars](https://img.shields.io/github/stars/WangCheng0116/Awesome-LRMs-Safety?logo=github&label=&style=social)](https://github.com/WangCheng0116/Awesome-LRMs-Safety)
 - [Awesome LLM Safety - ydyjya](https://github.com/ydyjya/Awesome-LLM-Safety) [![GitHub Repo stars](https://img.shields.io/github/stars/ydyjya/Awesome-LLM-Safety?logo=github&label=&style=social)](https://github.com/ydyjya/Awesome-LLM-Safety)
 - [Awesome MCP Security - Puliczek](https://github.com/Puliczek/awesome-mcp-security) [![GitHub Repo stars](https://img.shields.io/github/stars/Puliczek/awesome-mcp-security?logo=github&label=&style=social)](https://github.com/Puliczek/awesome-mcp-security)
+- [Awesome Security Agent Harnesses - Ed-Marcavage](https://github.com/Ed-Marcavage/awesome-security-agent-harnesses) [![GitHub Repo stars](https://img.shields.io/github/stars/Ed-Marcavage/awesome-security-agent-harnesses?logo=github&label=&style=social)](https://github.com/Ed-Marcavage/awesome-security-agent-harnesses)
 
 ---
 
