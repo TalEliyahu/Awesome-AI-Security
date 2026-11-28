@@ -220,6 +220,8 @@ Curated resources, research, and tools for securing AI systems. Managed by [AISe
 - **[LLM4Decompile](https://github.com/albertan017/LLM4Decompile)** [![GitHub Repo stars](https://img.shields.io/github/stars/albertan017/LLM4Decompile?logo=github&label=&style=social)](https://github.com/albertan017/LLM4Decompile)  Its current version supports decompiling Linux x86_64 binaries, ranging from GCC's O0 to O3 optimization levels, into human-readable C source code. Our team is committed to expanding this tool's capabilities, with ongoing efforts to incorporate a broader range of architectures and configurations. ([blog](https://www.joshuamckiddy.com/blog/using-llms-for-reverse-engineering-and-malware-analysis), [arxiv](https://arxiv.org/html/2403.05286v2)).
 
 ### Agent Tooling and MCP Security
+
+- [Insomnia Security MCP (CQR Cybersecurity LLC)](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp) - 159 native cybersecurity, multi-language SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, 21,100+ 1-Day CVE verification, 29-protocol enumeration & Outbound Internal Network Tunnel v4.0 MCP tools (`https://mcp.insom.ai/mcp`, 50 free credits).
 *Scan/audit MCP servers & client configs; detect tool poisoning, unsafe flows; constrain tool access with least-privilege and audit trails.*
 
 #### Honeypots & Deception (MCP/LLM)
